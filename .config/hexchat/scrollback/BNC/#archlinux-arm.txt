@@ -1,0 +1,507 @@
+T 1394463040 24*	bitmasher has quit (Ping timeout: 265 seconds)
+T 1394463059 24*	irc-5225225 has quit (Ping timeout: 265 seconds)
+T 1394463070 23*	bitmasher (bit@miyu.godless-internets.org23) has joined
+T 1394463076 23*	ring0 (ring0@gateway/shell/panicbnc/x-eizgafeizujwhyrm23) has joined
+T 1394463088 23*	neurocyte (neurocyte@marvin.vdbonline.net23) has joined
+T 1394463160 24*	28telex_ is now known as 18telex
+T 1394463240 18<hicl18>	thanks to archetech & phrik for the professional help … have a nice day
+T 1394463249 24*	hicl has quit (Quit: Leaving.)
+T 1394465343 24*	traverseda has quit (Ping timeout: 244 seconds)
+T 1394465413 23*	traverseda (~alex@142.68.88.6023) has joined
+T 1394465523 24*	fwilson has quit (Remote host closed the connection)
+T 1394465547 23*	AivarasK (~aivaras@217.39.7.25223) has joined
+T 1394465641 24*	AivarasK has quit (Remote host closed the connection)
+T 1394465895 24*	captainralf has quit (Read error: Operation timed out)
+T 1394465968 24*	Ilariel has quit (Quit: ChatZilla 0.9.90.1 [Pale Moon 24.3.2/20140208150555])
+T 1394466120 23*	kuldeepdhaka (~kuldeepdh@unaffiliated/kuldeepdhaka23) has joined
+T 1394466143 23*	captainralf (~captainra@g227132045.adsl.alicedsl.de23) has joined
+T 1394466320 24*	JohnDory has quit (Ping timeout: 265 seconds)
+T 1394466457 24*	captainralf has quit (Remote host closed the connection)
+T 1394466597 24*	egon_ffj has quit (Remote host closed the connection)
+T 1394466607 23*	egon_ffj (~egon_ffj@2a01:4f8:191:90b3:9009::1723) has joined
+T 1394466858 24*	cyx^ has quit (Ping timeout: 240 seconds)
+T 1394467132 24*	traverseda has quit (Ping timeout: 265 seconds)
+T 1394467204 23*	traverseda (~alex@142.68.88.6023) has joined
+T 1394467270 24*	AndrevS has quit (Quit: Leaving)
+T 1394467317 23*	ajs124 (~andy@dslb-094-218-208-207.pools.arcor-ip.net23) has joined
+T 1394467507 24*	Aartsie has quit ()
+T 1394468033 24*	hussein has quit (Quit: Leaving)
+T 1394468075 23*	GeoffCh (~geoff@67-0-206-239.albq.qwest.net23) has joined
+T 1394468128 23*	tom94 (~tom@152.78.171.1023) has joined
+T 1394468467 23*	hussein (~hussein@203.106.150.21023) has joined
+T 1394469024 24*	untitaker has quit (Read error: Operation timed out)
+T 1394469360 24*	bluemeanie has quit (Ping timeout: 240 seconds)
+T 1394469775 23*	devgiant_ (~devgiant@unaffiliated/devgiant23) has joined
+T 1394469936 23*	tdy (~tim@unaffiliated/tdy23) has joined
+T 1394470032 24*	devgiant has quit (Ping timeout: 265 seconds)
+T 1394470139 24*	dstuxo has quit (Ping timeout: 240 seconds)
+T 1394470339 23*	JohnDory (~john@180.183.105.3723) has joined
+T 1394470522 23*	Mikelevel (~MoVeWoRk@unaffiliated/mikelevel23) has joined
+T 1394470526 23*	q5sys (~q5sys@dynamic-acs-24-101-123-45.zoominternet.net23) has joined
+T 1394470685 23*	slo_ (051ca42f@gateway/web/freenode/ip.5.28.164.4723) has joined
+T 1394470697 18<slo_18>	hello
+T 1394470717 23*	irc-5225225 (~irc-52252@46.33.129.1023) has joined
+T 1394470734 18<slo_18>	i'm using pptpd to connect via vpn to my alarm device
+T 1394470752 18<slo_18>	and transfering files with samba is so slow that way
+T 1394470759 18<slo_18>	even though the internet connection is high
+T 1394470763 18<slo_18>	why's that?
+T 1394470804 24*	28stryx`_ is now known as 18stryx`
+T 1394470984 18<sirderpalot18>	slo_: perhaps encryption ¿
+T 1394471190 24*	slo_ has quit (Quit: Page closed)
+T 1394471197 18<sirderpalot18>	derp.
+T 1394471296 24*	28r00tine_ is now known as 18r00tine_afk
+T 1394471324 24*	kaipee has quit (Quit: Leaving)
+T 1394471325 23*	sco` (~ross@unaffiliated/sco/x-342504623) has joined
+T 1394471387 24*	leming has quit (Ping timeout: 252 seconds)
+T 1394471418 23*	leming (kevin@miheli.ch23) has joined
+T 1394471418 22*	26ChanServ gives channel operator status to 18leming
+T 1394471445 23*	F1skr (~F1skr@x1-6-00-18-4d-07-aa-11.cpe.webspeed.dk23) has joined
+T 1394471624 24*	28devgiant_ is now known as 18devgiant
+T 1394471658 24*	JohnDory has quit (Quit: Lost terminal)
+T 1394471821 23*	JohnDory (~john@180.183.46.3323) has joined
+T 1394472237 23*	poisond (~poison@HSI-KBW-109-192-061-097.hsi6.kabel-badenwuerttemberg.de23) has joined
+T 1394472265 23*	untitaker (~untitaker@188-22-32-137.adsl.highway.telekom.at23) has joined
+T 1394472584 23*	bluemeanie (~tbm@67.41.198.24223) has joined
+T 1394472712 24*	bluemeanie has quit (Read error: Connection reset by peer)
+T 1394472716 23*	bluemeanie_ (~tbm@67.41.198.24223) has joined
+T 1394472721 24*	mrdavid has quit (Ping timeout: 244 seconds)
+T 1394473104 24*	hussein has quit (Quit: Leaving)
+T 1394473684 24*	CruX__ has quit (Quit: Leaving.)
+T 1394473698 24*	sszy has quit (Ping timeout: 240 seconds)
+T 1394474003 18<WarheadsSE18>	archetech: you watch, he will screw up his mirrorlist using reflector.
+T 1394475213 24*	Mounicq has quit (Quit: Mounicq)
+T 1394475351 18<DagoRed18>	.anews
+T 1394475358 18<DagoRed18>	.archnews
+T 1394475380 18<DagoRed18>	hmm..
+T 1394475464 23*	makepi (~makepi@207-172-228-106.c3-0.atw-ubr5.atw.pa.cable.rcn.com23) has joined
+T 1394475504 18<dz0ny_18>	.archnews
+T 1394475506 18<makepi18>	dz0ny_: Linux 3.13 WARNING: PS/2 keyboard support is now modular Posted: Fri, 21 Feb 2014 09:30:24 +0000 - http://goo.gl/yskhL9
+T 1394475508 18<phrik18>	Title: Arch Linux - News: Linux 3.13 WARNING: PS/2 keyboard support is now modular (at goo.gl)
+T 1394475575 18<k-man18>	when i try and bring my wlan1 link up, with information.
+T 1394475576 24*	diffycat has quit (Quit: diffycat)
+T 1394475622 18<k-man18>	sorry, bad paste - when i bring it up with ip link set dev wlan1 up   i get an error: 108498.580000] IPv6: ADDRCONF(NETDEV_UP): wlan1: link is not ready
+T 1394476007 24*	spY|da has quit (Ping timeout: 265 seconds)
+T 1394476200 23*	November (~x@p4.eregie.pub.ro23) has joined
+T 1394477235 24*	poisond has quit (Quit: leaving)
+T 1394477402 23*	devgiant_ (~devgiant@unaffiliated/devgiant23) has joined
+T 1394477602 24*	devgiant has quit (Ping timeout: 265 seconds)
+T 1394477696 24*	November has quit ()
+T 1394477762 23*	spinningcompass (~spinningc@173.192.176.155-static.reverse.softlayer.com23) has joined
+T 1394478244 24*	speechless has quit (Read error: Connection reset by peer)
+T 1394478420 24*	28r00tine_afk is now known as 18r00tine
+T 1394478670 23*	Maxz (~felipe@pc-100-145-239-201.cm.vtr.net23) has joined
+T 1394478909 23*	cippaciong (~ciong@host139-61-dynamic.180-80-r.retail.telecomitalia.it23) has joined
+T 1394479085 18<archetech18>	WarheadsSE,   ya its hard to move a # sign around a text file
+T 1394479167 24*	JohnDory has quit (Read error: Connection reset by peer)
+T 1394479186 18<WarheadsSE18>	yup
+T 1394479258 23*	JohnDory (~john@180.183.105.3723) has joined
+T 1394479399 24*	JohnDory has quit (Read error: Connection reset by peer)
+T 1394479634 23*	JohnDory (~john@180.183.105.3723) has joined
+T 1394479697 23*	mrdavid (~asdf@droplet.dcolon.net23) has joined
+T 1394480013 23*	FreezingCold (~FreezingC@135.0.41.1423) has joined
+T 1394480932 23*	toketin (~marco@2-234-57-20.ip221.fastwebnet.it23) has joined
+T 1394481070 24*	alfplayer has quit (Ping timeout: 264 seconds)
+T 1394481185 18<toketin18>	WarheadsSE: Hi, i've read your reply to my post about XBMC
+T 1394481216 18<toketin18>	the problem is that if i choose to install mesa-libgl it tells me that there are some file's conflicts
+T 1394481253 18<WarheadsSE18>	Okay, and those are. ..?
+T 1394481478 23*	vladstya (~vladstya@195.39.252.2423) has joined
+T 1394481578 18<toketin18>	check this http://dpaste.com/1712032/
+T 1394481580 18<phrik18>	Title: dpaste: #1712032 (at dpaste.com)
+T 1394481614 18<WarheadsSE18>	toketin: pacman -Qo  if i choose to install mesa-libgl it  │ dryliketoast
+T 1394481620 18<WarheadsSE18>	                         | tells me that there are some file's conflicts
+T 1394481622 18<WarheadsSE18>	oops
+T 1394481635 18<WarheadsSE18>	pacman -Qo /usr/lib/libEGL.so
+T 1394481840 24*	Namarrgon has quit (Read error: Operation timed out)
+T 1394482253 23*	JohnDory_ (~john@180.183.105.3723) has joined
+T 1394482298 24*	JohnDory_ (~john@180.183.105.3724) has left
+T 1394482392 24*	JohnDory has quit (Ping timeout: 240 seconds)
+T 1394482527 18<WarheadsSE18>	toketin:
+T 1394482574 23*	winevirus (~winevirus@24-117-10-250.cpe.cableone.net23) has joined
+T 1394482704 23*	JohnDory (~john@180.183.105.3723) has joined
+T 1394482749 23*	Namarrgon (~glei@212.255.117.21423) has joined
+T 1394483215 24*	vladstya has quit (Remote host closed the connection)
+T 1394483357 24*	Maxz has quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+T 1394484197 23*	silv3rwind (uid14256@gateway/web/irccloud.com/x-phfxzpcrnbxnhrgr23) has joined
+T 1394484330 24*	JohnDory has quit (Read error: Connection reset by peer)
+T 1394484457 18<toketin18>	WarheadsSE: i was eating, now i try
+T 1394484463 18<WarheadsSE18>	K
+T 1394484479 24*	kuldeepdhaka has quit (Ping timeout: 240 seconds)
+T 1394484510 18<toketin18>	WarheadsSE: here, /usr/lib/libEGL.so is owned by sunxi-mali-fb-git 26.9971394-1
+T 1394484573 18<WarheadsSE18>	Ah
+T 1394484579 18<WarheadsSE18>	then that is missing some bits
+T 1394484587 18<WarheadsSE18>	where is that from, btw
+T 1394484591 18<WarheadsSE18>	sunxi-mali-fb-git
+T 1394484644 18<WarheadsSE18>	toketin: this? https://github.com/hadokee/xbmc_a10_archlinuxarm/tree/master/sunxi-mali-fb-git
+T 1394484646 18<phrik18>	Title: xbmc_a10_archlinuxarm/sunxi-mali-fb-git at master · hadokee/xbmc_a10_archlinuxarm · GitHub (at github.com)
+T 1394484648 18<toketin18>	WarheadsSE: a friend installed and used xbmc on Cubieboard he wrote this https://github.com/hadokee/xbmc_a10_archlinuxarm
+T 1394484649 18<phrik18>	Title: hadokee/xbmc_a10_archlinuxarm · GitHub (at github.com)
+T 1394484653 18<toketin18>	yes WarheadsSE
+T 1394484679 18<WarheadsSE18>	this package does not properly conflict/provide
+T 1394484701 18<WarheadsSE18>	:: There are 5 providers available for libgl:
+T 1394484710 18<WarheadsSE18>	note libgl
+T 1394484715 18<WarheadsSE18>	not libegl
+T 1394484740 18<WarheadsSE18>	my guess is that his xbmc is asking for libgl
+T 1394484763 18<toketin18>	mesa-libgl?
+T 1394484867 18<WarheadsSE18>	https://github.com/hadokee/xbmc_a10_archlinuxarm/blob/master/xbmc-a10/PKGBUILD#L12
+T 1394484868 18<phrik18>	Title: xbmc_a10_archlinuxarm/xbmc-a10/PKGBUILD at master · hadokee/xbmc_a10_archlinuxarm · GitHub (at github.com)
+T 1394484910 18<WarheadsSE18>	something in that list of depends wants libgl
+T 1394484952 18<WarheadsSE18>	So there are some dependancy issues moving forward
+T 1394485028 18<toketin18>	https://github.com/hadokee/xbmc_a10_archlinuxarm/blob/master/sunxi-mali-fb-git/PKGBUILD#L40 i've edited this line with mesa=10.1.0-2
+T 1394485030 18<phrik18>	Title: xbmc_a10_archlinuxarm/sunxi-mali-fb-git/PKGBUILD at master · hadokee/xbmc_a10_archlinuxarm · GitHub (at github.com)
+T 1394485032 18<WarheadsSE18>	toketin: did you follow his readme item for step 1?
+T 1394485034 18<toketin18>	that's the current mesa release
+T 1394485039 18<WarheadsSE18>	Okay
+T 1394485058 18<WarheadsSE18>	Still, sunxi-mali-fb-git does not provide libgl, it provide ligegl
+T 1394485064 18<WarheadsSE18>	and something in the dep tree is asking for libgl
+T 1394485070 18<WarheadsSE18>	hence, its goes looking for it.
+T 1394485143 18<toketin18>	mm don't know which one
+T 1394485360 18<WarheadsSE18>	And I don't quite have the time to dig and find out
+T 1394485527 18<toketin18>	provides=('libmali' 'libegl' 'mesa=9.2.3')
+T 1394485528 18<toketin18>	  conflicts=('mesa')
+T 1394485550 18<toketin18>	these two lines aren't conflicting?
+T 1394485577 18<r00tine18>	no trey arent
+T 1394485621 18<r00tine18>	if it provides files from mesa, it has to provide and conflict mesa
+T 1394485635 24*	tb01110100 has quit (Ping timeout: 265 seconds)
+T 1394485679 18<WarheadsSE18>	Also, mesa-libgl != mesa
+T 1394485679 24*	Kurlon has quit (Ping timeout: 244 seconds)
+T 1394485687 18<WarheadsSE18>	and its looking for libgl not libegl
+T 1394485694 18<toketin18>	WarheadsSE: ok
+T 1394485730 18<WarheadsSE18>	I've only pointed that out 3 times now.
+T 1394485810 18<toketin18>	maybe mesa-libgl is a dependence of other packages i've installed before in the other two compilation
+T 1394485848 18<leming18>	it's your problem to fix packages you're using that aren't provided by us
+T 1394485882 18<toketin18>	leming: i know, i'm not telling that is an Arch problem
+T 1394485891 18<toketin18>	but maybe someone knows how to act
+T 1394485938 18<leming18>	yeah, fix the packages that are conflicting
+T 1394485949 18<toketin18>	the problem is that my friend who made the PKGBUILD, sold the Cubie
+T 1394485977 18<toketin18>	so he can't help me anymore
+T 1394486011 23*	john3voltas (~Thunderbi@bl8-165-63.dsl.telepac.pt23) has joined
+T 1394486131 18<toketin18>	WarheadsSE: searching for "libegl" on ArchArm repo doesn't give me anything
+T 1394486210 23*	polyzen (~poly@unaffiliated/polyzen23) has joined
+T 1394486286 18<toketin18>	http://dpaste.com/1712258/
+T 1394486288 18<phrik18>	Title: dpaste: #1712258 (at dpaste.com)
+T 1394486429 23*	tb01110100 (~thomas@unaffiliated/tb0111010023) has joined
+T 1394486985 24*	amayer has quit (Quit: Leaving)
+T 1394487120 18<F1skr18>	toketin: it sounds like you wanna add libgl to the provides array of the PKGBUILD for that sunxi-mali-fb-git package
+T 1394487194 24*	telex has quit (Remote host closed the connection)
+T 1394487195 18<toketin18>	F1skr: so i can uninstall sunxi-mali-fb-git and rebuild again with libgl in dependency line?
+T 1394487238 18<r00tine18>	in provides line
+T 1394487241 18<r00tine18>	but yes
+T 1394487284 23*	telex (~telex@freeshell.de23) has joined
+T 1394487328 18<F1skr18>	toketin: you might also wanna add libgl to the conflicts array
+T 1394487539 18<toketin18>	package_sunxi-mali-fb-git() {
+T 1394487540 18<toketin18>	  depends=('gcc-libs' 'libump')
+T 1394487542 18<toketin18>	  provides=('libmali' 'libgl' 'libegl' 'mesa=10.1.0-2')
+T 1394487543 18<toketin18>	  conflicts=('mesa' 'libgl')
+T 1394487545 18<toketin18>	is it right?
+T 1394487571 18<F1skr18>	looks right, should solve your dependency problem
+T 1394487769 18<toketin18>	F1skr: ok it doesn't ask me anything the xbmc installation
+T 1394487853 23*	tuttinator (~tuttinato@203.86.206.18423) has joined
+T 1394487899 23*	spY|da (~spychodel@owncloud.linuxjunkies.de23) has joined
+T 1394488029 24*	cippaciong has quit (Quit: Sto andando via)
+T 1394488072 23*	frazCake (~kira@151.65.206.923) has joined
+T 1394488340 23*	Kurlon (~kurlon@cpe-74-75-2-175.maine.res.rr.com23) has joined
+T 1394488340 22*	26ChanServ gives voice to 18Kurlon
+T 1394488342 24*	nahkunt has quit (Ping timeout: 264 seconds)
+T 1394488419 23*	Guest94941 (fwilson@madison.bouncerstation.com23) has joined
+T 1394488422 23*	alfa911 (~alfa911@d8D87C8D0.access.telenet.be23) has joined
+T 1394488445 23*	nahkunt (~nahkunt@101.164.205.23823) has joined
+T 1394488450 24*	Guest94941 has quit (Changing host)
+T 1394488450 23*	Guest94941 (fwilson@wikipedia/Fox-Wilson23) has joined
+T 1394488459 23*	alfa_911 (~alfa911@d8d87c8d0.access.telenet.be23) has joined
+T 1394488464 24*	28Guest94941 is now known as 18fwilson
+T 1394488552 24*	alfa_911 has quit (Client Quit)
+T 1394488584 24*	28alfa911 is now known as 18alfa_911
+T 1394488620 24*	alfa_911 has quit (Client Quit)
+T 1394488685 18<F1skr18>	How come the sun4i kernel is at 3.0.57 in the pacman repo, when it is at 3.4.75 in github?
+T 1394488854 24*	nahkunt has quit (Ping timeout: 265 seconds)
+T 1394488945 23*	nahkunt (~nahkunt@101.164.205.23823) has joined
+T 1394489025 18<leming18>	one built, one didn't
+T 1394489141 18<WarheadsSE18>	F1skr: http://archlinuxarm.org/builder/
+T 1394489143 18<phrik18>	Title: Arch Linux ARM Package Builder Failures (at archlinuxarm.org)
+T 1394489148 18<WarheadsSE18>	ctrl-f linux-sun
+T 1394489153 18<WarheadsSE18>	Have fun
+T 1394489260 24*	nahkunt has quit (Ping timeout: 265 seconds)
+T 1394489438 18<F1skr18>	Ok, I might have a go at it at some point.
+T 1394489502 18<F1skr18>	btw. did you see my updated version of the sun7i kernel in the forum? do you think that is less garbage?
+T 1394489661 23*	nahkunt (~nahkunt@101.164.205.23823) has joined
+T 1394489693 24*	john3voltas has quit (Read error: Connection reset by peer)
+T 1394489786 24*	dryliketoast (~dryliketo@ocean.0b111.net24) has left ("Leaving")
+T 1394489843 18<WarheadsSE18>	Haven't looked, honestly, $dayjob and consulting keep me busy sometimes
+T 1394489966 18<F1skr18>	sure
+T 1394489978 24*	nahkunt has quit (Ping timeout: 240 seconds)
+T 1394490043 23*	john3voltas (~Thunderbi@bl8-165-63.dsl.telepac.pt23) has joined
+T 1394490439 23*	nahkunt (~nahkunt@101.164.205.23823) has joined
+T 1394490449 24*	FreezingCold has quit (Ping timeout: 240 seconds)
+T 1394490667 18<spinningcompass18>	If I install a signed, alarm-specific Linux kernel in partition 1 (w/ dd) instead of using nv_u-boot.kpart, what are the disadvantages? It means I can't pass parameters via the scripts partition (12), ...but are there any other reasons not do do it?
+T 1394490822 18<WarheadsSE18>	Essentially, you would have to encode your cmdline into the kernel
+T 1394490845 18<WarheadsSE18>	Also, it would be a pain in the ass to update the kernel
+T 1394490906 24*	frazCake has quit (Quit: Sto andando via)
+T 1394490989 18<spinningcompass18>	WarheadsSE: ty
+T 1394491150 24*	john3voltas has quit (Ping timeout: 264 seconds)
+T 1394491257 18<spinningcompass18>	After 2 weeks on this, I'm convinced that I'm making this harder than it needs to be. Mkinitcpio takes alarm's zImage (recently compiled) and kerenl.its (FDT config file), and generates a u-boot-compatible image. Got it. Now, how do I feed it *and* the kernel to u-boot? Presumably I have to amend the config params in partition 12 (root=..., initrd=..., init=..., etc.) ... but I'm missing something obvious.
+T 1394491338 18<WarheadsSE18>	I'll just leave it at I have never quite been able to interrupt my uboot.. and that's kinda annoying.
+T 1394491364 18*	spinningcompass nods
+T 1394491375 18<toketin18>	WarheadsSE: xbmc fails in make: i've posted the output on the thread http://archlinuxarm.org/forum/viewtopic.php?f=33&t=6969&p=38424#p38424
+T 1394491377 18<phrik18>	Title: Arch Linux ARM View topic - XBMC on Cubieboard 1 (at archlinuxarm.org)
+T 1394491730 18<toketin18>	mine error in the PKGBUILD under ccache voice, now it's compiling again
+T 1394491742 23*	pepedog (~pepedog@myplugbox.com23) has joined
+T 1394491863 18<spinningcompass18>	WarheadsSE: Is this correct? ==> At power-on, laptop's u-boot (in flash) calls what it thinks is a signed kernel in partition 1; in fact, it is nv_u-boot (in partition 1 - nv_u-boot.snow.kpart). Nv_u-boot examines partition 12 [vfat] for its configuration file, which tells nv_u-boot to load kernel from partition 2 and mount/boot the root partition #3.
+T 1394492124 23*	john3voltas (~Thunderbi@bl8-165-63.dsl.telepac.pt23) has joined
+T 1394492165 24*	john3voltas has quit (Remote host closed the connection)
+T 1394492472 23*	jrmrjnck (~jonathan@66-90-216-36.dyn.grandenetworks.net23) has joined
+T 1394493013 24*	nahkunt has quit (Changing host)
+T 1394493014 23*	nahkunt (~nahkunt@unaffiliated/nahkunt23) has joined
+T 1394493189 24*	Engys has quit (Quit: Verlassend)
+T 1394493233 23*	FreezingCold (~FreezingC@135.0.41.1423) has joined
+T 1394493505 24*	pepedog has quit (Remote host closed the connection)
+T 1394494105 24*	F1skr has quit (Quit: WeeChat 0.4.3)
+T 1394494148 24*	badlarry-work has quit (Quit: Leaving)
+T 1394494275 24*	sehraf has quit (Quit: www.miranda-fusion.de ... be part of it...)
+T 1394494473 24*	BaxT has quit (Remote host closed the connection)
+T 1394494629 23*	AivarasK (~aivaras@cpc6-leic16-2-0-cust425.8-1.cable.virginm.net23) has joined
+T 1394494656 24*	Mikelevel has quit (Read error: Connection reset by peer)
+T 1394494905 24*	strata has quit (Quit: ZNC - http://znc.in)
+T 1394494906 24*	silv3rwind has quit (Quit: Connection closed for inactivity)
+T 1394494928 23*	strata (strata@thought.control.mindhackers.org23) has joined
+T 1394495002 24*	Samopotamus has quit (Ping timeout: 265 seconds)
+T 1394495146 24*	ajs124 has quit (Ping timeout: 264 seconds)
+T 1394495263 23*	Samopotamus (~IRCIdent@2607:5300:60:a0d::123) has joined
+T 1394495263 24*	Samopotamus has quit (Excess Flood)
+T 1394495444 24*	jrmrjnck has quit (Ping timeout: 244 seconds)
+T 1394495500 23*	jrmrjnck (~jonathan@66-90-216-36.dyn.grandenetworks.net23) has joined
+T 1394495537 24*	devgiant_ has quit (Ping timeout: 244 seconds)
+T 1394495710 23*	Samopotamus (~IRCIdent@2607:5300:60:a0d::123) has joined
+T 1394495745 23*	BaxT (~matt@eos-class.engr.oregonstate.edu23) has joined
+T 1394495753 24*	BaxT has quit (Client Quit)
+T 1394495767 24*	Samopotamus has quit (Max SendQ exceeded)
+T 1394495788 23*	speechless (~speechles@host86-174-31-33.range86-174.btcentralplus.com23) has joined
+T 1394495860 23*	Samopotamus (~IRCIdent@2607:5300:60:a0d::123) has joined
+T 1394496141 23*	Maxz (~felipe@pc-100-145-239-201.cm.vtr.net23) has joined
+T 1394496220 24*	Samopotamus has quit (Ping timeout: 265 seconds)
+T 1394496291 23*	devgiant (~devgiant@unaffiliated/devgiant23) has joined
+T 1394496335 23*	Samopotamus (~IRCIdent@2607:5300:60:a0d::123) has joined
+T 1394496353 24*	Samopotamus has quit (Max SendQ exceeded)
+T 1394496496 23*	Samopotamus (~IRCIdent@2607:5300:60:a0d::123) has joined
+T 1394496631 24*	tom94 has quit (Quit: Konversation terminated!)
+T 1394497692 23*	pepedog (~pepedog@myplugbox.com23) has joined
+T 1394497739 24*	pepedog has quit (Client Quit)
+T 1394497957 24*	polyzen has quit (Quit: polyzen)
+T 1394498353 24*	Kurlon has quit (Read error: Connection reset by peer)
+T 1394498380 23*	Kurlon (~kurlon@cpe-74-75-2-175.maine.res.rr.com23) has joined
+T 1394498380 22*	26ChanServ gives voice to 18Kurlon
+T 1394498406 18<WarheadsSE18>	sounds about right spinningcompass
+T 1394498461 18<spinningcompass18>	WarheadsSE: ty :)
+T 1394498497 24*	Kurlon has quit (Read error: Connection reset by peer)
+T 1394498501 23*	Kurlon_ (~kurlon@cpe-74-75-2-175.maine.res.rr.com23) has joined
+T 1394498529 24*	sco` has quit (Read error: Connection reset by peer)
+T 1394498566 24*	chron has quit (Remote host closed the connection)
+T 1394498602 24*	FreezingCold has quit (Remote host closed the connection)
+T 1394498612 23*	Kurlon (~kurlon@cpe-74-75-12-215.maine.res.rr.com23) has joined
+T 1394498612 22*	26ChanServ gives voice to 18Kurlon
+T 1394498646 23*	chron (~chron@cl-877.cgn-01.de.sixxs.net23) has joined
+T 1394498709 23*	FreezingCold (~FreezingC@135.0.41.1423) has joined
+T 1394498711 23*	sco` (~ross@unaffiliated/sco/x-342504623) has joined
+T 1394498830 24*	Kurlon_ has quit (Ping timeout: 265 seconds)
+T 1394499062 24*	AivarasK has quit (Ping timeout: 265 seconds)
+T 1394499478 24*	traverseda has quit (Ping timeout: 240 seconds)
+T 1394499602 24*	28dottedfish is now known as 18dottedfish|away
+T 1394499613 23*	traverseda (~alex@142.68.88.6023) has joined
+T 1394499618 24*	devgiant has quit (Quit: Leaving)
+T 1394499676 24*	sco` has quit (Read error: No route to host)
+T 1394499678 24*	BadLarry has quit (Ping timeout: 240 seconds)
+T 1394499772 23*	sco` (~ross@unaffiliated/sco/x-342504623) has joined
+T 1394499954 23*	Kurlon_ (~kurlon@cpe-74-75-2-175.maine.res.rr.com23) has joined
+T 1394500003 23*	BadLarry_ (~BadLarry@c-67-165-247-254.hsd1.co.comcast.net23) has joined
+T 1394500004 24*	BadLarry_ has quit (Changing host)
+T 1394500004 23*	BadLarry_ (~BadLarry@unaffiliated/badlarry23) has joined
+T 1394500026 24*	28BadLarry_ is now known as 18BadLarry
+T 1394500106 24*	Kurlon has quit (Ping timeout: 265 seconds)
+T 1394500714 24*	jrmrjnck has quit (Remote host closed the connection)
+T 1394500745 23*	jrmrjnck (~jonathan@66-90-216-36.dyn.grandenetworks.net23) has joined
+T 1394500986 24*	jrmrjnck has quit (Read error: Connection reset by peer)
+T 1394501038 23*	jrmrjnck (~jonathan@66-90-216-36.dyn.grandenetworks.net23) has joined
+T 1394502494 24*	Kurlon_ has quit ()
+T 1394502958 24*	spinningcompass has quit (Ping timeout: 240 seconds)
+T 1394503345 24*	James_T has quit (Ping timeout: 265 seconds)
+T 1394503413 24*	_nirv_ has quit (Ping timeout: 265 seconds)
+T 1394503475 23*	_nirv_ (~nirv@74.72.36.11323) has joined
+T 1394503490 23*	James_T (james@jtaylor.id.au23) has joined
+T 1394503490 22*	26ChanServ gives voice to 18James_T
+T 1394503624 23*	chepaz (~chepaz@dslb-088-067-139-017.pools.arcor-ip.net23) has joined
+T 1394503728 23*	spinningcompass (~spinningc@173.192.176.160-static.reverse.softlayer.com23) has joined
+T 1394503800 24*	chep4z has quit (Ping timeout: 240 seconds)
+T 1394503920 24*	sco` has quit (Ping timeout: 240 seconds)
+T 1394504078 18<WarheadsSE18>	spinningcompass: as for the bootarg spew: you need to add a line to the uboot script to stop 'debug' being passed to the cmdline
+T 1394504095 18<spinningcompass18>	rgr
+T 1394504158 24*	28BadLarry is now known as 18BadLarry_
+T 1394504192 18<WarheadsSE18>	Just did that on mine actually.
+T 1394504336 18<WarheadsSE18>	setenv common_bootargs
+T 1394504351 18<WarheadsSE18>	that clears 'cros_legacy console=/dev/ttyACA3'
+T 1394504360 18<WarheadsSE18>	that clears 'cros_legacy debug console=/dev/ttyACA3' **
+T 1394504374 18<WarheadsSE18>	debug passes to systemd and causes a lot of that gibberishing
+T 1394504758 24*	qrwteyrutiyoup has quit (Ping timeout: 264 seconds)
+T 1394504942 24*	Maxz has quit (Quit: Textual IRC Client: www.textualapp.com)
+T 1394505047 23*	qrwteyrutiyoup (~qrwteyrut@unaffiliated/qrwteyrutiyoup23) has joined
+T 1394505470 23*	r00tine_ (~user@erft-4d07cd4e.pool.mediaWays.net23) has joined
+T 1394505478 24*	haventfoundme has quit (Ping timeout: 240 seconds)
+T 1394505638 24*	r00tine has quit (Ping timeout: 240 seconds)
+T 1394505664 24*	bluemeanie_ has quit (Quit: Leaving)
+T 1394505779 24*	spinningcompass has quit (Ping timeout: 240 seconds)
+T 1394505855 24*	Megaf has quit (Quit: Leaving)
+T 1394506631 23*	spinningcompass (~spinningc@173.192.176.162-static.reverse.softlayer.com23) has joined
+T 1394507053 23*	greenfox_ (~chatzilla@port-92-194-87-2.dynamic.qsc.de23) has joined
+T 1394507117 24*	sr has quit (Read error: Connection reset by peer)
+T 1394507162 24*	greenfox has quit (Ping timeout: 244 seconds)
+T 1394507165 23*	sr (~smrgr@shellium/member/samruger23) has joined
+T 1394507170 24*	28greenfox_ is now known as 18greenfox
+T 1394507678 24*	spinningcompass has quit (Ping timeout: 240 seconds)
+T 1394508393 24*	untitaker has quit (Read error: Operation timed out)
+T 1394508947 23*	untitaker (~untitaker@194-96-38-199.adsl.highway.telekom.at23) has joined
+T 1394508947 23*	dottedfish|away_ (~dottedfis@5.45.4.20023) has joined
+T 1394508947 24*	28dottedfish|away_ is now known as 18dottedfish
+T 1394508984 24*	arduix_ has quit (Ping timeout: 240 seconds)
+T 1394509057 24*	dottedfish|away has quit (Ping timeout: 240 seconds)
+T 1394509143 23*	arduix (~arduix@nx.opentunisia.org23) has joined
+T 1394509267 23*	bluemeanie (~tbm@67.41.198.24223) has joined
+T 1394509817 23*	hussein (~hussein@203.106.150.21023) has joined
+T 1394510419 23*	greenfox_ (~chatzilla@port-92-194-150-234.dynamic.qsc.de23) has joined
+T 1394510510 24*	greenfox has quit (Ping timeout: 244 seconds)
+T 1394510523 24*	28greenfox_ is now known as 18greenfox
+T 1394510752 23*	speechless|2 (~speechles@host86-174-31-33.range86-174.btcentralplus.com23) has joined
+T 1394510785 24*	speechless has quit (Ping timeout: 240 seconds)
+T 1394510793 23*	BeauJoh (~beau@beaumacbookpro.cecs.anu.edu.au23) has joined
+T 1394511456 24*	xxcn has quit (Read error: Connection reset by peer)
+T 1394511493 24*	BeauJoh (~beau@beaumacbookpro.cecs.anu.edu.au24) has left
+T 1394511609 23*	polyzen (~poly@unaffiliated/polyzen23) has joined
+T 1394511735 23*	xxcn (~xxcn@78.90.149.7823) has joined
+T 1394512084 24*	traverseda has quit (Ping timeout: 265 seconds)
+T 1394512201 23*	traverseda (~alex@142.68.88.6023) has joined
+T 1394512377 23*	spinningcompass (~spinningc@173.192.170.77-static.reverse.softlayer.com23) has joined
+T 1394513031 24*	hussein has quit (Quit: Leaving)
+T 1394513176 24*	cesman has quit (Quit: Konversation terminated!)
+T 1394513288 23*	hussein (~hussein@203.106.149.2223) has joined
+T 1394514190 24*	FreezingCold has quit (Ping timeout: 264 seconds)
+T 1394514404 23*	cesman (~cesman@pool-173-60-115-40.lsanca.fios.verizon.net23) has joined
+T 1394514404 24*	cesman has quit (Changing host)
+T 1394514405 23*	cesman (~cesman@pdpc/supporter/professional/cesman23) has joined
+T 1394514431 24*	spinningcompass has quit (Ping timeout: 252 seconds)
+T 1394514998 24*	tuttinator has quit (Quit: Linkinus - http://linkinus.com)
+T 1394515006 24*	thechauffeur has quit (Read error: Operation timed out)
+T 1394515159 23*	thechauffeur (~thechauff@a89-182-184-130.net-htp.de23) has joined
+T 1394515178 24*	speechless|2 has quit (Read error: Connection reset by peer)
+T 1394515378 23*	speechless (~speechles@host86-174-31-33.range86-174.btcentralplus.com23) has joined
+T 1394516496 24*	telex has quit (Ping timeout: 240 seconds)
+T 1394516647 23*	telex (~telex@freeshell.de23) has joined
+T 1394518238 24*	ypks has quit (Remote host closed the connection)
+T 1394518369 24*	GeoffCh has quit (Quit: GeoffCh)
+T 1394518662 24*	sono has quit (Quit: leaving)
+T 1394518732 23*	sono (~sono@tucana.uberspace.de23) has joined
+T 1394518828 24*	sono has quit (Client Quit)
+T 1394518835 23*	sono (~sono@tucana.uberspace.de23) has joined
+T 1394519035 23*	spinningcompass (~spinningc@173.192.170.80-static.reverse.softlayer.com23) has joined
+T 1394521155 24*	toketin has quit (Quit: Konversation terminated!)
+T 1394521580 24*	jrmrjnck has quit (Quit: Konversation terminated!)
+T 1394521646 24*	J0k3r has quit (Ping timeout: 252 seconds)
+T 1394521871 23*	J0k3r (~sysrq@unaffiliated/proximacentauri123) has joined
+T 1394521990 23*	aien (~aien@2.191.172.15423) has joined
+T 1394521996 18<aien18>	hi
+T 1394522021 18<aien18>	can someone help me?
+T 1394522029 18<Kane`18>	with?
+T 1394522036 18<aien18>	im having trouble installing archarm on my SGS III
+T 1394522060 18<Kane`18>	state what your troubles are and hopefully someone in here can help you
+T 1394522155 18<aien18>	when mounting my archlinux.img into archlinux/, it returns "Usage: mount [-r] [-w] [-o options] [-t type] device directory"
+T 1394522164 18<aien18>	i can't find out where the problem is!
+T 1394522181 18<nahkunt18>	what command are you passing exactly?
+T 1394522195 18<aien18>	i've used this link "http://rubiojr.rbel.co/hack/2013/01/10/installing-arch-linux-in-your-android-phone-chroot/"
+T 1394522214 18<aien18>	mount archlinux.img archlinux/
+T 1394522566 18<aien18>	it says that it might be Loop Device Supporting in my kernel...
+T 1394522582 18<aien18>	but CM10.2 is the latest ROM available for SGSIII
+T 1394522683 24*	polyzen has quit (Quit: polyzen)
+T 1394522752 18<aien18>	guys!!! srsly!! no one?!?!!
+T 1394522768 18<aien18>	:D
+T 1394522921 20<Thonneve>30	Do you have a up to date busybox?
+T 1394522940 23*	BobbyJr (~BobbyJr@robsworld.plus.com23) has joined
+T 1394522954 23*	sszy (~quassel@83.141.254.16423) has joined
+T 1394523040 18<aien18>	nope, i haven't install it...
+T 1394523092 23*	Mounicq (~Thunderbi@10.194.81.79.rev.sfr.net23) has joined
+T 1394523119 20<Thonneve>30	That might be your issue then
+T 1394523144 18<aien18>	thanks :),i'll try again with busybox...
+T 1394523334 20<Thonneve>30	It's ussually installed by default in CM but it's probably outdated tbh
+T 1394523362 23*	bosnjak (~bosnjak@wr-zip.cpe.iskon.hr23) has joined
+T 1394523523 18<aien18>	i've just updated busybox and tried again this step... but no answer
+T 1394524092 24*	aien has quit (Quit: Lost terminal)
+T 1394524883 19*	Now talking on 22#archlinux-arm
+T 1394524883 22*	Topic for 22#archlinux-arm is: Arch Linux ARM - An Arch Linux port for plug computers and all ARM devices - http://archlinuxarm.org
+T 1394524883 22*	Topic for 22#archlinux-arm set by 26mikestaszel!~mikestasz@c-68-58-4-183.hsd1.il.comcast.net (24Wed Jun 29 17:55:12 2011)
+T 1394524892 23*	traverseda (~alex@142.68.88.6023) has joined
+T 1394524892 23*	kraft (kraft@gateway/shell/blinkenshell.org/x-lpepbqpzdrzdliqq23) has joined
+T 1394525069 23*	tom94 (~tom@152.78.171.1023) has joined
+T 1394525347 24*	armguy has quit (Remote host closed the connection)
+T 1394525410 23*	Engys (~engys@p5DDB06FA.dip0.t-ipconnect.de23) has joined
+T 1394525473 23*	armguy (~adminempi@unaffiliated/adminempire-jl23) has joined
+T 1394525931 23*	dstuxo (~Dragos@89.121.200.10623) has joined
+T 1394526495 23*	doragasu (~jalon@138.100.61.11723) has joined
+T 1394527375 24*	spinningcompass has quit (Ping timeout: 244 seconds)
+T 1394527543 24*	winevirus has quit (Read error: Connection reset by peer)
+T 1394527557 23*	winevirus (~winevirus@24-117-10-250.cpe.cableone.net23) has joined
+T 1394527640 24*	speechless has quit (Read error: Connection reset by peer)
+T 1394527690 24*	ttys0 has quit (Ping timeout: 264 seconds)
+T 1394527833 24*	winevirus has quit (Ping timeout: 252 seconds)
+T 1394529749 24*	joko_ has quit (Quit: leaving)
+T 1394529916 24*	tom94 has quit (Quit: Konversation terminated!)
+T 1394530027 23*	kaipee (~kaipee@host81-149-211-104.in-addr.btopenworld.com23) has joined
+T 1394530063 23*	sehraf (~MirandaFu@2001:638:904:ffc9:28bb:9a0:a15a:84c523) has joined
+T 1394532158 24*	r00tine_ has quit (Ping timeout: 240 seconds)
+T 1394532432 23*	sco` (~ross@unaffiliated/sco/x-342504623) has joined
+T 1394532479 23*	r00tine (~user@erft-4d07cd4e.pool.mediaWays.net23) has joined
+T 1394532624 24*	hussein has quit (Ping timeout: 240 seconds)
+T 1394532713 18<k-man18>	sometimes this imx233 seems to get itself into a state where via serial port in the device, i can see its on the network. i can ping and ssh from it
+T 1394532723 18<k-man18>	but I can't ping to it or ssh into it from the network
+T 1394532754 23*	hussein (~hussein@203.106.151.24923) has joined
+T 1394533002 18<k-man18>	reboot fixes it
+T 1394533128 24*	BobbyJr has quit (Ping timeout: 240 seconds)
+T 1394533129 23*	devgiant (~devgiant@unaffiliated/devgiant23) has joined
+T 1394533597 23*	Daniele_ (~daniele@unaffiliated/daniele23) has joined
+T 1394533625 24*	28Daniele_ is now known as 18Daniele
+T 1394533978 24*	fragmint has quit (Ping timeout: 240 seconds)
+T 1394534183 23*	fragmint (~fragmint@108-77-199-24.lightspeed.tukrga.sbcglobal.net23) has joined
+T 1394535829 18<k-man18>	after a few brownouts on my device, suddenly my sd card reports 0x8020a014 at boot time
+T 1394535834 18<k-man18>	or rather the device does
+T 1394536934 24*	archetech has quit (Quit: Leaving)
+T 1394537270 18<k-man18>	is there a way to get pacman to check the validity of the files its installd?
+T 1394537279 18<k-man18>	check for corruption
+T 1394537765 23*	toketin (~marco@2-234-57-20.ip221.fastwebnet.it23) has joined
+T 1394538076 23*	archetech (~noota2@108-203-131-125.lightspeed.livnmi.sbcglobal.net23) has joined
+T 1394538868 23*	polyzen (~poly@unaffiliated/polyzen23) has joined
+T 1394539017 23*	anonzx (~AndChat51@2.191.172.15423) has joined
+T 1394539163 24*	polyzen has quit (Quit: polyzen)
+T 1394539289 24*	toketin has quit (Ping timeout: 240 seconds)
+T 1394539753 24*	James_T has quit (Quit: Oh crap... Seems ZNC broke!)
+T 1394540534 24*	28hussein is now known as 18nur
+T 1394540576 23*	toketin (~marco@2-234-57-20.ip221.fastwebnet.it23) has joined
+T 1394540729 23*	AivarasK (~aivaras@cpc6-leic16-2-0-cust425.8-1.cable.virginm.net23) has joined
+T 1394540823 24*	toketin has quit (Client Quit)
+T 1394541301 18<WarheadsSE18>	k-man wiki search
+T 1394541325 23*	FreezingCold (~FreezingC@205.211.54.16223) has joined
+T 1394541666 23*	James_T (james@jtaylor.id.au23) has joined
+T 1394541666 22*	26ChanServ gives voice to 18James_T
+T 1394541838 24*	anonzx has quit (Ping timeout: 240 seconds)
+T 1394541907 23*	amayer (~amayer@mail.weberadvertising.com23) has joined
+T 1394541984 23*	tom94 (~tom@152.78.171.1023) has joined
+T 1394542852 23*	cippaciong (~ciong@host139-61-dynamic.180-80-r.retail.telecomitalia.it23) has joined
+T 1394543253 24*	Willd (willd@citu-202.citu.kth.se24) has left
+T 1394543617 23*	Kurlon (~kurlon@bidd-pub-03.gwi.net23) has joined
+T 1394543618 22*	26ChanServ gives voice to 18Kurlon
+T 1394544056 23*	ajs124 (~andy@dslb-094-218-208-207.pools.arcor-ip.net23) has joined
+T 1394545260 24*	egon_ffj has quit (Remote host closed the connection)
+T 1394545281 23*	egon_ffj (~egon_ffj@2a01:4f8:191:90b3:9009::1723) has joined
+T 1394545424 23*	cyx^ (~cyx@unaffiliated/rafi/x-933227523) has joined
+T 1394545556 24*	v1c3 has quit (Quit: cu)
+T 1394546285 19*	Now talking on 22#archlinux-arm
+T 1394546285 22*	Topic for 22#archlinux-arm is: Arch Linux ARM - An Arch Linux port for plug computers and all ARM devices - http://archlinuxarm.org
+T 1394546285 22*	Topic for 22#archlinux-arm set by 26mikestaszel!~mikestasz@c-68-58-4-183.hsd1.il.comcast.net (24Wed Jun 29 17:55:12 2011)
+T 1394546442 23*	traverseda (~alex@142.68.88.6023) has joined
+T 1394546571 24*	mar77i has quit (Quit: Lost terminal)
+T 1394546622 23*	mar77i (~mar77i@77-58-165-28.dclient.hispeed.ch23) has joined
+T 1394547146 23*	speechless (~speechles@host86-174-31-33.range86-174.btcentralplus.com23) has joined
+T 1394547209 24*	cyx^ has quit (Read error: Operation timed out)

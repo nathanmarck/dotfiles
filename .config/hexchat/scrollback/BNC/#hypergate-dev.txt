@@ -1,0 +1,5 @@
+T 1393975349 19*	Now talking on 22#hypergate-dev
+T 1393975349 22*	26morgan.freenode.net sets mode 24+n on 22#hypergate-dev
+T 1393975349 22*	26morgan.freenode.net sets mode 24+s on 22#hypergate-dev
+T 1393975349 22*	Channel 22#hypergate-dev modes: 24+ns
+T 1393975349 22*	Channel 22#hypergate-dev created on 24Tue Mar  4 23:20:53 2014

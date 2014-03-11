@@ -1,0 +1,82 @@
+VirtualBox XPCOM Server 4.3.6_OSE r91406 linux.amd64 (Jan  4 2014 06:27:12) release log
+00:00:00.000579 main     Log opened 2014-02-07T13:39:33.230769000Z
+00:00:00.000585 main     Build Type: release
+00:00:00.000599 main     OS Product: Linux
+00:00:00.000602 main     OS Release: 3.12.9-2-ARCH
+00:00:00.000605 main     OS Version: #1 SMP PREEMPT Fri Jan 31 10:22:54 CET 2014
+00:00:00.000674 main     DMI Product Name: Aspire 5552
+00:00:00.000700 main     DMI Product Version: V2.14
+00:00:00.000923 main     Host RAM: 3701MB total, 3006MB available
+00:00:00.000936 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.000939 main     Process ID: 3204
+00:00:00.000941 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.138372 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp8s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.157593 nspr-2   VDInit finished
+00:00:00.157909 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={1254a96a-ae57-4484-946a-22d86c1f98af} aComponent={SystemProperties} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false
+00:04:18.238242 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:04:18.507178 nspr-3   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={480cf695-2d8d-4256-9c7c-cce4184fa048} aComponent={Machine} aText={This machine does not have any snapshots}, preserve=false
+00:04:18.683301 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:04:19.033981 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:04:19.038934 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:04:20.838934 nspr-3   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={480cf695-2d8d-4256-9c7c-cce4184fa048} aComponent={Machine} aText={Machine is not locked for session (session state: Unlocked)}, preserve=false
+00:04:20.950718 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:04:20.956506 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:04:21.957061 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:04:21.982811 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:04:21.990356 nspr-3   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={3295e6ce-b051-47b2-9514-2c588bfe7554} aComponent={ExtPackManager} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false
+00:04:22.012898 nspr-3   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={480cf695-2d8d-4256-9c7c-cce4184fa048} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false
+00:04:22.037457 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:04:22.057578 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:04:22.061545 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:04:22.094050 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:04:35.718650 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp8s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:04:36.036713 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:04:36.125343 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:04:36.128869 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:04:36.654591 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:04:36.656890 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:07:21.382835 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:07:21.402028 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:07:26.030242 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:07:26.035395 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:07:26.226952 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:07:26.231103 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:07:26.470987 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:07:26.474845 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:07:27.285362 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:07:27.287482 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:07:41.618844 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:07:41.992419 nspr-5   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp8s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:07:42.047792 nspr-3   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp8s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:07:42.126253 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:07:42.704625 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:07:42.706780 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:08:27.734999 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:08:27.741280 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:08:28.866838 nspr-2   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={480cf695-2d8d-4256-9c7c-cce4184fa048} aComponent={Machine} aText={Machine is not locked for session (session state: Unlocked)}, preserve=false
+00:08:29.037456 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:08:29.040458 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:08:30.674246 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:08:30.679129 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:08:30.681930 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:08:30.720122 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:08:30.723896 nspr-5   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={3295e6ce-b051-47b2-9514-2c588bfe7554} aComponent={ExtPackManager} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false
+00:08:30.744077 nspr-4   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={480cf695-2d8d-4256-9c7c-cce4184fa048} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false
+00:08:30.754213 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:08:30.810208 nspr-5   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:08:30.893434 nspr-4   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp8s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:08:31.252520 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:08:31.258267 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:08:31.280446 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:08:32.224719 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:08:32.230433 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:10:28.440819 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:15:04.897131 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={1254a96a-ae57-4484-946a-22d86c1f98af} aComponent={SystemProperties} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false
+00:17:42.071570 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:17:42.074233 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:17:45.174157 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:17:45.179853 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:17:56.230732 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+00:17:56.233370 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={93269330-48ca-4096-b4a2-1189df336267} aComponent={Host} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=true 
+01:21:16.505767 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={05f2bbb6-a3a6-4fb9-9b49-6d0dda7142ac} aComponent={Medium} aText={Medium '/home/nathan/VirtualBox VMs/Android/Android.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false
+01:21:16.581254 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={fafa4e17-1ee2-4905-a10e-fe7c18bf5554} aComponent={VirtualBox} aText={The object is not ready}, preserve=false

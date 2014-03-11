@@ -1,0 +1,562 @@
+T 1393962653 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393962665 18<s73v3r18>	No one?
+T 1393962677 18<frankdrey18>	smallfoot-, you could...
+T 1393962736 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393962743 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393962744 18<Mavrik18>	smallfoot-, em, you can?
+T 1393962761 24*	LucaS05 has quit (Remote host closed the connection)
+T 1393962768 18<smallfoot-18>	oh, didn't know
+T 1393962782 18<smallfoot-18>	you develop with USB cable or without, when you push the .apk to the device?
+T 1393962793 24*	Ratboy has quit (Ping timeout: 240 seconds)
+T 1393962807 23*	CrazyWoods (~nowolfer@208.76.253.14623) has joined
+T 1393962815 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393962823 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393962832 18<smallfoot-18>	Which is prefered, Halo.Light or Halo.Light with DarkActionBar?
+T 1393962873 23*	Ratboy (~ratboy@essn-5d83b8b7.pool.mediaWays.net23) has joined
+T 1393962906 18<CrazyWoods18>	is it possible to define a activity in a seprator project and with different package then inherit it outside the project?
+T 1393962935 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393962942 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393962948 18<^cheeky18>	i think this is a bad flow of my code on my part :/ i created a custom list with three different types of rows, and in of the rows i pass in callback from a fragment and i am stomped on this error, saying Activity has been destroyed when i invoke the callback from the activity :/
+T 1393962968 24*	MarkProffitt (~MarkProff@c-68-42-131-59.hsd1.mi.comcast.net24) has left
+T 1393963005 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393963013 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393963031 18<smallfoot-18>	Should my app have an 'About' dialog? If so, should it be under OptionsMenu or should it be inside the "Settings" fragment?
+T 1393963041 18<kbs18>	I so wish there was a way to enable adb-over-wifi with just a terminal emulator app on an unrooted nexus-4
+T 1393963047 18<^cheeky18>	more like can not perform this action after on SavedInsanceState
+T 1393963069 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393963078 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393963094 18<^cheeky18>	i am wondering if its due to the face that i am using launchmode = singletop, and after orientation it has a new activity instance created and the call back is stale
+T 1393963135 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393963143 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393963193 18<EGHDK18>	I have a background image for my activities layout. When the keyboard shows, I squish the layout, but this also squishes the background image and distrorts it. Any ideas how to get it not to squish?
+T 1393963220 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393963228 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393963259 23*	Auv (~Jack@CPE185933476c37-CM185933476c34.cpe.net.cable.rogers.com23) has joined
+T 1393963263 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393963271 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393963307 24*	lindenle has quit (Remote host closed the connection)
+T 1393963315 24*	patrick91 has quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+T 1393963348 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393963355 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393963364 23*	SuD (~alex@13-197-39-46.usuarios.innovasur.com23) has joined
+T 1393963386 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393963393 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393963425 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393963432 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393963463 23*	f2prateek1 (~prateek@209.89.154.2823) has joined
+T 1393963478 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393963486 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393963497 18<smallfoot-18>	Should my app have an 'About' dialog? If so, should it be under OptionsMenu or should it be inside the "Settings" fragment?
+T 1393963500 24*	f2prateek has quit (Ping timeout: 264 seconds)
+T 1393963515 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393963523 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393963588 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393963589 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393963638 24*	f2prateek1 has quit (Client Quit)
+T 1393963646 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393963652 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393963662 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393963663 24*	s73v3r has quit (Ping timeout: 245 seconds)
+T 1393963670 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393963770 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393963848 18<SimonVT18>	Add one if you think it makes sense in your app
+T 1393963908 24*	m76 has quit (Read error: Connection reset by peer)
+T 1393963974 18<smallfoot-18>	should it be under OptionsMenu or should it be inside the "Settings" fragment?
+T 1393963989 23*	Wamercz (~Wamercz@37-48-34-135.tmcz.cz23) has joined
+T 1393963997 23*	yoavst (546f2d12@gateway/web/freenode/ip.84.111.45.1823) has joined
+T 1393963999 18<SimonVT18>	Put it where you think it makes sense in your app
+T 1393964004 18<gresse18>	i dunno from whcih class
+T 1393964008 18<gresse18>	give me an example
+T 1393964041 18<SimonVT18>	..
+T 1393964046 18<SimonVT18>	You're the one asking for help
+T 1393964051 18<SimonVT18>	Then ask some proper questions
+T 1393964059 18<yoavst18>	http://pastebin.com/ZXz5viJh Why doesn't the padding work on real device?
+T 1393964089 18<SimonVT18>	There's no padding in that layout
+T 1393964098 18<yoavst18>	in the ImageView
+T 1393964113 24*	setra has quit (Ping timeout: 265 seconds)
+T 1393964131 18<SimonVT18>	That's margins
+T 1393964153 18<Mavrik18>	yoavst, there's no padding defined in what you linked anywhere?
+T 1393964170 18<SimonVT18>	I see no reason its margins shouldn't work
+T 1393964188 23*	dreampwnzor (~dreamzor@95-26-80-248.broadband.corbina.ru23) has joined
+T 1393964206 18<yoavst18>	yes, i meant margin :|
+T 1393964218 18<dreampwnzor18>	hey guys, im trying to compile C++ code using Android NDK + Clang + CMake
+T 1393964241 18<yoavst18>	in eclipse it shows it with margin, but not on my nexus 4
+T 1393964261 18<dreampwnzor18>	i've found some cmake toolchains but they seem to fail.. i did some investigation and turns out that 'clang -march armv7-a' isn't a valid option for clang
+T 1393964271 18<dreampwnzor18>	and it tells that 'armv7-a' is not a valid CPU name, what.
+T 1393964300 18<dreampwnzor18>	i'm using the clang located in Android NDK toolchain folder
+T 1393964324 18<dreampwnzor18>	any1 ever did that?:D
+T 1393964340 18<pfn18>	why don't you use ndk-build
+T 1393964365 18<dreampwnzor18>	well because i need to integrate in inside my cmake project
+T 1393964372 18<dreampwnzor18>	it works absolutely great with default gcc stuff
+T 1393964377 18*	pfn shrugs
+T 1393964379 18<dreampwnzor18>	but clang seems to be a real problem
+T 1393964383 18<yoavst18>	So does someone know why i don't see the margin in device?
+T 1393964437 18<SimonVT18>	So it's just the imageviews margins that doesn't work?
+T 1393964438 18<Mavrik18>	dreampwnzor, clang didn't really work for me in NDK
+T 1393964441 18<SimonVT18>	How'd you verify that?
+T 1393964445 18<Mavrik18>	dreampwnzor, use GCC version if you can.
+T 1393964450 18<dreampwnzor18>	Mavrik: why?
+T 1393964451 18<Mavrik18>	it was still buggy in latest release
+T 1393964451 24*	smallfoot- has quit (Quit: Leaving)
+T 1393964461 24*	Wamercz has quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+T 1393964472 18<dreampwnzor18>	Mavrik: oh, what was the release version when you tried it?
+T 1393964491 18<Mavrik18>	what's "release version"?
+T 1393964511 18<Mavrik18>	I tested some stuff on n9b
+T 1393964515 18<Mavrik18>	it broke horribly, worked on gcc
+T 1393964527 18<dreampwnzor18>	oh that sucks
+T 1393964537 18<Mavrik18>	*shrug*
+T 1393964547 18<Mavrik18>	I fail to see why you'd care.
+T 1393964554 18<Mavrik18>	you get an .so either way
+T 1393964591 18<dreampwnzor18>	i need this for a specific field where i have an info that clang is a little faster than gcc
+T 1393964605 18<dreampwnzor18>	so id like to try it out and see
+T 1393964626 24*	mintux (~mrg@unaffiliated/mintux24) has left
+T 1393964638 18<frankdrey18>	http://developer.android.com/reference/android/app/Activity.html#startActivityForResult(android.content.Intent, int, android.os.Bundle)
+T 1393964675 18<frankdrey18>	that claims that if the request code >= then the calling activity's window will not be displayed
+T 1393964675 24*	aleb_ has quit (Ping timeout: 252 seconds)
+T 1393964677 23*	Wamercz (~Wamercz@37-48-34-135.tmcz.cz23) has joined
+T 1393964679 18<frankdrey18>	I'm trying it with a request code of 0, still displayed
+T 1393964682 18<pfn18>	?
+T 1393964683 18<frankdrey18>	ooh, yeah, in onCreate
+T 1393964696 18<frankdrey18>	"As a special case, if you call startActivityForResult() with a requestCode >= 0 during the initial onCreate(Bundle savedInstanceState)/onResume() of your activity, then your window will not be displayed until a result is returned back from the started activity. This is to avoid visible flickering when redirecting to another activity."
+T 1393964772 18<pfn18>	requires api16, nice
+T 1393964776 24*	colintheshots has quit (Quit: colintheshots)
+T 1393964816 18<frankdrey18>	my app does too :P
+T 1393964823 18<frankdrey18>	down with the old androids!
+T 1393964845 24*	yoavst has quit (Quit: Page closed)
+T 1393964856 18<frankdrey18>	wait, what if I sent a null options bundle...
+T 1393964881 24*	phu-away has quit (Ping timeout: 240 seconds)
+T 1393964882 18<gresse18>	yeah my question is: you can close a acitivity with finish() and with destroy(). but what is the difference?
+T 1393964908 18<SimonVT18>	Activity doesn't have a destroy() method
+T 1393964915 18<SimonVT18>	The only way to close it is with finish()
+T 1393964941 24*	28gv1222|Away is now known as 18gv1222
+T 1393964947 18*	JesusFreke prefers .obliterate()
+T 1393964959 18<frankdrey18>	nope, did not work...the first activity still flashes by
+T 1393965032 18<SimonVT18>	frankdrey: Are you sure it's the first activity, and not just the application theme displaying? As in, do you actually see the first activitys content display before the next is shown?
+T 1393965044 18<gresse18>	thanks SimonTV :)
+T 1393965078 24*	dbro has quit (Quit: Leaving.)
+T 1393965085 18<gresse18>	but then the question is:
+T 1393965085 18<gresse18>	 for what do you use destroy()?
+T 1393965120 18<SimonVT18>	For what do you use a method that doesn't exist?
+T 1393965154 18<SimonVT18>	Are you trying to say onDestroy() ?
+T 1393965158 24*	kbs has quit (Ping timeout: 240 seconds)
+T 1393965165 23*	GusBricker (~GusBricke@c220-237-20-42.eburwd9.vic.optusnet.com.au23) has joined
+T 1393965197 24*	jjnye has quit (Remote host closed the connection)
+T 1393965215 23*	Images (~Images@209.120.172.14223) has joined
+T 1393965218 24*	Napalm|afk has quit (Ping timeout: 240 seconds)
+T 1393965239 18<Images18>	Can someone confirm for me that emulator should work in an Ubuntu 12.04 virtualbox VM
+T 1393965245 18<SimonVT18>	Anyway, if you're trying to learn how activities work, read https://developer.android.com/guide/components/activities.html
+T 1393965249 18<Images18>	(windows is the host, ubuntu is the VM, emulator is the emulator)
+T 1393965258 23*	markodan (~markodan@46.196.148.023) has joined
+T 1393965274 24*	markodan (~markodan@46.196.148.024) has left
+T 1393965281 18<JesusFreke18>	Images: bonus points if you manage to run an x86 emulator within the android emulator
+T 1393965293 23*	s73v3r (323a8b5e@gateway/web/freenode/ip.50.58.139.9423) has joined
+T 1393965302 18<Mavrik18>	Images, android emulator is itself a VM
+T 1393965313 18<Mavrik18>	Images, you might require CPU virtualization support for that to work properly
+T 1393965321 18<Mavrik18>	also it uses OGL for rendering, so that might go wrong as well
+T 1393965323 24*	bobbydank has quit ()
+T 1393965335 18<Images18>	JesusFreke, Mavrik: Thanks. I saw the OGL warning but I wasn't sure how important it was
+T 1393965343 23*	Napalm (Napalm@unaffiliated/napalm23) has joined
+T 1393965357 18<frankdrey18>	oh, perhaps...
+T 1393965357 18*	frankdrey checks
+T 1393965366 18*	frankdrey trys setting a NoDisplay theme on the app
+T 1393965375 18<JesusFreke18>	Images: I would guess it should work, but probably not with the opengl emulation stuff enabled.
+T 1393965383 18<frankdrey18>	same :/
+T 1393965387 18<frankdrey18>	wait, perhaps...
+T 1393965400 18<Images18>	Currently my emulator just hangs at the "android" splash image
+T 1393965401 18<frankdrey18>	ABC are activities... A starts B which starts C...
+T 1393965402 18<JesusFreke18>	although, I can't imagine it would be a pleasant experience :)
+T 1393965412 18<JesusFreke18>	Images: define "hangs" :)
+T 1393965421 18<JesusFreke18>	in particular, watch it's logcat
+T 1393965425 23*	colintheshots (~colinthes@50.241.61.2023) has joined
+T 1393965428 18<JesusFreke18>	is it making progress, or is it in some sort of loop?
+T 1393965436 18<Images18>	Yes, I was watching that, and I got a lot of "WAIT_FOR_CONCURRENT_GC" loop
+T 1393965446 18<Images18>	D/dalvikvm(  374): WAIT_FOR_CONCURRENT_GC blocked 737ms
+T 1393965446 18<Images18>	D/dalvikvm(  374): GC_CONCURRENT freed 352K, 67% free 4447K/13184K, paused 212ms+17ms, total 2050ms
+T 1393965448 18<Images18>	etc
+T 1393965464 18<linagee18>	is it crazy to try to recompile android? how many gigs is the download anyway?
+T 1393965500 18<explodes18>	a few
+T 1393965500 18<JesusFreke18>	linagee: 20+gb, iirc
+T 1393965510 23*	jjnye (~jjnye@66-7-245-34.static-ip.telepacific.net23) has joined
+T 1393965528 18<JesusFreke18>	linagee: unless you have a nexus device, don't expect to be able to build an image that works on your device with only the AOSP source
+T 1393965535 18<linagee18>	JesusFreke: and that's just one specific branch, right?
+T 1393965551 18<JesusFreke18>	linagee: well, it's git, so you basically get all of the branches
+T 1393965552 18<Images18>	well I guess I may have to export my dev environment to a hardware box =( Thanks for the pointers though
+T 1393965554 18<linagee18>	JesusFreke: I have the samsung (diffs? patches? whatever they are) too
+T 1393965566 18<explodes18>	Is there a good way to "lazy load" views that are not yet drawn on the screen? They won't affect the current layout until they are on the screen.  This particular fragment is so bulky and what not that its just full of views
+T 1393965574 18<explodes18>	I don't want them to inflate until they're on screen
+T 1393965581 18<JesusFreke18>	linagee: you mean the open source stuff that samsung releases?
+T 1393965591 18<linagee18>	JesusFreke: only problem is - they didn't say "use branch 4.2.2_r1" or anything specific like that, they said "use android source for 4.2.2"
+T 1393965601 18<Images18>	Second question: Would anyone have any idea how common it is for developers to be using Qt for android apps? I'm coming from a Q c/c++ background, so it appeals to me to possibly be able to use Qt/QtCreator
+T 1393965606 18<linagee18>	JesusFreke: yes. I'm hoping that's good enough
+T 1393965620 18<Mavrik18>	Images, whole Android API is java
+T 1393965628 18<Mavrik18>	Images, trying to write it in C++ is just asking for a world of pain
+T 1393965653 18<Mavrik18>	there are better ways of inflicting pain to yourself in life than do C++ dev on Android... like jumping off a cliff
+T 1393965653 18<Images18>	Mavrik: Well, Qt has "Qt Quick" which I think abstracts quite a bit of that away from you, through some sort of NDK black magic
+T 1393965656 18<JesusFreke18>	linagee: I'm not sure exactly what you're refering to, but typically the samsung open source stuff is only the stuff they are required to release (i.e. due to gpl)
+T 1393965659 24*	xFFFF has quit (Ping timeout: 246 seconds)
+T 1393965659 24*	frankdrey has quit (Ping timeout: 240 seconds)
+T 1393965659 24*	colintheshots has quit (Client Quit)
+T 1393965662 24*	TGMCians has quit (Quit: Leaving)
+T 1393965668 18<JesusFreke18>	it's not enough to build an android tree for that device
+T 1393965679 24*	raunicolae has quit (Ping timeout: 265 seconds)
+T 1393965688 18<JesusFreke18>	linagee: you would probably have more luck with CM source
+T 1393965700 18<Mavrik18>	btw, checked out Android source is about 27GB right now
+T 1393965712 18<linagee18>	Mavrik: thanks
+T 1393965727 18<Mavrik18>	about 3GB of that is actual source
+T 1393965732 18<JesusFreke18>	and then another.. probably 10-15gb to actually build it
+T 1393965738 24*	ExeciN has quit (Ping timeout: 240 seconds)
+T 1393965740 18<Mavrik18>	rest of it is prebuilt binaries, tools, eclipse ADT, repository history and that kind of stuff
+T 1393965751 23*	frankdrey (~AndChat92@2607:fb90:2c27:9422:0:12:daac:930123) has joined
+T 1393965779 24*	Unforgiving has quit (Ping timeout: 240 seconds)
+T 1393965781 18<linagee18>	Mavrik: and I'm guessing that doesn't include anything like chromium?
+T 1393965817 18<Images18>	Mavrik: This is a little outdated, but seems simple enough https://qt-project.org/doc/qtcreator-2.8/creator-android-app-tutorial.html and http://blog.qt.digia.com/blog/2013/12/10/cross-platform-applications-in-ios-and-android-stores-with-qt/
+T 1393965835 23*	sandrakwan (~sandrakwa@50.56.129.16923) has joined
+T 1393965893 18<Images18>	side note, that flying bus game is eerily similar to flappy bird
+T 1393965893 24*	wchun has quit (Ping timeout: 252 seconds)
+T 1393965898 18<Images18>	and dates to at least 2011
+T 1393965898 18<frankdrey18>	I think I may just have to rethink my application flow
+T 1393965948 18<Mavrik18>	linagee, em, chromium?
+T 1393965952 23*	colintheshots (~colinthes@50.241.61.2023) has joined
+T 1393965990 18<gresse18>	yeah sorry .. i meant onDestroy()
+T 1393965995 24*	karab44 has quit (Quit: KVIrc 4.1.3 Equilibrium http://www.kvirc.net/)
+T 1393965999 23*	Unforgiving (~cnts@unaffiliated/unforgiving23) has joined
+T 1393966026 24*	oiZo has quit (Ping timeout: 252 seconds)
+T 1393966052 23*	xFFFF (~xFFFF@123.150.dsl.mel.iprimus.net.au23) has joined
+T 1393966053 18<gresse18>	so onDestroy for Application() and finish() for Activity
+T 1393966057 18<gresse18>	am i right?
+T 1393966068 18<gresse18>	oh sorry not ()
+T 1393966070 18<gresse18>	:D
+T 1393966073 23*	oiZo (~oizo@dhcp-5-103-45-22.seas-nve.net23) has joined
+T 1393966089 18<SimonVT18>	No
+T 1393966094 18<SimonVT18>	Read up on the activity lifecycle
+T 1393966153 18<ashooby18>	When the docs say that a that a killed service will be restarted automatically, does that mean that the state of the service is saved and loaded upon restart?
+T 1393966165 18<ashooby18>	I'm assuming now
+T 1393966171 18<ashooby18>	s/now/no/
+T 1393966203 18<Mavrik18>	ashooby, no.
+T 1393966241 24*	GusBricker has quit (Remote host closed the connection)
+T 1393966257 24*	oiZo has quit (Max SendQ exceeded)
+T 1393966275 24*	purestrain has quit (Remote host closed the connection)
+T 1393966276 23*	GusBricker (~GusBricke@c220-237-20-42.eburwd9.vic.optusnet.com.au23) has joined
+T 1393966288 23*	oiZo (~oizo@dhcp-5-103-45-22.seas-nve.net23) has joined
+T 1393966289 24*	foofoobar has quit (Ping timeout: 240 seconds)
+T 1393966309 24*	GusBricker has quit (Read error: Connection reset by peer)
+T 1393966316 23*	GusBrick_ (~GusBricke@c220-237-20-42.eburwd9.vic.optusnet.com.au23) has joined
+T 1393966388 24*	Ratboy has quit (Read error: Operation timed out)
+T 1393966711 24*	jaynewstrom has quit (Read error: Connection reset by peer)
+T 1393966717 23*	jaynewst_ (~jaynewstr@63.227.151.17423) has joined
+T 1393966864 18<ashooby18>	what is the best way to kill a service to test what happens when the service gets restarted?
+T 1393967056 24*	frankdrey has quit (Quit: Bye)
+T 1393967073 24*	Kenny164 has quit (Quit: Lost terminal)
+T 1393967190 18<Napalm18>	i've offically decided, i work myself too much
+T 1393967300 24*	28helicopter88 is now known as 18awaycopter88
+T 1393967333 23*	tleyden (~tleyden@12.218.209.6623) has joined
+T 1393967373 18<bankai_18>	ashooby: uiautomator and espresso can do that
+T 1393967415 18<Mavrik18>	ashooby, well you can just kill the process :)
+T 1393967510 23*	patrick91 (~patrick91@188.95.18.10323) has joined
+T 1393967568 18<ashooby18>	Mavrik: when I kill a process through the Application Manager, it shows it as a "cached process" is that what would happen in a low memory situation? It would still be cached?
+T 1393967583 18<Mavrik18>	ashooby, no
+T 1393967590 18<Mavrik18>	ashooby, try to kill it with kill command in shell :)
+T 1393967600 18<Mavrik18>	I think you can do that in DDMS as well
+T 1393967660 23*	Rayne (~Rayne@p5B312683.dip0.t-ipconnect.de23) has joined
+T 1393967663 23*	mylord (~rover@5.29.151.3323) has joined
+T 1393967707 18<ashooby18>	alright, I'll try that ty
+T 1393967814 23*	aleb (~aleb@84-75-253-26.dclient.hispeed.ch23) has joined
+T 1393967876 24*	GusBrick_ has quit (Remote host closed the connection)
+T 1393967931 24*	sandrakwan has quit (Quit: sandrakwan)
+T 1393967959 23*	Ergo_Proxy (~Ergo_Prox@unaffiliated/ergo-proxy/x-476216923) has joined
+T 1393968020 23*	armin (~armin@unaffiliated/armin23) has joined
+T 1393968027 23*	Cronoh (~Cronoh@wsip-70-166-203-100.ph.ph.cox.net23) has joined
+T 1393968040 23*	cerberii (cerberii@gateway/shell/blinkenshell.org/x-wajlaupjdfloyyei23) has joined
+T 1393968107 24*	XXCoder has quit (Ping timeout: 252 seconds)
+T 1393968127 23*	Joker_Da_Man (~chatzilla@host-229-192-107-208.midco.net23) has joined
+T 1393968361 23*	Yatekii (~Yatekii@237.10.150.83.ftth.as8758.net23) has joined
+T 1393968375 23*	b0br (~z0mb1e@cpc21-macc3-2-0-cust27.1-3.cable.virginm.net23) has joined
+T 1393968462 24*	M_Kay has quit (Quit: Nettalk6 - www.ntalk.de)
+T 1393968589 23*	anothernick (anothernic@m83-180-146-29.cust.tele2.se23) has joined
+T 1393968605 24*	danieleB has quit (Read error: Connection reset by peer)
+T 1393968612 24*	Nilium has quit (Ping timeout: 264 seconds)
+T 1393968630 23*	sandrakwan (~sandrakwa@50.56.129.16923) has joined
+T 1393968743 24*	chcx has quit (Remote host closed the connection)
+T 1393968786 23*	muskrat (musk@dyn2-212-50-133-169.psoas.suomi.net23) has joined
+T 1393968883 18<jonc-118>	so I am having issues with bluetooth low energy in a service
+T 1393968899 18<jonc-118>	it seems to die randomly after the app is backed out of / activity is destroyed
+T 1393968930 18<jonc-118>	would my applicationContext ever get removed?
+T 1393968944 23*	amiloxa (~amiloxa@drsd-4dbda052.pool.mediaWays.net23) has joined
+T 1393968953 23*	desmin88 (~desmin88@99-13-46-28.lightspeed.bcvloh.sbcglobal.net23) has joined
+T 1393968981 24*	outlaw84 has quit (Quit: Lost terminal)
+T 1393969036 24*	maarek has quit (Quit: maarek)
+T 1393969083 23*	Disinterest (~robert@96.45.197.2223) has joined
+T 1393969101 23*	Backpacker (~Backpacke@cpc11-bmly8-2-0-cust46.2-3.cable.virginm.net23) has joined
+T 1393969106 23*	Nilium (~Nilium@24.49.202.15923) has joined
+T 1393969162 23*	funktor (~mathme@76-204-1-149.lightspeed.livnmi.sbcglobal.net23) has joined
+T 1393969235 23*	maarek (~maarek@23-255-200-86.mci.googlefiber.net23) has joined
+T 1393969296 24*	Yatekii has quit (Ping timeout: 264 seconds)
+T 1393969309 24*	MrMaffen has quit (Remote host closed the connection)
+T 1393969343 24*	Sicp has quit (Quit: Sicp)
+T 1393969382 23*	doomlord_ (~servitor@host86-184-9-184.range86-184.btcentralplus.com23) has joined
+T 1393969484 24*	sandrakwan has quit (Quit: sandrakwan)
+T 1393969537 24*	vozz (~ollie@cpc21-camd14-2-0-cust832.20-2.cable.virginm.net24) has left
+T 1393969609 23*	XXCoder (~XXCoder@c-24-22-236-248.hsd1.wa.comcast.net23) has joined
+T 1393969766 23*	m76 (~mike@128-73-135-253.broadband.corbina.ru23) has joined
+T 1393969806 23*	setra (~setra@195.16.233.13023) has joined
+T 1393969834 23*	Yatekii (~Yatekii@237.10.150.83.ftth.as8758.net23) has joined
+T 1393970046 18<Muchoz18>	Is it possible to use bold, italic... in toasts?
+T 1393970102 18<Muchoz18>	By just using <b> and not something else.
+T 1393970140 18<rgr18>	totally useless no info to help you help me ... but any tricks to finding out why an app falls over ? Ive built and deployed it using intellij and it comes up . I can break it in the constructors/oncreate but when I hit "resume" I just get "unfortunately, AppName has stopped. Doesnt seem to be any backtrace or info that I can see that helps me determine the crash. Any hints?
+T 1393970203 24*	MachineX (~MachineX@stormyplanet.org24) has left
+T 1393970264 18<Mavrik18>	rgr, um, there certanly has to be a stack trace if you get the "has stopped" message
+T 1393970266 23*	Streusel (~Anonymous@unaffiliated/streusel23) has joined
+T 1393970280 23*	sandrakwan (~sandrakwa@50.56.129.16923) has joined
+T 1393970288 18<Mavrik18>	rgr, check if you have logcat filters, proper device selected and wait for a sec for logcat buffer to reach you :)
+T 1393970294 24*	Waeyan has quit ()
+T 1393970299 24*	amiloxa has quit (Quit: Leaving.)
+T 1393970320 18<rgr18>	will do.
+T 1393970375 23*	fancy42 (~fancy42@95-91-221-116-dynip.superkabel.de23) has joined
+T 1393970377 18<Mavrik18>	because if your app crashes due to something non-java related you don't get the has stopped message, it just disappears :)
+T 1393970411 24*	replaceits has quit (Quit: leaving)
+T 1393970484 18<rgr18>	ok. Looking now. I should be able o filter the logcat in intellij on my app instance class/id right?
+T 1393970519 24*	Unforgiving has quit (Ping timeout: 240 seconds)
+T 1393970534 18<rgr18>	aha, found it. didnt see I had to specifically set a check to filter. ok I see the backtrace now.
+T 1393970557 18<rgr18>	thanks. kind words help us see the wood for the trees at times :)
+T 1393970593 23*	blsuffolk (~blsuffolk@204.62.51.223) has joined
+T 1393970597 24*	w9jds_ has quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+T 1393970697 24*	funktor has quit (Remote host closed the connection)
+T 1393970707 18<Mavrik18>	:))
+T 1393970777 23*	funktor (~mathme@76-204-1-149.lightspeed.livnmi.sbcglobal.net23) has joined
+T 1393970777 23*	Afzal (~Afzal@mc-126-253.IPReg.mcmaster.ca23) has joined
+T 1393970787 23*	g00s (~g00s@unaffiliated/g00s23) has joined
+T 1393970788 24*	zxq9 has quit (Quit: Konversation terminated!)
+T 1393970796 23*	Unforgiving (~cnts@unaffiliated/unforgiving23) has joined
+T 1393970843 23*	GusBricker (~GusBricke@CPE-120-148-198-99.heum1.vic.bigpond.net.au23) has joined
+T 1393971041 18<Muchoz18>	+1 rgr
+T 1393971045 23*	Tweakerman (~toshiba@ip68-6-53-107.sb.sd.cox.net23) has joined
+T 1393971051 24*	DubLo7 has quit (Quit: Leaving.)
+T 1393971054 24*	mylord has quit (Quit: mylord)
+T 1393971088 24*	s73v3r has quit (Ping timeout: 245 seconds)
+T 1393971179 24*	Afzal has quit (Quit: This computer has gone to sleep)
+T 1393971193 18<g00s18>	cool new sdk tools. whats new :)
+T 1393971266 18*	Muchoz commits "Finished cleaning project." *sigh*
+T 1393971274 23*	Afzal (~Afzal@mc-126-253.IPReg.mcmaster.ca23) has joined
+T 1393971284 18<Muchoz18>	g00s, really?
+T 1393971290 18<g00s18>	22.6
+T 1393971361 23*	lasserix (~quassel@wsip-174-76-22-89.oc.oc.cox.net23) has joined
+T 1393971365 24*	patrick91 has quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+T 1393971372 23*	sambae (~textual@cpe-69-204-192-75.stny.res.rr.com23) has joined
+T 1393971377 18<g00s18>	hm, changenotes aren't very informative. actually look like the notes from 22.3 saying new java 7 features, which isn't right
+T 1393971386 18<lasserix18>	Hello, anyone have any problems with the IME suggestion bar covering up the bottom of their UI?
+T 1393971390 24*	funch has quit (Quit: ( www.nnscript.com :: NoNameScript 4.22 :: www.esnation.com ))
+T 1393971403 24*	theTerry has quit (Quit: Leaving.)
+T 1393971406 23*	mylord (~rover@5.29.151.3323) has joined
+T 1393971406 18<Muchoz18>	g00s, can you send me a link to the changenotes?
+T 1393971417 18<g00s18>	http://developer.android.com/tools/sdk/tools-notes.html
+T 1393971423 23*	Gspot (~G@46-218-218.adsl.cyta.gr23) has joined
+T 1393971433 18<Muchoz18>	g00s, thanks
+T 1393971441 18<g00s18>	yw
+T 1393971445 18<Muchoz18>	Bookmarking that
+T 1393971484 18<g00s18>	changenotes for gardle plugin & AS are tools.android.com though
+T 1393971491 18<g00s18>	gradle :)
+T 1393971492 23*	harttho (~harttho@209.66.114.223) has joined
+T 1393971524 24*	funktor has quit (Remote host closed the connection)
+T 1393971559 18<g00s18>	hm, also new android sdk built-tools
+T 1393971577 18<Muchoz18>	I'm glad that I've started using Git finally. How do I convince someone that never used Git to use it?
+T 1393971599 18<rgr18>	oh ye gods. 2 hours to find I'd accidentally trimmed off the super.onCreate... and the stack trace was even telling me that. slap.
+T 1393971616 18<Mavrik18>	there there :)
+T 1393971629 18<rgr18>	Muchoz: just show them how easy and quick it is to set up a remote bare repo and share.
+T 1393971638 18<g00s18>	oh, and gradle-plugin 0.9.0
+T 1393971649 24*	setra has quit (Ping timeout: 240 seconds)
+T 1393971651 18<g00s18>	i bet AS will get an update later today too
+T 1393971657 24*	yano has quit (Read error: Connection reset by peer)
+T 1393971662 18<Muchoz18>	rgr, I'm actually not even using a remote repo.
+T 1393971711 18<rgr18>	Iv ebeen using them for yonks since I get "free git" with my "unlimited domain" hostgator account. nice. even emacs has a nice git interface! intellij isnt bad either with it.
+T 1393971713 18<Muchoz18>	rgr, and I think it'd be better to start on yourself. I tried doing a teamproject with Git before, but it was frustrating because I didn't and still don't have the needed experience to do that.
+T 1393971739 24*	stefkos has quit (Quit: Leaving)
+T 1393971755 23*	yano (~yano@freenode/staff/yano23) has joined
+T 1393971761 18<Muchoz18>	rgr, I don't need a remote repo, I've only got one computer that needs access to it.
+T 1393971775 18<rgr18>	sure. The main thing to TRY (I dont bother) is to use branches for you changes and then remerge. I tend (lazy and on my own) to just trickle update the master and only deploy when I know its working direct from master too.
+T 1393971797 18<rgr18>	not something I'm proud of but works for me and I hate merging...
+T 1393971807 18<Muchoz18>	rgr, I'll start using branches once I finish the base of the app and release it on the Play store.
+T 1393971817 24*	blsuffolk has quit (Ping timeout: 240 seconds)
+T 1393971860 24*	explodes has quit (Quit: Leaving.)
+T 1393971863 23*	Ge (~Ge@unaffiliated/ge23) has joined
+T 1393971905 18<Muchoz18>	I'm quite happy with my first app so far.
+T 1393972044 23*	blsuffolk (~blsuffolk@204.62.35.24723) has joined
+T 1393972106 23*	Napalm|afk (~napalm@unaffiliated/napalm23) has joined
+T 1393972138 18<Muchoz18>	g00s, do you know whether there is an RSS feed about the SDK Tools? (http://developer.android.com/tools/sdk/tools-notes.html)
+T 1393972152 18<g00s18>	not sure
+T 1393972153 23*	explodes (~explodes@unaffiliated/explodes23) has joined
+T 1393972168 18<g00s18>	google doesn't want you to use rss; they want you on google+
+T 1393972178 18<g00s18>	so , yeah google+ android-developers tools
+T 1393972180 18<Muchoz18>	tools.android.com has an RSS feed.
+T 1393972208 24*	Napalm has quit (Ping timeout: 240 seconds)
+T 1393972213 18<g00s18>	i dont think i'll touch 0.9.0 for the moment
+T 1393972254 24*	explodes has quit (Read error: Connection reset by peer)
+T 1393972266 23*	androidnewb (~androidne@99-42-188-188.lightspeed.cicril.sbcglobal.net23) has joined
+T 1393972271 18<androidnewb18>	Hi
+T 1393972281 18<rgr18>	g+ is rapidly becoming a "no thanks" arena for me. Its simply too intrusive : the youtube commenting thing is plain awful for example.
+T 1393972318 18<bankai_18>	same as all social media really
+T 1393972331 23*	Dreadnaught (~Dreadnaug@tlug/member/kulrak23) has joined
+T 1393972364 18<androidnewb18>	Anyone here have expirence with parse.com? with android?
+T 1393972366 23*	explodes (~explodes@unaffiliated/explodes23) has joined
+T 1393972416 18<bankai_18>	was a guy using parse here a few months ago, dunno how he did with it. concept is stupid to me
+T 1393972416 24*	yano has quit (Read error: Connection reset by peer)
+T 1393972425 18<rgr18>	not really no. Since other social media doesnt control a phone OS that insists on google IDs for appstore usage etc and doesnt enforce use of the same ID to post to what was a third party video hosting facility.
+T 1393972452 18<androidnewb18>	bankai_: Your saying parse is stupid?
+T 1393972484 18<g00s18>	no way in hell i'd get vendor-lockin to the service backend
+T 1393972510 18<androidnewb18>	who here is a parse hater?
+T 1393972548 24*	explodes has quit (Read error: Connection reset by peer)
+T 1393972715 24*	longbeach has quit ()
+T 1393972747 24*	androidnewb has quit (Quit: androidnewb)
+T 1393972790 18<g00s18>	rgr all part of the plan to track across devices; cookies don't cut it any more
+T 1393972794 23*	funktor (~mathme@c-68-42-146-116.hsd1.mi.comcast.net23) has joined
+T 1393972809 24*	funktor has quit (Remote host closed the connection)
+T 1393972823 23*	funktor (~mathme@c-68-42-146-116.hsd1.mi.comcast.net23) has joined
+T 1393972832 24*	funktor has quit (Client Quit)
+T 1393972874 24*	daniele_athome has quit (Quit: ZNC - http://znc.in)
+T 1393972939 23*	yano (~yano@freenode/staff/yano23) has joined
+T 1393972997 18<lasserix18>	all the stuff on the play store for an app (splash banner, video, screenshots, info snippit) can be changed at any time?
+T 1393973013 24*	genii has quit (Remote host closed the connection)
+T 1393973018 18<bankai_18>	yep
+T 1393973029 18<lasserix18>	thanks
+T 1393973046 18<bankai_18>	i wouldn't suggest you change your icon though, people identify with icons and if you change it too much it's a bit confusing
+T 1393973067 24*	Rayne has quit (Quit: FATAL ERROR)
+T 1393973086 18<lasserix18>	ahh okay thanks for the tip
+T 1393973114 18<Muchoz18>	lasserix, get a good icon from the start.
+T 1393973128 18<lasserix18>	one exists, :)
+T 1393973131 23*	cobar (~cobar@c-67-172-124-176.hsd1.ca.comcast.net23) has joined
+T 1393973163 18<cobar18>	Does anyone know if it's possible to prevent the My Files app from being launched when you plug in a USB OTG cable on a Galaxy device?
+T 1393973174 18<lasserix18>	hehe
+T 1393973218 23*	nseidm1 (~nseidm1@64.40.14.2623) has joined
+T 1393973354 24*	darrellulm (~darrellul@cpe-24-165-210-41.neo.res.rr.com24) has left
+T 1393973364 24*	\mSg has quit (Ping timeout: 265 seconds)
+T 1393973467 23*	\mSg (~mSg@unaffiliated/msg/x-457634223) has joined
+T 1393973604 24*	Kneferilis has quit (Read error: Connection reset by peer)
+T 1393973604 24*	dreampwnzor has quit (Read error: Connection reset by peer)
+T 1393973604 24*	Rangar has quit (Read error: Connection reset by peer)
+T 1393973678 24*	nseidm1 has quit (Ping timeout: 240 seconds)
+T 1393973686 24*	m76 has quit (Ping timeout: 252 seconds)
+T 1393973697 23*	wtf_ (~wtf_@209.116.213.13123) has joined
+T 1393973699 23*	explodes (~explodes@unaffiliated/explodes23) has joined
+T 1393973761 24*	desmin88 has quit (Ping timeout: 240 seconds)
+T 1393973830 23*	adkins (~adkins@dslb-094-216-134-103.pools.arcor-ip.net23) has joined
+T 1393973834 18<adkins18>	i have an image button in a linearlayout and want to set the layout the exact height and width like the image button programmatically. cant find anything working on the web......any help?
+T 1393973834 23*	weBeThreadin (~apalm@66.42.142.15523) has joined
+T 1393973836 24*	fr4nk has quit (Read error: Connection reset by peer)
+T 1393973839 24*	sambae (~textual@cpe-69-204-192-75.stny.res.rr.com24) has left ("Textual IRC Client: www.textualapp.com")
+T 1393973915 24*	Fisiu has quit (Read error: Operation timed out)
+T 1393973938 23*	regreddit (~regreddit@unaffiliated/regreddit23) has joined
+T 1393973941 23*	Fisiu (~desktop@opensuse/member/Fisiu23) has joined
+T 1393973960 24*	Project_2501 has quit (Quit: E se abbasso questa leva che succ...)
+T 1393974013 18<regreddit18>	if android has the Pair class, is it possible to override its toString() method, while still using the original class (not ctrating my own pair class)?
+T 1393974035 18<weBeThreadin18>	Hi all, I have built an abstract class to download data. It's built on an async task and the user overrides an onSuccess and onFailure method (both get a string created from the input stream). I'm having difficulty creating a bitmap out of this data. Previously I had a special image downloader and it created the bitmap using BitmapFactory.decodeStream(conn.getInputStream()) but now that I'm using a string I can't get it to work. I create the string
+T 1393974036 18<weBeThreadin18>	using: http://stackoverflow.com/questions/10752919/how-can-i-convert-inputstream-data-to-string-in-android-soap-webservices and try to create the bitmap using: http://stackoverflow.com/questions/16966656/android-bitmap-isnt-created-from-base64
+T 1393974037 18<regreddit18>	I need Pait.toString() to return Pair.first.toString()
+T 1393974037 18<weBeThreadin18>	Any ideas?
+T 1393974081 24*	lasserix has quit (Read error: Connection reset by peer)
+T 1393974170 23*	meti_ (~meti@unaffiliated/meti23) has joined
+T 1393974175 18<bankai_18>	regreddit: like in objective-c? no ...
+T 1393974183 18<Muchoz18>	adkins, I'm working on the same problem my friend.
+T 1393974202 18<adkins18>	Muchoz: ;)
+T 1393974206 23*	jug6ernaut (~jug6ernau@unaffiliated/jug6ernaut23) has joined
+T 1393974222 18<regreddit18>	bankai_: I guess, I'm new to java, and the pair toString() returns crap
+T 1393974243 18<regreddit18>	so I have to subclass Pair to override toString()?
+T 1393974259 18<bankai_18>	yep
+T 1393974265 18<regreddit18>	ok thanks
+T 1393974287 18<adkins18>	Muchoz: my imagebutton is wrapped to its image but i have so much space around the button in the linearlayout the button is in. cant get rid of it ;(
+T 1393974318 23*	Pyuruku (~Pyuruku@50.242.109.3823) has joined
+T 1393974319 24*	meti has quit (Ping timeout: 260 seconds)
+T 1393974339 18<Pyuruku18>	Does anyone know where the mediastore db file is located on disk?
+T 1393974344 18<wtf_18>	hey guys im trying to follow along the tutorials on the developer.android page and they're not compiling even though im copying things line for line, is there a better way to go about trying to immerse yourself in the construction of apps? i've looked for, say, complete samples of others works and then tutorials based off those samples but have not had much luck in that regard
+T 1393974359 23*	scarabx (~scarabx@c-98-216-54-17.hsd1.ma.comcast.net23) has joined
+T 1393974373 18<bankai_18>	wtf_: what kinda errors are you getting ?
+T 1393974387 18<wtf_18>	No errors at compile, yet program "suddenly closed" in the emulator
+T 1393974396 18<bankai_18>	read the logs
+T 1393974402 18<wtf_18>	Which logs?
+T 1393974405 24*	Muchoz (~Muchoz@42.114-243-81.adsl-dyn.isp.belgacom.be24) has left ("Using Textual IRC Client.")
+T 1393974410 23*	Muchoz (~Muchoz@42.114-243-81.adsl-dyn.isp.belgacom.be23) has joined
+T 1393974430 18<Muchoz18>	adkins, this is what I'm experiencing: http://i.imgur.com/D6j568x.png The border is the ImageView
+T 1393974458 18<rgr18>	its quite funny looking at the size of "widgets" and their data in Android (and I daresay iOS) when comparing back to years ago when I programmers OS/2 and Win32. Jesus there's some overheads on edits/views etc these days with the increasing complexities demanded of the UIs.
+T 1393974497 18<rgr18>	wtf_: look at/google logcat.
+T 1393974512 24*	davidcorrado has quit (Remote host closed the connection)
+T 1393974525 18<wtf_18>	ok i see, i didnt know what that meant when it popped up
+T 1393974583 18<wtf_18>	i got an android programming book online im going to start reading it in my downtime
+T 1393974661 18<wtf_18>	"unfortunately myfirstapp has stopped" is the error i get
+T 1393974664 18<wtf_18>	im gonna try and logcat it
+T 1393974675 23*	Maziz (~Maziz@203.205.6.9423) has joined
+T 1393974675 24*	Wamercz has quit (Read error: Connection reset by peer)
+T 1393974728 18<bankai_18>	are you using AS? i think a lot of these older tutorials just won't work with AS without a bit of hacking and a tiny bit of bg knowledge
+T 1393974736 18<rgr18>	step through wit the debugger too.
+T 1393974745 18<wtf_18>	what is AS? im using Eclipse IDE
+T 1393974750 23*	androidnewb (~androidne@99-42-188-188.lightspeed.cicril.sbcglobal.net23) has joined
+T 1393974752 24*	Yatekii has quit (Remote host closed the connection)
+T 1393974752 18<rgr18>	bankai_ also makes a good point. The development scene can be confusing.
+T 1393974778 24*	Orbitrix has quit (Remote host closed the connection)
+T 1393974782 23*	totic (~Adium@73.sub-70-208-75.myvzw.com23) has joined
+T 1393974783 18<rgr18>	AS is android studio a supped up intellij for android - and even more confusing as you need to learn maven/gradle stuff.
+T 1393974786 23*	smallfoot- (~smallfoot@unaffiliated/smallfoot-23) has joined
+T 1393974789 18<fancy4218>	i get an "androidmanifest.xml file is missing!" error, even though my project is not an android project anymore. any ideas what might cause this?
+T 1393974838 18<smallfoot-18>	Should my MainActivity call SettingsActivity which in turn does nothing but call the SettingsFragment, or should my MainActivity directly call the SettingsFragment?
+T 1393974841 18<totic18>	Hi, is there a way to erase something using the canvas? I am trying to make a ring, and I want to use two circles to make it work
+T 1393974843 18<bankai_18>	i have issues with the default project gradle (IJ/AS?) creates... i end up stripping it down to nothing.... maybe i should just create it from CLI :S
+T 1393974892 23*	pierre1_ (~pierre1@179.218.154.20823) has joined
+T 1393974933 23*	nseidm1 (~nseidm1@64.40.14.2623) has joined
+T 1393974939 18<regreddit18>	bankai_: it can be as simple as a one line class wrapper that Overrides toString, correct?
+T 1393974952 18<androidnewb18>	Hi, anyone know any tool in android that lets you upload video in the cloud?
+T 1393974955 18<bankai_18>	pretty much, regreddit
+T 1393974978 23*	w9jds_ (~w9jds@c-71-201-239-70.hsd1.il.comcast.net23) has joined
+T 1393974978 24*	w9jds_ has quit (Client Quit)
+T 1393974985 18<regreddit18>	cool, thanks.  trying to learn java as I go, dont want to just be a cut-n-paste hack :)
+T 1393975009 24*	mylord has quit (Quit: mylord)
+T 1393975010 18<bankai_18>	regreddit: yeah those lead to problems - wound up in a huge mess doing that multiple times
+T 1393975037 23*	kketch (~kketch@pla78-h01-31-33-105-143.dsl.sta.abo.bbox.fr23) has joined
+T 1393975051 18<Muchoz18>	rgr, AS is already much better than IDEA itself for Android Dev. It's quite a nightmare in IDEA with Gradle for some reason.
+T 1393975066 23*	Mongey (~conormong@79.97.125.23923) has joined
+T 1393975090 24*	androidnewb has quit (Quit: androidnewb)
+T 1393975129 24*	Backpacker (~Backpacke@cpc11-bmly8-2-0-cust46.2-3.cable.virginm.net24) has left ("Backpacker says bye")
+T 1393975149 23*	NoFear (~xtreme@bl18-215-206.dsl.telepac.pt23) has joined
+T 1393975151 18<rgr18>	im not advanced enough to even use gradle in intellij I think.
+T 1393975168 18<rgr18>	or maybe its using it and I dont know. its all very very confusing.
+T 1393975170 24*	Gspot has quit (Remote host closed the connection)
+T 1393975183 18<rgr18>	sometimes you just wish for old fasjioned make files..
+T 1393975199 24*	nseidm1 has quit (Ping timeout: 240 seconds)
+T 1393975210 18<bankai_18>	rgr: IJ13 gives you the option, IJ12 doesn't (for android anyway)
+T 1393975247 23*	w9jds_ (~w9jds@c-71-201-239-70.hsd1.il.comcast.net23) has joined
+T 1393975247 24*	w9jds_ has quit (Client Quit)
+T 1393975267 24*	timroes has quit (Remote host closed the connection)
+T 1393975307 18<NoFear18>	i'm trying to compile a kernel for the first time, when i try to do make clean && mrproper it says TARGET_PRODUCT/PROJECT is not set, any suggestions?
+T 1393975315 18<rgr18>	yeah I noticed that.
+T 1393975345 24*	Miklas has quit (Ping timeout: 240 seconds)
+T 1393975405 18<doomlord_18>	yesterday i had ndk stuff running with rust compiled code.. today, it seems adb logcat is telling me something about "No content provider found for permission revoke:"
+T 1393975516 24*	explodes has quit (Quit: Leaving.)
+T 1393975520 24*	frankdoyle has quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+T 1393975666 24*	Slash_Tag has quit ()
+T 1393975948 18<Muchoz18>	Google, I demand a lawsuit! http://www.imdb.com/title/tt3393070/
+T 1393975982 18<_Auron_18>	lol
+T 1393976004 18<Muchoz18>	What a shame!
+T 1393976100 18<_Auron_18>	trademarks are within certain categories though
+T 1393976106 18<rgr18>	intellij users - im having no luck in limiting the logcat to only my process. I set it to filter but its whizzing by with all sorts of junk from dalvik, chrome, com.google.process. What am I doing wong? Also whats the "design" diffference ebwteen the debug logcat tab and the andoird logcat tab?
+T 1393976288 18<_Auron_18>	http://developer.android.com/reference/android/util/Log.html
+T 1393976337 18<_Auron_18>	I'm not familiar with intellij at all though, but perhaps that may help.
+T 1393976344 23*	dj_pi (~dj@c-107-5-25-243.hsd1.mi.comcast.net23) has joined
+T 1393976398 18<bankai_18>	i'm on ij13, i can't see more than one logcat tab, where are you looking ?
+T 1393976425 18<Muchoz18>	rgr, why not switch to AS?
+T 1393976446 18<_Auron_18>	https://www.jetbrains.com/idea/webhelp/debugging-with-logcat.html <-- this is probably what you need
+T 1393976471 24*	weBeThreadin has quit (Quit: weBeThreadin)
+T 1393976531 18<rgr18>	why would I switch to AS? its exact same give or take but with less flexibility.
+T 1393976549 18<shigeru18>	lol
+T 1393976564 18<bankai_18>	rgr: yes exactly the same
+T 1393976613 24*	Ge has quit (Quit: BBL.)
+T 1393976627 18<Muchoz18>	rgr, less flexibility?
+T 1393976666 18<rgr18>	I dont want to go the gradle route. I dont want to be limited to only Android apps. AS is a direct fork off idea. For the purposes of developing "first apps" AS doesnt offer much - I dont need its "smarter" project set up ( I did try it and gradle made a right screw up of dependency management and downloads).
+T 1393976667 24*	Onixs has quit (Read error: Connection reset by peer)
+T 1393976690 18<rgr18>	(I think it was gradle. god knows how its all strung together)
+T 1393976753 24*	gresse has quit (Quit: Page closed)
+T 1393976800 23*	genii (~quassel@ubuntu/member/genii23) has joined
+T 1393976807 24*	28ohcibi_ is now known as 18ohcibi
+T 1393976869 18<Muchoz18>	rgr, that is totally not true. AS is very similar to IDEA but has a better integration with Android. Gradle is not needed for an Android app in either IDEA or AS. What 'smarter' project setup are you even talking about?
+T 1393976890 24*	Dreadnaught has quit (Ping timeout: 256 seconds)
+T 1393976894 24*	CPngN (~CPngN@unaffiliated/cpngn/x-698519924) has left ("Later daze")
+T 1393976928 23*	Orbitrix (~Huevos@c-76-113-30-226.hsd1.nm.comcast.net23) has joined
+T 1393976928 24*	Orbitrix has quit (Excess Flood)
+T 1393976949 18<rgr18>	AS is there for a reason : one is easier Android app configuration. Admittedly I tried it a month ago. It offered nothign in terms of development or debugging that isnt in IDEA community edition from what I can see.
+T 1393976961 23*	Orbitrix (~Huevos@c-76-113-30-226.hsd1.nm.comcast.net23) has joined
+T 1393976962 24*	Orbitrix has quit (Excess Flood)

@@ -1,0 +1,610 @@
+T 1394541665 24*	smica_ has quit (Quit: Távozom)
+T 1394541735 23*	siso (~siso@94.236.7.19023) has joined
+T 1394541748 24*	Almtesh has quit (Remote host closed the connection)
+T 1394541756 23*	GigaG33k (~frakingch@65-116-221-195.dia.static.qwest.net23) has joined
+T 1394541782 23*	ruukasu (~ruukasu@209.222.15.23023) has joined
+T 1394541783 24*	ruukasu has quit (Changing host)
+T 1394541783 23*	ruukasu (~ruukasu@unaffiliated/ruukasu23) has joined
+T 1394541845 23*	ndrei (~avo@83.142.149.22723) has joined
+T 1394541868 24*	Rashy_ has quit (Read error: Connection reset by peer)
+T 1394541869 24*	tavish has quit (Quit: Lost terminal)
+T 1394541897 23*	J8 (~J8@c-98-194-188-8.hsd1.tx.comcast.net23) has joined
+T 1394541899 23*	grobda24 (~grobda24-@silentflame/member/grobda2423) has joined
+T 1394541901 23*	Rashy_ (~rashdanml@135.0.67.2223) has joined
+T 1394541903 23*	SickB (~SickB@214.80-203-102.nextgentel.com23) has joined
+T 1394541904 24*	SickB has quit (Max SendQ exceeded)
+T 1394541909 24*	eg0x has quit (Quit: leaving)
+T 1394541941 23*	SickB (~SickB@214.80-203-102.nextgentel.com23) has joined
+T 1394541956 23*	andrewjs18 (~andrew@pool-108-2-11-234.phlapa.east.verizon.net23) has joined
+T 1394541997 24*	eskimio has quit (Quit: Textual IRC Client: http://www.textualapp.com/)
+T 1394542002 23*	netsnail (~netsnail@117.79.232.323) has joined
+T 1394542032 24*	Ritzton has quit (Ping timeout: 240 seconds)
+T 1394542108 24*	GusBricker has quit (Remote host closed the connection)
+T 1394542115 18<viscera18>	damnit emacs, stop tempting me with all your cool integration with gnu software (gdb)
+T 1394542122 23*	apx (apx@s17479677.onlinehome-server.info23) has joined
+T 1394542153 23*	qlixed (~QliXed@201.94.151.11023) has joined
+T 1394542324 18<brightkill18>	use vim!
+T 1394542347 23*	earth (~earth@178-223-55-196.dynamic.isp.telekom.rs23) has joined
+T 1394542361 23*	gnubee (~gnubee@27-33-248-128.static.tpgi.com.au23) has joined
+T 1394542381 18<brightkill18>	emacs was made for making a coffee :)
+T 1394542427 18<Ussat18>	emacs was made by RMS, emacs, like RMS should die a slow painful death
+T 1394542443 24*	Metal-01 has quit (Quit: Leaving)
+T 1394542466 18<brightkill18>	why RMS should die? o_O
+T 1394542469 24*	28RickyB98 is now known as 18rickyb98
+T 1394542469 18<KittenGNU18>	That's rather a silly reason to not use a certain kind of software
+T 1394542486 24*	jayaura has quit (Ping timeout: 264 seconds)
+T 1394542487 18<viscera18>	brightkill, i generally do use vim :)
+T 1394542491 23*	chasmo77 (~chas77@35.222-62-69.ftth.swbr.surewest.net23) has joined
+T 1394542509 23*	||oop (oop@c-68-80-152-235.hsd1.nj.comcast.net23) has joined
+T 1394542513 18<viscera18>	i fired-up emacs and was surprised at how many commands i remember ;-)
+T 1394542530 18<colo-work18>	!ops Ussat <Ussat> emacs was made by RMS, emacs, like RMS should die a slow painful death
+T 1394542533 23*	rich_at_bitpay (~rich_at_b@72.16.218.2223) has joined
+T 1394542553 24*	m0rd3cai has quit (Remote host closed the connection)
+T 1394542558 24*	Paden has quit (Ping timeout: 264 seconds)
+T 1394542572 18<DLange18>	thanks for repeating that bs, colo-work :/
+T 1394542572 18<Ussat18>	colo-work, so ?
+T 1394542588 23*	af_ (~af@93-43-33-209.ip90.fastwebnet.it23) has joined
+T 1394542607 18<colo-work18>	DLange, I merely notified the ops of trolling, which is what the channel topic suggests
+T 1394542631 18<brightkill18>	where is a linux, there is a trolling :D
+T 1394542635 18<DLange18>	colo-work: 1) you can PM AntiSpamMeta, 2) esp. when you want to repeat the spam :o)
+T 1394542642 23*	bollullera (~ana@95.63.152.10623) has joined
+T 1394542648 18<Ussat18>	Oh I have nothing against Linux, I use it daily at work
+T 1394542658 18<colo-work18>	DLange, I did not know about option 1), but I was told in response to my summoning attempt
+T 1394542658 18<Ussat18>	have been for years
+T 1394542666 18<KittenGNU18>	then you also use GNU
+T 1394542670 18<KittenGNU18>	deal with it
+T 1394542674 18<colo-work18>	I mean, if that's not what people should do, the ops should think about actually removing it from the topic?
+T 1394542679 24*	victorbjelkholm has quit (Ping timeout: 265 seconds)
+T 1394542686 18<Ussat18>	KittenGNU, true, that does not change my opinion of RMS
+T 1394542687 23*	jtri (~jtritz@35.2.34.8523) has joined
+T 1394542697 18<viscera18>	look what i started! awesome.
+T 1394542705 18<Ussat18>	++ viscera
+T 1394542707 18<brightkill18>	Ussat: bsd-user?
+T 1394542712 18<brightkill18>	or os x user :)
+T 1394542713 24*	bollullera (~ana@95.63.152.10624) has left
+T 1394542717 18<Ussat18>	brightkill, among other OS's
+T 1394542726 18<DLange18>	colo-work: no it's o.k. to use !ops. Just don't repeat the spam but make it a reason. !ops Ussat insulting RMS   would have done :)
+T 1394542738 18<brightkill18>	Ussat: what os do u use as a regular os?
+T 1394542748 18<Ussat18>	I did not realise insulting RMS was a crime.
+T 1394542769 18<Ussat18>	brightkill, at work or at home ?
+T 1394542770 18<viscera18>	wishing death upon someone is a bit harsh
+T 1394542775 18<KittenGNU18>	^
+T 1394542783 23*	bollullera (~ana@95.63.152.10623) has joined
+T 1394542795 24*	R0nin has quit (Ping timeout: 265 seconds)
+T 1394542796 18<Ussat18>	and , that matters how ?
+T 1394542799 24*	rich_at_bitpay has quit (Ping timeout: 240 seconds)
+T 1394542800 18<brightkill18>	Ussat: at home
+T 1394542802 18<viscera18>	it's anti-social
+T 1394542803 24*	fisted has quit (Remote host closed the connection)
+T 1394542808 18<colo-work18>	DLange, I'm not a native speaker; a death wish isn't what I'd call "insulting", and I don't care much about whom the user insulted in this instance. I just find it very offensive to wish for anyone's death...
+T 1394542812 18<DLange18>	whishing people to die "a slow painful death" publically probably is where you are, Ussat. Depends on local laws.
+T 1394542834 23*	fisted (~fisted@unaffiliated/fisted23) has joined
+T 1394542836 18<colo-work18>	it was just a shortcut to make sure nothing gets lost in translation
+T 1394542849 18<Ussat18>	DLange, actually, its not a crime where I am to wish it, its called free speach, but ok
+T 1394542864 23*	weasy (~weasy@50.56.228.6523) has joined
+T 1394542871 18<Ussat18>	and braincrash why does what OS I use at home matter ?
+T 1394542879 18<Ussat18>	brightkill, I mean
+T 1394542886 23*	victorbjelkholm (~VictorBje@220.Red-80-26-96.staticIP.rima-tde.net23) has joined
+T 1394542887 18<BCMM18>	there is no jurisdiction where "free speech" is absolute.
+T 1394542898 18<Ussat18>	BCMM, I never said there was
+T 1394542918 24*	Taylor has quit (Ping timeout: 252 seconds)
+T 1394542929 23*	PaulB0 (~PaulB0@gateway.genevasi.com23) has joined
+T 1394542939 23*	failed_array (~failed_ar@cpe-66-108-56-174.nyc.res.rr.com23) has joined
+T 1394542961 18<Ussat18>	brightkill, if you must know, I have both windows systems and *nix systems at home.
+T 1394542972 18<Ussat18>	and at work I use mostly *nix
+T 1394542976 24*	ralinux (~root@119.Red-79-147-36.dynamicIP.rima-tde.net24) has left
+T 1394542981 18<viscera18>	so anyway, what's the best option for vim/gdb integration? there seems to be at least 3 solutions out there
+T 1394542998 23*	amoe (~amoe@li195-121.members.linode.com23) has joined
+T 1394543028 23*	dazer (~chatzilla@CPE-58-168-240-174.lns1.civ.bigpond.net.au23) has joined
+T 1394543076 23*	linux-ninja (~grullonbb@fwpat.freshdirect.com23) has joined
+T 1394543129 24*	bal has quit (Ping timeout: 240 seconds)
+T 1394543132 23*	br4ndon (~br4ndon@195.33.51.3123) has joined
+T 1394543169 24*	dazer (~chatzilla@CPE-58-168-240-174.lns1.civ.bigpond.net.au24) has left
+T 1394543202 23*	thepreacher (~thepreach@118.35.208.46.dyn.plus.net23) has joined
+T 1394543210 23*	bal (~Thunderbi@86.125.63.6623) has joined
+T 1394543248 24*	SS01 has quit (Ping timeout: 252 seconds)
+T 1394543251 23*	poss (~chatzilla@CPE-58-168-240-174.lns1.civ.bigpond.net.au23) has joined
+T 1394543336 24*	DarkRoom has quit (Quit: leaving)
+T 1394543378 18<cybrNaut18>	Ussat: it's gnu/linux, not linux, to be clear
+T 1394543387 18<Ussat18>	meh..its linux
+T 1394543393 18<Ussat18>	I dont follow that religion
+T 1394543395 18<poss18>	good evening.  I am getting a grub error on my windows machine, and its making no sense to me.
+T 1394543418 24*	br4ndon has quit (Read error: Operation timed out)
+T 1394543455 18<viscera18>	ah, the ever-ironic gnu/linux naming controversy
+T 1394543463 23*	observ3r (~observ3r@134.223.121.3623) has joined
+T 1394543471 23*	merica (~merica@41.78.88.12923) has joined
+T 1394543476 18<Ussat18>	heh
+T 1394543478 24*	gnubee has quit (Quit: Ex-Chat)
+T 1394543497 18<cybrNaut18>	i don't see it as a religion.  When you choose to speak a language correctly, you're not really choosing a religion, you're just choosing to be correct
+T 1394543499 18<Ussat18>	viscera, TBH I dont care about that controversy
+T 1394543502 23*	hyperair (~hyperair@ubuntu/member/hyperair23) has joined
+T 1394543509 23*	qwyeth (~qwyeth@static-108-27-36-18.nycmny.fios.verizon.net23) has joined
+T 1394543520 24*	mdih has quit (Ping timeout: 240 seconds)
+T 1394543522 18<viscera18>	cybrNaut, ask me why it's ironic ;-)
+T 1394543532 18<Ussat18>	cybrNaut, well, our opinions differ it seems
+T 1394543537 18<cybrNaut18>	improper language should be corrected, generally
+T 1394543552 18<viscera18>	improper language should generally be corrected**
+T 1394543553 18<poss18>	I got sick of being peer pressued into using windows to play games with friends, and I finally caved and installed windows over my linux install.   formatting the whole drive.    It was all working fine, until i overloaded the machine by running fractals nonstop for several days.   It generated a blue screen and rebooted into a broken grub screen
+T 1394543556 18<Ussat18>	except I do not see that as improper
+T 1394543564 18<viscera18>	d'oh
+T 1394543567 18<cybrNaut18>	would you want your kid growing up using the word "ain't?"
+T 1394543570 23*	__file__ (~textual@textual/developer/mikeym23) has joined
+T 1394543603 24*	bollullera has quit (Read error: Connection reset by peer)
+T 1394543625 23*	anonymuse (~anonymuse@client-58.568-ether.bway.net23) has joined
+T 1394543626 18<cybrNaut18>	Ussat: it's improper, because linux refers to the /kernel/, and generally only appropriate when you really mean to discuss the kernel itself
+T 1394543628 18<poss18>	grub says there are no partions, so I throw in a live usb, but then it says that normal.mod was not found
+T 1394543648 23*	bollullera (~ana@95.63.152.10623) has joined
+T 1394543652 18<cybrNaut18>	when you talk about the whole thing, you don't refer to a part of the whole as the whole
+T 1394543668 18<Ussat18>	cybrNaut, I know what the kernel is thank you and I do not care what you say/believe
+T 1394543687 18<cybrNaut18>	Ussat: it's not an opinion
+T 1394543688 18<viscera18>	cybrNaut, don't get me wrong, i think the GNU project is valuable. But don't you think it's ironic that you're trying to get people to call it GNU/Linux in a GNU/Linux channel called ##linux?
+T 1394543689 23*	rojem (~rojem@pool-173-48-164-175.bstnma.fios.verizon.net23) has joined
+T 1394543704 18<viscera18>	ie. non-GNU/Linux is offtopic here, yet it's still called ##linux
+T 1394543706 18<Ussat18>	++ viscera
+T 1394543710 23*	pxed (~pxed@wsip-24-255-126-23.ph.ph.cox.net23) has joined
+T 1394543712 24*	observ3r has quit (Client Quit)
+T 1394543721 18<Ussat18>	and technically its MORE than GNU + Linux....
+T 1394543749 18<viscera18>	i believe that GNU should get credit for their work... but come on, "gnu/linux"? doesn't exactly roll off the tongue. Marketing fail on GNU's behalf.
+T 1394543753 18<cybrNaut18>	Ussat: only if you mean to refer to a larger whole
+T 1394543762 24*	sullyj3 has quit (Ping timeout: 241 seconds)
+T 1394543764 18<viscera18>	nobody can be bothered saying it each time
+T 1394543767 18<poss18>	cybrNaut: language is an ever evolving series of metaphors, dictionaries are based on current usage, not on the rules of formal grammar.  Furthermore, gnu/linux is a misnomer http://www.ties.org/deven/gnu-linux.html
+T 1394543778 18<crabmelt18>	rofl rms has your license http://news.chinaunix.net/peoples/2013/0703/2833086.shtml but gabes got yer back http://www.linuxgamebase.com/1184.html
+T 1394543779 24*	siso has quit (Read error: Connection reset by peer)
+T 1394543780 18<reo18>	kde/linux is far more correct for me!
+T 1394543784 18<cybrNaut18>	you could say it's "computer software" if you really want to broaden what you're trying to refer to
+T 1394543784 18<viscera18>	not to mention the fact that gnu don't actually release an OS
+T 1394543787 23*	SS01 (~textual@199.167.138.22323) has joined
+T 1394543797 18<iptable18>	boot/linux
+T 1394543797 18<viscera18>	they talk about it, but they don't do it. so it's up to distributions to name things
+T 1394543797 23*	vkbsh (~vkbsh@207-38-151-173.c3-0.avec-ubr2.nyr-avec.ny.cable.rcn.com23) has joined
+T 1394543805 23*	Pinkamena_D (~paul@207.200.169.823) has joined
+T 1394543808 23*	IamTrying (~IamTrying@82.143.92.1923) has joined
+T 1394543814 23*	siso (~siso@92.52.76.14023) has joined
+T 1394543817 18<BCMM18>	people use "linux" because, before android came out, it was a pretty much unambiguous description of an operating system
+T 1394543823 24*	__file__ has quit (Client Quit)
+T 1394543824 18<viscera18>	just like MB/MiB
+T 1394543825 23*	eskimio (~Eskimio@c-69-253-224-38.hsd1.pa.comcast.net23) has joined
+T 1394543839 18<viscera18>	if you use MB to mean powers of 10, stop doing that
+T 1394543842 23*	__file__ (~textual@textual/developer/mikeym23) has joined
+T 1394543844 18<BCMM18>	the problem is that the GNU/ would have been superfluous until comparatively recently
+T 1394543854 18<IamTrying18>	 Gmail i am using FREE and Commercial paid version too. Now in my Gmail inbox i have 3000 Email's how can i read all the inbox and copy the Email address into a CSV file ?
+T 1394543859 18<viscera18>	and if you use "linux" when it's ambiguous, stop doing that, too
+T 1394543863 18<viscera18>	end of story
+T 1394543866 24*	InspectorCluseau has quit (Quit: InspectorCluseau)
+T 1394543903 18<viscera18>	but you can generally tell from context when "linux" means "gnu/linux" or "the linux kernel"
+T 1394543905 23*	InspectorCluseau (~Inspector@75-168-233-188.mpls.qwest.net23) has joined
+T 1394543927 23*	jcvfen (~textual@124.96.45.31.customer.cdi.no23) has joined
+T 1394543941 23*	CheckDavid (uid14990@gateway/web/irccloud.com/x-kqysyxcmxrpyiwns23) has joined
+T 1394543953 24*	rojem has quit (Client Quit)
+T 1394543959 24*	d0c5i5 has quit (Ping timeout: 244 seconds)
+T 1394543985 18<KittenGNU18>	BCMM: BusyBox has been around before Android.
+T 1394544009 18<BCMM18>	i should probably have said "for desktop operating systems"
+T 1394544029 23*	Kismet (~Thunderbi@l37-192-192-216.novotelecom.ru23) has joined
+T 1394544033 23*	jayaura (~jayaura@111.92.123.18823) has joined
+T 1394544037 18<BCMM18>	it's hard to find a user-facing system system that doesn't use a full libc
+T 1394544039 23*	jprjr (jprjr@unaffiliated/jprjr23) has joined
+T 1394544048 24*	vkbsh has quit (Ping timeout: 240 seconds)
+T 1394544049 23*	yezster (~yez@125.60.156.24323) has joined
+T 1394544058 18<iptable18>	BCMM, I have used "linux" and called it "linux" as a desktop for many years, long before android came out
+T 1394544061 18<poss18>	if you are going to call it Gnu/Linux, why stop there? Why not Gnu/OPEN/X.org/BSD/Linux?
+T 1394544083 18<iptable18>	it's hard to find one that doesn't use a kernel either, what's your point?
+T 1394544110 18<BCMM18>	i mean, doesn't use glibc or a fork based on glibc
+T 1394544111 23*	rigo88 (4fd4fd3c@gateway/web/freenode/ip.79.212.253.6023) has joined
+T 1394544111 18<iptable18>	Linux = Kernel + modules + libraries + other GNU stuff + other stuff on top. and a cherry
+T 1394544124 18<LinuxBot18>	[FORUMS] I just posted topic "A discussion between database and kernel developers" in the forums - http://tinyurl.com/kjdmew4
+T 1394544124 18<Ussat18>	with whip cream
+T 1394544126 18<KittenGNU18>	Because it isn't nessicary. The same way we don't call it Windows/NT/Aero
+T 1394544128 18<poss18>	The majority of people using Linux today pronounce it "Android"
+T 1394544132 18<iptable18>	that's how we are supposed to look at it nowadays
+T 1394544145 18<KittenGNU18>	I see Android Linux tossed around a lot.
+T 1394544146 18<BCMM18>	iptable: personally the cherry is one of my least favourite bits...
+T 1394544147 18<viscera18>	Goog/Linux
+T 1394544153 18<g0z18>	I browse the web with Firefox/GNU/Linux
+T 1394544153 18<iptable18>	poss, lol. altohugh there is debate on whether android is really linux or a fork of it. let's not go there
+T 1394544162 18<iptable18>	BCMM, leave it to me then
+T 1394544164 18<Ussat18>	oh lets
+T 1394544169 18<BCMM18>	iptable: (http://wiki.maemo.org/PR1.2_compulsory_My_Nokia_subscription btw)
+T 1394544172 18<viscera18>	g0z, don't you mean AdBlock_Plus/GNU/Linux? ;-)
+T 1394544179 18<viscera18>	uh
+T 1394544182 18<viscera18>	insert a Firefox in there
+T 1394544190 18<BCMM18>	nokia shipped a really annoying /usr/bin/cherry
+T 1394544206 24*	aarapov has quit (Quit: bye...)
+T 1394544210 23*	observ3r (~observ3r@134.223.121.3623) has joined
+T 1394544211 18<viscera18>	iptable, i thought the forked stuff got merged a while back?
+T 1394544221 18<viscera18>	into the kernel
+T 1394544234 18<viscera18>	oh my god, if only you had said gnu/linux i would have known what you were talking about! :)
+T 1394544235 18<KittenGNU18>	g0z: so your firefox runs a GNU/Linux system on top of it?
+T 1394544240 18<iptable18>	viscera, like java GUI :P
+T 1394544247 18<jprjr18>	Most people using computers today pronounce Linux as "that thing where you type a bunch of shit and stuff happens"
+T 1394544257 18<rigo8818>	how can i schedule the rsync or whatever to copy the data from the local drive called.. "A" to the remote drive called "B" only if they are downloaded via filezilla? i guess there is no function "incomplete" in filezilla..
+T 1394544258 18<g0z18>	KittenGNU: yes, linux ported to javascript
+T 1394544260 18<iptable18>	viscera, lol. yes, when someone says linux, we don't know they talk about gnu/linux :P
+T 1394544261 18<BCMM18>	KittenGNU: yup http://bellard.org/jslinux/
+T 1394544275 18<viscera18>	"that thing my cousin loaded to try and get rid of xp but we went back because my printer wouldn't work and the graphics did weird things"
+T 1394544277 24*	Jesin has quit (Read error: Connection timed out)
+T 1394544285 24*	trueneu has quit (Quit: My MacBook has gone to sleep. ZZZzzz…)
+T 1394544301 18<jprjr18>	"that thing this weird friend of mine keeps going on about I dunno hey toss me my iPad"
+T 1394544303 18<iptable18>	viscera, printers nowadays work and graphics cads work too if people remevmer to install drivers
+T 1394544312 24*	observ3r has quit (Client Quit)
+T 1394544321 23*	Jesin (~Jesin@pool-96-255-140-87.washdc.fios.verizon.net23) has joined
+T 1394544322 24*	hyperair has quit (Ping timeout: 264 seconds)
+T 1394544342 18<cybrNaut18>	of course, people are quite capable of doing mental corrections when they hear something wrong
+T 1394544343 23*	observ3r (~observ3r@134.223.121.3623) has joined
+T 1394544345 18<viscera18>	iptable, gotta love absolute statements
+T 1394544363 18<poss18>	If you're going to be citing early contributions,  it should be Netscape/Mozilla Firefox
+T 1394544365 18<BCMM18>	you seldom need to "remember to install drivers" these days
+T 1394544365 18<jprjr18>	TSA Employees pronounce it as "sir we're going to have to detain you"
+T 1394544369 18<iptable18>	viscera, oh yes. I should have said "usually"
+T 1394544375 18<viscera18>	;)
+T 1394544376 23*	tiny (~ivob@unaffiliated/tiny23) has joined
+T 1394544384 18<iptable18>	viscera, although HW support in linux tends to be better than windows nowadays :P
+T 1394544389 18<af_18>	printers are major pita, for desktops
+T 1394544390 18<BCMM18>	on debian you need to install firmware cause of them being strict about non-free stuff, but they warn you about that when you install X
+T 1394544398 18*	tiny curses the day when he switched to GUI email client
+T 1394544403 18<iptable18>	viscera, what with not having to wait for a driver to install when you connect our external drive to a differtn USB port than yesterday
+T 1394544416 18<af_18>	too much chip "printers" around...
+T 1394544421 23*	kketch (~kketch@ras75-2-82-224-51-60.fbx.proxad.net23) has joined
+T 1394544427 18<jprjr18>	I've straight-up given up on printers. Eff them
+T 1394544431 18<iptable18>	BCMM, then install ubuntu or linux mint and have a "easier-than-windows" experience
+T 1394544436 18<af_18>	yeah. handwrite
+T 1394544444 18<af_18>	dont' be boring!
+T 1394544446 18<jprjr18>	I just take PDFs to OfficeMax and pay somebody to print it
+T 1394544451 18<af_18>	wow
+T 1394544463 18<jprjr18>	Granted I print things *maybe* once a year, maybe less
+T 1394544479 24*	Pinkamena_D has quit (Ping timeout: 240 seconds)
+T 1394544480 18<af_18>	I don't have it handy :(((( pobobob
+T 1394544482 18<BCMM18>	tbh, that probably costs less than the TCO of a printer
+T 1394544482 18<iptable18>	jprjr, uhm. Samsung CLX-3305FW works perfect with samsung drivers. colour, wireless, laser
+T 1394544485 18<iptable18>	and scans too
+T 1394544486 23*	noSlave (~altinvest@pD9561E8A.dip0.t-ipconnect.de23) has joined
+T 1394544494 18<poss18>	I mostly gave up on printers when i found out about the embedded microdot identification code,  that took all the fun out of paste ups
+T 1394544499 24*	Stanley00 has quit (Quit: Ex-Chat)
+T 1394544503 18<BCMM18>	lasers are expensive to buy and inkjets die if you don't use them for months
+T 1394544505 18<jprjr18>	I'm not saying there aren't good printers, I'm saying I've just given up on it
+T 1394544508 18<af_18>	wow mic it sounds
+T 1394544517 24*	altinvest has quit (Ping timeout: 244 seconds)
+T 1394544521 18<BCMM18>	poss: there is software to work around those
+T 1394544521 18<jprjr18>	I could do research and figure out which is a good printer for Linux, or I could just not bother with it
+T 1394544529 18<iptable18>	BCMM, my laser colour cost me 200 only.
+T 1394544532 18<af_18>	&
+T 1394544536 18<KittenGNU18>	It's not the point wherever people know which flavour the user is running the Linux kernel on. It's about the definition of the operating system, which has expanded beyond its techincal terms. We don't refer to Windows as NT, or BSD* as kBSD* alone; people's operating needs goes beyond that. What most people refer to as Linux, is the GNU operating system with the Linux kernel on top of it.
+T 1394544543 18<BCMM18>	poss: it basically fills in all of them so you can't tell which ones were put there by the creepy firmware
+T 1394544551 18<iptable18>	jprjr, depends on needs
+T 1394544555 18<cybrNaut18>	jprjr: it's not even worth it to have a printer if you print once/year
+T 1394544565 18<af_18>	 fg; it's madness!  I want to save &
+T 1394544568 18<iptable18>	when you got kids at school age, you print a lot. you want a printer
+T 1394544579 18<poss18>	ooooo BCMM i shall have to look into that, i know quite a few street artists who will be pleased to hear of such a thing
+T 1394544580 18<BCMM18>	I'm going to start correcting people who don't call MacOS X FreeBSD/Darwin
+T 1394544590 23*	linux_probe (~chris@2605:a000:120b:80ac:20c:29ff:fed1:6de823) has joined
+T 1394544593 18<jprjr18>	Oh yeah I remember printing things out pretty often when I was in grade school, for sure
+T 1394544598 24*	horsik has quit (Quit: leaving)
+T 1394544600 23*	Aster (~Aster@april-fools/ninth/aster23) has joined
+T 1394544613 18<viscera18>	sweet, sweet GNU OS
+T 1394544620 18<g0z18>	HURD?
+T 1394544629 18<KittenGNU18>	With an operating system that can have more then one kernel, then then naming convetion of userland/kernel is more convinient. Hence GNU/Linux.
+T 1394544629 18<jprjr18>	I got to college and discovered the joy of printing in the computer lab and swore off owning a personl printer forever
+T 1394544653 18<jprjr18>	KittenGNU: I just call it "Linux" 'cause nobody I know in real life really gives a shit
+T 1394544655 24*	zayion has quit (Quit: Leaving)
+T 1394544662 23*	horsik (~username@178-37-110-109.adsl.inetia.pl23) has joined
+T 1394544666 18<iptable18>	jprjr, ++
+T 1394544675 18<viscera18>	i call it Lanaxe because it really tears up my network
+T 1394544677 18<iptable18>	that's a brilliant naming statemnt
+T 1394544682 24*	hmstrmn has quit (Quit: Leaving)
+T 1394544696 24*	Fohlen has quit (Ping timeout: 241 seconds)
+T 1394544698 18<jprjr18>	viscera: that's the best ever I'm cracking up over here
+T 1394544704 24*	kketch has quit (Client Quit)
+T 1394544707 18<viscera18>	:)
+T 1394544710 18<KittenGNU18>	Wow, best reason ever (!)
+T 1394544719 24*	ikrima has quit (Ping timeout: 240 seconds)
+T 1394544722 23*	hmstrmn (~hmstrmn@grm-studby-128-39-149-158.studby.uia.no23) has joined
+T 1394544731 23*	Fohlen (~Fohlen@134.255.220.14323) has joined
+T 1394544736 23*	okdas (~okdas@89.223.99.17023) has joined
+T 1394544752 18<jprjr18>	Like I could go up to my sysadmin and say "GNU/Linux" and he'd say "...uh whatever jprjr let's get back to upgrading the mail server"
+T 1394544764 18<g0z18>	maybe this belongs on #bsd but my beard itches today
+T 1394544764 23*	DougsTech (~DougsTech@c-98-230-105-210.hsd1.al.comcast.net23) has joined
+T 1394544785 23*	dik_dak (~dik_dak@66.162.73.23823) has joined
+T 1394544792 24*	frogthos has quit (Remote host closed the connection)
+T 1394544797 23*	user321 (~user321@h145-15.pool46-249.dyn.tolna.net23) has joined
+T 1394544801 23*	rihbyne (~rihbyne@117.222.34.4523) has joined
+T 1394544809 24*	user321 (~user321@h145-15.pool46-249.dyn.tolna.net24) has left
+T 1394544821 23*	user321 (~user321@h145-15.pool46-249.dyn.tolna.net23) has joined
+T 1394544823 24*	JerryT has quit (Remote host closed the connection)
+T 1394544829 23*	Tahvok_ (~Tahvok@91.143.233.9923) has joined
+T 1394544833 18<iptable18>	jprjr, if I say GNU/Linux, other admins usually say "bless you". Now, let's fix that web server.
+T 1394544834 23*	TylerDurden2nd (~TylerDurd@46.12.148.47.dsl.dyn.forthnet.gr23) has joined
+T 1394544835 18<jprjr18>	I could go up to my girlfriend and say "GNU/Linux" and she'd say "...uh whatever jprjr I just wanna watch this damn movie"
+T 1394544841 24*	Tahvok_ has quit (Remote host closed the connection)
+T 1394544864 23*	kketch (~kketch@ras75-2-82-224-51-60.fbx.proxad.net23) has joined
+T 1394544869 18<iptable18>	jprjr, I could say GNU/Linux to my wife and she would ask me if GNU is some sort of game for linux
+T 1394544877 18<iptable18>	point made then :D
+T 1394544887 18<viscera18>	i could say gnu/linux to someone and they'd be like "what about it?"
+T 1394544905 18<viscera18>	maybe try whispering it in their ear, see if you get a different response
+T 1394544907 24*	IamTrying (~IamTrying@82.143.92.1924) has left ("Leaving")
+T 1394544908 23*	torontoye (~torontoye@CPE0017cb810b45-CM602ad087e2cc.cpe.net.cable.rogers.com23) has joined
+T 1394544921 23*	altinvest (~altinvest@pD9561BC3.dip0.t-ipconnect.de23) has joined
+T 1394544946 23*	Taylor (~Taylor@unaffiliated/taylor23) has joined
+T 1394544953 18<jprjr18>	Fact: the closest thing normal, regular people get to using the word "GNU/Linux" is "Ubuntu"
+T 1394544965 18<Kartagis18>	should I go with teaching my daughter gnu/linux when she grows up, or should I stick with windows?
+T 1394544978 24*	okdas has quit (Ping timeout: 240 seconds)
+T 1394544978 18<SirLagz18>	jprjr: or "Mint"
+T 1394544980 18<viscera18>	jprjr, or "red hat"
+T 1394544984 24*	noSlave has quit (Ping timeout: 240 seconds)
+T 1394544994 24*	Aster (~Aster@april-fools/ninth/aster24) has left ("WeeChat 0.4.3")
+T 1394544997 18<jprjr18>	Oh, "Red Hat" is way more likely, haha
+T 1394545005 23*	Pyus (~uSr@cpe-23-242-236-154.socal.res.rr.com23) has joined
+T 1394545013 18<SirLagz18>	or RHEL as it's now known heh
+T 1394545014 18<viscera18>	Kartagis, surely there are better things to teach the poor girl
+T 1394545014 18<jprjr18>	"Android" is up there to but that's technically further from "GNU/Linux" so I'm not gonna count it
+T 1394545024 18<cybrNaut18>	Kartagis: windows corrupts
+T 1394545031 24*	Pyus has quit (Max SendQ exceeded)
+T 1394545034 24*	user321 has quit (Client Quit)
+T 1394545035 18<Kartagis18>	viscera: better than?
+T 1394545053 18<viscera18>	Kartagis, operating systems in general?
+T 1394545053 23*	miner23421 (~miner2342@c-09f5e655.91-7-64736c10.cust.bredbandsbolaget.se23) has joined
+T 1394545055 18<Kartagis18>	cybrNaut: wife is a windows person
+T 1394545056 18<jprjr18>	Kartagis: y'know, I'm gonna go against the grain of this chat room and say Windows 8
+T 1394545063 23*	Pyus (~uSr@cpe-23-242-236-154.socal.res.rr.com23) has joined
+T 1394545069 18<jprjr18>	j/k Windows is the worst don't do it
+T 1394545074 18<cybrNaut18>	Kartagis: windows knowledge is all about how to work around bugs that will eventually be fixed.
+T 1394545076 18<viscera18>	teach her how to debug with gdb
+T 1394545085 18<viscera18>	;)
+T 1394545086 18<jprjr18>	Kartagis: teach her to write her own O/S
+T 1394545089 18<cybrNaut18>	Kartagis: well that's a shame, but there's still hope for your daughter
+T 1394545090 18<peetaur218>	Kartagis: give her Linux for everything you can do with it, and then give her windows in a VM and tell her it's an emulator for an obsolete platform that exists just for compatibility
+T 1394545132 23*	bismarc2000 (~Thunderbi@ip-64-134-66-107.public.wayport.net23) has joined
+T 1394545132 18<Kartagis18>	I'll go with peetaur2's suggestion ;)
+T 1394545134 18<viscera18>	windows in a vm is the best
+T 1394545136 18<cybrNaut18>	Kartagis: the knowledge you learn in gnu/linux builds on itself.. so you get more leverage for the knowledge you gain
+T 1394545142 18<jprjr18>	TempleOS is pretty rad you can't go wrong with that
+T 1394545147 18<viscera18>	gotta love being able to rollback to a clean snapshot
+T 1394545153 18<poss18>	That'll work right up until her friends ask her to play the latest games...
+T 1394545165 18<peetaur218>	Kartagis: and if the incompatible apps need full DirectX or OpenGL support, do it with GPU passthrough
+T 1394545166 24*	__file__ has quit (Quit: My (null) has gone to sleep. ZZZzzz…)
+T 1394545166 18<SirLagz18>	viscera: too true :D
+T 1394545168 18<jprjr18>	poss: most kids are playing games on their phones nowadays
+T 1394545181 18<jprjr18>	poss: it's kind of a non-issue nowadays
+T 1394545184 18<viscera18>	SirLagz, are you from Australia?
+T 1394545193 18<SirLagz18>	viscera: indeed I am
+T 1394545196 18<SirLagz18>	viscera: why ?
+T 1394545199 18<viscera18>	"too true"
+T 1394545201 18<cybrNaut18>	Kartagis: most of windows knowledge is vendor specific... like learning from tv ads
+T 1394545203 24*	miner2342 has quit (Ping timeout: 265 seconds)
+T 1394545204 18<viscera18>	only an Australian would say that
+T 1394545208 18<peetaur218>	poss: a GPU passthrough VM can play the latest games fine... just get a GPU upgrade
+T 1394545215 18<tiny18>	wanna learn vim? start with these settings: http://dpaste.com/1715036/
+T 1394545219 23*	brightki1l (~brightkil@185.3.33.823) has joined
+T 1394545229 24*	Ussat (~Ussat@pdpc/supporter/active/ussat24) has left ("Leaving")
+T 1394545241 23*	frogthos (~smuxi@108-227-225-66.lightspeed.brhmal.sbcglobal.net23) has joined
+T 1394545241 18<SirLagz18>	viscera: haha. I didn't realise that
+T 1394545245 18<kilerguy6918>	peetaur2: can you really do 120 fps in cod like that?
+T 1394545246 18<poss18>	peetaur2 as long as you don't have a k model intel chip :/
+T 1394545253 18<viscera18>	tiny, sadist
+T 1394545269 18<jprjr18>	I like tiny's style
+T 1394545270 24*	Pyus has quit (Client Quit)
+T 1394545277 18<tiny18>	viscera: it's the only way really
+T 1394545280 18<peetaur218>	kilerguy69: sure, why not? everything runs nearly full speed (disk runs maybe 60% speed, CPU at 95%, and GPU might be full)
+T 1394545286 18<viscera18>	tiny, if you're a sadist :)
+T 1394545289 18<kilerguy6918>	poss: why does the k stop it?
+T 1394545290 18<tiny18>	hehe
+T 1394545300 18<peetaur218>	poss: yeah don't get the -k model... no IOMMU support.
+T 1394545310 18<viscera18>	"brb, emptying gpu"
+T 1394545316 18<mehdi18>	What is the best command/param combination for obtaining all files in the parent directory, targetdir, here: http://somewebsite.com/foo/bar/targetdir
+T 1394545318 24*	jayaura has quit (Ping timeout: 265 seconds)
+T 1394545326 18<poss18>	kilerguy69 k model intel chips don't support gpu passthrough in virtualisation.
+T 1394545328 18<peetaur218>	kilerguy69: need to make sure the CPU and motherboard both have IOMMU / vt-d support. The intel -k ones don't, and maybe i3s don't.
+T 1394545330 18<mehdi18>	wget -r --no-parent is the best option I am aware of
+T 1394545342 18<kilerguy6918>	aww, there goes my chances then
+T 1394545346 18<kilerguy6918>	atleast on this pc
+T 1394545348 24*	brightkill has quit (Ping timeout: 265 seconds)
+T 1394545350 23*	relix (~relix@91.46.46.176.dyn.estpak.ee23) has joined
+T 1394545352 23*	penguinbait (~mlewis@67.216.188.6423) has joined
+T 1394545353 24*	penguinbait has quit (Changing host)
+T 1394545353 23*	penguinbait (~mlewis@Maemo/community/contributor/penguinbait23) has joined
+T 1394545362 18<kilerguy6918>	you do it with VMWare workstation, though?
+T 1394545367 18<jprjr18>	mehdi: Websites don't really "list all files" so it's not really a possible thing to do
+T 1394545368 18<peetaur218>	killown: Linux KVM
+T 1394545371 18<SirLagz18>	i3 definitely don't have VT-D support
+T 1394545372 18<SirLagz18>	i5 do
+T 1394545379 18<peetaur218>	kilerguy69: ^
+T 1394545380 18<tiny18>	Was asking three months my ISP to delegate /29 network for static public IPs since my WAN ip is DHCP blacklisted and is useless for email. I got the IPs alright. All in the DHCP range :)
+T 1394545390 18<cybrNaut18>	Kartagis: it should also be mentioned that LaTeX would be an important lesson.. it's not a good idea to have kids go through school using WYSIWYG tools (negative training)
+T 1394545392 23*	aarapov (aarapov@nat/redhat/x-tsyshvxhdfktbewv23) has joined
+T 1394545402 18<jprjr18>	mehdi: You'll just get whatever files are visible. So if the site is using PHP, for instance, you'll just get the generated HTML, not the code
+T 1394545414 18<mehdi18>	jprjr: lets say this was actually a target to a ftp, or locol share on a network
+T 1394545417 24*	viscera has quit (Quit: viscera)
+T 1394545418 23*	noobzor (82d0f702@gateway/web/freenode/ip.130.208.247.223) has joined
+T 1394545426 18<mehdi18>	local share*
+T 1394545427 18<peetaur218>	kilerguy69: poss, Kartagis, whoever else is interested: https://bbs.archlinux.org/viewtopic.php?id=162768
+T 1394545440 18<kilerguy6918>	peetaur2: is SteamOS going to use that to it's advantage as a gaming consolish thingy?
+T 1394545447 18<noobzor18>	I'm looking for a tiny, minimalistic linux shell, all I need is gcc-multilib with -fno-stack-protector and -m32 flags available, what do I need?
+T 1394545450 18<jprjr18>	mehdi: Well, lftp is good for mirroring ftp, and rsync is great for a network share
+T 1394545453 18<noobzor18>	and vim
+T 1394545458 18<jprjr18>	mehdi: different tools for different targets and all that
+T 1394545458 18<peetaur218>	kilerguy69: I don't know anything about SteamOS
+T 1394545465 18<gbobby18>	Another advantage with learning GNU/Linux it will be easy for her to learn how to use many other systems as well
+T 1394545466 18<mehdi18>	hmm interesting
+T 1394545468 18<poss18>	its only an advantage if you're emulating windows, Steam OS doesn't do that.
+T 1394545469 24*	28rickyb98 is now known as 18RickyB98
+T 1394545489 18<jprjr18>	noobzor: You could build a custom environmnt with buildroot
+T 1394545490 18<Kartagis18>	peetaur2: could the same thing be applied to Xen?
+T 1394545490 18<kilerguy6918>	SteamOS might want to, as most games don't support Linux, right?
+T 1394545505 18<noobzor18>	jprjr: I'm looking for something that takes 5 minutes to set up
+T 1394545511 18<poss18>	Steam OS streams from windows and runs native apps, it doesn't do emulation at all, it doesn't even do wine.
+T 1394545515 18<noobzor18>	jprjr: I'm only going to fiddle with it for about 20 minutes anyway
+T 1394545517 24*	average has quit (Quit: Lost terminal)
+T 1394545520 18<gbobby18>	if you know how to use Linux, you can handle *BSD, Solaris, AIX, Mac OS X, and some embedded OSs like QNX, VxWorks, Integrity, etc., too
+T 1394545524 18<tiny18>	noobzor: what do those gcc flags have to do with shell?
+T 1394545528 18<gbobby18>	so, lots of possibilities there
+T 1394545528 18<peetaur218>	Kartagis: yes, but xen has problems with all except expensive professional cards, and all HD radeons (and newer?) So for example some Nvidia GTX might be huge pain
+T 1394545534 18<jprjr18>	noobzor: Does TinyCore have GCC installed? I don't remember if it does or not
+T 1394545537 23*	SAngeli (~SAngeli@host242-77-static.82-94-b.business.telecomitalia.it23) has joined
+T 1394545540 24*	Cyph3r has quit (Ping timeout: 244 seconds)
+T 1394545558 24*	MrBluePotato has quit (Ping timeout: 240 seconds)
+T 1394545566 18<noobzor18>	jprjr: I don't actually know :/ I predominantly use windows because of .NET programming but I don't have access to the usual linux shell right now
+T 1394545572 18<noobzor18>	tiny: I don't know, you're the experts
+T 1394545582 24*	netsnail has quit (Ping timeout: 264 seconds)
+T 1394545582 18<tiny18>	hehe
+T 1394545593 18<Kartagis18>	peetaur2: how about older nvidia cards like geforce 8400?
+T 1394545610 23*	Joenie (~Jeroen@ip51cc44e6.speed.planet.nl23) has joined
+T 1394545611 18<peetaur218>	Kartagis: I tested a 7600 and a 7950 GT, and they work fine
+T 1394545620 18<tiny18>	noobzor: what do you actually need? Linux host to play around for 20 minutes?
+T 1394545629 18<noobzor18>	but tiny, I did have some issues with a 64 bit ubuntu virtual machine, I wasn't able to install gcc-multilib for some reason and could only compile my C code in 64 bit
+T 1394545631 18<tiny18>	noobzor: run some live distro from USB
+T 1394545640 23*	detha (~detha@unaffiliated/detha23) has joined
+T 1394545640 18<tiny18>	noobzor: ah development
+T 1394545641 18<Joenie18>	Hi, can someone help me. I do want to check if a directiry excists in a file. But how do I check if this is true or not?
+T 1394545648 18<Joenie18>	This doesn't work; if [[ grep "$WORKINGDIR" ~/.bak.cfg == true ]]
+T 1394545668 23*	dejour (~dejour@TOROON63-1177864635.sdsl.bell.ca23) has joined
+T 1394545673 18<noobzor18>	tiny: I want to run it without rebooting, so either a free remote shell or a lightweight distro is something I need
+T 1394545710 18<tiny18>	noobzor: http://shells.red-pill.eu/
+T 1394545718 24*	ctype_real has quit (Ping timeout: 240 seconds)
+T 1394545738 18<peetaur218>	Joenie:   if grep "$WORKINGDIR" ~/.bak.cfg >/dev/null 2>&1; then echo yes; else echo no; fi
+T 1394545745 24*	ValicekB has quit ()
+T 1394545751 18<crabmelt18>	jprjr: gcc isnt in the base download but its a "tcz" in the tinycore repo & drops right in http://www.tinycorelinux.net/5.x/x86/tcz/
+T 1394545751 24*	linyu has quit (Quit: Lost terminal)
+T 1394545756 23*	jamphat (~jamphat@66-44-29-175.c3-0.129-ubr1.lnh-129.md.cable.rcn.com23) has joined
+T 1394545762 18<peetaur218>	Joenie:  [ ... ] means to run the program "test". If you want a different program that has an exit code that has meaning (such as grep), you remove the [ also.
+T 1394545775 23*	joj (~joj@unaffiliated/joj23) has joined
+T 1394545782 24*	BASEman has quit ()
+T 1394545812 23*	Ussat (~Ussat@pdpc/supporter/active/ussat23) has joined
+T 1394545843 24*	siso has quit (Read error: Connection reset by peer)
+T 1394545856 23*	average (~un_golan@wikimedia/Spetrea23) has joined
+T 1394545878 23*	ValicekB (~tbox@dot.snat.baz.cz23) has joined
+T 1394545893 23*	HighVoltag (~DANGER@ppp118-208-248-79.lns20.hba2.internode.on.net23) has joined
+T 1394545894 24*	HighVoltag has quit (Changing host)
+T 1394545894 23*	HighVoltag (~DANGER@unaffiliated/highvoltag23) has joined
+T 1394545913 23*	mengxi (~mengxi@static-96-239-100-47.nycmny.fios.verizon.net23) has joined
+T 1394545949 18<rmx7718>	hello all
+T 1394545969 18<Joenie18>	peetaur2, but then I still get an error: "too many arguments"
+T 1394545981 23*	magentar (~magentar@ip-84-119-121-43.unity-media.net23) has joined
+T 1394545981 23*	rivarun (~\_0x02@2001:648:2ffc:1225:a800:9ff:fe07:f0b23) has joined
+T 1394545989 23*	Lillia7 (~lillia7@d3079310.t-net.ne.jp23) has joined
+T 1394546023 18<poss18>	wow, those gpu pass through results are stunning,  like 80%+ performance.  I'd like to see some more extensive testing under game conditions, looking for things like stuttering and artifacting. It also still looks far too complex for most users. It'd be amazing if those binding could be automatic
+T 1394546070 18<peetaur218>	Joenie: pastebin your script plus an example file and what WORKINGDIR's value is
+T 1394546084 18<Joenie18>	maybe I've got it already
+T 1394546087 18<Joenie18>	how do I check if a var = null
+T 1394546096 18<Joenie18>	!= "" doesn't work.
+T 1394546102 24*	Ussat (~Ussat@pdpc/supporter/active/ussat24) has left ("Leaving")
+T 1394546110 23*	okdas (~okdas@89.223.99.17023) has joined
+T 1394546119 24*	gcbirzan has quit (Changing host)
+T 1394546119 23*	gcbirzan (~gcbirzan@unaffiliated/gcbirzan23) has joined
+T 1394546119 18<peetaur218>	poss: I think you'll never see artifacts from it (under normal sitations... ;) I overwrote my .rom file with the romfile= option in qemu with one that doens't match, and got lots of fun artifacts and BSOD)
+T 1394546123 18<gcbirzan18>	poss: except nvidia sucks at writing drivers
+T 1394546124 23*	trueneu (~textual@77.88.2.248-spb.dhcp.yndx.net23) has joined
+T 1394546133 24*	onlty has quit (Quit: Quit)
+T 1394546136 24*	Pappaduck has quit (Ping timeout: 240 seconds)
+T 1394546140 23*	iLogicalus (~iLogicalu@unaffiliated/ilogicalus23) has joined
+T 1394546142 23*	kerframil (~kerframil@gentoo/user/kerframil23) has joined
+T 1394546144 18<peetaur218>	poss: and yes too complex for most users ... unless they follow instructions really well and are lucky without any problems to solve
+T 1394546284 19*	Now talking on 22##linux
+T 1394546284 22*	Topic for 22##linux is: Forums is back in testing http://forums.linuxassist.net | Channel website: http://www.linuxassist.net | Pastebin: http://paste.linuxassist.net | Spammers or trolls? use !ops <troll's nick> <reason>". | For op assistance, join ##linux-ops | Feel at home and enjoy your stay
+T 1394546284 22*	Topic for 22##linux set by 26WildPikachu (24Sat Dec 28 15:22:52 2013)
+T 1394546284 18<***18>	Starting Buffer Playback...
+T 1394546284 18<gcbirzan18>	[13:55:50] that, and they don't give a crap about qemu/kvm because amazon
+T 1394546284 18<adnauseam18>	[13:55:52] how do i go about specifing in grep that i want all files that DON'T end with either p or s ?
+T 1394546284 18<gcbirzan18>	[13:56:02] adnauseam: maybe you want find?
+T 1394546284 18<adnauseam18>	[13:56:18] mhm, never really got into find that well, i will check it out
+T 1394546284 18<peetaur218>	[13:56:32] poss: my HD 6770 for example doesn't like the VM stopping and restarting. Some find that 'ejecting' the GPU in windows with 'safely remove hardware' :D before shutdown works. For me it didn't, but specifying a different vgabios from a download worked.
+T 1394546284 18<adnauseam18>	[13:56:40] but i am trying to ls /dev/ on solaris and get the disks without their paritions or slices
+T 1394546284 18<gcbirzan18>	[13:57:04] adnauseam: format? :)
+T 1394546284 18<peetaur218>	[13:57:19] poss: and you might figure out how to do it with libvirt and the virt-manager gui if you don't like the manual work.
+T 1394546284 18<Joenie18>	[13:57:46] http://pastebin.com/HSS7UqpZ what's wrong?
+T 1394546284 18<adnauseam18>	[13:58:00] gcbirzan: never used format either ^^ i check
+T 1394546284 18<poss18>	[13:58:01] Its very nearly enough to convince me to buy compatible components in my upcoming build,  its just that sacrificing overclocking to get gpu virtualisation is a hefty sacrifice.
+T 1394546284 18<***18>	Buffer Playback Complete.
+T 1394546285 23*	safeguard (~safeguard@184.75.214.21823) has joined
+T 1394546285 18<adnauseam18>	what would be the regex though ?
+T 1394546312 18<adnauseam18>	mine was c.t.d.[^p]|[^s]
+T 1394546327 23*	Pappaduck (~joe@31.55.47.13623) has joined
+T 1394546332 18<adnauseam18>	 c.t.d.[^p] actually worked, but |[^s] failed
+T 1394546337 18<gcbirzan18>	adnauseam: You can use find ! ( -name '*p?' -o -name '*s?' )
+T 1394546348 18<adnauseam18>	rgr
+T 1394546353 18<gcbirzan18>	adnauseam: Though, generally, you can take *p0 and strip the p0.
+T 1394546366 18<jprjr18>	Joenie: What are you trying to do here, exactly?
+T 1394546367 24*	reazem__ has quit (Quit: Leaving)
+T 1394546367 18<gcbirzan18>	Not an expert, mind you, and I just use format < /dev/null
+T 1394546384 23*	reazem (~reazem@unaffiliated/reazem23) has joined
+T 1394546385 18<peetaur218>	Joenie: no, not like that... like this http://pastebin.com/RzADwMCR
+T 1394546389 18<adnauseam18>	i'm trying to filter at the command, instead of having to strip it in python
+T 1394546390 24*	siso has quit (Read error: Connection reset by peer)
+T 1394546390 23*	JerryT (~jerryt@wsip-70-165-106-163.om.om.cox.net23) has joined
+T 1394546392 18<jprjr18>	Joenie: Right now your script is just checking for a line in a file, but I'm guessing you're trying to do something else entirely
+T 1394546397 18<nehaljwani18>	Is Radius+LDAP(userPassword:SSHA)+PEAP-MSCHAPv2 possible?
+T 1394546411 24*	dejour has quit (Quit: Leaving)
+T 1394546423 18<gcbirzan18>	JerryT: if grep "$WORKINGDIR" ~/.bak.cfg; then echo "it exists"; else echo "nope"; fi
+T 1394546423 23*	rjhatl (~rjhatl@202.83.104.18223) has joined
+T 1394546428 23*	siso (~siso@92.52.76.14023) has joined
+T 1394546437 24*	neurodrone_ has quit (Quit: neurodrone_)
+T 1394546445 18<gcbirzan18>	erm, Joenie that was for you
+T 1394546445 23*	jayaura (~jayaura@111.92.123.18823) has joined
+T 1394546446 18<jprjr18>	nehaljwani: Anything's possible given enough effort
+T 1394546486 24*	strugart has quit (Read error: Connection reset by peer)
+T 1394546490 18<nehaljwani18>	jprjr, In case of MSCHAPv2, RADIUS server doesn't understand the SSHA hash from LDAP
+T 1394546498 18<nehaljwani18>	in case of PAP, it does
+T 1394546500 23*	shadowie (~shad@162.243.151.6823) has joined
+T 1394546519 23*	strugart (~strugart@181.167.140.13123) has joined
+T 1394546565 24*	noobzor has quit (Ping timeout: 245 seconds)
+T 1394546565 24*	Mr_Sheesh has quit (Quit: brb - rebooting)
+T 1394546569 23*	sec^nd (~second@gateway/tor-sasl/sec0nd23) has joined
+T 1394546582 23*	d0c5i5 (~mijcrc@cpe-71-72-71-69.columbus.res.rr.com23) has joined
+T 1394546618 23*	neurodrone (~neurodron@unaffiliated/neurodrone23) has joined
+T 1394546641 23*	m0rd0 (~mordo@51.131.208.46.dyn.plus.net23) has joined
+T 1394546644 24*	Leatherface- has quit (Remote host closed the connection)
+T 1394546651 24*	Silmarilion has quit (Read error: Connection reset by peer)
+T 1394546654 24*	neurodrone has quit (Client Quit)
+T 1394546657 24*	SS01 has quit (Ping timeout: 244 seconds)
+T 1394546673 24*	abhvym has quit (Quit: Leaving)
+T 1394546750 24*	ndrei has quit (Ping timeout: 244 seconds)
+T 1394546780 24*	BCMM has quit (Read error: Connection reset by peer)
+T 1394546784 23*	renatow (~renato@200-180-169-241.paebv701.dsl.brasiltelecom.net.br23) has joined
+T 1394546785 24*	bismarc2000 has quit (Ping timeout: 240 seconds)
+T 1394546794 23*	sabotender (~tandoorii@unaffiliated/tandoori23) has joined
+T 1394546806 24*	sharkz has quit (Quit: leaving)
+T 1394546825 23*	sharkz (r02922070@linux3.csie.ntu.edu.tw23) has joined
+T 1394546826 23*	usr13 (~terry@74.113.247.23623) has joined
+T 1394546831 24*	liqu0rice has quit (Quit: leaving)
+T 1394546842 24*	d0c5i5 has quit (Ping timeout: 244 seconds)
+T 1394546878 18<rmx7718>	hello all
+T 1394546883 18<SirLagz18>	hi
+T 1394546907 23*	Paden (~Paden@173-12-31-94-Philadelphia.hfc.comcastbusiness.net23) has joined
+T 1394546931 18<Joenie18>	Well gcbirzan, it is always true now for some reason.
+T 1394546950 18<rmx7718>	whats all goin down
+T 1394546964 18<SirLagz18>	I'm setting up pfSense to be my new router.
+T 1394546964 24*	yezster has quit (Quit: Leaving)
+T 1394546964 24*	krasnayarsk has quit (Quit: Lost terminal)
+T 1394546972 24*	_|x|_ has quit (Ping timeout: 265 seconds)
+T 1394546976 23*	ndrei (~avo@83.142.149.22723) has joined
+T 1394546979 23*	Mr_Sheesh (~mr_s@unaffiliated/mr-sheesh/x-075705423) has joined
+T 1394546992 18<rmx7718>	oh
+T 1394547004 23*	Almtesh (~Almtesh@unaffiliated/almtesh23) has joined
+T 1394547013 18<homeboi18>	is the clamav antivirus worth it iyho?
+T 1394547015 18<rmx7718>	i have wanted to do pfsense but never could figure it out so i gave up on it
+T 1394547030 24*	nullv4lue has quit (Ping timeout: 244 seconds)
+T 1394547030 18<Joenie18>	http://pastebin.com/jsPJeSFS does anyone know why it's always true?
+T 1394547047 18<usr1318>	homeboi: no
+T 1394547062 24*	rihbyne has quit (Quit: Konversation terminated!)
+T 1394547062 18<homeboi18>	SirLagz, you're doing the right thing
+T 1394547072 23*	fuleo (~saifulbah@bb116-15-148-44.singnet.com.sg23) has joined
+T 1394547082 18<peetaur218>	Joenie: My if [ -z $checkDir ] was wrong... that would make it true. Change it to if [ $checkDir != 0 ]
+T 1394547084 23*	rihbyne (~rihbyne@117.222.34.4523) has joined
+T 1394547084 24*	jackneill has quit (Quit: WeeChat 0.4.3)
+T 1394547094 18<SirLagz18>	I've just realised that once I move my network over to pfSense router, I'm going to lose my PXE booting setup :(
+T 1394547098 18<SirLagz18>	oh well
+T 1394547111 23*	jackneill (~jackneill@unaffiliated/jackneill23) has joined
+T 1394547116 24*	pxed has quit ()
+T 1394547131 18<rmx7718>	hmmm
+T 1394547134 18<peetaur218>	Joenie: you put [ ... ] around your grep again... don't do that. [ is one program, test, which returns 0 or 1 depending on your expression, and grep is another program that also returns 0 or 1
+T 1394547159 18<usr1318>	homeboi: ...only if you are wanting to protect your MS Windows friends from a possible email attachent (that you may have downloaded directly to your compouter and send directly from your computer), a very rare instance, not worth considering.
+T 1394547168 23*	repxl (b28fcef4@gateway/web/freenode/ip.178.143.206.24423) has joined
+T 1394547175 18<repxl18>	Please how i can change my keyboard language on centOS :(
+T 1394547181 23*	aemquo (~UN@unaffiliated/aemquo23) has joined
+T 1394547181 18<rmx7718>	well i am on a hunt for a better web browser other then firefox, chrome and opera something light and something not built off those browsers but still supports all sites
+T 1394547190 18<peetaur218>	SirLagz: what does it have to do with PXE booting?
+T 1394547193 23*	jaequery (~jaequery@cpe-98-154-1-32.socal.res.rr.com23) has joined
+T 1394547204 18<SirLagz18>	peetaur2: my current linux router takes care of my PXE booting stuff
+T 1394547206 18<usr1318>	rmx77: Why?
+T 1394547211 23*	compdoc (~me@c-67-176-108-52.hsd1.co.comcast.net23) has joined
+T 1394547213 18<aemquo18>	Hello. Is there any way to merge two files without having to read and write one of them? e.g. I have two 20GB files, and I need to merge them into a 40GB file without reading/writing the whole of one (or both)?
+T 1394547215 23*	asobrasil (~andre_oli@68.67.33.1223) has joined
+T 1394547218 18<SirLagz18>	peetaur2: just means I'll have to move all the PXE stuff to somewhere else that's all

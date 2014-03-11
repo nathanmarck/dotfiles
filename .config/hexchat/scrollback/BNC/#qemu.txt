@@ -1,0 +1,508 @@
+T 1394390827 23*	mstsirkin (~mst@109.64.60.18923) has joined
+T 1394390850 23*	maddan (~maddan@46.148.30.13023) has joined
+T 1394391150 24*	deasy has quit (Quit: Nom d'un quark, c'est Edmonton !)
+T 1394392504 24*	tombatone has quit (Quit: Leaving)
+T 1394393111 24*	JacksonIsaac has quit (Quit: Connection closed for inactivity)
+T 1394393420 23*	FreezingAlt (~FreezingC@135.0.41.1423) has joined
+T 1394393518 24*	FreezingCold has quit (Ping timeout: 240 seconds)
+T 1394394348 23*	bolt (~r00t@unaffiliated/bolt23) has joined
+T 1394394618 24*	tg has quit (Ping timeout: 240 seconds)
+T 1394394641 24*	bolt has quit (Remote host closed the connection)
+T 1394394756 23*	deasy (~deasy@host-85-201-190-191.brutele.be23) has joined
+T 1394394766 24*	maddan has quit (Remote host closed the connection)
+T 1394395431 23*	posadnik (~posadnik@194.29.185.11723) has joined
+T 1394395683 24*	mstsirkin has quit (Read error: Operation timed out)
+T 1394395787 23*	bolt (~r00t@unaffiliated/bolt23) has joined
+T 1394396038 24*	bolt has quit (Remote host closed the connection)
+T 1394396458 23*	luiz___ (~luiz_capi@modemcable069.67-23-96.mc.videotron.ca23) has joined
+T 1394396609 23*	mstsirkin (~mst@bzq-79-177-27-190.red.bezeqint.net23) has joined
+T 1394396641 23*	bolt (~r00t@unaffiliated/bolt23) has joined
+T 1394396967 24*	FreezingAlt has quit (Read error: Operation timed out)
+T 1394397178 24*	luiz___ has quit (Read error: Connection reset by peer)
+T 1394397985 23*	FreezingAlt (~FreezingC@135.0.41.1423) has joined
+T 1394398627 24*	bolt has quit (Remote host closed the connection)
+T 1394399261 23*	bolt (~r00t@unaffiliated/bolt23) has joined
+T 1394400863 24*	FreezingAlt has quit (Ping timeout: 244 seconds)
+T 1394401745 23*	FreezingAlt (~FreezingC@135.0.41.1423) has joined
+T 1394402546 19*	Now talking on 22#qemu
+T 1394402546 22*	Topic for 22#qemu is: Official channel is on OTFC (irc.oftc.net) -- http://www.qemu.org
+T 1394402546 22*	Topic for 22#qemu set by 26aliguori (24Tue Dec  6 13:31:15 2011)
+T 1394402870 23*	tombatone (~tombatone@2a02:2028:115:1250:1e6f:65ff:fe35:f7e423) has joined
+T 1394402918 24*	mstsirkin has quit (Read error: Operation timed out)
+T 1394403730 23*	RT|Chatzilla (~rt@reactos/tester/RT23) has joined
+T 1394404525 23*	nox- (noident@freebsd/developer/nox23) has joined
+T 1394404938 24*	aik__ has quit (Ping timeout: 240 seconds)
+T 1394405075 24*	28FreezingAlt is now known as 18FreezingCold
+T 1394405278 23*	tg (~x@unaffiliated/tg23) has joined
+T 1394407285 24*	ircuser-1 has quit (Remote host closed the connection)
+T 1394407442 23*	qdk_ (~qdk@87.72.0.4023) has joined
+T 1394407977 24*	tombatone has quit (Quit: Leaving)
+T 1394408352 24*	mkf has quit (Disconnected by services)
+T 1394408441 23*	mkf (telex@gateway/shell/anapnea.net/x-qglgxwkgbwsrlrgb23) has joined
+T 1394408497 24*	deasy has quit (Quit: Nom d'un quark, c'est Edmonton !)
+T 1394408549 23*	deasy (~deasy@host-85-201-190-191.brutele.be23) has joined
+T 1394409140 24*	yamahata has quit (Ping timeout: 244 seconds)
+T 1394409392 23*	yamahata (~yamahata@s132069.dynamic.ppp.asahi-net.or.jp23) has joined
+T 1394410816 24*	deasy has quit (Quit: Nom d'un quark, c'est Edmonton !)
+T 1394411302 24*	yamahata has quit (Ping timeout: 264 seconds)
+T 1394413790 23*	spinningcompass (~spinningc@99-120-205-106.lightspeed.frsnca.sbcglobal.net23) has joined
+T 1394414047 24*	spinningcompass has quit (Ping timeout: 252 seconds)
+T 1394414153 23*	spinningcompass (~spinningc@173.192.176.161-static.reverse.softlayer.com23) has joined
+T 1394414801 23*	Aristide (~quassel@2a01:e35:2eb9:64b0:1e4b:d6ff:feca:6b6923) has joined
+T 1394414866 23*	luiz___ (~luiz_capi@96.23.67.6923) has joined
+T 1394415048 23*	yamahata (~yamahata@192.198.168.25423) has joined
+T 1394415877 24*	HappyMan (~HappyMan@unaffiliated/happy-man/x-826580424) has left
+T 1394416448 23*	fluter (~fluter@fedora/fluter23) has joined
+T 1394416798 24*	spinningcompass has quit (Ping timeout: 240 seconds)
+T 1394416808 23*	spinningcompass (~spinningc@50.23.131.248-static.reverse.softlayer.com23) has joined
+T 1394416941 24*	spinningcompass has quit (Client Quit)
+T 1394417369 24*	yamahata has quit (Ping timeout: 240 seconds)
+T 1394418099 24*	fluter has quit (Ping timeout: 244 seconds)
+T 1394419046 23*	spinningcompass (~spinningc@173.192.170.9023) has joined
+T 1394419165 23*	fluter (~fluter@fedora/fluter23) has joined
+T 1394419430 23*	akong (akong@nat/redhat/x-ukdvwoqdiiymdrbm23) has joined
+T 1394419727 24*	akong has quit (Read error: Connection reset by peer)
+T 1394419968 23*	strull (~strull@p57A3823C.dip0.t-ipconnect.de23) has joined
+T 1394421282 24*	luiz___ has quit (Ping timeout: 265 seconds)
+T 1394421363 23*	akong (akong@nat/redhat/x-fglhotgvsvhuouig23) has joined
+T 1394421555 23*	sireesht (~sireesht_@203.247.149.15223) has joined
+T 1394421841 24*	Aristide has quit (Remote host closed the connection)
+T 1394422218 24*	grep0r has quit (Ping timeout: 252 seconds)
+T 1394422634 24*	28Guest64269 is now known as 18davis
+T 1394422749 23*	grep0r (grep0r@bitcoinshell.mooo.com23) has joined
+T 1394423060 23*	yamahata (~yamahata@192.198.168.25423) has joined
+T 1394424212 23*	ircuser-1 (~ircuser-1@35.222-62-69.ftth.swbr.surewest.net23) has joined
+T 1394424312 24*	strull has quit (Ping timeout: 240 seconds)
+T 1394424477 24*	nox- has quit (Quit: Leaving)
+T 1394426611 23*	satheesh (~satheesh@122.248.161.5923) has joined
+T 1394426723 23*	Jookia (~jookia@122-148-81-242.static.dsl.dodo.com.au23) has joined
+T 1394426741 18<Jookia18>	Hay
+T 1394428005 23*	sammi` (sammi@gateway/shell/devio.us/x-uwstzuaeuskxeppm23) has joined
+T 1394431206 24*	bolt has quit (Quit: telnet irc.freenode.net 6667)
+T 1394431737 24*	Boohbah (boobah@gateway/shell/anapnea.net/x-vtzesqehxerctyoh24) has left
+T 1394432159 24*	posadnik has quit (Ping timeout: 240 seconds)
+T 1394432218 24*	quintela has quit (Ping timeout: 240 seconds)
+T 1394432907 23*	rhod (~rhod@46-116-181-188.bb.netvision.net.il23) has joined
+T 1394433735 18<Jookia18>	mtdblocks man
+T 1394433785 23*	AnilV4 (AnilV@nat/redhat/x-gjvphashyjwyrdfg23) has joined
+T 1394434095 24*	satheesh has quit (Ping timeout: 244 seconds)
+T 1394434110 23*	satheesh (~satheesh@122.248.161.5923) has joined
+T 1394434119 24*	satheesh has quit (Client Quit)
+T 1394434131 23*	satheesh (~satheesh@122.248.161.5923) has joined
+T 1394434365 24*	psychicist_ has quit (Quit: Lost terminal)
+T 1394435617 18<Jookia18>	"failed to read the initial flash content" uhh
+T 1394435811 24*	davidhadas has quit (Ping timeout: 265 seconds)
+T 1394436791 24*	spinningcompass has quit (Quit: spinningcompass)
+T 1394436835 23*	bolt (~r00t@unaffiliated/bolt23) has joined
+T 1394437296 24*	bolt has quit (Ping timeout: 240 seconds)
+T 1394437747 23*	quintela (~quintela@trasno.trasno.org23) has joined
+T 1394438087 23*	bolt (~r00t@unaffiliated/bolt23) has joined
+T 1394438760 24*	FreezingCold has quit (Ping timeout: 240 seconds)
+T 1394438792 23*	marcel_a (~marcel@46.121.198.21223) has joined
+T 1394438865 23*	mstsirkin (~mst@109.67.3.7923) has joined
+T 1394438953 23*	davidhadas (quassel@nat/ibm/x-khbciladocxsaprr23) has joined
+T 1394439084 24*	quintela has quit (Quit: quintela)
+T 1394439102 23*	quintela (~quintela@trasno.trasno.org23) has joined
+T 1394439892 23*	kwolf (kwolf@nat/redhat/x-zdfrpuwlwlcddlyy23) has joined
+T 1394440105 24*	sireesht has quit (Ping timeout: 240 seconds)
+T 1394440267 24*	davidhadas has quit (Read error: Connection reset by peer)
+T 1394440298 24*	28Falcon` is now known as 18falcon`
+T 1394440311 23*	davidhadas (quassel@nat/ibm/x-fyoskupqaomleeek23) has joined
+T 1394440389 24*	28falcon` is now known as 18Falcon`
+T 1394440451 23*	FreezingCold (~FreezingC@135.0.41.1423) has joined
+T 1394440531 23*	hamayun (~hamayun@118.128.125.78.rev.sfr.net23) has joined
+T 1394440582 24*	28Falcon` is now known as 18falcon`
+T 1394441207 23*	sireesht (~sireesht_@203.247.149.15223) has joined
+T 1394442099 23*	akong_ (akong@nat/redhat/x-kufqupcoxyjpyuxs23) has joined
+T 1394442217 24*	akong has quit (Ping timeout: 244 seconds)
+T 1394443530 23*	FR^2 (~frquadrat@farsquare.de23) has joined
+T 1394443714 24*	Jookia (~jookia@122-148-81-242.static.dsl.dodo.com.au24) has left
+T 1394443813 23*	braoru (~braoru@178-82-119-27.dynamic.hispeed.ch23) has joined
+T 1394444846 24*	akong_ has quit (Quit: Ex-Chat)
+T 1394444855 24*	FreezingCold has quit (Read error: Operation timed out)
+T 1394445008 23*	dstuxo (~Dragos@89.121.200.10623) has joined
+T 1394445035 24*	dstuxo has quit (Client Quit)
+T 1394445058 23*	dstuxo (~Dragos@89.121.200.10623) has joined
+T 1394446760 24*	sireesht has quit (Ping timeout: 252 seconds)
+T 1394447773 20*	Disconnected (20Invalid argument)
+T 1394447785 19*	Now talking on 22#qemu
+T 1394447785 22*	Topic for 22#qemu is: Official channel is on OTFC (irc.oftc.net) -- http://www.qemu.org
+T 1394447785 22*	Topic for 22#qemu set by 26aliguori (24Tue Dec  6 13:31:15 2011)
+T 1394447989 23*	sireesht (~sireesht_@203.247.149.15223) has joined
+T 1394449215 23*	aik__ (~aik@60-242-102-4.tpgi.com.au23) has joined
+T 1394450821 24*	sireesht has quit (Read error: Connection reset by peer)
+T 1394451269 24*	fluter has quit (Ping timeout: 265 seconds)
+T 1394451604 23*	ehthayer (~textual@23.30.163.423) has joined
+T 1394451992 23*	crobinso (~crobinso@redhat/crobinso23) has joined
+T 1394452486 24*	qdk_ has quit (Ping timeout: 264 seconds)
+T 1394452488 24*	yamahata has quit (Ping timeout: 240 seconds)
+T 1394452744 23*	tombatone (~tombatone@2a02:2028:13a:f420:1e6f:65ff:fe35:f7e423) has joined
+T 1394453258 24*	ircuser-1 has quit (Ping timeout: 240 seconds)
+T 1394453796 23*	luiz___ (~luiz_capi@modemcable069.67-23-96.mc.videotron.ca23) has joined
+T 1394454061 23*	JuStIcIa (~JuStIcIa_@190.167.171.15023) has joined
+T 1394454145 23*	strull (~strull@p57A3922E.dip0.t-ipconnect.de23) has joined
+T 1394454256 24*	JuStIcIa_ has quit (Ping timeout: 265 seconds)
+T 1394455242 24*	satheesh has quit (Ping timeout: 265 seconds)
+T 1394455728 23*	qdk_ (~qdk@188.120.76.16223) has joined
+T 1394456004 23*	ircuser-1 (~ircuser-1@35.222-62-69.ftth.swbr.surewest.net23) has joined
+T 1394456239 23*	Aristide (~quassel@2a01:e35:2eb9:64b0:1e4b:d6ff:feca:6b6923) has joined
+T 1394456279 24*	tgunr_ has quit (Read error: Connection reset by peer)
+T 1394456308 23*	tgunr (~davec@66-249-166-12.static-ip.telepacific.net23) has joined
+T 1394456340 23*	fluter (~fluter@fedora/fluter23) has joined
+T 1394456519 24*	mstsirkin has quit (Quit: Leaving)
+T 1394456542 23*	mstsirkin (~mst@109.67.3.7923) has joined
+T 1394457892 23*	lmr (~lmr@177.103.18.8623) has joined
+T 1394459048 23*	yamahata (~yamahata@s132069.dynamic.ppp.asahi-net.or.jp23) has joined
+T 1394459864 23*	akong (~akong@119.57.107.1523) has joined
+T 1394459938 24*	yamahata has quit (Ping timeout: 240 seconds)
+T 1394460020 23*	aik_ (~aik@60-242-102-4.tpgi.com.au23) has joined
+T 1394460078 24*	aik__ has quit (Ping timeout: 240 seconds)
+T 1394460244 23*	yamahata (~yamahata@s132069.dynamic.ppp.asahi-net.or.jp23) has joined
+T 1394460525 24*	yamahata has quit (Ping timeout: 252 seconds)
+T 1394460717 24*	akong has quit (Quit: Ex-Chat)
+T 1394460920 23*	yamahata (~yamahata@s132069.dynamic.ppp.asahi-net.or.jp23) has joined
+T 1394461209 24*	yamahata has quit (Client Quit)
+T 1394461349 24*	fluter has quit (Ping timeout: 240 seconds)
+T 1394461478 23*	goldkatze (~nobody@unaffiliated/goldkatze23) has joined
+T 1394461579 23*	yamahata (~yamahata@s132069.dynamic.ppp.asahi-net.or.jp23) has joined
+T 1394461643 24*	marcel_a has quit (Quit: Leaving)
+T 1394462038 24*	yamahata has quit (Ping timeout: 240 seconds)
+T 1394462171 23*	yamahata (~yamahata@s132069.dynamic.ppp.asahi-net.or.jp23) has joined
+T 1394462455 23*	marcel_a (~marcel@46.121.198.21223) has joined
+T 1394462471 23*	yamahata__ (~yamahata@s132069.dynamic.ppp.asahi-net.or.jp23) has joined
+T 1394462522 24*	yamahata has quit (Ping timeout: 244 seconds)
+T 1394462603 24*	yamahata__ has quit (Read error: Connection reset by peer)
+T 1394462736 23*	yamahata (~yamahata@s132069.dynamic.ppp.asahi-net.or.jp23) has joined
+T 1394462898 24*	yamahata has quit (Client Quit)
+T 1394462929 24*	MadMerlin3 has quit (Remote host closed the connection)
+T 1394462935 23*	MadMerlin3 (~neil@206.248.167.19723) has joined
+T 1394462937 24*	pinage404 has quit (Ping timeout: 265 seconds)
+T 1394462955 24*	kwolf has quit (Ping timeout: 265 seconds)
+T 1394462957 24*	justusranvier has quit (Excess Flood)
+T 1394462987 23*	kwolf_ (kwolf@nat/redhat/x-qsjxnsmptghjphjg23) has joined
+T 1394463055 23*	yamahata (~yamahata@s132069.dynamic.ppp.asahi-net.or.jp23) has joined
+T 1394463208 23*	pinpin404 (~pinage404@mau78-1-88-184-110-51.fbx.proxad.net23) has joined
+T 1394463251 23*	justusranvier (~justus@unaffiliated/justusranvier23) has joined
+T 1394463324 24*	goldkatze has quit (Read error: Connection reset by peer)
+T 1394463363 23*	goldkatze (~nobody@unaffiliated/goldkatze23) has joined
+T 1394463379 24*	crobinso has quit (Remote host closed the connection)
+T 1394463396 23*	crobinso (~crobinso@redhat/crobinso23) has joined
+T 1394463418 23*	lauro (~laurov@200.167.249.1823) has joined
+T 1394463442 24*	28lauro is now known as 18Guest6783
+T 1394463998 24*	tombatone has quit (Quit: Leaving)
+T 1394464018 23*	tombatone (~tombatone@2a02:2028:13a:f420:1e6f:65ff:fe35:f7e423) has joined
+T 1394464137 24*	kwolf_ has quit (Quit: Konversation terminated!)
+T 1394464337 23*	kwolf (kwolf@nat/redhat/x-kodbnvjsbjnieidu23) has joined
+T 1394464372 24*	braoru has quit (Quit: braoru)
+T 1394464489 24*	Aristide has quit (Read error: Connection reset by peer)
+T 1394464824 23*	deasy (~deasy@host-85-201-190-191.brutele.be23) has joined
+T 1394465156 24*	mstsirkin has quit (Quit: Leaving)
+T 1394465890 23*	mstsirkin (~mst@bzq-109-67-3-79.red.bezeqint.net23) has joined
+T 1394465993 24*	RT|Chatzilla has quit (Quit: ChatZilla 0.9.86.1 [Firefox 2.0.0.22pre/2009081014])
+T 1394466109 24*	28falcon` is now known as 18Falcon`
+T 1394466121 23*	kuldeepdhaka (~kuldeepdh@unaffiliated/kuldeepdhaka23) has joined
+T 1394466351 24*	28Falcon` is now known as 18falcon`
+T 1394466571 24*	28falcon` is now known as 18Falcon`
+T 1394467259 23*	kimphill_ (~r1aaha@gate-tx3.freescale.com23) has joined
+T 1394467320 24*	Guest84615 has quit (Ping timeout: 240 seconds)
+T 1394467704 24*	davidhadas has quit (Ping timeout: 240 seconds)
+T 1394468010 24*	yamahata has quit (Quit: Leaving)
+T 1394468078 24*	tg has quit (Ping timeout: 240 seconds)
+T 1394468781 24*	tombatone has quit (Quit: Leaving)
+T 1394469230 24*	davis (davis@pilot.trilug.org24) has left
+T 1394469908 24*	kwolf has quit (Quit: Konversation terminated!)
+T 1394470139 24*	dstuxo has quit (Ping timeout: 240 seconds)
+T 1394470372 23*	yamahata (~yamahata@s132069.dynamic.ppp.asahi-net.or.jp23) has joined
+T 1394470695 23*	davidhadas (~quassel@93-172-162-231.bb.netvision.net.il23) has joined
+T 1394471226 23*	yamahata__ (~yamahata@s132069.dynamic.ppp.asahi-net.or.jp23) has joined
+T 1394471679 23*	a_ (d@64.111.123.16323) has joined
+T 1394471680 23*	a (d@64.111.123.16323) has joined
+T 1394471680 23*	catsup (d@64.111.123.16323) has joined
+T 1394471681 23*	a__ (d@64.111.123.16323) has joined
+T 1394471684 23*	a_____ (d@64.111.123.16323) has joined
+T 1394471685 23*	a______ (d@64.111.123.16323) has joined
+T 1394471704 24*	28a is now known as 18Guest30932
+T 1394471704 24*	28a_ is now known as 18Guest99351
+T 1394471750 23*	a_______ (d@64.111.123.16323) has joined
+T 1394471754 24*	yamahata has quit (Quit: Konversation terminated!)
+T 1394471780 23*	yamahata (~yamahata@s132069.dynamic.ppp.asahi-net.or.jp23) has joined
+T 1394471793 24*	Guest30932 has quit (Read error: Connection reset by peer)
+T 1394471793 24*	a__ has quit (Read error: Connection reset by peer)
+T 1394471793 24*	Guest99351 has quit (Read error: Connection reset by peer)
+T 1394471793 24*	a_____ has quit (Read error: Connection reset by peer)
+T 1394471793 24*	catsup has quit (Write error: Connection reset by peer)
+T 1394471794 24*	a______ has quit (Write error: Connection reset by peer)
+T 1394471794 24*	a_______ has quit (Read error: Connection reset by peer)
+T 1394471803 23*	a__ (d@64.111.123.16323) has joined
+T 1394471804 23*	catsup (d@64.111.123.16323) has joined
+T 1394471806 23*	a_____ (d@64.111.123.16323) has joined
+T 1394471807 23*	a______ (d@64.111.123.16323) has joined
+T 1394471808 23*	a_______ (d@64.111.123.16323) has joined
+T 1394471810 23*	a________ (d@64.111.123.16323) has joined
+T 1394471877 23*	a_______1 (d@64.111.123.16323) has joined
+T 1394471882 24*	yamahata has quit (Client Quit)
+T 1394471890 24*	a__ has quit (Read error: Connection reset by peer)
+T 1394471890 24*	a______ has quit (Read error: Connection reset by peer)
+T 1394471890 24*	catsup has quit (Read error: Connection reset by peer)
+T 1394471890 24*	a_______ has quit (Read error: Connection reset by peer)
+T 1394471890 24*	a_____ has quit (Write error: Connection reset by peer)
+T 1394471891 24*	a________ has quit (Write error: Connection reset by peer)
+T 1394471891 24*	a_______1 has quit (Read error: Connection reset by peer)
+T 1394471891 24*	yamahata__ has quit (Quit: Leaving)
+T 1394471909 23*	yamahata__ (~yamahata@s132069.dynamic.ppp.asahi-net.or.jp23) has joined
+T 1394471913 24*	yamahata__ has quit (Read error: Connection reset by peer)
+T 1394471935 23*	yamahata (~yamahata@s132069.dynamic.ppp.asahi-net.or.jp23) has joined
+T 1394471956 23*	catsup (d@64.111.123.16323) has joined
+T 1394472022 23*	yamahata__ (~yamahata@s132069.dynamic.ppp.asahi-net.or.jp23) has joined
+T 1394472089 24*	catsup has quit (Client Quit)
+T 1394472120 23*	catsup (d@64.111.123.16323) has joined
+T 1394472459 24*	catsup has quit (Read error: Connection reset by peer)
+T 1394472466 23*	catsup (d@64.111.123.16323) has joined
+T 1394472495 24*	catsup has quit (Read error: Connection reset by peer)
+T 1394473304 23*	catsup (d@64.111.123.16323) has joined
+T 1394473828 23*	tg (~x@unaffiliated/tg23) has joined
+T 1394474914 23*	kwolf (~kwolf@p4FC5FCE9.dip0.t-ipconnect.de23) has joined
+T 1394475804 23*	FatDarrel (~anandab@c-67-188-0-203.hsd1.ca.comcast.net23) has joined
+T 1394476973 24*	FR^2 has quit (Quit: Connection reset by peer)
+T 1394477035 24*	28Falcon` is now known as 18falcon`
+T 1394477762 23*	spinningcompass (~spinningc@173.192.176.155-static.reverse.softlayer.com23) has joined
+T 1394479188 24*	crobinso has quit (Quit: Leaving)
+T 1394479809 24*	kwolf has quit (Quit: Konversation terminated!)
+T 1394479925 23*	kwolf (~kwolf@p4FC5FCE9.dip0.t-ipconnect.de23) has joined
+T 1394480014 23*	FreezingCold (~FreezingC@135.0.41.1423) has joined
+T 1394480566 24*	d33tah has quit (Ping timeout: 264 seconds)
+T 1394480677 24*	tgunr has quit (Quit: Nity nite)
+T 1394480879 24*	kwolf has quit (Quit: Konversation terminated!)
+T 1394480909 23*	tgunr (~davec@66-249-166-12.static-ip.telepacific.net23) has joined
+T 1394480991 24*	tgunr has quit (Max SendQ exceeded)
+T 1394481075 23*	tgunr (~davec@66-249-166-12.static-ip.telepacific.net23) has joined
+T 1394481293 23*	d33tah (~d33tah@kolos.math.uni.lodz.pl23) has joined
+T 1394483507 24*	28falcon` is now known as 18Falcon`
+T 1394483723 24*	28Falcon` is now known as 18falcon`
+T 1394483886 24*	28falcon` is now known as 18Falcon`
+T 1394483953 24*	28Falcon` is now known as 18falcon`
+T 1394484289 24*	ehthayer has quit (Ping timeout: 240 seconds)
+T 1394484352 24*	28falcon` is now known as 18Falcon`
+T 1394484479 24*	kuldeepdhaka has quit (Ping timeout: 240 seconds)
+T 1394484545 24*	28Falcon` is now known as 18falcon`
+T 1394485488 24*	tgunr has quit (Ping timeout: 240 seconds)
+T 1394485512 24*	strull has quit (Ping timeout: 240 seconds)
+T 1394485578 23*	tgunr (~davec@66-249-166-12.static-ip.telepacific.net23) has joined
+T 1394486734 24*	kimphill_ has quit (Quit: Ex-Chat)
+T 1394488085 24*	sammi` has quit (Quit: Lost terminal)
+T 1394489546 23*	pharvey (~csirac2@foswiki/developer/pharvey23) has joined
+T 1394490449 24*	FreezingCold has quit (Ping timeout: 240 seconds)
+T 1394490535 23*	RT|Chatzilla (~rt@reactos/tester/RT23) has joined
+T 1394491248 24*	mstsirkin has quit (Ping timeout: 240 seconds)
+T 1394491503 23*	nox- (noident@freebsd/developer/nox23) has joined
+T 1394491541 24*	falcon` has quit (Ping timeout: 246 seconds)
+T 1394491681 24*	hamayun has quit (Quit: Leaving)
+T 1394491840 23*	mstsirkin (~mst@bzq-79-181-106-202.red.bezeqint.net23) has joined
+T 1394492052 23*	__blasty (~blasty@cracki.ng23) has joined
+T 1394492096 24*	yamahata has quit (Ping timeout: 244 seconds)
+T 1394492136 18<__blasty18>	hi, im running a simple debian system using qemu-system-arm (I think it was a git master build from ~2w ago) .. and the ptrace syscall seems to be broken, is this a known issue?
+T 1394492158 24*	yamahata__ has quit (Ping timeout: 240 seconds)
+T 1394492164 18<__blasty18>	(host is a standard ubuntu x86_64 machine)
+T 1394492165 23*	sammi` (sammi@gateway/shell/devio.us/x-bmifjxromejrzanz23) has joined
+T 1394492170 23*	yamahata__ (~yamahata@s132069.dynamic.ppp.asahi-net.or.jp23) has joined
+T 1394492183 23*	yamahata (~yamahata@s132069.dynamic.ppp.asahi-net.or.jp23) has joined
+T 1394492257 24*	ram__ has quit (Ping timeout: 240 seconds)
+T 1394492582 23*	ram__ (~ram__@c-50-139-7-188.hsd1.or.comcast.net23) has joined
+T 1394492639 23*	falcon` (Falcon@hell.kolosowscy.pl23) has joined
+T 1394493233 23*	FreezingCold (~FreezingC@135.0.41.1423) has joined
+T 1394493322 24*	falcon` has quit (Ping timeout: 245 seconds)
+T 1394493752 23*	falcon` (Falcon@hell.kolosowscy.pl23) has joined
+T 1394494037 24*	yamahata__ has quit (Quit: Konversation terminated!)
+T 1394494318 24*	yamahata has quit (Ping timeout: 264 seconds)
+T 1394494398 23*	fluter (~fluter@fedora/fluter23) has joined
+T 1394495232 24*	ram__ has quit (Ping timeout: 240 seconds)
+T 1394495311 23*	ram__ (~ram__@c-50-139-7-188.hsd1.or.comcast.net23) has joined
+T 1394495469 24*	fluter has quit (Quit: Leaving)
+T 1394495537 24*	pinpin404 has quit (Ping timeout: 244 seconds)
+T 1394496135 24*	quintela has quit (Quit: quintela)
+T 1394496212 23*	quintela (~quintela@trasno.trasno.org23) has joined
+T 1394496509 24*	FatDarrel has quit (Ping timeout: 240 seconds)
+T 1394497032 24*	aik_ has quit (Ping timeout: 265 seconds)
+T 1394497231 23*	VlanX (~sysadmin@host252-41-dynamic.56-82-r.retail.telecomitalia.it23) has joined
+T 1394497471 23*	yamahata__ (~yamahata@192.198.168.25423) has joined
+T 1394497519 24*	tgunr has quit (Quit: Nity nite)
+T 1394497648 23*	pinage404 (~pinage404@mau78-1-88-184-110-51.fbx.proxad.net23) has joined
+T 1394498268 23*	tgunr (~davec@66-249-166-12.static-ip.telepacific.net23) has joined
+T 1394498332 24*	deasy has quit (Quit: Nom d'un quark, c'est Edmonton !)
+T 1394498420 24*	pinage404 has quit (Ping timeout: 244 seconds)
+T 1394498458 24*	mstsirkin has quit (Ping timeout: 264 seconds)
+T 1394498565 23*	yamahata (~yamahata@192.198.168.25423) has joined
+T 1394498602 24*	FreezingCold has quit (Remote host closed the connection)
+T 1394498708 23*	FreezingCold (~FreezingC@135.0.41.1423) has joined
+T 1394498801 23*	akong (~akong@119.57.107.1523) has joined
+T 1394498869 23*	deasy (~deasy@host-85-201-190-191.brutele.be23) has joined
+T 1394498983 23*	mstsirkin (~mst@bzq-109-67-110-228.red.bezeqint.net23) has joined
+T 1394499613 24*	mstsirkin has quit (Ping timeout: 265 seconds)
+T 1394500171 23*	mstsirkin (~mst@bzq-79-182-58-80.red.bezeqint.net23) has joined
+T 1394501112 23*	pinage404 (~pinage404@mau78-1-88-184-110-51.fbx.proxad.net23) has joined
+T 1394501960 23*	aik__ (~aik@ibmaus65.lnk.telstra.net23) has joined
+T 1394502155 23*	fluter (~fluter@fedora/fluter23) has joined
+T 1394502789 24*	deasy has quit (Quit: Nom d'un quark, c'est Edmonton !)
+T 1394502893 24*	nox- has quit (Quit: Leaving)
+T 1394502958 24*	spinningcompass has quit (Ping timeout: 240 seconds)
+T 1394503442 24*	akong has quit (Ping timeout: 265 seconds)
+T 1394503442 24*	marcheu has quit (Ping timeout: 265 seconds)
+T 1394503449 23*	marcheu (~marcheu@annarchy.freedesktop.org23) has joined
+T 1394503466 23*	akong (~akong@119.57.107.1523) has joined
+T 1394503728 23*	spinningcompass (~spinningc@173.192.176.160-static.reverse.softlayer.com23) has joined
+T 1394503919 24*	yamahata has quit (Ping timeout: 240 seconds)
+T 1394503938 24*	yamahata__ has quit (Ping timeout: 240 seconds)
+T 1394504005 23*	MadMerlin (~neil@206-248-167-197.dsl.teksavvy.com23) has joined
+T 1394504051 24*	MadMerlin3 has quit (Ping timeout: 265 seconds)
+T 1394505713 23*	erlon (uid7593@gateway/web/irccloud.com/x-ekuvyvpimmdpcejc23) has joined
+T 1394505779 24*	spinningcompass has quit (Ping timeout: 240 seconds)
+T 1394506395 24*	tgunr has quit (Quit: Nity nite)
+T 1394506631 23*	spinningcompass (~spinningc@173.192.176.162-static.reverse.softlayer.com23) has joined
+T 1394507211 23*	sireesht (~sireesht_@203.247.149.15223) has joined
+T 1394507223 23*	strull (~strull@p57A3922E.dip0.t-ipconnect.de23) has joined
+T 1394507678 24*	spinningcompass has quit (Ping timeout: 240 seconds)
+T 1394507937 24*	ram__ has quit (Ping timeout: 244 seconds)
+T 1394507962 23*	ram__ (~ram__@c-50-139-7-188.hsd1.or.comcast.net23) has joined
+T 1394508947 24*	grep0r has quit (Ping timeout: 252 seconds)
+T 1394509150 23*	grep0r (grep0r@bitcoinshell.mooo.com23) has joined
+T 1394509791 23*	tgunr (~davec@66-249-166-12.static-ip.telepacific.net23) has joined
+T 1394511006 24*	ram__ has quit (Ping timeout: 244 seconds)
+T 1394511031 23*	ram__ (~ram__@c-50-139-7-188.hsd1.or.comcast.net23) has joined
+T 1394511062 23*	yamahata__ (~yamahata@192.198.168.25423) has joined
+T 1394511120 23*	yamahata (~yamahata@192.198.168.25423) has joined
+T 1394511864 24*	lmr has quit (Quit: Ex-Chat)
+T 1394512377 23*	spinningcompass (~spinningc@173.192.170.77-static.reverse.softlayer.com23) has joined
+T 1394513232 24*	strull has quit (Ping timeout: 240 seconds)
+T 1394513477 23*	lexszero (~lexszero@jabber.spbu.ru23) has joined
+T 1394513738 23*	satheesh1 (~satheesh@122.248.161.5923) has joined
+T 1394514190 24*	FreezingCold has quit (Ping timeout: 264 seconds)
+T 1394514431 24*	spinningcompass has quit (Ping timeout: 252 seconds)
+T 1394515458 23*	FatDarrel (~anandab@208-90-214-248.PUBLIC.monkeybrains.net23) has joined
+T 1394515748 24*	pharvey has quit (Quit: Leaving.)
+T 1394515904 24*	satheesh1 has quit (Ping timeout: 244 seconds)
+T 1394516351 24*	tgunr has quit (Quit: Nity nite)
+T 1394516669 24*	ram__ has quit (Ping timeout: 240 seconds)
+T 1394516694 23*	ram__ (~ram__@c-50-139-7-188.hsd1.or.comcast.net23) has joined
+T 1394517062 24*	sireesht has quit (Read error: Connection reset by peer)
+T 1394518194 23*	sireesht (~sireesht_@203.247.149.15223) has joined
+T 1394518221 24*	sireesht has quit (Read error: Connection reset by peer)
+T 1394518311 23*	sireesht (~sireesht_@203.247.149.15223) has joined
+T 1394518618 24*	sireesht has quit (Ping timeout: 264 seconds)
+T 1394519035 23*	spinningcompass (~spinningc@173.192.170.80-static.reverse.softlayer.com23) has joined
+T 1394519219 24*	FatDarrel has quit (Quit: FatDarrel)
+T 1394519512 23*	sireesht (~sireesht_@203.247.149.15223) has joined
+T 1394519553 24*	sireesht has quit (Read error: Connection reset by peer)
+T 1394519643 23*	sireesht (~sireesht_@203.247.149.15223) has joined
+T 1394519646 24*	sireesht has quit (Read error: Connection reset by peer)
+T 1394519739 23*	sireesht (~sireesht_@203.247.149.15223) has joined
+T 1394519782 24*	sireesht has quit (Read error: Connection reset by peer)
+T 1394519856 24*	ram__ has quit (Ping timeout: 240 seconds)
+T 1394520009 23*	sireesht (~sireesht_@203.247.149.15223) has joined
+T 1394520018 24*	sireesht has quit (Read error: Connection reset by peer)
+T 1394520132 24*	lexszero (~lexszero@jabber.spbu.ru24) has left
+T 1394520367 23*	lexszero (~lexszero@jabber.spbu.ru23) has joined
+T 1394520420 23*	ram__ (~ram__@c-50-139-7-188.hsd1.or.comcast.net23) has joined
+T 1394521642 23*	satheesh (~satheesh@122.248.161.5923) has joined
+T 1394521838 24*	rhod has quit (Ping timeout: 240 seconds)
+T 1394521849 23*	braoru (~braoru@178-82-119-27.dynamic.hispeed.ch23) has joined
+T 1394522544 24*	erlon has quit (Quit: Connection closed for inactivity)
+T 1394523568 24*	davidhadas has quit (Ping timeout: 265 seconds)
+T 1394523742 24*	ram__ has quit (Ping timeout: 265 seconds)
+T 1394524546 24*	Rakkin has quit (Quit: weechat)
+T 1394524883 19*	Now talking on 22#qemu
+T 1394524883 22*	Topic for 22#qemu is: Official channel is on OTFC (irc.oftc.net) -- http://www.qemu.org
+T 1394524883 22*	Topic for 22#qemu set by 26aliguori (24Tue Dec  6 13:31:15 2011)
+T 1394525632 23*	rhod (rhod@nat/redhat/x-nubamgsjzcqcbsdv23) has joined
+T 1394525688 24*	yamahata has quit (Ping timeout: 240 seconds)
+T 1394525712 24*	yamahata__ has quit (Ping timeout: 240 seconds)
+T 1394525931 23*	dstuxo (~Dragos@89.121.200.10623) has joined
+T 1394526211 23*	kwolf (kwolf@nat/redhat/x-eknyeagpyabhrfdw23) has joined
+T 1394526254 23*	ram__ (~ram__@c-50-139-7-188.hsd1.or.comcast.net23) has joined
+T 1394526343 23*	hamayun (~hamayun@118.128.125.78.rev.sfr.net23) has joined
+T 1394526603 23*	yamahata__ (~yamahata@192.198.168.25423) has joined
+T 1394526626 23*	yamahata (~yamahata@192.198.168.25423) has joined
+T 1394526928 23*	sireesht (~sireesht_@203.247.149.15223) has joined
+T 1394527103 23*	jno_ (jno@nat/ibm/x-hhsobxmvnphjjnzk23) has joined
+T 1394527375 24*	spinningcompass has quit (Ping timeout: 244 seconds)
+T 1394527893 23*	satheesh2 (~satheesh@122.248.163.223) has joined
+T 1394528018 24*	satheesh has quit (Ping timeout: 240 seconds)
+T 1394528154 24*	sireesht has quit (Ping timeout: 240 seconds)
+T 1394528676 24*	yamahata has quit (Ping timeout: 244 seconds)
+T 1394528676 24*	yamahata__ has quit (Ping timeout: 244 seconds)
+T 1394528824 23*	satheesh (~satheesh@122.248.163.423) has joined
+T 1394528918 24*	satheesh2 has quit (Ping timeout: 240 seconds)
+T 1394529185 23*	sireesht (~sireesht_@203.247.149.15223) has joined
+T 1394529304 23*	Aristide (~quassel@2a01:e35:2eb9:64b0:1e4b:d6ff:feca:6b6923) has joined
+T 1394529378 24*	ram__ has quit (Ping timeout: 240 seconds)
+T 1394529489 23*	FR^2 (~frquadrat@farsquare.de23) has joined
+T 1394529968 23*	ram__ (~ram__@c-50-139-7-188.hsd1.or.comcast.net23) has joined
+T 1394530870 24*	rhod has quit (Ping timeout: 252 seconds)
+T 1394531288 24*	Aristide has quit (Read error: Connection reset by peer)
+T 1394531661 23*	rhod (rhod@nat/redhat/x-cwwhepuklsyvlzuw23) has joined
+T 1394531992 24*	jno_ has quit (Quit: Leaving.)
+T 1394532050 23*	jno_ (jno@nat/ibm/x-peqtjwrjbefvuacu23) has joined
+T 1394532078 24*	akong has quit (Quit: Ex-Chat)
+T 1394532530 23*	yamahata__ (~yamahata@192.198.168.25423) has joined
+T 1394532568 23*	yamahata (~yamahata@192.198.168.25423) has joined
+T 1394532751 24*	aik__ has quit (Ping timeout: 252 seconds)
+T 1394533889 24*	jno_ has quit (Quit: Leaving.)
+T 1394534878 24*	rhod has quit (Ping timeout: 265 seconds)
+T 1394535547 23*	rhod (rhod@nat/redhat/x-wfajdevgffhydurf23) has joined
+T 1394536296 24*	ram__ has quit (Ping timeout: 240 seconds)
+T 1394536320 23*	ram__ (~ram__@c-50-139-7-188.hsd1.or.comcast.net23) has joined
+T 1394537008 23*	flip214 (~marek@unaffiliated/flip21423) has joined
+T 1394537048 23*	ehthayer (~textual@23.30.163.423) has joined
+T 1394537131 24*	flip214 (~marek@unaffiliated/flip21424) has left
+T 1394537790 23*	crobinso (~crobinso@redhat/crobinso23) has joined
+T 1394538393 23*	aik__ (~aik@60-242-102-4.tpgi.com.au23) has joined
+T 1394539027 23*	jas- (~quassel@stffm12-211.staff.library.utah.edu23) has joined
+T 1394539061 24*	satheesh has quit (Ping timeout: 244 seconds)
+T 1394539419 24*	fluter has quit (Ping timeout: 252 seconds)
+T 1394539491 24*	yamahata__ has quit (Quit: Konversation terminated!)
+T 1394539555 24*	sireesht has quit (Quit: Leaving)
+T 1394539692 24*	ircuser-1 has quit (Ping timeout: 240 seconds)
+T 1394539752 24*	yamahata has quit (Ping timeout: 265 seconds)
+T 1394540059 23*	sireesht (~sireesht_@203.247.149.15223) has joined
+T 1394541325 23*	FreezingCold (~FreezingC@205.211.54.16223) has joined
+T 1394542187 23*	Aristide (~quassel@LCaen-156-55-22-239.w80-11.abo.wanadoo.fr23) has joined
+T 1394542419 23*	ircuser-1 (~ircuser-1@35.222-62-69.ftth.swbr.surewest.net23) has joined
+T 1394542613 24*	goldkatze has quit (Read error: Connection reset by peer)
+T 1394542639 23*	goldkatze (~nobody@unaffiliated/goldkatze23) has joined
+T 1394543063 23*	tgunr (~davec@66-249-166-12.static-ip.telepacific.net23) has joined
+T 1394543070 23*	olspookishmagus (~pookie@snf-137798.vm.okeanos.grnet.gr23) has joined
+T 1394543076 24*	olspookishmagus (~pookie@snf-137798.vm.okeanos.grnet.gr24) has left
+T 1394543439 23*	deasy (~deasy@host-85-201-190-191.brutele.be23) has joined
+T 1394543469 23*	yamahata__ (~yamahata@s132069.dynamic.ppp.asahi-net.or.jp23) has joined
+T 1394543679 24*	tgunr has quit (Quit: Nity nite)
+T 1394543722 24*	yamahata__ has quit (Remote host closed the connection)
+T 1394543763 23*	yamahata__ (~yamahata@s132069.dynamic.ppp.asahi-net.or.jp23) has joined
+T 1394543938 24*	qdk_ has quit (Ping timeout: 240 seconds)
+T 1394544025 23*	tgunr (~davec@66-249-166-12.static-ip.telepacific.net23) has joined
+T 1394544035 24*	Aristide has quit (Read error: Connection reset by peer)
+T 1394544096 24*	yamahata__ has quit (Remote host closed the connection)
+T 1394544128 23*	yamahata__ (~yamahata@s132069.dynamic.ppp.asahi-net.or.jp23) has joined
+T 1394544405 23*	yamahata (~yamahata@s132069.dynamic.ppp.asahi-net.or.jp23) has joined
+T 1394544448 24*	yamahata__ has quit (Remote host closed the connection)
+T 1394544488 23*	yamahata__ (~yamahata@s132069.dynamic.ppp.asahi-net.or.jp23) has joined
+T 1394544634 24*	yamahata__ has quit (Excess Flood)
+T 1394544692 23*	yamahata__ (~yamahata@s132069.dynamic.ppp.asahi-net.or.jp23) has joined
+T 1394544698 23*	qdk_ (~qdk@188.120.76.16223) has joined
+T 1394544857 24*	yamahata__ has quit (Remote host closed the connection)
+T 1394544913 23*	yamahata__ (~yamahata@s132069.dynamic.ppp.asahi-net.or.jp23) has joined
+T 1394545273 24*	yamahata has quit (Quit: Leaving)
+T 1394545288 23*	yamahata (~yamahata@s132069.dynamic.ppp.asahi-net.or.jp23) has joined
+T 1394545347 23*	strull (~strull@pD9FBBA89.dip0.t-ipconnect.de23) has joined
+T 1394545434 24*	yamahata__ has quit (Ping timeout: 265 seconds)
+T 1394545668 23*	yamahata__ (~yamahata@s132069.dynamic.ppp.asahi-net.or.jp23) has joined
+T 1394545809 23*	lmr (~lmr@177.103.18.8623) has joined
+T 1394545844 24*	yamahata__ has quit (Remote host closed the connection)
+T 1394545916 23*	yamahata__ (~yamahata@s132069.dynamic.ppp.asahi-net.or.jp23) has joined
+T 1394546285 19*	Now talking on 22#qemu
+T 1394546285 22*	Topic for 22#qemu is: Official channel is on OTFC (irc.oftc.net) -- http://www.qemu.org
+T 1394546285 22*	Topic for 22#qemu set by 26aliguori (24Tue Dec  6 13:31:15 2011)
+T 1394546373 24*	yamahata__ has quit (Remote host closed the connection)
+T 1394546539 24*	lexszero (~lexszero@jabber.spbu.ru24) has left
+T 1394546682 24*	deasy has quit (Quit: Nom d'un quark, c'est Edmonton !)
+T 1394546725 23*	deasy (~deasy@host-85-201-190-191.brutele.be23) has joined
+T 1394546744 23*	yamahata__ (~yamahata@s132069.dynamic.ppp.asahi-net.or.jp23) has joined
+T 1394546984 24*	yamahata__ has quit (Excess Flood)

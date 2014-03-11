@@ -1,0 +1,552 @@
+T 1394177778 20<Thonneve>30	I spend more time on a CLI than on an actual GUI program
+T 1394177797 18<CookieJar18>	my time is mixed between the two
+T 1394177797 18<Caaz18>	I don't use arch I'm just fucking around
+T 1394177807 18<razorquick18>	i maight get autumn wind as wm
+T 1394177809 20<Thonneve>30	Caaz isn't smart enough to use arch
+T 1394177823 18<Caaz18>	I use OSX and Windows 8.1, though I'm considering raping the fuck out of my iMac and just installing ubuntu instead.
+T 1394177831 18<Caaz18>	What's the benefits of using arch
+T 1394177841 24*	Reaper3 has quit (Ping timeout: 240 seconds)
+T 1394177854 18<razorquick18>	you see what you want in your system
+T 1394177870 18<razorquick18>	uses 20 mb when optimized correctly
+T 1394177873 20<Thonneve>30	^
+T 1394177879 20<Thonneve>30	Your toaster CAN run arch
+T 1394177885 20<Thonneve>30	Aslong as it has a CPU and a port of the linux kernel
+T 1394177886 20<Thonneve>30	FACT
+T 1394177901 20<Thonneve>30	Ubuntu is actual really restrictive
+T 1394177914 20<Thonneve>30	Plus it's doing stupid stuff like dropping xorg support
+T 1394177929 19<CookieJar>	Thonneve, how about a 386sx?
+T 1394177941 20<Thonneve>30	CookieJar: What's that?
+T 1394177945 23*	Reaper3 (~back@because.3.is.a.fine.number23) has joined
+T 1394177947 23*	Sonoshee (~RePod@beyond.the.finish.line23) has joined
+T 1394177952 24*	Revy has quit (Ping timeout: 240 seconds)
+T 1394177956 18<CookieJar18>	budget version of the 386 processor
+T 1394177967 20<Thonneve>30	Check if it has a port
+T 1394177978 18<razorquick18>	CookieJar ; arch officially suports 1686
+T 1394177981 18<CookieJar18>	>he doesn't know what a 386 is
+T 1394177981 20<Thonneve>30	I wouldn't be supprise if it did tbh
+T 1394177982 18<razorquick18>	i686 *
+T 1394177987 18<CookieJar18>	>is in #oldx86hardware
+T 1394177998 20<Thonneve>30	CookieJar: I joined that channel because Ziginox told me to
+T 1394178005 18<CookieJar18>	razorquick, yeah I wouldn't expect to go less than a pentium 1
+T 1394178006 20<Thonneve>30	Not because I pretend to know about old hardware
+T 1394178016 18<Caaz18>	~end
+T 1394178016 24*	Pino has quit (Quit: - End -)
+T 1394178029 18<razorquick18>	you could write a port if you like :P
+T 1394178032 18<Caaz18>	So I want arch right
+T 1394178040 20<Thonneve>30	Get the arch install ISO
+T 1394178043 20<Thonneve>30	Follow the guide
+T 1394178050 18<razorquick18>	call it arching cookie linux
+T 1394178061 20<Thonneve>30	Come back in a few hours after you fuck up so we can hold your hand through fixing it
+T 1394178078 18<razorquick18>	i could walk you through Caaz
+T 1394178094 18<razorquick18>	its easy ;P
+T 1394178099 20<Thonneve>30	It really
+T 1394178102 20<Thonneve>30	It really is*
+T 1394178111 20<Thonneve>30	Just don't get scared when it's all command line
+T 1394178118 20<Thonneve>30	That's half the fun and you'll install a DE after
+T 1394178141 18<razorquick18>	still cli ftw
+T 1394178141 18<PAYNUS18>	paynus cli ftw
+T 1394178142 18<razorquick18>	:P
+T 1394178142 18<CookieJar18>	this is the oldest / slowest I ever got linux onto https://dl.dropboxusercontent.com/u/25082417/Pictures/2013-04-01%2020.53.33.jpg
+T 1394178151 18<CookieJar18>	https://dl.dropboxusercontent.com/u/25082417/Pictures/2013-04-01%2020.53.12.jpg
+T 1394178157 18<CookieJar18>	486-dx2 with 20mb ram
+T 1394178186 18<razorquick18>	sweet :)
+T 1394178206 18<razorquick18>	dsl ?
+T 1394178211 18<CookieJar18>	Damn Small Linux
+T 1394178223 24*	Kuro-chan has quit (Quit: I CAN HAZ CHEEZCAKE!)
+T 1394178229 18<razorquick18>	nothing else supports that now :P
+T 1394178230 23*	Pino (~Luka@85086B51.17A878B0.DE6D5023.IP23) has joined
+T 1394178245 18<CookieJar18>	when I open the program menu the system would slow to a crawl and I could see elements on the screen refresh
+T 1394178245 18<razorquick18>	unless you include puplets
+T 1394178267 18<razorquick18>	better use it cli
+T 1394178279 18<CookieJar18>	yeah
+T 1394178290 18<CookieJar18>	pretty much just wanted to see what I could get it to run
+T 1394178307 18<CookieJar18>	maybe I should drag that machine out again and install OS/2
+T 1394178818 18<CookieJar18>	maybe I should also explore other terminals, currently use lxterminal
+T 1394179023 20<Thonneve>30	I use gnome-terminal with cinnamon
+T 1394179088 20<Thonneve>30	CookieJar: Linux Osatia-Network 3.14.0-rc5-NATHAN-00185-gc3bebc7 #2 SMP PREEMPT Fri Mar 7 00:48:00 GMT 2014 x86_64 GNU/Linux
+T 1394179186 18<CookieJar18>	uname -a?
+T 1394179210 20<Thonneve>30	yup
+T 1394179212 18<CookieJar18>	Linux phobos 3.13.5-1-ARCH #1 SMP PREEMPT Sun Feb 23 00:25:24 CET 2014 x86_64 GNU/Linux
+T 1394179221 20<Thonneve>30	Custom kernel ftw
+T 1394179231 18<CookieJar18>	shutup nathan
+T 1394179274 20<Thonneve>30	https://wiki.archlinux.org/index.php/Kernels/Compilation/Traditional
+T 1394179340 20<Thonneve>30	You'll lack nftables support unfortunatley
+T 1394179350 18<CookieJar18>	hmm
+T 1394179356 20<Thonneve>30	Which is better than iptables imo
+T 1394179921 18<CookieJar18>	https://dl.dropboxusercontent.com/u/25082417/screenFetch-2014-03-07_02-09-00.png
+T 1394179931 18<CookieJar18>	did some theming
+T 1394179959 18<CookieJar18>	realized I didn't really show the icons I'm using
+T 1394179962 18<Caaz18>	Three monitors?
+T 1394179962 18<CookieJar18>	ah well
+T 1394179962 18<PAYNUS18>	ah paynus
+T 1394179963 20<Thonneve>30	Looks very ubuntuish
+T 1394179972 18<CookieJar18>	Caaz, yep
+T 1394179975 18<Caaz18>	That would bother the fuck out of me
+T 1394179983 18<Caaz18>	I mean the fact that they aren't all the same resolution
+T 1394179991 18<CookieJar18>	weird that OS is unkown
+T 1394179992 18<Caaz18>	I'd be all fucking OCD and get three of the same exact monitor
+T 1394180015 18<CookieJar18>	I kinda want two more of the middle, but they are $400 each
+T 1394180024 18<CookieJar18>	and that would be a fuckhuge framebuffer
+T 1394180028 20<Thonneve>30	CookieJar: Something in somewhere changed
+T 1394180037 20<Thonneve>30	Where that changed I have no fucking clue
+T 1394180061 18<CookieJar18>	I dunno
+T 1394180085 20<Thonneve>30	>DE: Gnome
+T 1394180086 20<Thonneve>30	nope.jpg
+T 1394180100 20<Thonneve>30	Mine says cinnamon
+T 1394180102 18<CookieJar18>	yeah, seems screenfetch has messed up
+T 1394180217 18<CookieJar18>	https://dl.dropboxusercontent.com/u/25082417/2014-01-13-142638_2560x1440_scrot.png
+T 1394180222 18<CookieJar18>	much older image
+T 1394180230 18<CookieJar18>	when I just installed it seems
+T 1394180245 18<CookieJar18>	still says gnome
+T 1394180257 20<Thonneve>30	>/g/scip
+T 1394180258 20<Thonneve>30	Whut
+T 1394180283 18<CookieJar18>	is a channel that is supposedly programming oriented
+T 1394180291 18<CookieJar18>	haven't seen a ton of that happen
+T 1394180291 18<PAYNUS18>	paynus't seen a ton of that happen
+T 1394180299 20<Thonneve>30	./g/ isn't about programming at all
+T 1394180311 18<CookieJar18>	is technology in general no?
+T 1394180319 20<Thonneve>30	It's supposed to be
+T 1394180329 18<CookieJar18>	I remember seeing the occasional programming thread when I went
+T 1394180331 20<Thonneve>30	It's more of a linux vs windows vs mac nsa general
+T 1394180345 18<CookieJar18>	yeah, I stopped going because I got tired of the same ol' arguements
+T 1394180349 18<CookieJar18>	intel vs amd
+T 1394180351 20<Thonneve>30	I find it funny
+T 1394180355 18<CookieJar18>	amd vs intel vs nvidia
+T 1394180356 18<CookieJar18>	etc
+T 1394180362 20<Thonneve>30	Firefox vs chrome vs ie vs opera
+T 1394180371 20<Thonneve>30	Desktop threads are why I go there
+T 1394180380 20<Thonneve>30	I get some really good ideas from it
+T 1394180397 18<CookieJar18>	yeah, used to occasionally hope into desktop threads and battlestation threads
+T 1394180414 20<Thonneve>30	My battlestation got featured once
+T 1394180414 18<PAYNUS18>	My battlestation paynus featured once
+T 1394180420 18<CookieJar18>	I wonder, is miley / sersh / whatever he calls himself now still posting on those desktop threads?
+T 1394180420 20<Thonneve>30	In one of those strip things they do
+T 1394180429 20<Thonneve>30	Fuck knows
+T 1394180443 18<CookieJar18>	he used to be in some of the same channels I'm in
+T 1394180474 18<CookieJar18>	what is your battlestation anyhow, maybe I can recognise it :P
+T 1394180483 20<Thonneve>30	I don't have it anymore
+T 1394180484 18<Caaz18>	Mine is so pathetic
+T 1394180488 18<CookieJar18>	oh
+T 1394180495 20<Thonneve>30	I moved out of the house it was taken in
+T 1394180517 18<CookieJar18>	ah
+T 1394180521 24*	Pino has quit (Quit: - End -)
+T 1394180551 18<CookieJar18>	newest pictures I have of mine https://dl.dropboxusercontent.com/u/25082417/2013-12-08%2019.45.05.jpg https://dl.dropboxusercontent.com/u/25082417/2013-12-08%2019.45.10.jpg
+T 1394180570 20<Thonneve>30	>lava lamp
+T 1394180572 20<Thonneve>30	Instant win
+T 1394180582 18<CookieJar18>	thanks
+T 1394180600 20<Thonneve>30	I fucking love lava lamp
+T 1394180601 18<CookieJar18>	since this I have put my posters back up, made a mess
+T 1394180605 18<CookieJar18>	moved a few things around
+T 1394180614 20<Thonneve>30	My battlestation was always so clean
+T 1394180616 20<Thonneve>30	So tiny
+T 1394180623 20<Thonneve>30	tidy*
+T 1394180646 18<CookieJar18>	mine doesn't get filthy, I don't leave tons of wrappers, cans, etc, around, but things do end up being a mess
+T 1394180656 20<Thonneve>30	Mine was never a mess
+T 1394180657 18<CookieJar18>	wires, etc
+T 1394180658 18<PAYNUS18>	paynuses, etc
+T 1394180661 20<Thonneve>30	I'd clean it daily
+T 1394180661 18<CookieJar18>	ahaha
+T 1394180673 20<Thonneve>30	Could not stand a untidy desk
+T 1394180685 18<CookieJar18>	well, right now I guess my DESK isn't that bad
+T 1394180689 18<CookieJar18>	but the rest of the room...
+T 1394180697 18<CookieJar18>	I see fern gully on the floor
+T 1394180735 18<CookieJar18>	and a chain of risers or w/e for vga, parallel, serial, etc ports
+T 1394180735 18<ThinkBot18>	poor sphincter is about to say piba they'll flag something or w/e
+T 1394180757 19<CookieJar>	ugh, ThinkBot and Thonneve have the same colour in my client
+T 1394180757 19<ThinkBot>	it doesn't want a portable emu even after that tentacle monster at thonneve
+T 1394180768 20<Thonneve>30	lol
+T 1394180853 18<CookieJar18>	https://dl.dropboxusercontent.com/u/25082417/Pictures/everytime.png
+T 1394180859 18<CookieJar18>	I should probably see how this game runs in wine
+T 1394180884 20<Thonneve>30	If it runs bad
+T 1394180886 20<Thonneve>30	Use qemu
+T 1394180891 20<Thonneve>30	Assuming your CPU supports it
+T 1394180899 20<Thonneve>30	95% speed of native windows
+T 1394180903 18<CookieJar18>	nice
+T 1394180903 20<Thonneve>30	Due to the way it works
+T 1394180914 20<Thonneve>30	It REQUIRES hardware virtualisation though
+T 1394180919 18<CookieJar18>	haven't played with qemu much
+T 1394180930 20<Thonneve>30	I'm compiling it now to check it out properly
+T 1394180935 18<CookieJar18>	http://appdb.winehq.org/objectManager.php?sClass=version&iId=28071
+T 1394180937 20<Thonneve>30	Experimented with it a while ago
+T 1394180937 18<PAYNUS18>	Experimented with it a paynus ago
+T 1394180963 18<CookieJar18>	looks like its playable
+T 1394181133 19<CookieJar>	have you played anything such as Victoria 2 Thonneve?
+T 1394181135 18<CookieJar18>	grand strategy
+T 1394181151 20<Thonneve>30	Nah
+T 1394181160 20<Thonneve>30	I don't bother with games anymore
+T 1394181177 18<CookieJar18>	I still do, partially because I don't know what else I would do
+T 1394181186 20<Thonneve>30	I work on projects like opensim
+T 1394181198 18<CookieJar18>	isn't that technically a game >_>
+T 1394181200 20<Thonneve>30	Or optimizing my arch install some more
+T 1394181207 20<Thonneve>30	I know
+T 1394181212 20<Thonneve>30	But it can become one
+T 1394181257 20<Thonneve>30	It's whatever you make it, that's why I love it
+T 1394181291 18<CookieJar18>	heh
+T 1394181303 20<Thonneve>30	I'm working on a OS inside of it at the moment
+T 1394181309 20<Thonneve>30	Kernel in C#, userspace in LSL
+T 1394181329 18<CookieJar18>	you mentioned already
+T 1394181333 20<Thonneve>30	I probably did
+T 1394181340 20<Thonneve>30	I'm tired due to immense back pain
+T 1394181367 18<CookieJar18>	and that it is 4:30
+T 1394181374 20<Thonneve>30	8:36 here
+T 1394181385 18<CookieJar18>	oh, I did my math wrong
+T 1394181395 18<CookieJar18>	it is 2:30 here
+T 1394181411 18<CookieJar18>	I'm 6 hours behind you
+T 1394181740 18<CookieJar18>	anyhow, should probably actually head to bed
+T 1394182307 20<Thonneve>30	CookieJar: Take it easy
+T 1394182308 18<ThinkBot18>	i imagine it's easy on me
+T 1394182308 18<PAYNUS18>	i imagine it's paynus on me
+T 1394182498 18<CookieJar18>	in other words, shift over to my laptop in bed
+T 1394182511 18<CookieJar18>	http://i.imgur.com/AHZAEK0.png
+T 1394182626 20<Thonneve>30	Haha
+T 1394182632 20<Thonneve>30	I'm checking out qemu with freebsd
+T 1394182670 20<Thonneve>30	Wow this is pretty damn fast
+T 1394182703 18<CookieJar18>	nice
+T 1394182726 18<CookieJar18>	apparently qemu can also do other platforms
+T 1394182733 20<Thonneve>30	Yeah
+T 1394182733 18<CookieJar18>	ie: you could run amigaOS in it
+T 1394182736 20<Thonneve>30	It can do ARM
+T 1394182763 20<Thonneve>30	It doesn't convert machine code, it actually runs it on the CPu
+T 1394182775 18<CookieJar18>	I tried it on my laptop once with windows 95, not sure what virtualization stuff my laptop's cpu has though
+T 1394182790 20<Thonneve>30	It's only recently became decent
+T 1394182812 18<CookieJar18>	not sure how long ago this was
+T 1394182820 18<CookieJar18>	think late last year
+T 1394182826 20<Thonneve>30	Hmmm
+T 1394182829 20<Thonneve>30	How was it then?
+T 1394182843 20<Thonneve>30	Allough probably you didn't give it enough resources if it was slow
+T 1394182897 18<CookieJar18>	I can't fully remember but I think it felt a bit slow
+T 1394182900 18<CookieJar18>	should give it another go
+T 1394182912 18<CookieJar18>	maybe with something more modern too
+T 1394182918 20<Thonneve>30	It might have been windows 98 not supporting the way qemu works
+T 1394182922 20<Thonneve>30	Which I doubt it would have
+T 1394182927 18<CookieJar18>	95*
+T 1394182931 20<Thonneve>30	Oh damn
+T 1394182933 20<Thonneve>30	Then it wouldn't
+T 1394182977 18<CookieJar18>	maybe I'll try 7 someday
+T 1394182995 20<Thonneve>30	It should work very similar to a native install
+T 1394182995 18<CookieJar18>	I know the BIOS has an option to enable / disable some virtualization thing, and I have it enabled
+T 1394183002 20<Thonneve>30	Yeah
+T 1394183004 20<Thonneve>30	That's what you need
+T 1394183004 18<PAYNUS18>	That's what you paynus
+T 1394183004 18<CookieJar18>	just cannot remember if it was vt-x or vt-d
+T 1394183015 20<Thonneve>30	Should be both
+T 1394183027 18<CookieJar18>	first gen i5
+T 1394183032 18<CookieJar18>	talking about my laptop here
+T 1394183037 20<Thonneve>30	Definatley both
+T 1394183048 18<CookieJar18>	thought vt-d only came around with sandy bridge
+T 1394183162 20<Thonneve>30	That might be true
+T 1394183163 18<CookieJar18>	ok, I see vmx in /proc/cpuinfo
+T 1394183174 20<Thonneve>30	but vt-d doesn't improve Vm performance
+T 1394183186 18<CookieJar18>	oh
+T 1394183194 18<CookieJar18>	I also see an "smx"
+T 1394183195 20<Thonneve>30	Would just stop the guest rooting the host
+T 1394183222 18<CookieJar18>	ah
+T 1394183231 20<Thonneve>30	>archbsd
+T 1394183240 20<Thonneve>30	This is an actual thing
+T 1394183284 18<CookieJar18>	yeah
+T 1394183301 18<CookieJar18>	think I dropped into their irc channel when browsing freenode
+T 1394183302 20<Thonneve>30	New VM found
+T 1394183326 18<CookieJar18>	haven't played with the *bsd's much
+T 1394183340 20<Thonneve>30	I'm only doing it for the fun of it
+T 1394183364 18<CookieJar18>	yeah
+T 1394183368 20<Thonneve>30	But I'm definatley canceling this vm and getting archbsd
+T 1394183368 18<PAYNUS18>	But I'm definatley canceling this vm and paynuting archbsd
+T 1394183395 18<CookieJar18>	I have wanted to just to see how they are different from what I've used
+T 1394183413 20<Thonneve>30	I imagine archbsd is just like arch but bsd kernel
+T 1394183429 20<Thonneve>30	I'm gunna check it out though, sounds interesting
+T 1394183438 18<CookieJar18>	yeah
+T 1394183488 18<CookieJar18>	I've also considered throwing something silly on my laptop like HaikuOS
+T 1394183491 18<CookieJar18>	or ecomstation
+T 1394183525 18<CookieJar18>	or what is it... plan9
+T 1394183534 18<CookieJar18>	though that one I don't think would actually run
+T 1394183606 20<Thonneve>30	Should do
+T 1394183897 18<CookieJar18>	so with qemu, are you using a manager / frontend of some sort?
+T 1394183938 20<Thonneve>30	Nope
+T 1394183941 20<Thonneve>30	Command line
+T 1394183969 18<CookieJar18>	ah
+T 1394183973 18<CookieJar18>	http://imgur.com/gallery/HwrUa
+T 1394185198 20*	Disconnected (20Invalid argument)
+T 1394185201 No channel joined. Try /join #<channel>
+T 1394185211 19*	Now talking on 22#Blargh
+T 1394185211 22*	Topic for 22#Blargh is: pineapple rings covered in feta cheese on my ticket?
+T 1394185211 22*	Topic for 22#Blargh set by 26ThinkBot!~UltraNav@I.think.therefore.IBM (24Thu Mar  6 06:50:18 2014)
+T 1394185243 20<Thonneve>30	I think I deserve a new laptop
+T 1394185263 20<Thonneve>30	Core i7 with 16gb ram, nVidia geforce gtx760m
+T 1394185379 18<CookieJar18>	heh
+T 1394185382 18<CookieJar18>	why a laptop?
+T 1394185397 20<Thonneve>30	No room for a desktop
+T 1394185405 20<Thonneve>30	All I'm thinknig is
+T 1394185408 20<Thonneve>30	dat compile time
+T 1394185427 18<CookieJar18>	core i7, gtx760m...
+T 1394185429 18<CookieJar18>	that heat
+T 1394185437 20<Thonneve>30	Fuck it why not
+T 1394185464 18<CookieJar18>	seriously though, I bet you could get by perfectly fine with the modern intel integrated video
+T 1394185499 18<CookieJar18>	what do you have now for video?
+T 1394185551 20<Thonneve>30	Some ATI peice of shit
+T 1394185572 18<CookieJar18>	I know ATI, but what ATI
+T 1394185594 18<CookieJar18>	all in wonder?
+T 1394185599 18<CookieJar18>	rage?
+T 1394185604 20<Thonneve>30	 HexChat: 2.9.6 ** OS: Linux 3.14.0-rc5-NATHAN-00185-gc3bebc7 x86_64 ** Distro: ArchLinux ** CPU: 2 x AMD Athlon(tm) II P320 Dual-Core Processor (AuthenticAMD) @ 800MHz ** RAM: Physical: 3.6GB, 30.2% free ** Disk: Total: 450.7GB, 45.8% free ** VGA: Advanced Micro Devices, Inc. [AMD/ATI] RS880M [Mobility Radeon HD 4225/4250] ** Sound: HDA-Intel - HDA ATI SB1: HDA-Intel - HDA ATI HDMI ** Ethernet: 64
+T 1394185604 20<Thonneve>30	5 NetLink BCM57780 Gigabit Ethernet PCIe ** Uptime: 4h 11m 48s **
+T 1394185607 18<CookieJar18>	hd 3550
+T 1394185616 18<CookieJar18>	ah
+T 1394185652 18<CookieJar18>	the integrated video with haswells, atleast with my desktop's i5, I would say is equivilant to a radeon hd 4670 in performance
+T 1394185667 18<CookieJar18>	would likely be better with an i7
+T 1394185717 18<CookieJar18>	you said you don't do much gaming anymore, any video processing and rendering?
+T 1394185718 18<PAYNUS18>	you said you don't do much gaming anypaynus, any video propaynusing and rendering?
+T 1394185799 20<Thonneve>30	The only reason I don't game is because this laptop doesn't handle it
+T 1394185808 18<CookieJar18>	ah
+T 1394185817 18<CookieJar18>	then sure, go for a 760m
+T 1394185828 20<Thonneve>30	I'm not paying for it anyway
+T 1394185830 18<CookieJar18>	or even 770m if it exists
+T 1394185857 18<CookieJar18>	getting it through college or something?
+T 1394185902 20<Thonneve>30	Kind of
+T 1394185929 18<CookieJar18>	inb4 theftery
+T 1394185937 20<Thonneve>30	Essentially
+T 1394186009 18<CookieJar18>	whelp, don't get me involved with it
+T 1394186076 20<Thonneve>30	I won't haha
+T 1394186183 20<Thonneve>30	You wouldn't beleive how rediculously quick qemu is
+T 1394186460 24*	28dakine is now known as 18daki|afk
+T 1394187327 20<Thonneve>30	CookieJar: FreeBSD is basically gentoo
+T 1394188678 18<CookieJar18>	ah
+T 1394188705 20<Thonneve>30	Most packages use the ports like system (Portage and the AUR for comparison)
+T 1394188728 18<CookieJar18>	ok
+T 1394188766 20<Thonneve>30	In fact the arch build system is a ports clone
+T 1394189073 18<CookieJar18>	I think I've had enough soon TM
+T 1394189075 18<CookieJar18>	goodnight
+T 1394189123 20<Thonneve>30	Night
+T 1394190219 24*	28Ziginox is now known as 18Ziginox|Away
+T 1394190687 18<Sonoshee18>	http://prntscr.com/2yn288/direct
+T 1394190689 18<Sonoshee18>	"windows 8"
+T 1394194595 23*	Potato3 (~back@potato.powered.computational.needs23) has joined
+T 1394194599 23*	Shuichi (~RePod@Rizon-8D6747FF.lightspeed.miamfl.sbcglobal.net23) has joined
+T 1394194727 18<Shuichi18>	http://prntscr.com/2ynf0l/direct
+T 1394194728 18<Shuichi18>	goml orkasm
+T 1394194777 24*	Sonoshee has quit (Ping timeout: 240 seconds)
+T 1394194808 24*	Reaper3 has quit (Ping timeout: 240 seconds)
+T 1394195863 23*	love98 (KiwiIRC@Rizon-DCA88AE0.bois.qwest.net23) has joined
+T 1394195902 18<love9818>	heyo
+T 1394196133 23*	MurderMachine (~MurderMac@D7D362D5.4876AFCC.6DC9F488.IP23) has joined
+T 1394197374 24*	MurderMachine has quit (Ping timeout: 240 seconds)
+T 1394199486 24*	28love98 is now known as 18hated
+T 1394199703 24*	28hated is now known as 18love98
+T 1394200070 24*	love98 (KiwiIRC@Rizon-DCA88AE0.bois.qwest.net24) has left
+T 1394201558 23*	MurderMachine (~MurderMac@D7D362D5.4876AFCC.6DC9F488.IP23) has joined
+T 1394203749 24*	28Cinos is now known as 18Cinos|DC
+T 1394203884 24*	MurderMachine has quit (Ping timeout: 240 seconds)
+T 1394204254 24*	28Cinos|DC is now known as 18Cinos
+T 1394205083 23*	MurderMachine (~MurderMac@Rizon-7EE73539.st-andrews.ac.uk23) has joined
+T 1394206257 24*	Charmeleon has quit (Ping timeout: 240 seconds)
+T 1394207819 24*	MurderMachine has quit (Ping timeout: 240 seconds)
+T 1394208379 23*	Ziginox (~frozen@5C4C34BB.975522D1.CA89AF13.IP23) has joined
+T 1394208379 22*	26ChanServ gives channel operator status to 18Ziginox
+T 1394208497 24*	28Cinos is now known as 18Cinos|DC
+T 1394208507 24*	Ziginox|Away has quit (Ping timeout: 240 seconds)
+T 1394208621 24*	PAYNUS has quit (Ping timeout: 240 seconds)
+T 1394208638 24*	Ziginox has quit (Ping timeout: 240 seconds)
+T 1394208681 23*	Ziginox (~frozen@5C4C34BB.975522D1.CA89AF13.IP23) has joined
+T 1394208681 22*	26ChanServ gives channel operator status to 18Ziginox
+T 1394208994 23*	Kuro-chan (~chatzilla@Rizon-13A0BDF8.tor.pppoe.execulink.com23) has joined
+T 1394209098 23*	MurderMachine (~MurderMac@D7D362D5.4876AFCC.6DC9F488.IP23) has joined
+T 1394209416 23*	Compgeke|T411 (~Compgeke@Rizon-2E5FE749.lightspeed.sntcca.sbcglobal.net23) has joined
+T 1394209596 24*	Compgeke|T410 has quit (Ping timeout: 240 seconds)
+T 1394212599 24*	28Shuichi is now known as 18Kazuha
+T 1394212835 23*	Zigette (~frozen@5C4C34BB.975522D1.CA89AF13.IP23) has joined
+T 1394212835 22*	26ChanServ gives channel operator status to 18Zigette
+T 1394212957 24*	Ziginox has quit (Ping timeout: 240 seconds)
+T 1394213060 23*	Charmeleon (~a@Rizon-182EC0F.skybest.com23) has joined
+T 1394213485 24*	tyler (~MafBot@Using.Rape.Babies.As.Riot.Shields24) has left
+T 1394213604 24*	28Cinos|DC is now known as 18Cinos
+T 1394214084 24*	MurderMachine has quit (Ping timeout: 240 seconds)
+T 1394214367 24*	28trip is now known as 18SSH
+T 1394214734 23*	MurderMachine (~MurderMac@D7D362D5.4876AFCC.6DC9F488.IP23) has joined
+T 1394215320 24*	Hanny has quit (Read error: Connection reset by peer)
+T 1394215339 23*	Hanny (~Hanny@Edtome.and.Griggs.are.cool.42023) has joined
+T 1394215454 24*	Hanny has quit (Read error: Connection reset by peer)
+T 1394215460 23*	Hanny (~Hanny@Edtome.and.Griggs.are.cool.42023) has joined
+T 1394216403 23*	Compgeke|T410 (~Compgeke@Rizon-DF7A4C7D.pools.spcsdns.net23) has joined
+T 1394216407 24*	Compgeke|T411 has quit (Ping timeout: 240 seconds)
+T 1394216969 24*	Hanny has quit (Read error: Connection reset by peer)
+T 1394217384 23*	Hanny (~Hanny@Edtome.and.Griggs.are.cool.42023) has joined
+T 1394217991 24*	Hanny has quit (Ping timeout: 240 seconds)
+T 1394218553 24*	28Cinos is now known as 18Cinos|DC
+T 1394218673 23*	Pino (~Luka@Rizon-306D85A7.tmodns.net23) has joined
+T 1394218835 23*	Reaper3 (~back@because.3.is.a.fine.number23) has joined
+T 1394218842 23*	Hatsune (~RePod@Rizon-8D6747FF.lightspeed.miamfl.sbcglobal.net23) has joined
+T 1394219013 24*	Kazuha has quit (Ping timeout: 240 seconds)
+T 1394219047 24*	Potato3 has quit (Ping timeout: 240 seconds)
+T 1394219089 24*	28daki|afk is now known as 18dakine
+T 1394221397 24*	28Cinos|DC is now known as 18Cinos
+T 1394221414 24*	MurderMachine has quit (Ping timeout: 240 seconds)
+T 1394221578 24*	28dakine is now known as 18daki|afk
+T 1394221946 24*	28Cinos is now known as 18Cinos|DC
+T 1394222506 18<Umbreon18>	lmao: [14:59:55] <&ThinkBot> charmeleon timed her bucking to meet dawn's hand before clinking loudly and coming
+T 1394222506 18<ThinkBot18>	charmeleon timed her bucking to meet
+T 1394222510 18<Umbreon18>	[15:01:33] <&ThinkBot> m-make me cum
+T 1394222517 18<Umbreon18>	and finally
+T 1394222518 18<Umbreon18>	[15:01:45] <&ThinkBot> you're brushing her clit.
+T 1394222866 24*	Compgeke|T410 has quit (Ping timeout: 240 seconds)
+T 1394223134 23*	MurderMachine (~MurderMac@D7D362D5.4876AFCC.6DC9F488.IP23) has joined
+T 1394223420 23*	Compgeke|T410 (~Compgeke@Rizon-DF7A4C7D.pools.spcsdns.net23) has joined
+T 1394225509 24*	28Cinos|DC is now known as 18Cinos
+T 1394226349 18<Caaz18>	Penises
+T 1394226694 24*	Pino has quit (Quit: - End -)
+T 1394226753 18*	Umbreon boops Goopi
+T 1394226794 18*	Goopi is bupt
+T 1394226807 18<Goopi18>	yeah I'm autoawayed
+T 1394226811 18<Umbreon18>	I'm screwing around with the kindle fire's DPI setting
+T 1394226811 18<Goopi18>	not no more
+T 1394226814 18<Umbreon18>	120 = things super tiny
+T 1394226830 18<Umbreon18>	160 is its true DPI, and things are just large enough there
+T 1394226838 18<Umbreon18>	but I'm setting it to 320 now just to see
+T 1394226850 23*	Potato3 (~back@potato.powered.computational.needs23) has joined
+T 1394226854 23*	Kazuto (~RePod@Carry.A.Big.Sword23) has joined
+T 1394226864 18<Umbreon18>	items too large to be useful
+T 1394226884 18<Kazuto18>	like ur mom xD
+T 1394226920 18<Umbreon18>	Goopi-san: prepare for MMS
+T 1394226932 18<Goopi18>	k
+T 1394226939 18<Umbreon18>	I'm having caffeine withdrawal, or something
+T 1394226944 18<Umbreon18>	let's! migraine
+T 1394226947 18<Goopi18>	aww
+T 1394226982 18<Umbreon18>	I decided just to set it back to 160
+T 1394227015 18<Goopi18>	that picture looks like pretty large-text
+T 1394227025 24*	Reaper3 has quit (Ping timeout: 240 seconds)
+T 1394227028 18<Umbreon18>	it's 4x normal
+T 1394227049 18<Umbreon18>	I assume it's the equivalent of 300x512 on the same size display
+T 1394227053 23*	Pino (~Luka@Rizon-306D85A7.tmodns.net23) has joined
+T 1394227057 24*	Hatsune has quit (Ping timeout: 240 seconds)
+T 1394227097 18<Umbreon18>	but yeah... 160, which is its true dpi, is the perfect size, though some text ends up too small for my mom to read with or without glasses
+T 1394227199 18<Umbreon18>	my phone is truly 260 iirc but it uses hdpi (240)
+T 1394227213 24*	Kuro-chan has quit (Quit: I CAN HAZ CHEEZCAKE!)
+T 1394227562 18<Goopi18>	fuck it all, my Supercard DSTWO just launched my MicroSD across the room
+T 1394227653 18<Umbreon18>	I have four 8GB flash drives that are supposed to retract the USB connector when unplugged
+T 1394227678 18<Umbreon18>	the springs on two of them are way too strong and for a while they'd launch themselves into the trash can when unplugged unless I held them tighter than I wanted to
+T 1394227833 18<Caaz18>	GOOPI
+T 1394227834 18<Caaz18>	UMBREON
+T 1394227839 18<Caaz18>	Are your desktops sexy?!
+T 1394227842 18<Umbreon18>	yes
+T 1394227845 18<Caaz18>	prove it
+T 1394227850 18<Umbreon18>	define "desktops" AND define "sexy"
+T 1394227873 18<Caaz18>	~omegastalk -png
+T 1394227874 18<Pino18>	14Expirementaler! 12http://dl.dropbox.com/u/9305622/Pics/Scr-1394227877.png
+T 1394227876 18<Caaz18>	I mean something like this
+T 1394227899 18<Goopi18>	there, found the little bastard
+T 1394227937 24*	Nayte has quit (Ping timeout: 240 seconds)
+T 1394227951 18<Umbreon18>	http://prntscr.com/2yshgv
+T 1394227987 18<Caaz18>	prntscr is blocked for me ;o;
+T 1394227987 23*	Nayte (~Nayte@Rizon-5A014099.lightspeed.hstntx.sbcglobal.net23) has joined
+T 1394227995 18<Umbreon18>	ok
+T 1394228024 18<Goopi18>	Caaz: what on earth is blocking half the internet for you?
+T 1394228070 18<Caaz18>	t mobile.
+T 1394228115 18<Goopi18>	wat... your carrier blocks things like printscr and sourceforge?
+T 1394228134 18<Umbreon18>	lol not for me!
+T 1394228135 18<Umbreon18>	and I'm on t-mobile
+T 1394228151 18<Umbreon18>	you just have to tell them you're over 18 and give a ssn of someone over 18
+T 1394228169 18<Caaz18>	prntscr, sourceforge, imgur, oglaf, reddit...
+T 1394228180 18<Caaz18>	Any and all short url links
+T 1394228189 18<Umbreon18>	urbandictionary was blocked but e621 wasn't, which I found funny
+T 1394228197 18<Goopi18>	have you tried changing the DNS servers on your machine?
+T 1394228207 18<Lord-Harlot18>	omfg caaz get your internet unblocked alredy
+T 1394228214 18<Goopi18>	set them to 8.8.8.8 and 8.8.4.4
+T 1394228214 18<Modnarness18>	Information for 8.8.8.8 :: Country: United States (US) State/Region: N/A City: N/A
+T 1394228214 18<Modnarness18>	Information for 8.8.4.4 :: Country: United States (US) State/Region: N/A City: N/A
+T 1394228238 18<Lord-Harlot18>	That won't help Goopi
+T 1394228243 18<Goopi18>	oh?
+T 1394228246 18<Lord-Harlot18>	Doesn't work on my friends mobile internet
+T 1394228257 18<Lord-Harlot18>	They block it some other way
+T 1394228266 18<Goopi18>	use https?
+T 1394228270 18<Caaz18>	They filter it by scanning the webpage I'm assuming.
+T 1394228278 18<Goopi18>	https would defeat that
+T 1394228287 18<Caaz18>	Cause they filter my tumblr caazy.tumblr.com, likely because I put porn links at some point.
+T 1394228287 18<Lord-Harlot18>	I doubt it'll be scanning the page
+T 1394228292 18<Caaz18>	No seriously
+T 1394228299 18<Caaz18>	but it doesn't block some pages of caazy.tumblr.com
+T 1394228316 18<Caaz18>	Same for collegehumor, only the dirty ones are blocked
+T 1394228324 18<Caaz18>	Mention dicks and bammo, website is blocked
+T 1394228329 18<Goopi18>	they can scan pages or headers (https fixes), or DNS (setting different DNS servers fixes), or by IP (which would block everything under the sun because shared hosting)
+T 1394228339 18<Lord-Harlot18>	But how would they process every page that users try to view
+T 1394228348 18<Caaz18>	wakarenai
+T 1394228356 18<Goopi18>	they could look at the HTTP headers, Lord-Harlot 
+T 1394228366 18<Goopi18>	deep packet inspection *is* a thing
+T 1394228422 18<Lord-Harlot18>	Of course it's a thing, I just mean how would they actually know it's porn
+T 1394228446 18<Goopi18>	with HTTPS, they could see the DNS lookup (which they could then use to redirect you to a "blocked" page, but only if you use their DNS), and the IP you're connecting to, but apart from that they can't tell if you're loading porn or conducting business transactions
+T 1394228472 18<Lord-Harlot18>	http://en.wikipedia.org/wiki/Pornography >> Caaz. is this blocked?
+T 1394228474 18<Caaz18>	not sure if redirect or just something fancy.
+T 1394228478 18<Goopi18>	they could just look at the URLs you're requesting, and block anything on domains they determined to be bad
+T 1394228490 18<Goopi18>	or they could scan every returned page for naughty words
+T 1394228496 18<Caaz18>	Nope that isn't, harlot
+T 1394228519 18<Lord-Harlot18>	https://www.google.co.uk/search?q=wiki+porn&num=100&client=firefox-a&hs=crO&rls=org.mozilla:en-US:official&channel=sb&biw=1600&bih=726&tbm=isch&source=lnms&sa=X&ei=HT0aU_rEFY7ItAburoAI&ved=0CAoQ_AUoAg
+T 1394228520 18<Lord-Harlot18>	that?
+T 1394228520 18<ThinkBot18>	your grasp that?
+T 1394228535 18<Caaz18>	Surprisingly not
+T 1394228541 18<Caaz18>	If I google proxy, the page is blocked
+T 1394228548 18<Lord-Harlot18>	haha
+T 1394228557 18<Goopi18>	wait
+T 1394228577 18<Goopi18>	https://www.google.com/
+T 1394228582 18<Goopi18>	search for proxy from that
+T 1394228591 18<Lord-Harlot18>	oh, I'm always on https and I didn't even realise it haha
+T 1394228607 18<Lord-Harlot18>	good old addons
+T 1394228613 18*	Lord-Harlot slaps Caaz around with a tin
+T 1394228641 18<Goopi18>	searching google over https should make your search indistinguishable to them from any other search, except maybe the query length
+T 1394228769 18<Lord-Harlot18>	omg caaz
+T 1394228777 18<Lord-Harlot18>	we're trying to help you and you just ignore us
+T 1394228822 18<Caaz18>	What
+T 1394228844 18<Caaz18>	You're right, it worked.
+T 1394228863 18<Goopi18>	using https google?
+T 1394228876 18<Caaz18>	Mhm
+T 1394228890 18<Goopi18>	that would mean they're doing at least some deep packet inspection
+T 1394228897 18<Lord-Harlot18>	caaz. https everything https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp?hl=en
+T 1394228945 18<Lord-Harlot18>	https://www.eff.org/https-everywhere
+T 1394228962 18<Caaz18>	Okay.
+T 1394228965 18<Goopi18>	therefore to work around it you could use https on any site that supports it, or use a proxy, or of course call them and ask to be taken off the ridiculously censored setup
+T 1394228983 18<Lord-Harlot18>	I would do the last option Caaz
+T 1394228988 18<Umbreon18>	or go to My T-Mobile
+T 1394228989 18<Lord-Harlot18>	but you're a pussy and won't :(
+T 1394228990 18<Goopi18>	https-everywhere only works on sites that actually support https
+T 1394228992 18<Umbreon18>	then find web guard settings
+T 1394228997 18<Umbreon18>	and turn it off
+T 1394229002 18<Goopi18>	^
+T 1394229015 18<Caaz18>	I can't change t mobile settings
+T 1394229020 18<Caaz18>	no one knows the account password
+T 1394229033 18<Lord-Harlot18>	Phone them up and ask for it to be reset
+T 1394229062 18<Lord-Harlot18>	"My name is _________ and I need my password resetting cos I'm a dumbass"
+T 1394229071 18<Caaz18>	I'm not the account person, David has to do it and he's lazy shit
+T 1394229072 18<Lord-Harlot18>	you may need to use the bill payers name
+T 1394229082 18<Caaz18>	This https thing is working though
+T 1394229091 18<Caaz18>	it used to block tumblr's search but now it's working fine
+T 1394229095 18<Lord-Harlot18>	"My name is David, I lost my password and need it resetting. I want to go on porn"
+T 1394229107 18<Caaz18>	har
+T 1394229109 18<Lord-Harlot18>	The person on the other end will get embarassed
+T 1394229120 18<Goopi18>	or better, "I want to view cat pictures on imgur but it's blocked"
+T 1394229136 18<Lord-Harlot18>	No, say porn and they'll be awkward
+T 1394229165 18<Lord-Harlot18>	"uh, oh, erh, right sir, ermm, we'll get right on this matter sir"
+T 1394229194 18<Goopi18>	especially if you emphasize just how important it is to you that you be able to view porn
+T 1394229258 18<Lord-Harlot18>	Don't forget that part
+T 1394229281 18<Lord-Harlot18>	"I NEED my PORN"
+T 1394229347 18<Caaz18>	WEll I mean
+T 1394229350 18<Caaz18>	For now this'll work fine
+T 1394229355 18<Caaz18>	~omegastalk
+T 1394229356 18<Pino18>	14Expirementaler! 12http://dl.dropbox.com/u/9305622/Pics/Scr-1394229359.gif
+T 1394229359 18<Caaz18>	Vaginas everywhere
+T 1394229677 24*	28Cinos is now known as 18Cinos|DC
+T 1394229862 24*	28Cinos|DC is now known as 18Cinos
+T 1394230108 23*	Hanny (~Hanny@Edtome.and.Griggs.are.cool.42023) has joined
+T 1394230812 24*	28SSH is now known as 18trip
+T 1394231070 18<Caaz18>	>the pirate bay loads on https
+T 1394231076 18<Caaz18>	Thank you Goopi, thank you Lord-Harlot
+T 1394231089 18<Caaz18>	Fifty points to the #Blargh house.
+T 1394231089 18<ThinkBot18>	also how people were making booty house.
+T 1394231513 24*	28Cinos is now known as 18Cinos|DC
+T 1394231913 23*	Kuro-chan (~chatzilla@Rizon-2F1FE7A2.dyn.eagle.ws.execulink.com23) has joined
+T 1394232060 24*	Pino has quit (Ping timeout: 240 seconds)
+T 1394232095 23*	Pino (~Luka@Rizon-306D85A7.tmodns.net23) has joined
+T 1394232231 24*	Compgeke|T410 has quit (Remote host closed the connection)
+T 1394232254 23*	Compgeke|T410 (~Compgeke@Rizon-DF7A4C7D.pools.spcsdns.net23) has joined
+T 1394232456 23*	Internets (internet@services.rizon.net23) has joined
+T 1394232778 23*	Zanacross (~Serenity@Rizon-F9A4516A.karoo.kcom.com23) has joined
+T 1394232799 24*	Lord-Harlot has quit (Killed (NickServ (GHOST command used by Zanacross)))
+T 1394232805 24*	28Zanacross is now known as 18Lord-Harlot
+T 1394233087 24*	Pino has quit (Ping timeout: 240 seconds)
+T 1394233394 23*	Pino (~Luka@Rizon-306D85A7.tmodns.net23) has joined
+T 1394235577 24*	Hanny has quit (Read error: Connection reset by peer)
+T 1394235602 23*	Hanny (~Hanny@Edtome.and.Griggs.are.cool.42023) has joined

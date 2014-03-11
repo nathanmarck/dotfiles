@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+	<Shortcut>d</Shortcut>
+	<ShortName>DuckDuckGo</ShortName>
+	<Description>Search DuckDuckGo</Description>
+	<InputEncoding>UTF-8</InputEncoding>
+	<Image width="16" height="16" type="image/png">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAB7ElEQVQokV2RP2hTURjFf/flvfxtmqhUY6iCxYLgIFYQpIE6iOCfxUGcxIKLi4OFDtJFdHVwUQRxEEGwooMIBRGCpS4OaqG2CCrUtiRpKyXJy2vycu/7HErtSw5nOud+3HO+T4mIqa6reMqKJdiGcavVB+P+1BOlCGPfjFje9FudyNb8DqNlJ79euNO4/rCt0WaHK6eUpYfOznxfLa17gcj/Aa1NPhtLjpyPDV+UgDBtEY4PZHdnkuEfenvidtSGjClc8j6+C1t2Jh1HcJsa6InbW6rn69zt4pWh3P2RMyboSGsBbkvnJ4q3Xi9sNNph7+WXsrM3HwSEqUTEber8RBFYvHt6V8rZel1vtoFYRP0+5iiHzDC9BVQUJSLQHUnMX0UvtPWPcf/bo9ggkT4w6GWUdmuRVLojZvUZlVEEBBQkYJPNBSovcGexA8/tGKi9kqVRFP4iykI5NOapTNIsgQKw/fKy07c/dLM5pfDXmL9JNwTA8j5NdaiZaySI5sicCC1HyF/m0Bgi2P7ST9Oo76SKDqw8vaq85/03ODiGSqEsrARBnbVJjMEOahtdNaIHDv+6x59JnDTZkwCtCrW57Us3Zj931UgOn1N7HrdXS36VzffdRawj05X6hzdhKZrrjw8eNQajMaaDhbL8A2iI9e+AwjRzAAAAAElFTkSuQmCC</Image>
+	<Url rel="results" type="text/html" method="GET" enctype="" template="https://duckduckgo.com/?q={searchTerms}&amp;t=canonical"/>
+</OpenSearchDescription>

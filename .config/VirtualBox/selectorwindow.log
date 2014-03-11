@@ -1,0 +1,47 @@
+VirtualBox GUI VM Selector Window 4.3.6_OSE r91406 linux.amd64 (Jan  4 2014 06:27:12) release log
+00:00:01.596439 Log opened 2014-02-12T15:08:24.167829000Z
+00:00:01.596443 Build Type: release
+00:00:01.596449 OS Product: Linux
+00:00:01.596452 OS Release: 3.12.9-2-ARCH
+00:00:01.596455 OS Version: #1 SMP PREEMPT Fri Jan 31 10:22:54 CET 2014
+00:00:01.596501 DMI Product Name: Aspire 5552
+00:00:01.596523 DMI Product Version: V2.14
+00:00:01.597186 Host RAM: 3701MB total, 2781MB available
+00:00:01.597197 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:01.597200 Process ID: 20818
+00:00:01.597202 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:01.620369 UIMediumEnumerator: Medium-enumeration started...
+00:00:02.447532 UIMediumEnumerator: Medium-enumeration finished!
+00:00:10.543264 UIMediumEnumerator: Machine unregistration event received, ID = 58e90c20-cdaa-49eb-a750-855eb083d63d
+00:00:10.543377 UIMediumEnumerator:  Old usage: <empty>
+00:00:10.543391 UIMediumEnumerator: Machine unregistration event processed, ID = 58e90c20-cdaa-49eb-a750-855eb083d63d
+00:00:11.810017 UIMediumEnumerator: Medium-enumeration started...
+00:00:11.905340 UIMediumEnumerator: Medium-enumeration finished!
+00:00:48.966586 UIMediumEnumerator: Medium with key={7a6977af-8aa9-4184-8369-2e7b29e4706c} created.
+00:00:49.549229 UIMediumEnumerator: Machine registration event received, ID = db7b1415-ddc2-46c5-b0e3-d7f45d537e0a
+00:00:49.555448 UIMediumEnumerator:  New usage: 7a6977af-8aa9-4184-8369-2e7b29e4706c
+00:00:49.555626 UIMediumEnumerator: Machine registration event processed, ID = db7b1415-ddc2-46c5-b0e3-d7f45d537e0a
+00:00:49.585409 UIMediumEnumerator: Machine (or snapshot) event received, ID = db7b1415-ddc2-46c5-b0e3-d7f45d537e0a
+00:00:49.585494 UIMediumEnumerator:  Old usage: <empty>
+00:00:49.591401 UIMediumEnumerator:  New usage: 7a6977af-8aa9-4184-8369-2e7b29e4706c
+00:00:49.591556 UIMediumEnumerator:  Items included into usage: 7a6977af-8aa9-4184-8369-2e7b29e4706c
+00:00:49.591669 UIMediumEnumerator: Machine (or snapshot) event processed, ID = db7b1415-ddc2-46c5-b0e3-d7f45d537e0a
+00:00:49.645171 UIMediumEnumerator: Medium-enumeration finished!
+00:00:58.768579 UIMediumEnumerator: Medium-enumeration started...
+00:00:58.835782 UIMediumEnumerator: Medium-enumeration finished!
+00:05:19.362364 UIMediumEnumerator: Machine (or snapshot) event received, ID = db7b1415-ddc2-46c5-b0e3-d7f45d537e0a
+00:05:19.393227 UIMediumEnumerator:  Old usage: 7a6977af-8aa9-4184-8369-2e7b29e4706c, 94c55e72-8495-4bdb-89c0-e19f0b8d9125
+00:05:19.398554 UIMediumEnumerator:  New usage: 7a6977af-8aa9-4184-8369-2e7b29e4706c, 94c55e72-8495-4bdb-89c0-e19f0b8d9125
+00:05:19.398619 UIMediumEnumerator: Machine (or snapshot) event processed, ID = db7b1415-ddc2-46c5-b0e3-d7f45d537e0a
+00:05:20.828903 UIMediumEnumerator: Machine (or snapshot) event received, ID = db7b1415-ddc2-46c5-b0e3-d7f45d537e0a
+00:05:20.829005 UIMediumEnumerator:  Old usage: 7a6977af-8aa9-4184-8369-2e7b29e4706c, 94c55e72-8495-4bdb-89c0-e19f0b8d9125
+00:05:20.832963 UIMediumEnumerator:  New usage: 7a6977af-8aa9-4184-8369-2e7b29e4706c, 94c55e72-8495-4bdb-89c0-e19f0b8d9125
+00:05:20.833034 UIMediumEnumerator: Machine (or snapshot) event processed, ID = db7b1415-ddc2-46c5-b0e3-d7f45d537e0a
+00:05:20.987929 UIMediumEnumerator: Machine (or snapshot) event received, ID = db7b1415-ddc2-46c5-b0e3-d7f45d537e0a
+00:05:20.987987 UIMediumEnumerator:  Old usage: 7a6977af-8aa9-4184-8369-2e7b29e4706c, 94c55e72-8495-4bdb-89c0-e19f0b8d9125
+00:05:21.077671 UIMediumEnumerator:  New usage: 7a6977af-8aa9-4184-8369-2e7b29e4706c, 94c55e72-8495-4bdb-89c0-e19f0b8d9125
+00:05:21.077837 UIMediumEnumerator: Machine (or snapshot) event processed, ID = db7b1415-ddc2-46c5-b0e3-d7f45d537e0a
+00:05:21.478281 UIMediumEnumerator: Machine (or snapshot) event received, ID = db7b1415-ddc2-46c5-b0e3-d7f45d537e0a
+00:05:21.478393 UIMediumEnumerator:  Old usage: 7a6977af-8aa9-4184-8369-2e7b29e4706c, 94c55e72-8495-4bdb-89c0-e19f0b8d9125
+00:05:21.481923 UIMediumEnumerator:  New usage: 7a6977af-8aa9-4184-8369-2e7b29e4706c, 94c55e72-8495-4bdb-89c0-e19f0b8d9125
+00:05:21.481993 UIMediumEnumerator: Machine (or snapshot) event processed, ID = db7b1415-ddc2-46c5-b0e3-d7f45d537e0a

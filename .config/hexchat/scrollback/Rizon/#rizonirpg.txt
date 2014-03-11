@@ -1,0 +1,660 @@
+T 1393968571 18<RizonIRPG18>	Okhura [244/1215] has been set upon by a Chain Golemn [303/606] and gets savagely beaten! 0 days, 19:40:59 is added to Okhura's clock.
+T 1393968571 18<RizonIRPG18>	Okhura reaches next level in 9 days, 00:30:49.
+T 1393968604 18<RizonIRPG18>	Yeros [77/630] has been set upon by a Glimmerskin [895/1070] and gets savagely beaten! 1 day, 03:01:47 is added to Yeros's clock.
+T 1393968604 18<RizonIRPG18>	Yeros reaches next level in 23 days, 15:37:27.
+T 1393968608 18<RizonIRPG18>	Jennifer [694/1026] has been set upon by a Formian Taskmaster [314/935] and fights it off! 0 days, 04:36:15 is removed from Jennifer's clock.
+T 1393968608 18<RizonIRPG18>	Jennifer reaches next level in 1 day, 09:45:51.
+T 1393968626 18<RizonIRPG18>	AnonSix [105/858] has been set upon by a Formian Taskmaster [613/939] and gets savagely beaten! 0 days, 06:29:11 is added to AnonSix's clock.
+T 1393968626 18<RizonIRPG18>	AnonSix reaches next level in 3 days, 06:33:28.
+T 1393968654 18<RizonIRPG18>	krone [453/1191] has been set upon by a Dire Tiger [815/1138] and gets savagely beaten! 0 days, 09:02:47 is added to krone's clock.
+T 1393968654 18<RizonIRPG18>	krone reaches next level in 4 days, 13:33:48.
+T 1393968678 24*	Yuurei has quit (Ping timeout: 240 seconds)
+T 1393968782 18<RizonIRPG18>	DragGon [11/855] has been set upon by a Formian Taskmaster [55/940] and gets savagely beaten! 2 days, 19:16:10 is added to DragGon's clock.
+T 1393968782 18<RizonIRPG18>	DragGon reaches next level in 33 days, 22:42:29.
+T 1393968807 18<RizonIRPG18>	Trical [393/961] has been set upon by a Djinni Noble [131/982] and fights it off! 0 days, 02:53:18 is removed from Trical's clock.
+T 1393968807 18<RizonIRPG18>	Trical reaches next level in 0 days, 21:10:57.
+T 1393968916 18<RizonIRPG18>	nevo [980/1059] has been set upon by a Brown Bear [56/346] and fights it off! 0 days, 13:18:02 is removed from nevo's clock.
+T 1393968916 18<RizonIRPG18>	nevo reaches next level in 7 days, 08:42:32.
+T 1393968923 18<RizonIRPG18>	ved [389/949] has been set upon by a Nymph [420/881] and gets savagely beaten! 1 day, 00:21:03 is added to ved's clock.
+T 1393968923 18<RizonIRPG18>	ved reaches next level in 12 days, 06:55:05.
+T 1393968948 18<RizonIRPG18>	AdomJonson [791/941] has been set upon by a Glimmerskin [1026/1069] and gets savagely beaten! 0 days, 12:32:16 is added to AdomJonson's clock.
+T 1393968948 18<RizonIRPG18>	AdomJonson reaches next level in 6 days, 07:50:52.
+T 1393968959 18<RizonIRPG18>	FunkyCold [389/865] has been set upon by a Eight Headed Hydra [570/818] and gets savagely beaten! 7 days, 07:22:37 is added to FunkyCold's clock.
+T 1393968959 18<RizonIRPG18>	FunkyCold reaches next level in 88 days, 12:00:44.
+T 1393968973 18<RizonIRPG18>	InformaticBug, the Shadow Hunter, has attained level 1! Next level in 0 days, 00:10:00.
+T 1393968973 18<RizonIRPG18>	InformaticBug [0/1] has been set upon by a Bat [0/1] and fights it off! 0 days, 00:01:11 is removed from InformaticBug's clock.
+T 1393968973 18<RizonIRPG18>	InformaticBug reaches next level in 0 days, 00:08:46.
+T 1393968984 18<RizonIRPG18>	Rynon [776/930] has been set upon by a Seven Heded Cryo-hydra [924/1037] and gets savagely beaten! 0 days, 18:59:45 is added to Rynon's clock.
+T 1393968984 18<RizonIRPG18>	Rynon reaches next level in 9 days, 14:03:43.
+T 1393969006 18<RizonIRPG18>	KREWLGRL93 [576/729] has been set upon by a Wyvern [34/627] and fights it off! 0 days, 12:25:06 is removed from KREWLGRL93's clock.
+T 1393969006 18<RizonIRPG18>	KREWLGRL93 reaches next level in 3 days, 19:04:12.
+T 1393969018 18<RizonIRPG18>	z0ny, the Unknown, has attained level 54! Next level in 18 days, 02:37:56.
+T 1393969018 18<RizonIRPG18>	z0ny [232/985] has been set upon by a Behir [59/1110] and fights it off! 2 days, 04:09:20 is removed from z0ny's clock.
+T 1393969018 18<RizonIRPG18>	z0ny reaches next level in 15 days, 22:28:34.
+T 1393969024 18<RizonIRPG18>	YodaBat [1122/1187] has come upon ChiefHaqua [742/767] and taken them in combat! 2 days, 09:51:01 is removed from YodaBat's clock.
+T 1393969028 18<RizonIRPG18>	YodaBat reaches next level in 19 days, 12:03:49.
+T 1393969031 18<RizonIRPG18>	YodaBat has dealt ChiefHaqua a Critical Strike! 0 days, 05:43:05 is added to ChiefHaqua's clock.
+T 1393969035 18<RizonIRPG18>	ChiefHaqua reaches next level in 1 day, 17:27:26.
+T 1393969089 18<RizonIRPG18>	Ghent [883/1175] has been set upon by a Stone Golem [1677/1778] and gets savagely beaten! 6 days, 04:05:51 is added to Ghent's clock.
+T 1393969089 18<RizonIRPG18>	Ghent reaches next level in 129 days, 14:02:55.
+T 1393969158 18<RizonIRPG18>	Nigger-kun [797/1228] has been set upon by a Night Hag [1126/1199] and gets savagely beaten! 0 days, 12:58:05 is added to Nigger-kun's clock.
+T 1393969158 18<RizonIRPG18>	Nigger-kun reaches next level in 6 days, 13:03:32.
+T 1393969247 18<RizonIRPG18>	Tekla [329/1358] has been set upon by a Storm Giant [420/2264] and gets savagely beaten! 0 days, 03:31:05 is added to Tekla's clock.
+T 1393969247 18<RizonIRPG18>	Tekla reaches next level in 3 days, 01:52:53.
+T 1393969291 18<RizonIRPG18>	Kondou [998/1071] has been set upon by a Seven Heded Cryo-hydra [239/1040] and fights it off! 0 days, 07:35:38 is removed from Kondou's clock.
+T 1393969291 18<RizonIRPG18>	Kondou reaches next level in 2 days, 07:41:19.
+T 1393969298 18<RizonIRPG18>	FH [1086/1157] has been set upon by a Frost Worm [1548/1917] and gets savagely beaten! 1 day, 05:26:22 is added to FH's clock.
+T 1393969298 18<RizonIRPG18>	FH reaches next level in 25 days, 18:13:45.
+T 1393969309 23*	Aori_Radidjiu (~Revolutio@Rizon-84161A09.hsd1.in.comcast.net23) has joined
+T 1393969310 18<RizonIRPG18>	DonVitoCorleone [532/776] has been set upon by a Shadow [103/325] and fights it off! 0 days, 10:17:56 is removed from DonVitoCorleone's clock.
+T 1393969310 18<RizonIRPG18>	DonVitoCorleone reaches next level in 5 days, 16:49:50.
+T 1393969313 22*	26RizonIRPG gives voice to 18Aori_Radidjiu
+T 1393969313 18<RizonIRPG18>	Aori, the level 46 Cobalt Knight, is now online from nickname Aori_Radidjiu. Next level in 1 day, 20:25:39.
+T 1393969319 23*	xragnar (~ragnar@Rizon-A5EB2648.pool.mediaways.net23) has joined
+T 1393969320 22*	26RizonIRPG gives voice to 18xragnar
+T 1393969323 18<RizonIRPG18>	ragnar, the level 35 hypergeometric function, is now online from nickname xragnar. Next level in 0 days, 03:22:01.
+T 1393969334 18<RizonIRPG18>	Arcon [282/983] has been set upon by a Nine Headed Cryo-hydra [30/1509] and fights it off! 1 day, 21:57:36 is removed from Arcon's clock.
+T 1393969338 18<RizonIRPG18>	Arcon reaches next level in 6 days, 18:56:58.
+T 1393969352 18<RizonIRPG18>	Newser found an exploit in the IRPG code! This wondrous godsend has accelerated them 0 days, 16:15:24 towards level 50.
+T 1393969352 18<RizonIRPG18>	Newser reaches next level in 5 days, 11:31:57.
+T 1393969371 18<RizonIRPG18>	grimlock [593/904] has been set upon by a Minotaur [295/446] and fights it off! 1 day, 13:27:00 is removed from grimlock's clock.
+T 1393969371 18<RizonIRPG18>	grimlock reaches next level in 20 days, 17:33:10.
+T 1393969421 18<RizonIRPG18>	madasi [706/991] has been set upon by a Blue Slaad [391/1127] and fights it off! 6 days, 00:15:08 is removed from madasi's clock.
+T 1393969421 18<RizonIRPG18>	madasi reaches next level in 44 days, 01:51:04.
+T 1393969425 18<RizonIRPG18>	Zyria [771/1195] has been set upon by a Guttersnipe [467/544] and fights it off! 0 days, 05:59:23 is removed from Zyria's clock.
+T 1393969425 18<RizonIRPG18>	Zyria reaches next level in 3 days, 07:34:43.
+T 1393969502 18<RizonIRPG18>	InformaticBug, the Shadow Hunter, has attained level 2! Next level in 0 days, 00:11:36.
+T 1393969502 18<RizonIRPG18>	InformaticBug [18/52] has been set upon by a Darkmantle [21/79] and gets savagely beaten! 0 days, 00:00:34 is added to InformaticBug's clock.
+T 1393969502 18<RizonIRPG18>	InformaticBug reaches next level in 0 days, 00:12:07.
+T 1393969516 18<RizonIRPG18>	otis [499/700] has been set upon by a Ogre Zombie [122/298] and fights it off! 0 days, 00:43:18 is removed from otis's clock.
+T 1393969516 18<RizonIRPG18>	otis reaches next level in 0 days, 09:35:24.
+T 1393969545 18<RizonIRPG18>	oblio [279/1387] has been set upon by a Elder Black Pudding [158/1849] and fights it off! 3 days, 16:55:06 is removed from oblio's clock.
+T 1393969545 18<RizonIRPG18>	oblio reaches next level in 27 days, 04:04:05.
+T 1393969560 18<RizonIRPG18>	Kiwa [510/1045] has been set upon by a Cauchemar [1684/1694] and gets savagely beaten! 0 days, 11:36:44 is added to Kiwa's clock.
+T 1393969560 18<RizonIRPG18>	Kiwa reaches next level in 10 days, 03:51:25.
+T 1393969615 18<RizonIRPG18>	SG [769/1187] has been set upon by a Leonal [862/1922] and gets savagely beaten! 0 days, 02:04:17 is added to SG's clock.
+T 1393969615 18<RizonIRPG18>	SG reaches next level in 1 day, 19:30:08.
+T 1393969633 18<RizonIRPG18>	madasi [761/991] has been set upon by a Erinyes [710/1096] and fights it off! 5 days, 06:56:06 is removed from madasi's clock.
+T 1393969633 18<RizonIRPG18>	madasi reaches next level in 38 days, 18:51:26.
+T 1393969640 18<RizonIRPG18>	Sabathan [564/1032] has been set upon by a Sixe Headed Hydra [104/495] and fights it off! 0 days, 00:32:53 is removed from Sabathan's clock.
+T 1393969640 18<RizonIRPG18>	Sabathan reaches next level in 0 days, 07:17:05.
+T 1393969651 18<RizonIRPG18>	Raven [568/1552] has been set upon by a Eight Headed Hydra [339/816] and fights it off! 0 days, 06:32:44 is removed from Raven's clock.
+T 1393969651 18<RizonIRPG18>	Raven reaches next level in 3 days, 14:57:55.
+T 1393969659 24*	Captain_Phil has quit (Read error: Connection reset by peer)
+T 1393969662 18<RizonIRPG18>	Tibsi [594/786] has been set upon by a Celestial Lion [16/337] and fights it off! 4 days, 09:15:59 is removed from Tibsi's clock.
+T 1393969662 18<RizonIRPG18>	Tibsi reaches next level in 58 days, 06:32:31.
+T 1393969664 23*	Captain_Phil (~Captain_P@Rizon-1DB48EA9.hsd1.wa.comcast.net23) has joined
+T 1393969666 22*	26RizonIRPG gives voice to 18Captain_Phil
+T 1393969666 18<RizonIRPG18>	Captain_Phil, the level 46 Busser, is now online from nickname Captain_Phil. Next level in 1 day, 06:20:52.
+T 1393969901 18<Sabathan18>	echo meow :3
+T 1393969944 18<RizonIRPG18>	Mario [642/1261] has been set upon by a Eight Headed Cryo-hydra [696/1196] and gets savagely beaten! 3 days, 23:36:11 is added to Mario's clock.
+T 1393969944 18<RizonIRPG18>	Mario reaches next level in 48 days, 05:51:43.
+T 1393969952 18<RizonIRPG18>	Dasher [339/701] has been set upon by a Giant Octopus [475/1104] and gets savagely beaten! 0 days, 18:03:17 is added to Dasher's clock.
+T 1393969952 18<RizonIRPG18>	Dasher reaches next level in 15 days, 19:09:10.
+T 1393969999 18<RizonIRPG18>	quarth [235/651] has been set upon by a Lantern Archon [25/203] and fights it off! 5 days, 15:28:24 is removed from quarth's clock.
+T 1393969999 18<RizonIRPG18>	quarth reaches next level in 74 days, 23:51:39.
+T 1393970050 18<RizonIRPG18>	CommanderVenus [866/1018] has been set upon by a Ogre Mage [841/1005] and fights it off! 1 day, 02:57:46 is removed from CommanderVenus's clock.
+T 1393970050 18<RizonIRPG18>	CommanderVenus reaches next level in 8 days, 05:43:40.
+T 1393970083 18<RizonIRPG18>	Rikimaru [1141/1310] has been set upon by a Ettin [64/622] and fights it off! 0 days, 07:06:11 is removed from Rikimaru's clock.
+T 1393970083 18<RizonIRPG18>	Rikimaru reaches next level in 3 days, 22:22:13.
+T 1393970199 18<RizonIRPG18>	Captain_Phil [218/679] has been set upon by a Greater Barghest [44/587] and fights it off! 0 days, 03:37:26 is removed from Captain_Phil's clock.
+T 1393970199 18<RizonIRPG18>	Captain_Phil reaches next level in 1 day, 02:34:36.
+T 1393970232 18<RizonIRPG18>	InformaticBug, the Shadow Hunter, has attained level 3! Next level in 0 days, 00:13:27.
+T 1393970232 18<RizonIRPG18>	InformaticBug [38/56] has been set upon by a Eagle [47/56] and gets savagely beaten! 0 days, 00:01:12 is added to InformaticBug's clock.
+T 1393970232 18<RizonIRPG18>	InformaticBug reaches next level in 0 days, 00:14:36.
+T 1393970239 18<RizonIRPG18>	setsune [889/1033] has been set upon by a Behir [694/1120] and fights it off! 2 days, 23:16:08 is removed from setsune's clock.
+T 1393970239 18<RizonIRPG18>	setsune reaches next level in 21 days, 18:38:20.
+T 1393970282 18<RizonIRPG18>	Laww [99/967] has been set upon by a Gray Slaad [929/1514] and gets savagely beaten! 0 days, 04:16:38 is added to Laww's clock.
+T 1393970282 18<RizonIRPG18>	Laww reaches next level in 3 days, 17:49:19.
+T 1393970307 18<RizonIRPG18>	SHAFT_Q_DOLOMITE [378/591] has been set upon by a Chaos Beast [753/919] and gets savagely beaten! 0 days, 00:39:29 is added to SHAFT_Q_DOLOMITE's clock.
+T 1393970307 18<RizonIRPG18>	SHAFT_Q_DOLOMITE reaches next level in 0 days, 13:49:22.
+T 1393970325 18<RizonIRPG18>	Aura [935/1114] has been set upon by a Dire Shark [573/1261] and fights it off! 9 days, 16:49:30 is removed from Aura's clock.
+T 1393970325 18<RizonIRPG18>	Aura reaches next level in 71 days, 03:23:03.
+T 1393970362 18<RizonIRPG18>	Myocks [364/500] has been set upon by a Adult Tojanida [347/508] and fights it off! 0 days, 00:24:28 is removed from Myocks's clock.
+T 1393970362 18<RizonIRPG18>	Myocks reaches next level in 0 days, 02:59:26.
+T 1393970470 18<RizonIRPG18>	xor [83/618] has been set upon by a Elder Xorn [632/1047] and gets savagely beaten! 0 days, 00:24:02 is added to xor's clock.
+T 1393970470 18<RizonIRPG18>	xor reaches next level in 0 days, 08:24:44.
+T 1393970498 18<RizonIRPG18>	Badskater [11/1161] has been set upon by a Night Hag [189/1202] and gets savagely beaten! 5 days, 11:15:07 is added to Badskater's clock.
+T 1393970498 18<RizonIRPG18>	Badskater reaches next level in 66 days, 05:36:32.
+T 1393970513 18<RizonIRPG18>	def [927/1345] has been set upon by a Guardian Naga [214/1481] and fights it off! 3 days, 08:40:15 is removed from def's clock.
+T 1393970513 18<RizonIRPG18>	def reaches next level in 24 days, 15:35:11.
+T 1393970531 18<RizonIRPG18>	Weloxux, the Archer, has attained level 17! Next level in 0 days, 01:47:28.
+T 1393970531 18<RizonIRPG18>	Weloxux [210/215] has been set upon by a Squid [8/99] and fights it off! 0 days, 00:07:31 is removed from Weloxux's clock.
+T 1393970531 18<RizonIRPG18>	Weloxux reaches next level in 0 days, 01:39:56.
+T 1393970535 24*	28Raggedy is now known as 18Scrafty
+T 1393970592 18<RizonIRPG18>	The_Nerevarine [17/650] has been set upon by a Mennlock [59/267] and gets savagely beaten! 0 days, 05:01:42 is added to The_Nerevarine's clock.
+T 1393970592 18<RizonIRPG18>	The_Nerevarine reaches next level in 2 days, 07:18:48.
+T 1393970607 18<RizonIRPG18>	kimiamania, the Alchemist, has attained level 84! Next level in 74 days, 04:22:00.
+T 1393970607 18<RizonIRPG18>	kimiamania [817/1281] has been set upon by a Blood Ape [141/633] and fights it off! 5 days, 04:37:32 is removed from kimiamania's clock.
+T 1393970607 18<RizonIRPG18>	kimiamania reaches next level in 68 days, 23:44:28.
+T 1393970613 24*	Haruhitastic has quit (Remote host closed the connection)
+T 1393970637 23*	Deckard (~Deckard@Rizon-C7D548F6.lightspeed.moblal.sbcglobal.net23) has joined
+T 1393970640 22*	26RizonIRPG gives voice to 18Deckard
+T 1393970640 18<RizonIRPG18>	Deckard, the level 32 Spellsword, is now online from nickname Deckard. Next level in 0 days, 08:51:53.
+T 1393970643 18<RizonIRPG18>	Antrikos tamed a wild horse! This wondrous godsend has accelerated them 0 days, 10:40:41 towards level 79.
+T 1393970647 18<RizonIRPG18>	Antrikos reaches next level in 8 days, 10:52:59.
+T 1393970650 18<RizonIRPG18>	Lunera [740/901] has been set upon by a Fire Giant [686/1395] and fights it off! 0 days, 15:28:51 is removed from Lunera's clock.
+T 1393970661 18<RizonIRPG18>	Lunera reaches next level in 2 days, 06:53:14.
+T 1393970665 18<RizonIRPG18>	Zinic [418/1164] has been set upon by a Ten Headed Pyro-hydra [689/1821] and gets savagely beaten! 0 days, 04:19:47 is added to Zinic's clock.
+T 1393970668 18<RizonIRPG18>	Zinic reaches next level in 3 days, 18:55:29.
+T 1393970672 18<RizonIRPG18>	ragnar [314/516] has been set upon by a Adult Arrowhawk [122/496] and fights it off! 0 days, 00:21:32 is removed from ragnar's clock.
+T 1393970675 18<RizonIRPG18>	ragnar reaches next level in 0 days, 02:38:01.
+T 1393970690 18<RizonIRPG18>	animeweedlord420 [167/1020] has been set upon by a Seven Heded Cryo-hydra [328/1041] and gets savagely beaten! 6 days, 07:00:51 is added to animeweedlord420's clock.
+T 1393970690 18<RizonIRPG18>	animeweedlord420 reaches next level in 76 days, 04:56:59.
+T 1393970701 18<RizonIRPG18>	tupper [287/999] has been set upon by a Displacer Beast Pack Lord [1792/2034] and gets savagely beaten! 2 days, 22:04:00 is added to tupper's clock.
+T 1393970701 18<RizonIRPG18>	tupper reaches next level in 61 days, 07:24:13.
+T 1393970705 18<RizonIRPG18>	Kirisame [100/484] has been set upon by a Digester [689/766] and gets savagely beaten! 0 days, 01:48:34 is added to Kirisame's clock.
+T 1393970705 18<RizonIRPG18>	Kirisame reaches next level in 1 day, 13:59:55.
+T 1393970744 18<RizonIRPG18>	Geno [498/1115] has been set upon by a Blue Slaad [433/1130] and fights it off! 0 days, 14:10:07 is removed from Geno's clock.
+T 1393970744 18<RizonIRPG18>	Geno reaches next level in 4 days, 07:54:15.
+T 1393970769 18<RizonIRPG18>	Xesxen [377/1047] has been set upon by a Tyrannosaurus [635/988] and gets savagely beaten! 0 days, 19:08:27 is added to Xesxen's clock.
+T 1393970769 18<RizonIRPG18>	Xesxen reaches next level in 9 days, 15:49:09.
+T 1393970784 18<RizonIRPG18>	Zyfie [358/500] has been set upon by a Vargouille [61/212] and fights it off! 0 days, 00:19:33 is removed from Zyfie's clock.
+T 1393970784 18<RizonIRPG18>	Zyfie reaches next level in 0 days, 04:19:47.
+T 1393970805 18<RizonIRPG18>	cock [577/1121] has been set upon by a Flesh Golem [615/966] and gets savagely beaten! 0 days, 13:49:43 is added to cock's clock.
+T 1393970805 18<RizonIRPG18>	cock reaches next level in 6 days, 23:28:54.
+T 1393970831 18<RizonIRPG18>	vfleryl, the shadowcopy, has attained level 16! Next level in 0 days, 01:32:39.
+T 1393970831 18<RizonIRPG18>	vfleryl [275/345] has been set upon by a Nigthmare [407/568] and gets savagely beaten! 0 days, 00:04:37 is added to vfleryl's clock.
+T 1393970831 18<RizonIRPG18>	vfleryl reaches next level in 0 days, 01:37:16.
+T 1393970859 18<RizonIRPG18>	Lunera [530/901] has been set upon by a Djinni Noble [337/982] and fights it off! 0 days, 06:34:45 is removed from Lunera's clock.
+T 1393970859 18<RizonIRPG18>	Lunera reaches next level in 2 days, 00:14:56.
+T 1393970892 18<RizonIRPG18>	Sesh [199/976] has been set upon by a Gargantuan Spider [756/970] and gets savagely beaten! 2 days, 18:45:47 is added to Sesh's clock.
+T 1393970892 18<RizonIRPG18>	Sesh reaches next level in 33 days, 16:34:39.
+T 1393970943 18<RizonIRPG18>	Nemaster203 [896/1127] has been set upon by a Treant [79/979] and fights it off! 3 days, 11:00:22 is removed from Nemaster203's clock.
+T 1393970943 18<RizonIRPG18>	Nemaster203 reaches next level in 25 days, 08:42:47.
+T 1393970976 24*	Weloxux has quit (Quit: Au revoir! )
+T 1393970990 18<RizonIRPG18>	Warspan [613/787] has been set upon by a Huge Viper [84/242] and fights it off! 0 days, 07:34:54 is removed from Warspan's clock.
+T 1393970990 18<RizonIRPG18>	Warspan reaches next level in 4 days, 04:43:43.
+T 1393971004 18<RizonIRPG18>	make [1272/1325] has been set upon by a Zelekhut [1345/1353] and gets savagely beaten! 1 day, 08:22:07 is added to make's clock.
+T 1393971004 18<RizonIRPG18>	make reaches next level in 16 days, 08:01:18.
+T 1393971011 18<RizonIRPG18>	Nell [174/1110] has been set upon by a Dire Bear [188/950] and gets savagely beaten! 0 days, 06:34:06 is added to Nell's clock.
+T 1393971011 18<RizonIRPG18>	Nell reaches next level in 3 days, 07:33:00.
+T 1393971018 18<RizonIRPG18>	Gothanos [311/1137] has been set upon by a Delver [768/1264] and gets savagely beaten! 0 days, 02:10:27 is added to Gothanos's clock.
+T 1393971018 18<RizonIRPG18>	Gothanos reaches next level in 1 day, 02:19:58.
+T 1393971033 18<RizonIRPG18>	b0nk [973/1306] has been set upon by a Trumpet Archon [895/2504] and fights it off! 2 days, 17:13:53 is removed from b0nk's clock.
+T 1393971033 18<RizonIRPG18>	b0nk reaches next level in 9 days, 15:16:30.
+T 1393971109 18<RizonIRPG18>	InformaticBug, the Shadow Hunter, has attained level 4! Next level in 0 days, 00:15:36.
+T 1393971109 18<RizonIRPG18>	InformaticBug [20/62] has been set upon by a Weasel [3/20] and fights it off! 0 days, 00:01:05 is removed from InformaticBug's clock.
+T 1393971109 18<RizonIRPG18>	InformaticBug reaches next level in 0 days, 00:14:31.
+T 1393971130 18<RizonIRPG18>	Dora [303/819] has been set upon by a Elder Tojanida [509/1331] and gets savagely beaten! 0 days, 00:06:02 is added to Dora's clock.
+T 1393971130 18<RizonIRPG18>	Dora reaches next level in 0 days, 02:06:48.
+T 1393971137 18<RizonIRPG18>	its___ [369/728] has been set upon by a Eight Headed Cryo-hydra [1081/1198] and gets savagely beaten! 0 days, 01:00:58 is added to its___'s clock.
+T 1393971137 18<RizonIRPG18>	its___ reaches next level in 0 days, 21:20:28.
+T 1393971141 18<RizonIRPG18>	Raven [863/1552] has been set upon by a Frost Worm [1759/1917] and gets savagely beaten! 0 days, 07:47:22 is added to Raven's clock.
+T 1393971141 18<RizonIRPG18>	Raven reaches next level in 3 days, 22:20:27.
+T 1393971166 18<RizonIRPG18>	ondrejko [720/1013] has been set upon by a Dark Naga [225/1078] and fights it off! 0 days, 01:28:31 is removed from ondrejko's clock.
+T 1393971166 18<RizonIRPG18>	ondrejko reaches next level in 0 days, 10:49:08.
+T 1393971175 24*	FunkyCold has quit (Ping timeout: 240 seconds)
+T 1393971180 18<RizonIRPG18>	Demynnfire [507/1222] has been set upon by a Greater Fire Elemental [35/1361] and fights it off! 1 day, 11:58:13 is removed from Demynnfire's clock.
+T 1393971180 18<RizonIRPG18>	Demynnfire reaches next level in 10 days, 23:47:03.
+T 1393971245 18<RizonIRPG18>	Nell [306/1110] has been set upon by a Eight Headed Pyro-hydra [141/1217] and fights it off! 0 days, 09:32:17 is removed from Nell's clock.
+T 1393971245 18<RizonIRPG18>	Nell reaches next level in 2 days, 21:56:50.
+T 1393971349 18<RizonIRPG18>	UsagiAddict [674/750] has been set upon by a Elasmosaurus [357/777] and fights it off! 0 days, 10:16:46 is removed from UsagiAddict's clock.
+T 1393971349 18<RizonIRPG18>	UsagiAddict reaches next level in 3 days, 03:23:03.
+T 1393971360 18<RizonIRPG18>	xor [246/618] has been set upon by a Juvenile Tojanida [228/306] and fights it off! 0 days, 00:34:17 is removed from xor's clock.
+T 1393971360 18<RizonIRPG18>	xor reaches next level in 0 days, 07:35:37.
+T 1393971385 18<RizonIRPG18>	Suiseiseki [28/1304] has been set upon by a Bebilith Demon [598/1447] and gets savagely beaten! 12 days, 01:17:35 is added to Suiseiseki's clock.
+T 1393971385 18<RizonIRPG18>	Suiseiseki reaches next level in 145 days, 23:39:41.
+T 1393971403 18<RizonIRPG18>	tupper [611/999] has been set upon by a Dark Naga [436/1080] and fights it off! 7 days, 08:32:42 is removed from tupper's clock.
+T 1393971403 18<RizonIRPG18>	tupper reaches next level in 53 days, 22:39:49.
+T 1393971406 18<RizonIRPG18>	Blah [696/1100] has been set upon by a Barbed Devil [508/1733] and fights it off! 7 days, 21:11:51 is removed from Blah's clock.
+T 1393971410 18<RizonIRPG18>	Blah reaches next level in 27 days, 22:47:30.
+T 1393971457 18<RizonIRPG18>	CakeForceUK [102/1109] has been set upon by a Colossal Spider [383/1772] and gets savagely beaten! 0 days, 00:33:36 is added to CakeForceUK's clock.
+T 1393971457 18<RizonIRPG18>	CakeForceUK reaches next level in 0 days, 11:45:54.
+T 1393971463 23*	ModoZumbi (~bt1_bt1_b@23CE3BB4.28333006.82DEA9F2.IP23) has joined
+T 1393971479 18<RizonIRPG18>	Nerevarine [138/826] has been set upon by a Digester [330/754] and gets savagely beaten! 0 days, 00:45:10 is added to Nerevarine's clock.
+T 1393971479 18<RizonIRPG18>	Nerevarine reaches next level in 0 days, 09:07:12.
+T 1393971544 18<RizonIRPG18>	z0ny [743/985] has been set upon by a Vampire [217/915] and fights it off! 1 day, 21:48:47 is removed from z0ny's clock.
+T 1393971544 18<RizonIRPG18>	z0ny reaches next level in 13 days, 23:57:45.
+T 1393971555 18<RizonIRPG18>	Kiriko [615/888] has been set upon by a Drider [390/869] and fights it off! 0 days, 02:13:56 is removed from Kiriko's clock.
+T 1393971555 18<RizonIRPG18>	Kiriko reaches next level in 0 days, 16:22:14.
+T 1393971563 24*	28ModoZumbi is now known as 18TechNusS
+T 1393971573 18<RizonIRPG18>	Yukikaze [318/939] has been set upon by a Six Headed Pyro-hydra [439/874] and gets savagely beaten! 0 days, 05:47:04 is added to Yukikaze's clock.
+T 1393971573 18<RizonIRPG18>	Yukikaze reaches next level in 2 days, 22:03:29.
+T 1393971590 23*	FunkyCold (~lL2Ol@Funky.Cold23) has joined
+T 1393971595 22*	26RizonIRPG gives voice to 18FunkyCold
+T 1393971595 18<RizonIRPG18>	FunkyCold, the level 91 Dark Ninja, is now online from nickname FunkyCold. Next level in 90 days, 02:37:01.
+T 1393971608 24*	28Scrafty is now known as 18Raggedy
+T 1393971631 18<RizonIRPG18>	EvoStorm [352/756] has been set upon by a Yeth Hound [257/260] and fights it off! 0 days, 00:30:05 is removed from EvoStorm's clock.
+T 1393971631 18<RizonIRPG18>	EvoStorm reaches next level in 0 days, 06:39:43.
+T 1393971641 18<RizonIRPG18>	tupper [997/999] has been set upon by a Eleven Headed Pyro-hydra [486/1966] and fights it off! 11 days, 20:48:41 is removed from tupper's clock.
+T 1393971642 18<RizonIRPG18>	tupper reaches next level in 42 days, 01:47:09.
+T 1393971671 23*	sonytor_ (~sonytor_@Rizon-9A06E7FB.stayon.no23) has joined
+T 1393971674 18<RizonIRPG18>	Kiriko [107/888] has been set upon by a Invisible Stalker [665/823] and gets savagely beaten! 0 days, 01:28:13 is added to Kiriko's clock.
+T 1393971674 18<RizonIRPG18>	Kiriko reaches next level in 0 days, 17:48:27.
+T 1393971696 18<RizonIRPG18>	Le`oZ [959/1367] has come upon Bluey [596/1176] and taken them in combat! 1 day, 19:22:42 is removed from Le`oZ's clock.
+T 1393971696 18<RizonIRPG18>	Le`oZ reaches next level in 7 days, 16:55:45.
+T 1393971718 18<RizonIRPG18>	FaustVII [511/885] has been set upon by a Aboleth [354/838] and fights it off! 3 days, 06:00:57 is removed from FaustVII's clock.
+T 1393971718 18<RizonIRPG18>	FaustVII reaches next level in 23 days, 20:07:02.
+T 1393971731 22*	26LimitServ sets channel limit to 24454
+T 1393971746 18<RizonIRPG18>	Asmadeus found a pair of Nikes! This wondrous godsend has accelerated them 0 days, 00:39:18 towards level 139.
+T 1393971746 18<RizonIRPG18>	Asmadeus reaches next level in 0 days, 08:42:08.
+T 1393971750 18<RizonIRPG18>	AnonSix [136/858] has been set upon by a Clay Golemn [767/1415] and gets savagely beaten! 0 days, 03:53:04 is added to AnonSix's clock.
+T 1393971750 18<RizonIRPG18>	AnonSix reaches next level in 3 days, 09:34:28.
+T 1393971750 18<RizonIRPG18>	Habs, the Scribe, has attained level 36! Next level in 1 day, 06:03:08.
+T 1393971757 18<RizonIRPG18>	Habs [209/526] has challenged ProtoType_ [922/995] in combat and lost! 0 days, 04:30:28 is added to Habs's clock.
+T 1393971760 23*	Saoen (~bobafettB@master.of.muffins.il23) has joined
+T 1393971761 18<RizonIRPG18>	Habs reaches next level in 1 day, 10:33:36.
+T 1393971764 18<RizonIRPG18>	Kirby [361/1093] has been set upon by a Iron Golem [598/2122] and gets savagely beaten! 3 days, 04:11:39 is added to Kirby's clock.
+T 1393971768 18<RizonIRPG18>	Kirby reaches next level in 66 days, 16:04:39.
+T 1393971772 22*	26RizonIRPG gives voice to 18Saoen
+T 1393971775 18<RizonIRPG18>	Saoendroid, the level 53 Lumber Chopper, is now online from nickname Saoen. Next level in 1 day, 00:50:35.
+T 1393971782 18<RizonIRPG18>	Asmadeus [630/924] has been set upon by a Nine Headed Pyro-hydra [784/1462] and gets savagely beaten! 0 days, 00:26:04 is added to Asmadeus's clock.
+T 1393971786 18<RizonIRPG18>	Asmadeus reaches next level in 0 days, 09:07:36.
+T 1393971790 18<RizonIRPG18>	Greymantle found a pair of Nikes! This wondrous godsend has accelerated them 0 days, 05:30:31 towards level 46.
+T 1393971793 18<RizonIRPG18>	Greymantle reaches next level in 3 days, 14:18:08.
+T 1393971901 18<RizonIRPG18>	TheCraftedIdler [831/1063] has been set upon by a Cockatrice [121/319] and fights it off! 0 days, 03:27:45 is removed from TheCraftedIdler's clock.
+T 1393971901 18<RizonIRPG18>	TheCraftedIdler reaches next level in 1 day, 22:00:14.
+T 1393971929 23*	Sathi (~Sathi@Rizon-D26EAD18.dynamic.mtsallstream.net23) has joined
+T 1393971930 22*	26RizonIRPG gives voice to 18Sathi
+T 1393971930 18<RizonIRPG18>	Sathi, the level 45 Neger, is now online from nickname Sathi. Next level in 3 days, 12:41:56.
+T 1393971934 18<RizonIRPG18>	gof [503/789] has been set upon by a Digester [466/755] and fights it off! 0 days, 06:09:33 is removed from gof's clock.
+T 1393971941 18<RizonIRPG18>	gof reaches next level in 1 day, 21:10:03.
+T 1393971945 18<RizonIRPG18>	Kitzu [97/856] has been set upon by a Megaraptor [727/775] and gets savagely beaten! 0 days, 03:01:21 is added to Kitzu's clock.
+T 1393971949 18<RizonIRPG18>	Kitzu reaches next level in 1 day, 12:36:31.
+T 1393971981 18<RizonIRPG18>	InformaticBug, the Shadow Hunter, has attained level 5! Next level in 0 days, 00:18:06.
+T 1393971981 18<RizonIRPG18>	InformaticBug [7/69] has been set upon by a Crested Felldrake [62/115] and gets savagely beaten! 0 days, 00:00:54 is added to InformaticBug's clock.
+T 1393971981 18<RizonIRPG18>	InformaticBug reaches next level in 0 days, 00:18:58.
+T 1393971990 22*	26LimitServ sets channel limit to 24456
+T 1393971990 24*	vfleryl has quit (Quit: http://www.mibbit.com ajax IRC Client)
+T 1393971992 18<RizonIRPG18>	Mr_Dark [270/780] has been set upon by a Aboleth [420/837] and gets savagely beaten! 0 days, 13:37:30 is added to Mr_Dark's clock.
+T 1393971992 18<RizonIRPG18>	Mr_Dark reaches next level in 6 days, 21:00:58.
+T 1393972003 18<RizonIRPG18>	MooCowMoo stopped using dial-up! This wondrous godsend has accelerated them 0 days, 23:26:39 towards level 61.
+T 1393972003 18<RizonIRPG18>	MooCowMoo reaches next level in 7 days, 03:55:27.
+T 1393972039 18<RizonIRPG18>	Tajha [361/975] has been set upon by a Dark Naga [1045/1078] and gets savagely beaten! 1 day, 06:21:11 is added to Tajha's clock.
+T 1393972039 18<RizonIRPG18>	Tajha reaches next level in 15 days, 07:36:38.
+T 1393972046 18<RizonIRPG18>	CommanderVenus [31/1018] has been set upon by a Treant [462/980] and gets savagely beaten! 0 days, 17:44:44 is added to CommanderVenus's clock.
+T 1393972046 18<RizonIRPG18>	CommanderVenus reaches next level in 8 days, 22:55:09.
+T 1393972079 18<RizonIRPG18>	Arcon found an exploit in the IRPG code! This wondrous godsend has accelerated them 0 days, 19:27:43 towards level 64.
+T 1393972079 18<RizonIRPG18>	Arcon reaches next level in 5 days, 22:43:23.
+T 1393972086 18<RizonIRPG18>	CloudyBeef [573/861] has been set upon by a Chimera [86/909] and fights it off! 0 days, 00:00:00 is removed from CloudyBeef's clock.
+T 1393972086 18<RizonIRPG18>	CloudyBeef reaches next level in 0 days, 00:00:02.
+T 1393972093 24*	28Marianosm is now known as 18MarianosmAFK
+T 1393972093 18<RizonIRPG18>	ilphen [1233/1262] has been set upon by a Displacer Beast Pack Lord [1484/2030] and gets savagely beaten! 0 days, 02:03:00 is added to ilphen's clock.
+T 1393972093 18<RizonIRPG18>	ilphen reaches next level in 1 day, 19:03:03.
+T 1393972161 18<RizonIRPG18>	veenessa [48/643] has been set upon by a Dryad [219/293] and gets savagely beaten! 0 days, 13:21:36 is added to veenessa's clock.
+T 1393972161 18<RizonIRPG18>	veenessa reaches next level in 6 days, 02:57:36.
+T 1393972167 23*	Onijin (~Onijin@the.boys.became.raisins.no.sun.could.shrink.worse23) has joined
+T 1393972169 22*	26RizonIRPG gives voice to 18Onijin
+T 1393972169 18<RizonIRPG18>	Onijin, the level 50 Warrior, is now online from nickname Onijin. Next level in 0 days, 11:25:31.
+T 1393972195 18<RizonIRPG18>	joeyo [719/1189] has been set upon by a Giant Octopus [813/1102] and gets savagely beaten! 9 days, 19:27:56 is added to joeyo's clock.
+T 1393972195 18<RizonIRPG18>	joeyo reaches next level in 118 days, 19:45:08.
+T 1393972209 18<RizonIRPG18>	Sv3nt3k [261/1252] has been set upon by a Abyssal Greater Basilisk [851/1979] and gets savagely beaten! 1 day, 07:01:56 is added to Sv3nt3k's clock.
+T 1393972209 18<RizonIRPG18>	Sv3nt3k reaches next level in 27 days, 03:40:47.
+T 1393972241 18<RizonIRPG18>	Onii-Chama [810/1116] has been set upon by a Young Green Dragon [311/501] and fights it off! 1 day, 11:57:34 is removed from Onii-Chama's clock.
+T 1393972241 18<RizonIRPG18>	Onii-Chama reaches next level in 19 days, 21:45:02.
+T 1393972245 18<RizonIRPG18>	Newser [614/885] has been set upon by a Elasmosaurus [98/777] and fights it off! 0 days, 15:41:14 is removed from Newser's clock.
+T 1393972245 18<RizonIRPG18>	Newser reaches next level in 4 days, 19:02:30.
+T 1393972250 24*	D2 has quit (Ping timeout: 240 seconds)
+T 1393972256 18<RizonIRPG18>	Laww [800/967] has been set upon by a Vampire [159/915] and fights it off! 0 days, 10:42:46 is removed from Laww's clock.
+T 1393972256 18<RizonIRPG18>	Laww reaches next level in 3 days, 06:33:40.
+T 1393972306 18<RizonIRPG18>	SG [955/1187] has been set upon by a Abyssal Greater Basilisk [87/1977] and fights it off! 0 days, 09:24:21 is removed from SG's clock.
+T 1393972306 18<RizonIRPG18>	SG reaches next level in 1 day, 09:20:54.
+T 1393972346 18<RizonIRPG18>	mo2l [174/762] has been set upon by a Dire Shark [901/1259] and gets savagely beaten! 0 days, 23:48:48 is added to mo2l's clock.
+T 1393972346 18<RizonIRPG18>	mo2l reaches next level in 20 days, 20:04:54.
+T 1393972350 18<RizonIRPG18>	Verily I say unto thee, the Heavens have burst forth, and the blessed hand of God carried snip 9 days, 06:10:32 toward level 127.
+T 1393972350 18<RizonIRPG18>	snip reaches next level in 13 days, 07:42:58.
+T 1393972418 18<RizonIRPG18>	ThermalSloth [876/1182] has been set upon by a Elder Xorn [213/1046] and fights it off! 10 days, 09:49:26 is removed from ThermalSloth's clock.
+T 1393972418 18<RizonIRPG18>	ThermalSloth reaches next level in 76 days, 08:02:38.
+T 1393972443 18<RizonIRPG18>	Kirby [961/1093] has been set upon by a Spirit Naga [123/1243] and fights it off! 7 days, 23:59:11 is removed from Kirby's clock.
+T 1393972444 18<RizonIRPG18>	Kirby reaches next level in 58 days, 15:54:01.
+T 1393972502 24*	Bug[PT] has quit (Quit: http://www.mibbit.com ajax IRC Client)
+T 1393972522 23*	Bug[PT] (cgiirc@Rizon-7C1C62D4.cpe.netcabo.pt23) has joined
+T 1393972527 22*	26RizonIRPG gives voice to 18Bug[PT]
+T 1393972527 18<RizonIRPG18>	InformaticBug, the level 5 Shadow Hunter, is now online from nickname Bug[PT]. Next level in 0 days, 00:10:52.
+T 1393972545 18<RizonIRPG18>	MooCowMoo [16/948] has been set upon by a Elder Xorn [194/1045] and gets savagely beaten! 0 days, 15:27:34 is added to MooCowMoo's clock.
+T 1393972545 18<RizonIRPG18>	MooCowMoo reaches next level in 7 days, 19:13:59.
+T 1393972549 18<RizonIRPG18>	veenessa [30/643] has been set upon by a Xorn [656/703] and gets savagely beaten! 0 days, 13:13:00 is added to veenessa's clock.
+T 1393972549 18<RizonIRPG18>	veenessa reaches next level in 6 days, 16:04:09.
+T 1393972570 18<RizonIRPG18>	Dildoballs [62/1127] has been set upon by a Young Gold Dragon [37/1289] and fights it off! 3 days, 19:52:31 is removed from Dildoballs's clock.
+T 1393972570 18<RizonIRPG18>	Dildoballs reaches next level in 28 days, 01:45:15.
+T 1393972585 18<RizonIRPG18>	umball [305/709] has been set upon by a Stone Giant [111/1147] and fights it off! 3 days, 10:10:56 is removed from umball's clock.
+T 1393972585 18<RizonIRPG18>	umball reaches next level in 12 days, 03:22:24.
+T 1393972592 18<RizonIRPG18>	Faryus [403/619] has been set upon by a Treant [18/979] and fights it off! 0 days, 02:05:00 is removed from Faryus's clock.
+T 1393972592 18<RizonIRPG18>	Faryus reaches next level in 0 days, 07:23:11.
+T 1393972597 24*	FunkyCold has quit (Ping timeout: 240 seconds)
+T 1393972614 24*	BestYuki has quit (Ping timeout: 240 seconds)
+T 1393972623 18<RizonIRPG18>	BeefEats [131/775] has been set upon by a Unicorn [246/247] and gets savagely beaten! 0 days, 01:25:25 is added to BeefEats's clock.
+T 1393972623 18<RizonIRPG18>	BeefEats reaches next level in 0 days, 15:39:35.
+T 1393972630 24*	28Raggedy is now known as 18RaggedyAway
+T 1393972637 18<RizonIRPG18>	Dave- [496/1052] has been set upon by a Flesh Golem [401/966] and fights it off! 3 days, 21:10:50 is removed from Dave-'s clock.
+T 1393972637 18<RizonIRPG18>	Dave- reaches next level in 28 days, 11:19:33.
+T 1393972641 18<RizonIRPG18>	Takagi [210/601] has been set upon by a Satyr [137/205] and fights it off! 0 days, 00:04:38 is removed from Takagi's clock.
+T 1393972641 18<RizonIRPG18>	Takagi reaches next level in 0 days, 01:01:46.
+T 1393972657 22*	26LimitServ sets channel limit to 24453
+T 1393972672 23*	FunkyCold (~lL2Ol@Funky.Cold23) has joined
+T 1393972674 22*	26RizonIRPG gives voice to 18FunkyCold
+T 1393972674 18<RizonIRPG18>	FunkyCold, the level 91 Dark Ninja, is now online from nickname FunkyCold. Next level in 91 days, 17:33:34.
+T 1393972692 18<RizonIRPG18>	Onijin [334/763] has been set upon by a Six Headed Pyro-hydra [670/876] and gets savagely beaten! 0 days, 01:00:54 is added to Onijin's clock.
+T 1393972692 18<RizonIRPG18>	Onijin reaches next level in 0 days, 12:17:45.
+T 1393972731 18<RizonIRPG18>	TahMahn [556/1071] has been set upon by a Blue Slaad [958/1128] and gets savagely beaten! 0 days, 21:04:39 is added to TahMahn's clock.
+T 1393972731 18<RizonIRPG18>	TahMahn reaches next level in 10 days, 15:16:22.
+T 1393972767 18<RizonIRPG18>	Nemaster203 [1112/1127] has been set upon by a Janni [205/438] and fights it off! 1 day, 18:34:27 is removed from Nemaster203's clock.
+T 1393972767 18<RizonIRPG18>	Nemaster203 reaches next level in 23 days, 13:37:55.
+T 1393972770 23*	Arcorann_ (~Arcorann@Rizon-3C81935B.static.tpgi.com.au23) has joined
+T 1393972771 18<RizonIRPG18>	Aura [878/1114] has been set upon by a Elder Arrowhawk [895/997] and gets savagely beaten! 6 days, 09:36:12 is added to Aura's clock.
+T 1393972771 18<RizonIRPG18>	Aura reaches next level in 77 days, 12:18:30.
+T 1393972831 22*	26LimitServ sets channel limit to 24455
+T 1393972836 24*	sonytor_ has quit (Ping timeout: 240 seconds)
+T 1393972845 23*	Chuugoku (~fuyu.no.h@F37C985E.8A0BA35C.15ECC96.IP23) has joined
+T 1393972846 22*	26RizonIRPG gives voice to 18Chuugoku
+T 1393972846 18<RizonIRPG18>	ButtsDX, the level 74 Protagonist's Girlfriend, is now online from nickname Chuugoku. Next level in 7 days, 04:40:00.
+T 1393972904 18<RizonIRPG18>	johnny110011 was tipped by a cow. This terrible calamity has slowed them 0 days, 00:20:03 from level 34.
+T 1393972904 18<RizonIRPG18>	johnny110011 reaches next level in 0 days, 05:06:39.
+T 1393972993 24*	FunkyCold has quit (Killed (NickServ (GHOST command used by FunkCold`)))
+T 1393973002 23*	Skyline (~Skyline@Rizon-C0B4A74B.socal.res.rr.com23) has joined
+T 1393973005 22*	26RizonIRPG gives voice to 18Skyline
+T 1393973005 18<RizonIRPG18>	Skyline, the level 22 Galactic Trailblazer, is now online from nickname Skyline. Next level in 0 days, 00:25:19.
+T 1393973006 23*	FunkyCold (~lL2Ol@Funky.Cold23) has joined
+T 1393973009 22*	26RizonIRPG gives voice to 18FunkyCold
+T 1393973012 18<RizonIRPG18>	FunkyCold, the level 91 Dark Ninja, is now online from nickname FunkyCold. Next level in 93 days, 08:41:27.
+T 1393973038 18<RizonIRPG18>	Svealsz [714/1266] has been set upon by a Frost Worm [1020/1907] and gets savagely beaten! 0 days, 15:02:54 is added to Svealsz's clock.
+T 1393973038 18<RizonIRPG18>	Svealsz reaches next level in 13 days, 04:00:59.
+T 1393973041 24*	Seefield has quit (Quit: ~ Bye Bye les gens du chan !!! ~)
+T 1393973049 18<RizonIRPG18>	bbd [919/1288] has been set upon by a Fire Giant [745/1393] and fights it off! 1 day, 07:59:02 is removed from bbd's clock.
+T 1393973049 18<RizonIRPG18>	bbd reaches next level in 9 days, 18:33:02.
+T 1393973052 18<RizonIRPG18>	xor [299/618] has been set upon by a Grick [84/222] and fights it off! 0 days, 00:29:55 is removed from xor's clock.
+T 1393973052 18<RizonIRPG18>	xor reaches next level in 0 days, 06:37:29.
+T 1393973072 23*	BestYuki (~BestYuki@Rizon-10E53A41.upc-g.chello.nl23) has joined
+T 1393973073 23*	Chrysanthemum (~Mums@Pink.Pony.Ranger23) has joined
+T 1393973074 22*	26RizonIRPG gives voice to 18Bikushou
+T 1393973074 18<RizonIRPG18>	Reis, the level 61 Traveler, is now online from nickname Bikushou. Next level in 9 days, 05:11:20.
+T 1393973077 18<RizonIRPG18>	cookie-chan [552/1146] has been set upon by a Colossal Scorpion [1866/1876] and gets savagely beaten! 0 days, 09:10:55 is added to cookie-chan's clock.
+T 1393973081 18<RizonIRPG18>	cookie-chan reaches next level in 8 days, 00:49:27.
+T 1393973085 22*	26RizonIRPG gives voice to 18Chrysanthemum
+T 1393973088 18<RizonIRPG18>	ShakoFor2Refined, the level 39 Waaambulance EMT, is now online from nickname Chrysanthemum. Next level in 0 days, 04:17:51.
+T 1393973096 18<RizonIRPG18>	Tb0n3r [844/1149] has been set upon by a Stone Golem [547/1789] and fights it off! 0 days, 04:19:15 is removed from Tb0n3r's clock.
+T 1393973106 18<RizonIRPG18>	Tb0n3r reaches next level in 0 days, 15:19:10.
+T 1393973133 22*	26LimitServ sets channel limit to 24457
+T 1393973164 18<RizonIRPG18>	SHAFT_Q_DOLOMITE [430/591] has been set upon by a Ravid [347/561] and fights it off! 0 days, 01:33:48 is removed from SHAFT_Q_DOLOMITE's clock.
+T 1393973164 18<RizonIRPG18>	SHAFT_Q_DOLOMITE reaches next level in 0 days, 11:27:58.
+T 1393973171 18<RizonIRPG18>	otis [162/700] has been set upon by a Gorgon [707/1066] and gets savagely beaten! 0 days, 00:25:43 is added to otis's clock.
+T 1393973171 18<RizonIRPG18>	otis reaches next level in 0 days, 09:00:12.
+T 1393973174 23*	Noom (~kvirc@Rizon-8A0754BA.lns20.bne4.internode.on.net23) has joined
+T 1393973178 22*	26RizonIRPG gives voice to 18Noom
+T 1393973178 18<RizonIRPG18>	Noom, the level 54 Drop Bear Militant, is now online from nickname Noom. Next level in 6 days, 05:01:32.
+T 1393973185 18<RizonIRPG18>	InformaticBug, the Shadow Hunter, has attained level 6! Next level in 0 days, 00:21:00.
+T 1393973193 18<RizonIRPG18>	InformaticBug [33/69] has been set upon by a Darkmantle [38/79] and gets savagely beaten! 0 days, 00:01:53 is added to InformaticBug's clock.
+T 1393973196 18<RizonIRPG18>	InformaticBug reaches next level in 0 days, 00:22:50.
+T 1393973200 18<RizonIRPG18>	ilphen [592/1262] has been set upon by a Dire Tiger [689/1142] and gets savagely beaten! 0 days, 03:50:49 is added to ilphen's clock.
+T 1393973203 18<RizonIRPG18>	ilphen reaches next level in 1 day, 22:35:36.
+T 1393973207 18<RizonIRPG18>	ardichoke [560/1055] has been set upon by a Treant [577/978] and gets savagely beaten! 1 day, 09:32:13 is added to ardichoke's clock.
+T 1393973210 18<RizonIRPG18>	ardichoke reaches next level in 16 days, 22:10:19.
+T 1393973249 18<RizonIRPG18>	Le`oZ [1196/1367] has been set upon by a Iron Golem [777/2133] and fights it off! 1 day, 16:35:22 is removed from Le`oZ's clock.
+T 1393973249 18<RizonIRPG18>	Le`oZ reaches next level in 5 days, 23:54:30.
+T 1393973260 18<RizonIRPG18>	Dasher [11/701] has been set upon by a Giant Octopus [1072/1105] and gets savagely beaten! 0 days, 18:54:42 is added to Dasher's clock.
+T 1393973260 18<RizonIRPG18>	Dasher reaches next level in 16 days, 13:08:44.
+T 1393973271 18<RizonIRPG18>	Arcon [300/983] has been set upon by a Gargantuan Spider [649/968] and gets savagely beaten! 0 days, 12:48:54 is added to Arcon's clock.
+T 1393973271 18<RizonIRPG18>	Arcon reaches next level in 6 days, 11:12:25.
+T 1393973321 18<RizonIRPG18>	efaa [652/919] has been set upon by a Couatl [866/1552] and gets savagely beaten! 0 days, 05:58:21 is added to efaa's clock.
+T 1393973321 18<RizonIRPG18>	efaa reaches next level in 5 days, 05:25:24.
+T 1393973350 18<RizonIRPG18>	HatsuneMiku [530/801] has been set upon by a Roc [55/1207] and fights it off! 1 day, 06:31:14 is removed from HatsuneMiku's clock.
+T 1393973350 18<RizonIRPG18>	HatsuneMiku reaches next level in 4 days, 12:12:34.
+T 1393973357 18<RizonIRPG18>	Dwarf [757/980] has been set upon by a Greater Shadow [55/1015] and fights it off! 0 days, 00:26:48 is removed from Dwarf's clock.
+T 1393973357 18<RizonIRPG18>	Dwarf reaches next level in 0 days, 03:16:32.
+T 1393973383 23*	nopedotavi (~nopedotav@Rizon-ACA638A.hsd1.ca.comcast.net23) has joined
+T 1393973386 22*	26RizonIRPG gives voice to 18nopedotavi
+T 1393973386 18<RizonIRPG18>	nopedotavi, the level 54 derp, is now online from nickname nopedotavi. Next level in 21 days, 21:13:35.
+T 1393973396 24*	Discovery has quit (Read error: Connection reset by peer)
+T 1393973408 24*	blindsight has quit (Ping timeout: 240 seconds)
+T 1393973419 18<RizonIRPG18>	ScriptX [1/603] has been set upon by a Umber Hulk Zombie [203/581] and gets savagely beaten! 0 days, 06:28:29 is added to ScriptX's clock.
+T 1393973419 18<RizonIRPG18>	ScriptX reaches next level in 3 days, 06:25:08.
+T 1393973476 24*	Rob_Swire has quit (Ping timeout: 240 seconds)
+T 1393973484 18<RizonIRPG18>	mosh [127/498] has been set upon by a Digester [757/764] and gets savagely beaten! 0 days, 00:13:22 is added to mosh's clock.
+T 1393973484 18<RizonIRPG18>	mosh reaches next level in 0 days, 04:40:55.
+T 1393973487 18<RizonIRPG18>	Thalbard [415/1046] has been set upon by a Cauchemar [68/1692] and fights it off! 14 days, 02:10:45 is removed from Thalbard's clock.
+T 1393973487 18<RizonIRPG18>	Thalbard reaches next level in 49 days, 22:59:57.
+T 1393973501 23*	Rob_Swire (~gaben@D882FF01:2CC2C92D:5FF40031:IP23) has joined
+T 1393973501 18<RizonIRPG18>	BeefEats [625/775] has been set upon by a Gray Render Zombie [286/670] and fights it off! 0 days, 01:50:59 is removed from BeefEats's clock.
+T 1393973501 18<RizonIRPG18>	BeefEats reaches next level in 0 days, 13:33:57.
+T 1393973505 22*	26RizonIRPG gives voice to 18Rob_Swire
+T 1393973505 18<RizonIRPG18>	Rob_Swire, the level 54 Musician, is now online from nickname Rob_Swire. Next level in 6 days, 15:39:47.
+T 1393973527 23*	D2 (~D2@zect.kamen.rider23) has joined
+T 1393973529 22*	26RizonIRPG gives voice to 18D2
+T 1393973529 18<RizonIRPG18>	D2, the level 65 Kamen Rider, is now online from nickname D2. Next level in 14 days, 14:58:08.
+T 1393973554 18<RizonIRPG18>	Faith invented the wheel! This wondrous godsend has accelerated them 0 days, 01:21:07 towards level 44.
+T 1393973554 18<RizonIRPG18>	Faith reaches next level in 0 days, 10:56:23.
+T 1393973576 18<RizonIRPG18>	Tyras [116/1023] has been set upon by a Dark Naga [176/1078] and gets savagely beaten! 2 days, 04:53:07 is added to Tyras's clock.
+T 1393973576 18<RizonIRPG18>	Tyras reaches next level in 26 days, 16:30:07.
+T 1393973579 18<RizonIRPG18>	Ayesha-chan [44/1118] has been set upon by a Colossal Spider [1671/1770] and gets savagely beaten! 0 days, 00:45:49 is added to Ayesha-chan's clock.
+T 1393973579 18<RizonIRPG18>	Ayesha-chan reaches next level in 0 days, 16:02:09.
+T 1393973615 18<RizonIRPG18>	its___ [449/728] has been set upon by a Bralani [83/694] and fights it off! 0 days, 02:28:42 is removed from its___'s clock.
+T 1393973615 18<RizonIRPG18>	its___ reaches next level in 0 days, 18:10:28.
+T 1393973619 24*	gof has quit (Ping timeout: 240 seconds)
+T 1393973637 18<RizonIRPG18>	SamanosukeAkechi [239/1132] has been set upon by a Stone Golem [804/1777] and gets savagely beaten! 0 days, 03:42:09 is added to SamanosukeAkechi's clock.
+T 1393973637 18<RizonIRPG18>	SamanosukeAkechi reaches next level in 3 days, 05:45:23.
+T 1393973659 18<RizonIRPG18>	Panda [279/528] has been set upon by a Polar Bear [386/466] and gets savagely beaten! 0 days, 00:03:03 is added to Panda's clock.
+T 1393973659 18<RizonIRPG18>	Panda reaches next level in 0 days, 00:37:03.
+T 1393973662 18<RizonIRPG18>	Kitzu [800/856] has been set upon by a Five Headed Pyro-hydra [299/772] and fights it off! 0 days, 04:20:08 is removed from Kitzu's clock.
+T 1393973662 18<RizonIRPG18>	Kitzu reaches next level in 1 day, 07:47:45.
+T 1393973683 23*	gof (~gof@9C3C392C.A22E38A4.47240187.IP23) has joined
+T 1393973687 22*	26RizonIRPG gives voice to 18gof
+T 1393973687 18<RizonIRPG18>	gof, the level 46 Lazy Shrine Maiden, is now online from nickname gof. Next level in 1 day, 23:00:02.
+T 1393973695 18<RizonIRPG18>	IndigoParadox [575/660] has been set upon by a Green Hag [372/620] and fights it off! 0 days, 10:12:20 is removed from IndigoParadox's clock.
+T 1393973695 18<RizonIRPG18>	IndigoParadox reaches next level in 3 days, 02:50:31.
+T 1393973745 18<RizonIRPG18>	nagger [657/788] has been set upon by a Criosphinx [91/885] and fights it off! 0 days, 07:43:48 is removed from nagger's clock.
+T 1393973745 18<RizonIRPG18>	nagger reaches next level in 2 days, 08:41:14.
+T 1393973791 24*	Oprah has quit (Ping timeout: 240 seconds)
+T 1393973801 24*	Rob_Swire has quit (Ping timeout: 240 seconds)
+T 1393973814 18<RizonIRPG18>	mosh [165/498] has been set upon by a Adult Tojanida [81/511] and fights it off! 0 days, 00:33:03 is removed from mosh's clock.
+T 1393973814 18<RizonIRPG18>	mosh reaches next level in 0 days, 04:02:22.
+T 1393973848 23*	Oprah (~ZombieDah@Rizon-F0CB6165.hsd1.ca.comcast.net23) has joined
+T 1393973864 22*	26RizonIRPG gives voice to 18Oprah
+T 1393973864 18<RizonIRPG18>	Oprah, the level 62 AssClown, is now online from nickname Oprah. Next level in 2 days, 11:35:56.
+T 1393973922 18<RizonIRPG18>	TSMB2 [155/574] has been set upon by a Unicorn [104/247] and fights it off! 0 days, 01:14:46 is removed from TSMB2's clock.
+T 1393973922 18<RizonIRPG18>	TSMB2 reaches next level in 0 days, 16:33:23.
+T 1393974073 18<RizonIRPG18>	Christofosho walked face-first into a tree. This terrible calamity has slowed them 0 days, 01:47:30 from level 39.
+T 1393974073 18<RizonIRPG18>	Christofosho reaches next level in 1 day, 00:11:21.
+T 1393974073 18<RizonIRPG18>	takoyaki [46/932] has been set upon by a Dragonne [36/926] and fights it off! 0 days, 07:28:34 is removed from takoyaki's clock.
+T 1393974073 18<RizonIRPG18>	takoyaki reaches next level in 2 days, 06:49:32.
+T 1393974109 18<RizonIRPG18>	setsune [497/1033] has been set upon by a Athach [389/1074] and fights it off! 2 days, 14:35:15 is removed from setsune's clock.
+T 1393974109 18<RizonIRPG18>	setsune reaches next level in 19 days, 02:58:35.
+T 1393974127 18<RizonIRPG18>	sidoman [132/825] has been set upon by a Greater Air Elemental [151/1297] and gets savagely beaten! 0 days, 00:50:29 is added to sidoman's clock.
+T 1393974127 18<RizonIRPG18>	sidoman reaches next level in 0 days, 17:40:26.
+T 1393974138 18<RizonIRPG18>	Natsu, the FireMage, has attained level 19! Next level in 0 days, 02:24:37.
+T 1393974138 18<RizonIRPG18>	Natsu [295/388] has been set upon by a Phase Wasp [123/173] and fights it off! 0 days, 00:10:07 is removed from Natsu's clock.
+T 1393974138 18<RizonIRPG18>	Natsu reaches next level in 0 days, 02:14:30.
+T 1393974167 18<RizonIRPG18>	Koba [351/878] has been set upon by a Dire Bear [836/951] and gets savagely beaten! 0 days, 18:37:22 is added to Koba's clock.
+T 1393974167 18<RizonIRPG18>	Koba reaches next level in 9 days, 09:32:34.
+T 1393974171 18<RizonIRPG18>	The local wizard imbued D2's pants with a Spirit of Fortitude! D2's set of leggings gains 10% effectiveness.
+T 1393974189 18<RizonIRPG18>	Adam [40/640] has been set upon by a Ogre Mage [489/1008] and gets savagely beaten! 0 days, 00:12:01 is added to Adam's clock.
+T 1393974189 18<RizonIRPG18>	Adam reaches next level in 0 days, 04:12:23.
+T 1393974196 18<RizonIRPG18>	tanoshii [418/621] has been set upon by a Ghast [160/291] and fights it off! 0 days, 01:00:59 is removed from tanoshii's clock.
+T 1393974196 18<RizonIRPG18>	tanoshii reaches next level in 0 days, 13:30:25.
+T 1393974206 18<RizonIRPG18>	burn [774/1001] has been set upon by a Devourer [447/1658] and fights it off! 4 days, 03:09:40 is removed from burn's clock.
+T 1393974210 18<RizonIRPG18>	burn reaches next level in 14 days, 15:34:17.
+T 1393974260 18<RizonIRPG18>	Yeros [186/630] has been set upon by a Lantern Archon [136/203] and fights it off! 1 day, 15:37:25 is removed from Yeros's clock.
+T 1393974260 18<RizonIRPG18>	Yeros reaches next level in 21 days, 22:25:45.
+T 1393974278 24*	Myk has quit (Ping timeout: 240 seconds)
+T 1393974322 18<RizonIRPG18>	Willow [264/1051] has been set upon by a Cloud Giant [226/1614] and fights it off! 3 days, 01:28:21 is removed from Willow's clock.
+T 1393974322 18<RizonIRPG18>	Willow reaches next level in 10 days, 20:29:40.
+T 1393974325 18<RizonIRPG18>	Captain_Phil [219/679] has been set upon by a Ochre Jelly [268/593] and gets savagely beaten! 0 days, 02:17:19 is added to Captain_Phil's clock.
+T 1393974325 18<RizonIRPG18>	Captain_Phil reaches next level in 1 day, 03:43:08.
+T 1393974343 18<RizonIRPG18>	Sv3nt3k [156/1252] has been set upon by a Fire Giant [1000/1396] and gets savagely beaten! 2 days, 10:35:52 is added to Sv3nt3k's clock.
+T 1393974343 18<RizonIRPG18>	Sv3nt3k reaches next level in 29 days, 13:41:05.
+T 1393974351 18<RizonIRPG18>	Zero [447/1094] has been set upon by a Chimera Skeleton [316/357] and fights it off! 11 days, 04:03:43 is removed from Zero's clock.
+T 1393974351 18<RizonIRPG18>	Zero reaches next level in 148 days, 09:23:44.
+T 1393974372 24*	28RaggedyAway is now known as 18Raggedy
+T 1393974523 18<RizonIRPG18>	wadec fell into a hole. This terrible calamity has slowed them 0 days, 11:31:30 from level 47.
+T 1393974523 18<RizonIRPG18>	wadec reaches next level in 4 days, 20:17:56.
+T 1393974523 18<RizonIRPG18>	mbilker [121/1289] has been set upon by a Sixe Headed Hydra [393/494] and gets savagely beaten! 2 days, 23:25:28 is added to mbilker's clock.
+T 1393974523 18<RizonIRPG18>	mbilker reaches next level in 32 days, 17:40:10.
+T 1393974527 18<RizonIRPG18>	Skyline, the Galactic Trailblazer, has attained level 23! Next level in 0 days, 04:21:51.
+T 1393974534 18<RizonIRPG18>	Skyline [472/500] has been set upon by a Adult Tojanida [223/511] and fights it off! 0 days, 00:31:24 is removed from Skyline's clock.
+T 1393974538 24*	FunkyCold has quit (Ping timeout: 240 seconds)
+T 1393974538 18<RizonIRPG18>	Skyline reaches next level in 0 days, 03:50:24.
+T 1393974541 18<RizonIRPG18>	Iasov [588/778] has been set upon by a Hook Horror [195/666] and fights it off! 0 days, 15:42:30 is removed from Iasov's clock.
+T 1393974545 18<RizonIRPG18>	Iasov reaches next level in 4 days, 19:11:46.
+T 1393974552 18<RizonIRPG18>	InformaticBug, the Shadow Hunter, has attained level 7! Next level in 0 days, 00:24:21.
+T 1393974556 18<RizonIRPG18>	InformaticBug [19/121] has been set upon by a Porpoise [26/50] and gets savagely beaten! 0 days, 00:02:26 is added to InformaticBug's clock.
+T 1393974559 18<RizonIRPG18>	InformaticBug reaches next level in 0 days, 00:26:47.
+T 1393974566 18<RizonIRPG18>	ih16 [180/984] has been set upon by a Gray Slaad [1026/1519] and gets savagely beaten! 0 days, 08:29:02 is added to ih16's clock.
+T 1393974566 18<RizonIRPG18>	ih16 reaches next level in 7 days, 10:09:45.
+T 1393974598 22*	26LimitServ sets channel limit to 24455
+T 1393974626 23*	FunkyCold (~lL2Ol@Funky.Cold23) has joined
+T 1393974628 22*	26RizonIRPG gives voice to 18FunkyCold
+T 1393974628 18<RizonIRPG18>	FunkyCold, the level 91 Dark Ninja, is now online from nickname FunkyCold. Next level in 94 days, 23:29:12.
+T 1393974677 18<RizonIRPG18>	Kirby [1081/1093] has been set upon by a Iron Golem [2101/2178] and gets savagely beaten! 2 days, 22:21:50 is added to Kirby's clock.
+T 1393974677 18<RizonIRPG18>	Kirby reaches next level in 61 days, 13:38:37.
+T 1393974681 18<RizonIRPG18>	Arzac [209/573] has been set upon by a Wyvern [276/629] and gets savagely beaten! 0 days, 03:34:26 is added to Arzac's clock.
+T 1393974681 18<RizonIRPG18>	Arzac reaches next level in 1 day, 19:17:11.
+T 1393974739 24*	BestYuki has quit (Quit: さよなら)
+T 1393974744 23*	blindsight (blindsight@1.800.toasters23) has joined
+T 1393974750 18<RizonIRPG18>	Tibsi [551/786] has been set upon by a Eight Headed Hydra [535/814] and fights it off! 6 days, 23:39:19 is removed from Tibsi's clock.
+T 1393974750 18<RizonIRPG18>	Tibsi reaches next level in 51 days, 05:28:24.
+T 1393974753 18<RizonIRPG18>	Marion [671/1150] has been set upon by a Elder Tojanida [331/1322] and fights it off! 11 days, 03:10:32 is removed from Marion's clock.
+T 1393974753 18<RizonIRPG18>	Marion reaches next level in 81 days, 15:17:21.
+T 1393974775 18<RizonIRPG18>	Brad [47/930] has been set upon by a Huge Scorpion [891/918] and gets savagely beaten! 0 days, 17:43:52 is added to Brad's clock.
+T 1393974775 18<RizonIRPG18>	Brad reaches next level in 8 days, 22:44:42.
+T 1393974788 24*	28Raggedy is now known as 18Scrafty
+T 1393974789 22*	26RizonIRPG gives voice to 18blindsight
+T 1393974789 18<RizonIRPG18>	blindsight, the level 27 wizzard, is now online from nickname blindsight. Next level in 0 days, 08:55:35.
+T 1393974793 18<RizonIRPG18>	NiXaL [335/732] has been set upon by a Lamia [1/687] and fights it off! 0 days, 22:08:35 is removed from NiXaL's clock.
+T 1393974793 18<RizonIRPG18>	NiXaL reaches next level in 6 days, 18:22:57.
+T 1393974831 18<RizonIRPG18>	xor [507/618] has been set upon by a Violet Fungus [50/235] and fights it off! 0 days, 00:25:44 is removed from xor's clock.
+T 1393974831 18<RizonIRPG18>	xor reaches next level in 0 days, 05:42:06.
+T 1393974835 18<RizonIRPG18>	xnomad [919/1120] has been set upon by a Dire Wolverine [105/436] and fights it off! 5 days, 22:38:25 is removed from xnomad's clock.
+T 1393974835 18<RizonIRPG18>	xnomad reaches next level in 78 days, 23:04:43.
+T 1393974899 18<RizonIRPG18>	Tibsi [522/786] has been set upon by a Aboleth [341/833] and fights it off! 6 days, 03:31:54 is removed from Tibsi's clock.
+T 1393974899 18<RizonIRPG18>	Tibsi reaches next level in 45 days, 01:54:00.
+T 1393974907 18<RizonIRPG18>	grimlock [92/904] has been set upon by a Invisible Stalker [52/826] and fights it off! 2 days, 11:31:18 is removed from grimlock's clock.
+T 1393974907 18<RizonIRPG18>	grimlock reaches next level in 18 days, 04:29:35.
+T 1393974932 18<RizonIRPG18>	D2 [104/1247] has been set upon by a Formian Myrmach [144/1384] and gets savagely beaten! 1 day, 07:33:08 is added to D2's clock.
+T 1393974932 18<RizonIRPG18>	D2 reaches next level in 15 days, 22:07:57.
+T 1393974957 18<RizonIRPG18>	Tb0n3r [219/1149] has been set upon by a Elder Black Pudding [834/1852] and gets savagely beaten! 0 days, 00:44:24 is added to Tb0n3r's clock.
+T 1393974957 18<RizonIRPG18>	Tb0n3r reaches next level in 0 days, 15:32:32.
+T 1393975059 24*	28Scrafty is now known as 18Raggedy
+T 1393975086 24*	Mareep has quit (Quit: -=SysReset 2.55=-)
+T 1393975126 18<RizonIRPG18>	b0nk [523/1306] has been set upon by a Nightmare Beast [1767/2629] and gets savagely beaten! 0 days, 11:30:24 is added to b0nk's clock.
+T 1393975126 18<RizonIRPG18>	b0nk reaches next level in 10 days, 01:38:41.
+T 1393975141 18<RizonIRPG18>	alvinkh [3/731] has come upon Koba [382/878] and been defeated in combat! 0 days, 16:36:43 is added to alvinkh's clock.
+T 1393975141 18<RizonIRPG18>	alvinkh reaches next level in 9 days, 08:15:51.
+T 1393975166 18<RizonIRPG18>	tupper [493/999] has been set upon by a Night Hag [259/1202] and fights it off! 5 days, 01:03:24 is removed from tupper's clock.
+T 1393975166 18<RizonIRPG18>	tupper reaches next level in 36 days, 23:45:01.
+T 1393975184 18<RizonIRPG18>	w00t [705/916] has been set upon by a Ghost [339/795] and fights it off! 5 days, 23:33:36 is removed from w00t's clock.
+T 1393975184 18<RizonIRPG18>	w00t reaches next level in 43 days, 20:46:29.
+T 1393975223 18<RizonIRPG18>	Tekla [238/1358] has been set upon by a Formian Myrmach [1179/1375] and gets savagely beaten! 0 days, 06:29:59 is added to Tekla's clock.
+T 1393975223 18<RizonIRPG18>	Tekla reaches next level in 3 days, 06:43:16.
+T 1393975232 23*	IzumiKonata (~Izumi_Kon@Rizon-306D87.mullvad.net23) has joined
+T 1393975234 22*	26RizonIRPG gives voice to 18IzumiKonata
+T 1393975234 18<RizonIRPG18>	Azunyan, the level 46 Cutest_Girl, is now online from nickname IzumiKonata. Next level in 2 days, 03:26:03.
+T 1393975270 18<RizonIRPG18>	Beets [378/742] has been set upon by a Belker [371/657] and fights it off! 0 days, 00:36:49 is removed from Beets's clock.
+T 1393975270 18<RizonIRPG18>	Beets reaches next level in 0 days, 04:30:07.
+T 1393975288 18<RizonIRPG18>	tupper [706/999] has been set upon by a Young Gold Dragon [688/1290] and fights it off! 4 days, 10:31:33 is removed from tupper's clock.
+T 1393975288 18<RizonIRPG18>	tupper reaches next level in 32 days, 13:11:26.
+T 1393975342 18<RizonIRPG18>	Marika [176/1150] has been set upon by a Stone Golem [852/1809] and gets savagely beaten! 2 days, 03:28:59 is added to Marika's clock.
+T 1393975342 18<RizonIRPG18>	Marika reaches next level in 45 days, 01:08:52.
+T 1393975346 18<RizonIRPG18>	Lansck [149/585] has been set upon by a Green Hag [444/617] and gets savagely beaten! 0 days, 04:07:53 is added to Lansck's clock.
+T 1393975346 18<RizonIRPG18>	Lansck reaches next level in 2 days, 02:02:12.
+T 1393975436 18<RizonIRPG18>	Henry [438/719] has been set upon by a Dragon Turtle [20/1182] and fights it off! 5 days, 14:31:55 is removed from Henry's clock.
+T 1393975436 18<RizonIRPG18>	Henry reaches next level in 19 days, 20:58:41.
+T 1393975440 24*	Koopz has quit (Read error: Connection reset by peer)
+T 1393975479 18<RizonIRPG18>	Roriopolus [720/1091] has been set upon by a Roc [493/1207] and fights it off! 1 day, 11:21:54 is removed from Roriopolus's clock.
+T 1393975479 18<RizonIRPG18>	Roriopolus reaches next level in 10 days, 19:20:38.
+T 1393975482 18<RizonIRPG18>	Verily I say unto thee, the Heavens have burst forth, and the blessed hand of God carried Koba 3 days, 15:49:08 toward level 63.
+T 1393975482 18<RizonIRPG18>	Koba reaches next level in 5 days, 17:21:30.
+T 1393975641 18<RizonIRPG18>	snakebite [838/875] has been set upon by a Archon [72/413] and fights it off! 0 days, 02:30:53 is removed from snakebite's clock.
+T 1393975641 18<RizonIRPG18>	snakebite reaches next level in 1 day, 09:24:39.
+T 1393975681 18<RizonIRPG18>	Kaeru tamed a wild horse! This wondrous godsend has accelerated them 0 days, 00:59:59 towards level 155.
+T 1393975682 18<RizonIRPG18>	Kaeru reaches next level in 0 days, 07:19:58.
+T 1393975684 18<RizonIRPG18>	b0nk [1271/1306] has been set upon by a Nightmare Beast [956/2626] and fights it off! 2 days, 05:07:39 is removed from b0nk's clock.
+T 1393975684 18<RizonIRPG18>	b0nk reaches next level in 7 days, 20:21:43.
+T 1393975691 18<RizonIRPG18>	gerjomarty [253/1033] has been set upon by a Adult Tojanida [467/512] and gets savagely beaten! 5 days, 19:00:58 is added to gerjomarty's clock.
+T 1393975691 18<RizonIRPG18>	gerjomarty reaches next level in 63 days, 17:10:42.
+T 1393975699 24*	DashBoard has quit (Quit: Until we meet again!)
+T 1393975713 18<RizonIRPG18>	Goed [48/716] has come upon Relial [240/1122] and been defeated in combat! 0 days, 11:32:41 is added to Goed's clock.
+T 1393975713 18<RizonIRPG18>	Goed reaches next level in 5 days, 19:49:14.
+T 1393975727 18<RizonIRPG18>	Tibsi [332/786] has been set upon by a Invisible Stalker [103/828] and fights it off! 5 days, 09:48:01 is removed from Tibsi's clock.
+T 1393975727 18<RizonIRPG18>	Tibsi reaches next level in 39 days, 15:52:11.
+T 1393975731 18<RizonIRPG18>	pastatron is forsaken by his evil god. 0 days, 00:55:10 is added to his clock.
+T 1393975731 18<RizonIRPG18>	pastatron reaches next level in 1 day, 22:53:31.
+T 1393975735 18<RizonIRPG18>	D2 [555/1247] has been set upon by a Fire Giant [275/1395] and fights it off! 1 day, 21:49:44 is removed from D2's clock.
+T 1393975739 18<RizonIRPG18>	D2 reaches next level in 14 days, 00:04:50.
+T 1393975753 18<RizonIRPG18>	BeefEats [670/775] has been set upon by a Xill [215/719] and fights it off! 0 days, 01:33:10 is removed from BeefEats's clock.
+T 1393975753 18<RizonIRPG18>	BeefEats reaches next level in 0 days, 11:23:16.
+T 1393975763 18<RizonIRPG18>	FunkyCold [610/865] has been set upon by a Medium Water Elemental [267/314] and fights it off! 6 days, 15:32:31 is removed from FunkyCold's clock.
+T 1393975763 18<RizonIRPG18>	FunkyCold reaches next level in 88 days, 07:37:49.
+T 1393975771 18<RizonIRPG18>	IdleVice [1022/1062] has been set upon by a Shield Gardian [290/1053] and fights it off! 0 days, 05:26:42 is removed from IdleVice's clock.
+T 1393975771 18<RizonIRPG18>	IdleVice reaches next level in 1 day, 15:55:49.
+T 1393975774 18<RizonIRPG18>	tupper [275/999] has been set upon by a Gorgon [495/1066] and gets savagely beaten! 2 days, 22:17:41 is added to tupper's clock.
+T 1393975778 18<RizonIRPG18>	tupper reaches next level in 35 days, 11:21:00.
+T 1393975789 18<RizonIRPG18>	Lexy [319/1250] has been set upon by a Elder Tojanida [1204/1336] and gets savagely beaten! 25 days, 03:28:13 is added to Lexy's clock.
+T 1393975789 18<RizonIRPG18>	Lexy reaches next level in 304 days, 12:41:53.
+T 1393975879 18<RizonIRPG18>	Panda, the Bionic Pandaborg, has attained level 32! Next level in 0 days, 16:35:51.
+T 1393975879 18<RizonIRPG18>	Panda [252/544] has been set upon by a Vampire [32/914] and fights it off! 0 days, 03:39:05 is removed from Panda's clock.
+T 1393975882 18<RizonIRPG18>	Panda reaches next level in 0 days, 12:56:45.
+T 1393975898 23*	jking1591 (cgiirc@Rizon-3F5364B9.hsd1.al.comcast.net23) has joined
+T 1393975905 24*	jking1591 (cgiirc@Rizon-3F5364B9.hsd1.al.comcast.net24) has left
+T 1393975927 24*	FullerxspectruM_overlay has quit (Ping timeout: 240 seconds)
+T 1393975943 18<RizonIRPG18>	Rikimaru [518/1310] has been set upon by a Stone Giant [293/1145] and fights it off! 0 days, 11:07:44 is removed from Rikimaru's clock.
+T 1393975943 18<RizonIRPG18>	Rikimaru reaches next level in 3 days, 09:36:48.
+T 1393975978 22*	26LimitServ sets channel limit to 24453
+T 1393975983 18<RizonIRPG18>	ved [340/949] has been set upon by a Tyrannosaurus [221/991] and fights it off! 1 day, 11:09:17 is removed from ved's clock.
+T 1393975983 18<RizonIRPG18>	ved reaches next level in 10 days, 17:48:08.
+T 1393976026 18<RizonIRPG18>	Kirby [176/1093] has been set upon by a Roper [1077/2048] and gets savagely beaten! 3 days, 01:51:48 is added to Kirby's clock.
+T 1393976026 18<RizonIRPG18>	Kirby reaches next level in 64 days, 15:07:56.
+T 1393976030 18<RizonIRPG18>	Christofosho [107/693] has been set upon by a Digester [620/767] and gets savagely beaten! 0 days, 02:07:41 is added to Christofosho's clock.
+T 1393976030 18<RizonIRPG18>	Christofosho reaches next level in 1 day, 01:46:26.
+T 1393976055 18<RizonIRPG18>	Murloc [15/1115] has been set upon by a Elder Xorn [316/1044] and gets savagely beaten! 0 days, 07:29:50 is added to Murloc's clock.
+T 1393976055 18<RizonIRPG18>	Murloc reaches next level in 3 days, 18:48:00.
+T 1393976091 18<RizonIRPG18>	bbd [658/1288] has been set upon by a Gambol [435/548] and fights it off! 0 days, 16:21:33 is removed from bbd's clock.
+T 1393976091 18<RizonIRPG18>	bbd reaches next level in 9 days, 01:20:47.
+T 1393976120 18<RizonIRPG18>	DragGon [337/855] has been set upon by a Invisible Stalker [117/825] and fights it off! 4 days, 01:31:13 is removed from DragGon's clock.
+T 1393976120 18<RizonIRPG18>	DragGon reaches next level in 29 days, 19:08:58.
+T 1393976141 18<RizonIRPG18>	Kirby [470/1093] has been set upon by a Iron Golem [887/2130] and gets savagely beaten! 3 days, 05:33:18 is added to Kirby's clock.
+T 1393976141 18<RizonIRPG18>	Kirby reaches next level in 67 days, 20:39:19.
+T 1393976149 18<RizonIRPG18>	Narf [797/1041] has been set upon by a Blue Slaad [914/1122] and gets savagely beaten! 1 day, 10:03:27 is added to Narf's clock.
+T 1393976149 18<RizonIRPG18>	Narf reaches next level in 17 days, 04:28:38.
+T 1393976160 18<RizonIRPG18>	InformaticBug, the Shadow Hunter, has attained level 8! Next level in 0 days, 00:28:15.
+T 1393976160 18<RizonIRPG18>	InformaticBug [24/132] has been set upon by a Lemure [68/138] and gets savagely beaten! 0 days, 00:02:32 is added to InformaticBug's clock.
+T 1393976160 18<RizonIRPG18>	InformaticBug reaches next level in 0 days, 00:30:46.
+T 1393976174 18<RizonIRPG18>	Tb0n3r [708/1149] has been set upon by a Vrock Demon [618/1172] and fights it off! 0 days, 01:49:28 is removed from Tb0n3r's clock.
+T 1393976174 18<RizonIRPG18>	Tb0n3r reaches next level in 0 days, 13:22:48.
+T 1393976206 18<RizonIRPG18>	Fazi [959/1229] has been set upon by a Colossal Centipede [789/1273] and fights it off! 0 days, 21:17:11 is removed from Fazi's clock.
+T 1393976206 18<RizonIRPG18>	Fazi reaches next level in 6 days, 12:06:07.
+T 1393976267 23*	Myk (~username@96E7E1E2.B5C70781.33E845A7.IP23) has joined
+T 1393976271 22*	26RizonIRPG gives voice to 18Myk
+T 1393976271 18<RizonIRPG18>	Myocks, the level 30 mac, is now online from nickname Myk. Next level in 0 days, 02:11:01.
+T 1393976275 18<RizonIRPG18>	tupper [107/999] has been set upon by a Kolvarut [1039/1998] and gets savagely beaten! 1 day, 18:33:38 is added to tupper's clock.
+T 1393976275 18<RizonIRPG18>	tupper reaches next level in 37 days, 05:46:18.
+T 1393976280 24*	MarianosmAFK has quit (Quit: ChatZilla 0.9.90.1 [Firefox 27.0.1/20140212131424])
+T 1393976343 18<RizonIRPG18>	Takagi, the Police Officer, has attained level 41! Next level in 2 days, 15:07:12.
+T 1393976343 18<RizonIRPG18>	Takagi [306/615] has been set upon by a Will-o'-wisp [167/706] and fights it off! 0 days, 07:34:27 is removed from Takagi's clock.
+T 1393976343 18<RizonIRPG18>	Takagi reaches next level in 2 days, 07:32:45.
+T 1393976386 18<RizonIRPG18>	Docterchese [132/1069] has been set upon by a Dire Lion [316/488] and gets savagely beaten! 5 days, 21:58:18 is added to Docterchese's clock.
+T 1393976386 18<RizonIRPG18>	Docterchese reaches next level in 65 days, 01:41:21.
+T 1393976483 18<RizonIRPG18>	Nerevarine [639/826] has been set upon by a Digester [108/751] and fights it off! 0 days, 00:55:39 is removed from Nerevarine's clock.
+T 1393976483 18<RizonIRPG18>	Nerevarine reaches next level in 0 days, 06:48:08.
+T 1393976516 18<RizonIRPG18>	ThisIsLackLuster [232/797] has been set upon by a Digester [475/766] and gets savagely beaten! 2 days, 03:23:56 is added to ThisIsLackLuster's clock.
+T 1393976516 18<RizonIRPG18>	ThisIsLackLuster reaches next level in 25 days, 22:29:54.
+T 1393976534 18<RizonIRPG18>	Ishizaki [734/1048] has been set upon by a Chimera [194/909] and fights it off! 1 day, 15:50:18 is removed from Ishizaki's clock.
+T 1393976534 18<RizonIRPG18>	Ishizaki reaches next level in 12 days, 04:08:59.
+T 1393976541 18<RizonIRPG18>	epicmuffin [1034/1260] has been set upon by a Guttersnipe [298/540] and fights it off! 0 days, 12:27:29 is removed from epicmuffin's clock.
+T 1393976541 18<RizonIRPG18>	epicmuffin reaches next level in 6 days, 21:30:57.
+T 1393976573 24*	mylinux has quit (Ping timeout: 240 seconds)
+T 1393976613 19<RizonIRPG>	thonneve [239/422] has been set upon by a Giant Stag Beetle [391/408] and gets savagely beaten! 0 days, 00:05:41 is added to thonneve's clock.
+T 1393976613 19<RizonIRPG>	thonneve reaches next level in 0 days, 01:09:00.
+T 1393976642 18<RizonIRPG18>	apm bought a faster computer! This wondrous godsend has accelerated them 5 days, 16:25:30 towards level 146.
+T 1393976642 18<RizonIRPG18>	apm reaches next level in 108 days, 00:04:42.
+T 1393976668 24*	28Trif is now known as 18Trif|away
+T 1393976681 18<RizonIRPG18>	ShakoFor2Refined [407/710] has been set upon by a Annis [519/737] and gets savagely beaten! 0 days, 00:17:48 is added to ShakoFor2Refined's clock.
+T 1393976681 18<RizonIRPG18>	ShakoFor2Refined reaches next level in 0 days, 03:35:39.
+T 1393976696 18<RizonIRPG18>	pahis [623/709] has been set upon by a Stone Giant [766/1148] and gets savagely beaten! 0 days, 08:32:18 is added to pahis's clock.
+T 1393976696 18<RizonIRPG18>	pahis reaches next level in 7 days, 11:18:30.
+T 1393976755 24*	Crispy` has quit (Remote host closed the connection)
+T 1393976765 23*	Crispy` (~idunno@jiro.dreams.of.booty23) has joined
+T 1393976768 22*	26RizonIRPG gives voice to 18Crispy`
+T 1393976768 18<RizonIRPG18>	Crispy, the level 49 Social Justice Warrior, is now online from nickname Crispy`. Next level in 1 day, 19:18:59.
+T 1393976820 18<RizonIRPG18>	erech [133/916] has been set upon by a Guardian Naga [978/1498] and gets savagely beaten! 0 days, 00:09:49 is added to erech's clock.
+T 1393976820 18<RizonIRPG18>	erech reaches next level in 0 days, 03:26:16.
+T 1393976831 18<RizonIRPG18>	seesalt [701/1100] has been set upon by a Devourer [1500/1658] and gets savagely beaten! 0 days, 01:40:25 is added to seesalt's clock.
+T 1393976831 18<RizonIRPG18>	During the epic battle, seesalt's level 113  tunic was torn from top to bottom and had to be thrown away!
+T 1393976831 18<RizonIRPG18>	seesalt reaches next level in 1 day, 11:08:55.
+T 1393976899 18<RizonIRPG18>	Aori [164/611] has been set upon by a Blood Ape [326/648] and gets savagely beaten! 0 days, 03:48:32 is added to Aori's clock.
+T 1393976899 18<RizonIRPG18>	Aori reaches next level in 1 day, 22:07:48.
+T 1393976928 18<RizonIRPG18>	ondrejko was visited by a very pretty nymph! This wondrous godsend has accelerated them 0 days, 00:33:11 towards level 60.
+T 1393976928 18<RizonIRPG18>	ondrejko reaches next level in 0 days, 08:39:55.
+T 1393976939 18<RizonIRPG18>	kalira [1080/1110] has been set upon by a Stone Golem [175/1782] and fights it off! 9 days, 11:55:03 is removed from kalira's clock.
+T 1393976939 18<RizonIRPG18>	kalira reaches next level in 33 days, 16:04:18.
+T 1393976961 18<RizonIRPG18>	DarkSynopsis [486/814] has been set upon by a Six Headed Cryo-hydra [777/850] and gets savagely beaten! 0 days, 04:20:14 is added to DarkSynopsis's clock.
+T 1393976961 18<RizonIRPG18>	DarkSynopsis reaches next level in 2 days, 04:31:48.

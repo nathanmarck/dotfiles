@@ -1,0 +1,12 @@
+T 1393635321 19*	Now talking on 22#win
+T 1393635321 22*	26morgan.freenode.net sets mode 24+n on 22#win
+T 1393635321 22*	26morgan.freenode.net sets mode 24+s on 22#win
+T 1393635321 22*	Channel 22#win modes: 24+ns
+T 1393635321 22*	Channel 22#win created on 24Sat Mar  1 00:53:54 2014
+T 1393635322 22*	26services. removes channel operator status from 18Thonneve
+T 1393635322 29*	*** Notice -- TS for #win changed from 1393635234 to 1264582496
+T 1393635322 22*	26services. sets mode 24+c on 22#win
+T 1393635322 22*	26services. sets mode 24+t on 22#win
+T 1393635322 22*	26services. sets mode 24-s on 22#win
+T 1393635322 23*	ChanServ (ChanServ@services.23) has joined
+T 1393635322 22*	26services. gives channel operator status to 18ChanServ

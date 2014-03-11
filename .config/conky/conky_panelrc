@@ -1,0 +1,19 @@
+update_interval 1
+double_buffer yes
+minimum_size 1280x80
+
+own_window yes
+own_window_type desktop 
+own_window_transparent yes
+own_window_hints undecorated,below,sticky,skip_taskbar,skip_pager
+
+alignment bl
+
+gap_y 0
+gap_x 0
+
+TEXT
+${voffset 10}
+${image ~/.config/conky/img/ePanel.png -n -s 1366x40}
+# Keep the empty line below
+    

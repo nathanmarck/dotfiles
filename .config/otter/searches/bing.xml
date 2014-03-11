@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+	<Shortcut>b</Shortcut>
+	<ShortName>Bing</ShortName>
+	<Description>Bing. Search by Microsoft.</Description>
+	<InputEncoding>UTF-8</InputEncoding>
+	<Image width="16" height="16" type="image/png">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABF0lEQVQokWP8v5OBJMAEZ/34zUyMBhYI9Z+BIXKOr4zgZ3vVJyHGN4mygYGB4cl73l3X5Yl1EgS8/sxFmgYIKF9nv+K0xr03/JhSLFg1yAl9WnlGY+UZDRGe76YKz80VX+jLvMJnQ7bDeU7WPwwMDG++cG6/otSw2eo/ficxMDDMidtpofSMsJNkBT8zMDDce8O/7KTW2UfiBDSI831NsbnUu9vk6B0ZuBuEeb4nWF5lxNQgJ/RJWfRj4xarf/+hssxM//z174Ya3+Bg/YtuAyMDg4Lwx/03ZeEShrKvkm0uSQt8QXMSI3LiO3RbduYhfW6230nWl7H6GF0DAwPD77/MzEz/mBj/Y1WN7mkGBgZW5r9Y1cEBAGO4WQnBHqV2AAAAAElFTkSuQmCC</Image>
+	<Url rel="results" type="text/html" method="GET" enctype="" template="http://www.bing.com/search?q={searchTerms}"/>
+</OpenSearchDescription>

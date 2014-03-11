@@ -1,0 +1,405 @@
+T 1393822857 23*	kim__ (63f0f6fe@gateway/web/freenode/ip.99.240.246.25423) has joined
+T 1393822864 18<kim__18>	hello
+T 1393822909 24*	kim__ has quit (Client Quit)
+T 1393829902 23*	qq (2a4a7703@gateway/web/freenode/ip.42.74.119.323) has joined
+T 1393829941 18<qq18>	:(
+T 1393830032 24*	qq has quit (Client Quit)
+T 1393850459 24*	HdkR has quit (Ping timeout: 252 seconds)
+T 1393851628 23*	HdkR (~ryanhoude@185.25.241.21723) has joined
+T 1393851628 22*	26ChanServ gives voice to 18HdkR
+T 1393869432 23*	alex________ (42d4c5b3@gateway/web/freenode/ip.66.212.197.17923) has joined
+T 1393869456 18<alex________18>	Howdy!
+T 1393869481 18<alex________18>	I've got a hopefully quick question, I'm new to linux.
+T 1393869549 18<alex________18>	I'm trying to access files on my nexus 7 from within Linux, but I can't seem to access the sdcard folder
+T 1393869575 18<alex________18>	I got to the root in linux by just putting / in the file browser
+T 1393869624 18<alex________18>	but i don't seem to have correct permissions to access the sdcard folder.  I tried making a folder on my root specifically for linux access, but it's not appearing in the file browser at all
+T 1393869660 18<alex________18>	i was hoping to be able to dump files directly into linux, but i can't find where it's mounted
+T 1393870913 24*	alex________ has quit (Ping timeout: 245 seconds)
+T 1393872998 23*	alex1989 (42d4c5b3@gateway/web/freenode/ip.66.212.197.17923) has joined
+T 1393873263 24*	alex1989 has quit (Ping timeout: 245 seconds)
+T 1393877684 23*	neto (60e8f50b@gateway/web/freenode/ip.96.232.245.1123) has joined
+T 1393877732 24*	neto has quit (Client Quit)
+T 1393886825 23*	Fowlron (55f061c1@gateway/web/freenode/ip.85.240.97.19323) has joined
+T 1393886834 18<Fowlron18>	Hello. Someone here? I need help
+T 1393886879 18<Fowlron18>	Hello. Someone here? I need help
+T 1393887138 24*	Fowlron has quit (Ping timeout: 245 seconds)
+T 1393899440 23*	AmonX (~Amon@173.180.209.14723) has joined
+T 1393920293 24*	Mr_Bates has quit (Ping timeout: 265 seconds)
+T 1393920528 23*	Mr_Bates (mrbates@charger.kire.net23) has joined
+T 1393920687 19<Transfusion>	Thonneve: the installation would be probably as simple as getting it from the repos, as long as it has an ARM port (i'm on ubuntu so maybe can't compare), and after that edit the ~/.vnc/xstartup to start your new desktop
+T 1393920774 20<Thonneve>30	Transfusion: I got it working in the end, albeit slowly haha
+T 1393920817 18<Transfusion18>	awesome!...
+T 1393920826 18<Transfusion18>	was lxde not fast enough for you? ;)
+T 1393920852 20<Thonneve>30	I wanted cinnamon since I use it on my laptop
+T 1393920860 20<Thonneve>30	Turns out not even my HTC one can run cinnamon at a decent speed
+T 1393922760 24*	lerc has quit (Quit: No Ping reply in 180 seconds.)
+T 1393922780 23*	lerc (~quassel@121-74-1-14.telstraclear.net23) has joined
+T 1393923874 24*	Mr_Bates has quit (Ping timeout: 252 seconds)
+T 1393924078 23*	Mr_Bates (mrbates@charger.kire.net23) has joined
+T 1393925473 24*	lerc has quit (Quit: No Ping reply in 180 seconds.)
+T 1393925509 23*	lerc (~quassel@121-74-1-14.telstraclear.net23) has joined
+T 1393929757 20*	You are now known as 18Osatia-Bot
+T 1393929774 20*	You are now known as 18Thonneve
+T 1393932145 24*	Wulfe has quit (Ping timeout: 240 seconds)
+T 1393932906 23*	Wulfe (~ninja@unaffiliated/wulfe23) has joined
+T 1393932906 22*	26ChanServ gives voice to 18Wulfe
+T 1393939205 23*	netomel (60e8f50b@gateway/web/freenode/ip.96.232.245.1123) has joined
+T 1393939324 18<netomel18>	is there support for galaxy s3 with cm11.
+T 1393942463 24*	netomel has quit (Ping timeout: 245 seconds)
+T 1393947514 23*	mkay (5775c67f@gateway/web/freenode/ip.87.117.198.12723) has joined
+T 1393948811 18<mkay18>	Hello, does silverlight/pipelight work with this please?
+T 1393953869 24*	Mr_Bates has quit (Ping timeout: 240 seconds)
+T 1393954003 23*	Mr_Bates (mrbates@charger.kire.net23) has joined
+T 1393955103 20<Thonneve>30	mkay: I don't think it does but I might be wrong
+T 1393955983 18<mkay18>	thanks, that's what i thought
+T 1393955985 23*	jaquino (43a93aed@gateway/web/freenode/ip.67.169.58.23723) has joined
+T 1393956025 18<jaquino18>	anyone getting hung up with chroot problems booting
+T 1393956113 18<mkay18>	 I now have the small ubuntu on my mk808 stick with lxde and i want to install firefox and synaptics package manager but when i do sudo apt-get install it says there are no packages. Could you please help me install software. Also will this system play flash video
+T 1393956297 24*	jaquino has quit (Quit: Page closed)
+T 1393956864 18<Transfusion18>	mkay: check /etc/apt/sources.list and do an apt-get update
+T 1393956884 24*	Mr_Bates has quit (Ping timeout: 252 seconds)
+T 1393956888 18<Transfusion18>	mkay: there is no flash for arm linux
+T 1393956894 18<Transfusion18>	except for those hacked from chromebooks
+T 1393956916 18<Transfusion18>	open source alternatives to flash like gnash are nearly unusable these days
+T 1393956944 20<Thonneve>30	And by nearly unusable (s)he means completely unusable
+T 1393958072 23*	Mr_Bates (mrbates@charger.kire.net23) has joined
+T 1393961912 23*	cc (b648a146@gateway/web/freenode/ip.182.72.161.7023) has joined
+T 1393961921 18<cc18>	Hi
+T 1393961950 24*	cc has quit (Client Quit)
+T 1393965308 18<mkay18>	thanks for your answers, looks like this i no good for me
+T 1393968260 24*	mkay has quit (Quit: Page closed)
+T 1393971732 23*	Paweloso (b9168825@gateway/web/freenode/ip.185.22.136.3723) has joined
+T 1393972062 18<Paweloso18>	Hi, I downloaded Ubuntu 13.04, Small Image through the app (it's size was about 150MB, not mention 500MB) and I can't find any apps there - the shortcut for Web Browser doesn't work too. How can I install the browser manually?
+T 1393972072 18<Paweloso18>	mentioned*
+T 1393972414 18<Paweloso18>	Hello?
+T 1393972769 24*	Paweloso has quit (Quit: Page closed)
+T 1393972796 23*	Tercolio (b9168825@gateway/web/freenode/ip.185.22.136.3723) has joined
+T 1393972819 18<Tercolio18>	Hi :) Could anyone tell me how to install the web browser manually?
+T 1393972858 18<Tercolio18>	I downloaded Small Image of Ubuntu 13.04 and I can't find the web browser there (the shortcut doesn't work too)
+T 1393973076 18<Tercolio18>	9 people except me here and no one answers? Anyone alive? O.o
+T 1393973440 18<Tercolio18>	:(
+T 1393973903 24*	Tercolio has quit (Quit: Page closed)
+T 1394123453 19*	Now talking on 22#linuxonandroid-help
+T 1394123453 22*	Topic for 22#linuxonandroid-help is: This is the help channel for the LinuxonAndroid project! If you have a question please ask you question and give at least 5 minutes before leaving, if you dont get an answer email support@linuxonandroid.org. XDA Thread :: http://forum.xda-developers.com/showthread.php?t=1585009 Website:: http://linuxonandroid.org
+T 1394123453 22*	Topic for 22#linuxonandroid-help set by 26France-Is-Bacon!uid6964@gateway/web/irccloud.com/x-bsxvzlygvtkxuhaw (24Wed Jan  9 16:58:52 2013)
+T 1394123453 18<***18>	Starting Buffer Playback...
+T 1394123453 18<Nate_18>	[01:48:00] installed pgm and set permissive. do I need to restart ubuntu?
+T 1394123453 18<AmonX18>	[01:48:34] nope :)
+T 1394123453 18<Nate_18>	[01:49:24] still on grey screen with just cursor
+T 1394123453 18<AmonX18>	[01:50:54] yeah I run into that all the time >.<
+T 1394123453 18<AmonX18>	[01:51:00] what image are you using
+T 1394123453 18<Nate_18>	[01:51:08] just restarted ubuntu still getting cannot cal dbus can u call qdbus
+T 1394123453 18<Nate_18>	[01:51:32] latest ubuntu 13.10 large ext2
+T 1394123453 18<AmonX18>	[01:52:18] ah i tend to just use debian
+T 1394123453 18<Nate_18>	[01:52:31] now that permissive is set I might try debian again id like to get ubuntu working though cause I use mint amd they are darn near the same
+T 1394123453 18<Nate_18>	[01:54:06] this all work perfect before kitkat :/
+T 1394123453 18<AmonX18>	[01:54:40] yeah
+T 1394123453 18<AmonX18>	[01:59:56] i forget where i saw it but there was a solution to the gray screen thing
+T 1394123453 18<AmonX18>	[02:00:15] I think it involved uninstalling and reinstalling something from the console
+T 1394123453 18<Nate_18>	[02:01:28] yeah I tried force reinstall dbus and a few other things. then tried upgrade. no dice
+T 1394123453 18<AmonX18>	[02:05:11] I think i had trouble with ubuntu and had more luck with the test image
+T 1394123453 18<Nate_18>	[02:06:35] ill try that next. just downloaded debian again and am gonna give that a whirl really quick
+T 1394123453 18<AmonX18>	[03:51:37] damn it
+T 1394123453 18<AmonX18>	[03:51:45] nate.....
+T 1394123453 18<AmonZ18>	[04:56:49] hey nate
+T 1394123453 18<Nate_18>	[04:56:54] So can't get debain to go past grey screen either. I tried some of the fixes online editing the .vnc/xstartup with no change.
+T 1394123453 18<AmonZ18>	[04:57:11] I have something to try
+T 1394123453 18<Nate_18>	[04:57:17] K
+T 1394123453 18<AmonZ18>	[04:57:25] it might not make a difference but it is a change with 4.4
+T 1394123453 18<AmonZ18>	[04:58:33] Go into dev options and witch the run time from ART back to Dalvik
+T 1394123453 18<Nate_18>	[04:59:50] I dont see that in the Android Dev options
+T 1394123453 18<AmonZ18>	[05:00:03] hmmm
+T 1394123453 18<Nate_18>	[05:04:52] Phone is an HTC One M7 with Android 4.4.2 - S 5.5 - XDA (Android HD version 52.0)
+T 1394123453 18<Nate_18>	[05:05:14] Full root & super CID
+T 1394123453 18<Nate_18>	[05:05:22] S-Off
+T 1394123453 18<AmonZ18>	[05:08:44] i am still on 4.3 on all my devices
+T 1394123453 18<Nate_18>	[05:09:00] Yeah thats when it all worked perfect :D
+T 1394123453 18<Nate_18>	[05:09:28] well im gonna hit the hay, ill come back tomorrow and try some more things.
+T 1394123453 18<Carlo18>	[15:14:20] Hii
+T 1394123453 18<Guest663018>	[15:14:51] I'am having a problem with Complete Linux Installer
+T 1394123453 18<Guest663018>	[15:15:21] It says that mount: Operation not permitted
+T 1394123453 18<Guest663018>	[15:16:48] Answer please :( , My device is Transformer tf101
+T 1394123453 18<Nate_18>	[15:23:02] Got Ubuntu 13.10 working on Android KitKat 4.4.2. Now my new problem is display corruption in VNC. Windows blur and things don't show up. Anyone have any advice to fix this?
+T 1394123453 18<Guest663018>	[15:23:11]  I'am having a problem with Complete Linux Installer  It says that mount: Operation not permitted Answer please :( , My device is Transformer tf101
+T 1394123453 18<Nate_18>	[15:24:21] Guest - Make sure permissive mode is on and that your terminal is running with root.
+T 1394123453 18<MrNAM20518>	[20:09:38] hello
+T 1394123453 18<MrNAM20518>	[20:11:48] i need help...ive followed instructions in the app itself and still cant get kali linux up and running on my galaxy tab 3 7.0
+T 1394123453 18<MrNAM20518>	[21:03:50] can anyone help me in my quest to set up my tablet for my new it job
+T 1394123453 18<MrNAM20518>	[21:40:08] #linuxonandroid-help can anyone help me
+T 1394123453 18<AndroUser218>	[01:24:06] Hello...  I have question, not so much a help question more of needing more info
+T 1394123453 18<AndroUser218>	[01:25:33] Does the complete linux installer instal linux and replaces android?
+T 1394123453 18<AndroUser218>	[01:27:21] yes...  I'm a noob at this
+T 1394123453 18<Transfusion18>	[08:36:33] It doesn't replace android
+T 1394123453 18<Transfusion18>	[08:37:06] it mounts a linux filesystem image to /mnt/ and then chroots into the mount point
+T 1394123453 18<Transfusion18>	[08:37:19] so your new "root" will be in the linux image
+T 1394123453 18<Transfusion18>	[08:37:39] the kernel is still the same kernel that your android device uses normally
+T 1394123453 18<***18>	Buffer Playback Complete.
+T 1394123517 20*	You are now known as 18Thonneve
+T 1394125769 23*	zacthespack (~zacthespa@cpc1-colc6-2-0-cust332.7-4.cable.virginm.net23) has joined
+T 1394125770 22*	26ChanServ gives channel operator status to 18zacthespack
+T 1394130307 23*	tradimed (~tradimed@194.1.184.14123) has joined
+T 1394131584 24*	tradimed has quit (Ping timeout: 240 seconds)
+T 1394134110 24*	zacthespack has quit (Remote host closed the connection)
+T 1394138579 23*	zacthespack (~zacthespa@cpc1-colc6-2-0-cust332.7-4.cable.virginm.net23) has joined
+T 1394138588 22*	26ChanServ gives channel operator status to 18zacthespack
+T 1394139317 24*	zacthespack has quit (Ping timeout: 244 seconds)
+T 1394141931 18<AmonX18>	hi
+T 1394142843 23*	fantommm (~fantommm@91.207.116.2823) has joined
+T 1394144090 24*	fantommm has quit (Ping timeout: 244 seconds)
+T 1394144843 20<Thonneve>30	Hi
+T 1394145291 23*	Coffee (522afd30@gateway/web/freenode/ip.82.42.253.4823) has joined
+T 1394145295 18<Coffee18>	hi
+T 1394145304 18<Coffee18>	anyone know anything bout ophcrack?
+T 1394145314 24*	28Coffee is now known as 18Guest42799
+T 1394145333 24*	Guest42799 has quit (Client Quit)
+T 1394146425 23*	valgarn (~valgarn@78.24.221.2823) has joined
+T 1394146859 24*	valgarn has quit (Ping timeout: 240 seconds)
+T 1394148553 23*	marksem (~marksem@91.207.117.4223) has joined
+T 1394150977 24*	marksem has quit (Ping timeout: 240 seconds)
+T 1394152696 23*	romangr (~romangr@82.146.44.6723) has joined
+T 1394154997 24*	romangr has quit (Remote host closed the connection)
+T 1394157702 23*	AmonZ (~Amon@173.180.209.14723) has joined
+T 1394158017 24*	AmonX has quit (Ping timeout: 240 seconds)
+T 1394159714 24*	DrCode has quit (*.net *.split)
+T 1394159714 24*	AmonZ has quit (*.net *.split)
+T 1394159716 24*	HdkR has quit (*.net *.split)
+T 1394159721 24*	Mr_Bates has quit (*.net *.split)
+T 1394159721 24*	naboo has quit (*.net *.split)
+T 1394159722 24*	Transfusion has quit (*.net *.split)
+T 1394159723 24*	Nick has quit (*.net *.split)
+T 1394159724 24*	lerc has quit (*.net *.split)
+T 1394162674 23*	Mr_Bates (mrbates@charger.kire.net23) has joined
+T 1394163107 23*	naboo (naboo@gateway/shell/mydevil.net/session23) has joined
+T 1394170669 19*	Now talking on 22#linuxonandroid-help
+T 1394170669 22*	Topic for 22#linuxonandroid-help is: This is the help channel for the LinuxonAndroid project! If you have a question please ask you question and give at least 5 minutes before leaving, if you dont get an answer email support@linuxonandroid.org. XDA Thread :: http://forum.xda-developers.com/showthread.php?t=1585009 Website:: http://linuxonandroid.org
+T 1394170669 22*	Topic for 22#linuxonandroid-help set by 26France-Is-Bacon!uid6964@gateway/web/irccloud.com/x-bsxvzlygvtkxuhaw (24Wed Jan  9 16:58:52 2013)
+T 1394178816 23*	ric (b4975a4a@gateway/web/freenode/ip.180.151.90.7423) has joined
+T 1394178816 23*	43UAAOQY7 (b6fd24a9@gateway/web/freenode/ip.182.253.36.16923) has joined
+T 1394178816 23*	Nullrez (~Nullrez@130.85.243.16323) has joined
+T 1394178816 23*	dormants (~dormants@188.190.124.2523) has joined
+T 1394178816 23*	AmonZ (~Amon@173.180.209.14723) has joined
+T 1394178816 23*	DrCode (~DrCode@gateway/tor-sasl/drcode23) has joined
+T 1394178816 23*	lerc (~quassel@121-74-1-14.telstraclear.net23) has joined
+T 1394178816 23*	HdkR (~ryanhoude@185.25.241.21723) has joined
+T 1394178816 23*	Transfusion (Transfusio@trivialand/master/transfusion23) has joined
+T 1394178816 23*	Nick (Nick@unaffiliated/xindirect23) has joined
+T 1394178816 22*	26dickson.freenode.net gives voice to 18HdkR
+T 1394179001 24*	naboo has quit (Changing host)
+T 1394179001 23*	naboo (naboo@gateway/shell/mydevil.net/x-gafmygmqnyrzvymi23) has joined
+T 1394179006 18<ric18>	can image size be expanded or are they dynamic??
+T 1394179060 18<AmonZ18>	Not sure how but it was mentioned on the wiki
+T 1394179164 18<AmonZ18>	http://sourceforge.net/p/linuxonandroid/wiki/Advanced%20FAQ/#how-do-i-give-linux-more-space
+T 1394179189 24*	ric has quit (Ping timeout: 245 seconds)
+T 1394179277 18<AmonZ18>	I am all for helping but evening was on the wiki
+T 1394179286 18<AmonZ18>	Everything
+T 1394179719 23*	zacthespack (~zacthespa@cpc1-colc6-2-0-cust332.7-4.cable.virginm.net23) has joined
+T 1394179719 22*	26ChanServ gives channel operator status to 18zacthespack
+T 1394179744 23*	y0nd13 (db5c04ce@gateway/web/freenode/ip.219.92.4.20623) has joined
+T 1394179755 24*	28y0nd13 is now known as 18yondie
+T 1394179765 18<yondie18>	hi
+T 1394179795 18<yondie18>	how do i access tun/tap  once i chroot into the distro?
+T 1394179824 24*	zacthespack has quit (Remote host closed the connection)
+T 1394180179 24*	43UAAOQY7 (b6fd24a9@gateway/web/freenode/ip.182.253.36.16924) has left
+T 1394180321 18<yondie18>	..
+T 1394181515 18<Transfusion18>	/dev/net/tun , no
+T 1394181536 18<Transfusion18>	or ln -s /dev/your/device/tun /mnt/yourmountpoint/dev/net/tun
+T 1394181546 18<Transfusion18>	from android shell
+T 1394181563 18<Transfusion18>	you need the tun.ko loaded, i guess you're already aware of that before you start
+T 1394185223 20*	Disconnected (20Invalid argument)
+T 1394185235 19*	Now talking on 22#linuxonandroid-help
+T 1394185235 22*	Topic for 22#linuxonandroid-help is: This is the help channel for the LinuxonAndroid project! If you have a question please ask you question and give at least 5 minutes before leaving, if you dont get an answer email support@linuxonandroid.org. XDA Thread :: http://forum.xda-developers.com/showthread.php?t=1585009 Website:: http://linuxonandroid.org
+T 1394185235 22*	Topic for 22#linuxonandroid-help set by 26France-Is-Bacon!uid6964@gateway/web/irccloud.com/x-bsxvzlygvtkxuhaw (24Wed Jan  9 16:58:52 2013)
+T 1394185793 23*	zacthespack (~zacthespa@cpc1-colc6-2-0-cust332.7-4.cable.virginm.net23) has joined
+T 1394185794 22*	26ChanServ gives channel operator status to 18zacthespack
+T 1394186038 24*	Nullrez has quit (Ping timeout: 240 seconds)
+T 1394191107 23*	AmonX (~Amon@172.218.94.3923) has joined
+T 1394191414 23*	AmonZ (~Amon@172.218.94.3923) has joined
+T 1394191523 24*	AmonX has quit (Ping timeout: 264 seconds)
+T 1394191872 24*	zacthespack has quit (Ping timeout: 240 seconds)
+T 1394199752 23*	zacthespack (~zacthespa@cpc1-colc6-2-0-cust332.7-4.cable.virginm.net23) has joined
+T 1394199752 22*	26ChanServ gives channel operator status to 18zacthespack
+T 1394201532 24*	zacthespack has quit (Remote host closed the connection)
+T 1394202043 24*	dormants has quit (Remote host closed the connection)
+T 1394202559 23*	Nate_ (4b84c1d0@gateway/web/freenode/ip.75.132.193.20823) has joined
+T 1394202588 18<Nate_18>	Finally got ARMHF Unbuntu working in ldxe ENV.
+T 1394202607 18<Nate_18>	trying to edit the startx file to get gdm and kde working as well
+T 1394202619 18<Nate_18>	this was so much simpler on Android 4.3 :/
+T 1394203579 20<Thonneve>30	Nate_: If you're using VNC you need to edit .vnc/xstartup
+T 1394204614 18<Nate_18>	I have been but I cant get anything besides ldxe to run correctly
+T 1394206364 24*	Nate_ has quit (Ping timeout: 245 seconds)
+T 1394209217 23*	Nullrez (Nullrez@130.85.243.16323) has joined
+T 1394213925 23*	Undenul (~Nullrez@130.85.58.22923) has joined
+T 1394214144 24*	Nullrez has quit (Ping timeout: 240 seconds)
+T 1394215294 24*	Undenul has quit (Quit: Leaving)
+T 1394223722 23*	svistun (~svistun@62.109.29.10023) has joined
+T 1394226515 24*	svistun has quit (Ping timeout: 264 seconds)
+T 1394226935 23*	qkzoo1978 (~qkzoo1978@24-231-227-52.dhcp.aldl.mi.charter.com23) has joined
+T 1394226941 18<qkzoo197818>	Hello?
+T 1394226949 18<AmonZ18>	hello
+T 1394227065 18<qkzoo197818>	I can't get Linux on Android to work at all -- I'm trying Debian, the start up script starts bombing after "Checking loop device... FOUND" and then goes downhill.  The last line in the terminal is "umount: can't mount /data/local/mnt/dev: Invalid argument"  .... any thoughts?
+T 1394227125 18<qkzoo197818>	...It also gives a "chroot: can't excute '/root/init.sh': Permission denied."
+T 1394227213 18<qkzoo197818>	This is all on a rooted stock ROM Verizon Galaxy S3.
+T 1394227347 18<AmonZ18>	hmmm
+T 1394227392 18<qkzoo197818>	lol my thoughts exactly...
+T 1394227416 18<AmonZ18>	well one this what android is it running
+T 1394227426 18<qkzoo197818>	4.3
+T 1394227426 18<AmonZ18>	is the verizon g3 running 4.3 yet?
+T 1394227452 18<AmonZ18>	unreleated but you may have an issue with selinux mode not being permissive
+T 1394227478 18<qkzoo197818>	Ok.  What does that mean and can it be made permissive?
+T 1394227506 18<qkzoo197818>	Oh.  I see in about screen "SE for Android status: Permissive"
+T 1394227565 18<AmonZ18>	okay thats good
+T 1394227601 18<AmonZ18>	i am on the at&t g3
+T 1394227615 18<qkzoo197818>	I went to the directories in question: /data/local/mnt/dev and the dev directory isn't there, even logged in as su, I also checked /root and init.sh was not there.
+T 1394227618 18<AmonZ18>	anyways be back later
+T 1394227642 18<qkzoo197818>	ok
+T 1394229731 18<AmonZ18>	well is something else using a loop device at that location?
+T 1394229742 18<AmonZ18>	maybe edit the bootscript and change the number
+T 1394230220 18<qkzoo197818>	I have no idea?
+T 1394231301 18<qkzoo197818>	Ok, I tried using a different shell, and now I get "mounting /dev/block/loop255 on /data/local/mnt failed: Device or resource busy"  Error: Unable to mount the loop device.
+T 1394231340 18<AmonZ18>	restart the device and try again?
+T 1394231354 18<qkzoo197818>	ok
+T 1394233026 18<qkzoo197818>	ugh, I give up.
+T 1394239792 19*	Now talking on 22#linuxonandroid-help
+T 1394239792 22*	Topic for 22#linuxonandroid-help is: This is the help channel for the LinuxonAndroid project! If you have a question please ask you question and give at least 5 minutes before leaving, if you dont get an answer email support@linuxonandroid.org. XDA Thread :: http://forum.xda-developers.com/showthread.php?t=1585009 Website:: http://linuxonandroid.org
+T 1394239792 22*	Topic for 22#linuxonandroid-help set by 26France-Is-Bacon!uid6964@gateway/web/irccloud.com/x-bsxvzlygvtkxuhaw (24Wed Jan  9 16:58:52 2013)
+T 1394239834 18<AmonZ18>	same thing?
+T 1394241078 19*	Now talking on 22#linuxonandroid-help
+T 1394241078 22*	Topic for 22#linuxonandroid-help is: This is the help channel for the LinuxonAndroid project! If you have a question please ask you question and give at least 5 minutes before leaving, if you dont get an answer email support@linuxonandroid.org. XDA Thread :: http://forum.xda-developers.com/showthread.php?t=1585009 Website:: http://linuxonandroid.org
+T 1394241078 22*	Topic for 22#linuxonandroid-help set by 26France-Is-Bacon!uid6964@gateway/web/irccloud.com/x-bsxvzlygvtkxuhaw (24Wed Jan  9 16:58:52 2013)
+T 1394246777 18<qkzoo197818>	yep
+T 1394251627 18<AmonZ18>	maybe shoot off an email
+T 1394251676 23*	hartmut (~hartmut@62.109.30.423) has joined
+T 1394252235 24*	hartmut has quit (Remote host closed the connection)
+T 1394253245 23*	rodrigo_ (b155453a@gateway/web/freenode/ip.177.85.69.5823) has joined
+T 1394253251 18<rodrigo_18>	oi
+T 1394253273 24*	rodrigo_ has quit (Client Quit)
+T 1394253453 18<AmonZ18>	jo
+T 1394254292 23*	valerick (~valerick@82.146.62.1923) has joined
+T 1394261470 24*	DrCode has quit (Ping timeout: 265 seconds)
+T 1394262614 24*	valerick has quit (Remote host closed the connection)
+T 1394268933 23*	Transfusion_ (Transfusio@trivialand/master/transfusion23) has joined
+T 1394268964 24*	Transfusion has quit (*.net *.split)
+T 1394268964 24*	Nick has quit (*.net *.split)
+T 1394268989 23*	xIndirect (Nick@unaffiliated/xindirect23) has joined
+T 1394269016 24*	28xIndirect is now known as 18Nick
+T 1394269058 24*	28Transfusion_ is now known as 18Transfusion
+T 1394269671 23*	eddymax (~eddymax@46.148.30.19823) has joined
+T 1394286385 23*	Ninja (~ninja@74.61.222.22423) has joined
+T 1394286408 24*	28Ninja is now known as 18Guest75806
+T 1394291216 24*	eddymax has quit (Ping timeout: 244 seconds)
+T 1394297209 23*	zordack (~zordack@82.146.61.3523) has joined
+T 1394298055 24*	Transfusion has quit (Quit: Becoming a butterfly.)
+T 1394298202 23*	Transfusion (Transfusio@trivialand/master/transfusion23) has joined
+T 1394299480 24*	zordack has quit (Remote host closed the connection)
+T 1394310549 23*	daBoss (55d210d5@gateway/web/freenode/ip.85.210.16.21323) has joined
+T 1394310555 18<daBoss18>	hi
+T 1394310576 18<daBoss18>	i need some help with setting up
+T 1394310596 18<daBoss18>	can anyone help me?
+T 1394311826 18<AmonZ18>	jo
+T 1394311828 18<AmonZ18>	hi
+T 1394311836 18<AmonZ18>	What issues are you having?
+T 1394311976 18<daBoss18>	i would like to know how to set up ubuntu on my android device. I have installed the zip file but did not understand the instructions. Can you explain?
+T 1394312165 23*	promgr (~promgr@46.148.31.15923) has joined
+T 1394312331 18<AmonZ18>	Everything should be exlained in the launcher :)
+T 1394312442 18<AmonZ18>	You basically unzip the image you want to use on your android device preferably in the location specified by the launcher ie ubuntu in sdcard/ubuntu or whatever
+T 1394312453 18<AmonZ18>	and then you use the launcher to launch it
+T 1394312529 18<daBoss18>	is the launcher the app i used to install the file?
+T 1394313313 24*	promgr has quit (Remote host closed the connection)
+T 1394313341 24*	daBoss has quit (Quit: Page closed)
+T 1394313352 18<AmonZ18>	or just leave :)
+T 1394315811 23*	socoldich (~socoldich@82.146.62.1923) has joined
+T 1394320871 24*	lerc has quit (Ping timeout: 264 seconds)
+T 1394324536 24*	socoldich has quit (Remote host closed the connection)
+T 1394324774 23*	mgusmanov (~mgusmanov@82.146.61.3123) has joined
+T 1394325801 24*	mgusmanov has quit (Remote host closed the connection)
+T 1394326065 23*	ptvcrfz (~ptvcrfz@82.146.58.12723) has joined
+T 1394326780 24*	ptvcrfz has quit (Remote host closed the connection)
+T 1394327385 23*	latona (~latona@62.109.6.223) has joined
+T 1394327659 24*	latona has quit (Remote host closed the connection)
+T 1394328723 23*	jennyj (~jennyj@188.190.127.1723) has joined
+T 1394330920 24*	AmonZ has quit (Read error: Connection reset by peer)
+T 1394331068 23*	AmonX (~Amon@172.218.94.3923) has joined
+T 1394342845 23*	lerc (~quassel@121-74-1-14.telstraclear.net23) has joined
+T 1394343331 18<AmonX18>	http://arstechnica.com/information-technology/2014/03/2400-introduction-to-linux-course-will-be-free-and-online-this-summer/
+T 1394346081 24*	AmonX has quit (Quit: Leaving)
+T 1394346219 24*	jennyj has quit (Remote host closed the connection)
+T 1394347413 23*	AmonX (~Amon@172.218.94.3923) has joined
+T 1394356557 19*	Now talking on 22#linuxonandroid-help
+T 1394356557 22*	Topic for 22#linuxonandroid-help is: This is the help channel for the LinuxonAndroid project! If you have a question please ask you question and give at least 5 minutes before leaving, if you dont get an answer email support@linuxonandroid.org. XDA Thread :: http://forum.xda-developers.com/showthread.php?t=1585009 Website:: http://linuxonandroid.org
+T 1394356557 22*	Topic for 22#linuxonandroid-help set by 26France-Is-Bacon!uid6964@gateway/web/irccloud.com/x-bsxvzlygvtkxuhaw (24Wed Jan  9 16:58:52 2013)
+T 1394360784 24*	Guest75806 has quit (Ping timeout: 240 seconds)
+T 1394360976 23*	Guest75806 (~ninja@74.61.222.22423) has joined
+T 1394368710 24*	28Transfusion is now known as 18Disney
+T 1394383564 19*	Now talking on 22#linuxonandroid-help
+T 1394383564 22*	Topic for 22#linuxonandroid-help is: This is the help channel for the LinuxonAndroid project! If you have a question please ask you question and give at least 5 minutes before leaving, if you dont get an answer email support@linuxonandroid.org. XDA Thread :: http://forum.xda-developers.com/showthread.php?t=1585009 Website:: http://linuxonandroid.org
+T 1394383564 22*	Topic for 22#linuxonandroid-help set by 26France-Is-Bacon!uid6964@gateway/web/irccloud.com/x-bsxvzlygvtkxuhaw (24Wed Jan  9 16:58:52 2013)
+T 1394385131 23*	zzzzzz (4a88a369@gateway/web/freenode/ip.74.136.163.10523) has joined
+T 1394385137 18<zzzzzz18>	hi
+T 1394385190 18<zzzzzz18>	does any know about  pure  darwin for linux
+T 1394385239 24*	zzzzzz has quit (Client Quit)
+T 1394390416 24*	lerc has quit (Ping timeout: 244 seconds)
+T 1394390906 23*	lerc (~quassel@121-74-1-14.telstraclear.net23) has joined
+T 1394393082 24*	Guest75806 has quit (Ping timeout: 244 seconds)
+T 1394393191 23*	Guest75806 (~ninja@74.61.222.22423) has joined
+T 1394396675 23*	kirilnk (~kirilnk@62.122.72.3823) has joined
+T 1394397735 18<qkzoo197818>	Still no dice, I wrote the developer but didn't hear anything back et.
+T 1394397737 18<qkzoo197818>	yet
+T 1394397751 23*	mohammadhosin (02b878a0@gateway/web/freenode/ip.2.184.120.16023) has joined
+T 1394398135 18<mohammadhosin18>	hi
+T 1394398163 18<mohammadhosin18>	any budy here?
+T 1394398440 18<qkzoo197818>	yup
+T 1394398819 24*	mohammadhosin has quit (Quit: Page closed)
+T 1394399247 18<AmonX18>	hi qkzoo1978 what issues you having?
+T 1394401503 24*	qkzoo1978 has quit (Ping timeout: 252 seconds)
+T 1394401595 20<Thonneve>30	A ping issue it would seem haha
+T 1394401880 18<AmonX18>	:D
+T 1394402546 19*	Now talking on 22#linuxonandroid-help
+T 1394402546 22*	Topic for 22#linuxonandroid-help is: This is the help channel for the LinuxonAndroid project! If you have a question please ask you question and give at least 5 minutes before leaving, if you dont get an answer email support@linuxonandroid.org. XDA Thread :: http://forum.xda-developers.com/showthread.php?t=1585009 Website:: http://linuxonandroid.org
+T 1394402546 22*	Topic for 22#linuxonandroid-help set by 26France-Is-Bacon!uid6964@gateway/web/irccloud.com/x-bsxvzlygvtkxuhaw (24Wed Jan  9 16:58:52 2013)
+T 1394416526 24*	Mr_Bates has quit (Ping timeout: 265 seconds)
+T 1394420126 23*	Grayhats (45f4b12b@gateway/web/freenode/ip.69.244.177.4323) has joined
+T 1394420137 18<Grayhats18>	Hello All!
+T 1394420165 18<Grayhats18>	Not sure if anyone is around right now..
+T 1394420198 18<Grayhats18>	but first of all... Thanks for the awesome work with this!!
+T 1394420222 18<Grayhats18>	I have a probaly simple question for the right person
+T 1394420513 23*	Mr_Bates (mrbates@charger.kire.net23) has joined
+T 1394420765 24*	Mr_Bates has quit (Ping timeout: 244 seconds)
+T 1394420985 18<Grayhats18>	hey Mr Bates.... is your first name  Master?
+T 1394421026 18<Grayhats18>	Cause that would make you.... Master Bates
+T 1394421288 24*	Grayhats has quit (Ping timeout: 245 seconds)
+T 1394424986 23*	Mr_Bates (mrbates@charger.kire.net23) has joined
+T 1394426969 24*	Mr_Bates has quit (Ping timeout: 240 seconds)
+T 1394427167 23*	Mr_Bates (mrbates@charger.kire.net23) has joined
+T 1394431657 24*	kirilnk has quit (Ping timeout: 240 seconds)
+T 1394432929 23*	oshersto (~oshersto@62.109.6.5723) has joined
+T 1394435055 24*	oshersto has quit (Remote host closed the connection)
+T 1394447773 20*	Disconnected (20Invalid argument)
+T 1394447785 19*	Now talking on 22#linuxonandroid-help
+T 1394447785 22*	Topic for 22#linuxonandroid-help is: This is the help channel for the LinuxonAndroid project! If you have a question please ask you question and give at least 5 minutes before leaving, if you dont get an answer email support@linuxonandroid.org. XDA Thread :: http://forum.xda-developers.com/showthread.php?t=1585009 Website:: http://linuxonandroid.org
+T 1394447785 22*	Topic for 22#linuxonandroid-help set by 26France-Is-Bacon!uid6964@gateway/web/irccloud.com/x-bsxvzlygvtkxuhaw (24Wed Jan  9 16:58:52 2013)
+T 1394481498 23*	tatfed (~tatfed@62.122.73.2023) has joined
+T 1394483213 24*	tatfed has quit (Remote host closed the connection)
+T 1394508947 23*	AmonZ (~Amon@172.218.94.3923) has joined
+T 1394509057 24*	AmonX has quit (Ping timeout: 240 seconds)
+T 1394523690 23*	LOtfix (294db4fe@gateway/web/freenode/ip.41.77.180.25423) has joined
+T 1394524882 19*	Now talking on 22#linuxonandroid-help
+T 1394524882 22*	Topic for 22#linuxonandroid-help is: This is the help channel for the LinuxonAndroid project! If you have a question please ask you question and give at least 5 minutes before leaving, if you dont get an answer email support@linuxonandroid.org. XDA Thread :: http://forum.xda-developers.com/showthread.php?t=1585009 Website:: http://linuxonandroid.org
+T 1394524882 22*	Topic for 22#linuxonandroid-help set by 26France-Is-Bacon!uid6964@gateway/web/irccloud.com/x-bsxvzlygvtkxuhaw (24Wed Jan  9 16:58:52 2013)
+T 1394531247 23*	sunman (71512b7a@gateway/web/freenode/ip.113.81.43.12223) has joined
+T 1394531271 18<sunman18>	hi
+T 1394531409 18<sunman18>	I install ubuntu 12.04，get password~ I input:ubuntu，"su:authentication failure“.....What is Password ？
+T 1394534129 24*	sunman (71512b7a@gateway/web/freenode/ip.113.81.43.12224) has left
+T 1394534393 23*	lee_ (5e8ca321@gateway/web/freenode/ip.94.140.163.3323) has joined
+T 1394534601 18<lee_18>	Hi, I've just installed the large ubuntu 13.10 image for linuxonandroid for a samsung galaxy note 10.1. I cannot access the internet from linux, anyone know what might be wrong ?
+T 1394534988 24*	lee_ has quit (Ping timeout: 245 seconds)
+T 1394537871 23*	lee_ (5e8ca321@gateway/web/freenode/ip.94.140.163.3323) has joined
+T 1394542463 23*	john_____ (792c0fa4@gateway/web/freenode/ip.121.44.15.16423) has joined
+T 1394542498 18<john_____18>	hello all
+T 1394542533 24*	lee_ has quit (Quit: Page closed)
+T 1394542540 18<john_____18>	who is available to give me a hand on my arch install?
+T 1394542643 18<john_____18>	anyone?
+T 1394542709 24*	john_____ (792c0fa4@gateway/web/freenode/ip.121.44.15.16424) has left
+T 1394546284 19*	Now talking on 22#linuxonandroid-help
+T 1394546284 22*	Topic for 22#linuxonandroid-help is: This is the help channel for the LinuxonAndroid project! If you have a question please ask you question and give at least 5 minutes before leaving, if you dont get an answer email support@linuxonandroid.org. XDA Thread :: http://forum.xda-developers.com/showthread.php?t=1585009 Website:: http://linuxonandroid.org
+T 1394546284 22*	Topic for 22#linuxonandroid-help set by 26France-Is-Bacon!uid6964@gateway/web/irccloud.com/x-bsxvzlygvtkxuhaw (24Wed Jan  9 16:58:52 2013)
+T 1394546765 24*	LOtfix has quit (Quit: Page closed)

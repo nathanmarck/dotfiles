@@ -1,0 +1,44 @@
+{
+   "checksum": "46b803ed779c6f87fd33e3d0084e0ebf",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13034818481937940",
+            "id": "4",
+            "name": "/g/ - Desktop Thread",
+            "type": "url",
+            "url": "http://boards.4chan.org/g/res/39741390#p39741517"
+         }, {
+            "date_added": "13037751614880891",
+            "id": "5",
+            "name": "Medium Episode 1-2 Season 3 - YouTube",
+            "sync_transaction_version": "5",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=YVMTLWzPJ0s"
+         } ],
+         "date_added": "13036920303020528",
+         "date_modified": "13037751614880891",
+         "id": "1",
+         "name": "Bookmarks Bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13036920303020542",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other Bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "5",
+      "synced": {
+         "children": [  ],
+         "date_added": "13036920303020544",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile Bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

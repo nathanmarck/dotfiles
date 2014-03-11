@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="library-location" mtime="1392432473" type="string">
+		<stringvalue>/home/nathan/Music</stringvalue>
+	</entry>
+	<entry name="expanded" mtime="1392432842" type="bool" value="true"/>
+	<entry name="move-on-info-save" mtime="1392432472" type="bool" value="false"/>
+	<entry name="copy-on-import" mtime="1392432472" type="bool" value="false"/>
+</gconf>

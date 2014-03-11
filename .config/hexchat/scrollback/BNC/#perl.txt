@@ -1,0 +1,521 @@
+T 1394529944 18<Altreus18>	jkg: hashref? stringified memory address?
+T 1394529959 18<pink_mist18>	varvarnames!
+T 1394529962 18<Altreus18>	my $self = $inside_out{shift()}  # right
+T 1394529965 18<jkg18>	Altreus: no, sorry, an actual reference. to an actual hash.
+T 1394529972 18<Altreus18>	oh ok
+T 1394529979 18<jkg18>	$object was the parameter in your example.
+T 1394529990 18<Nei18>	urxvt code is also full of prototypes eg http://cvs.schmorp.de/rxvt-unicode/src/perl/background?revision=1.87&view=markup
+T 1394530019 18<jkg18>	I just mean, in this codebase that is likely to be called $object because of optimism not reality :)
+T 1394530033 18<Nei18>	$$;$$;$ I dont even know what that means
+T 1394530042 18<Altreus18>	what
+T 1394530042 18<Nei18>	why are there two ;
+T 1394530049 18<Altreus18>	¯\(._.)/¯
+T 1394530071 18*	pink_mist is also maintaining a project that has prototypes ... refactoring hasn't started yet, but it will happen!
+T 1394530102 18*	pink_mist will probably make it F::P
+T 1394530114 18<Altreus18>	sed -e 's/\(.*\)\s+\{/{/'
+T 1394530191 23*	`ph8 (~ph8@unaffiliated/ph823) has joined
+T 1394530357 23*	dilated_dinosaur (~ivan@46-65-53-22.zone16.bethere.co.uk23) has joined
+T 1394530374 18<az_18>	is 'unless' same as 'if (!'?
+T 1394530384 18<pink_mist18>	yes
+T 1394530490 18<popl18>	Function::Parameters++
+T 1394530505 18<popl18>	perlbot: karma Function::Parameters
+T 1394530505 18<perlbot18>	popl: Function::Parameters has no karma
+T 1394530528 18<pink_mist18>	really?
+T 1394530534 18<pink_mist18>	Function::Parameters++
+T 1394530536 18<popl18>	maybe ::
+T 1394530542 18<pink_mist18>	perlbot: karma Function::Parameters
+T 1394530542 18<perlbot18>	pink_mist: Function::Parameters has no karma
+T 1394530543 18<popl18>	I DON'T KNOW
+T 1394530545 18<pink_mist18>	seems that way
+T 1394530551 18<pink_mist18>	(Function::Parameters)++
+T 1394530551 18<popl18>	perlbot stinks
+T 1394530551 18<perlbot18>	popl: No factoid found. Did you mean one of these: [scottmc] [set @INC] [set inc]
+T 1394530556 18<pink_mist18>	perlbot: karma Function::Parameters
+T 1394530556 18<perlbot18>	pink_mist: Function::Parameters has karma of 1
+T 1394530566 18<pink_mist18>	perlbot: karma Parameters
+T 1394530567 18<perlbot18>	pink_mist: Parameters has karma of 5
+T 1394530571 18<pink_mist18>	heh
+T 1394530592 18<popl18>	perlbot: your mother was a toaster
+T 1394530592 18<perlbot18>	popl: Stored your mother was a toaster
+T 1394530597 18<popl18>	\o/
+T 1394530649 18*	popl locks perlbot, purl, and GumbyBRAIN in the Thunderdome.
+T 1394530708 24*	PeterThoeny has quit (Quit: PeterThoeny)
+T 1394530776 18<az_18>	until is perl version of 'do while' ?
+T 1394530788 18<jkg18>	while
+T 1394530792 18<jkg18>	oh.
+T 1394530801 18<az_18>	?
+T 1394530803 18<jkg18>	sorry, I misread that question completely.
+T 1394530811 18<az_18>	is this true?
+T 1394530821 18<pink_mist18>	az_: close, but slightly different
+T 1394530839 18<pink_mist18>	az_: until has opposite logic compared to do while
+T 1394530849 18<az_18>	ok
+T 1394530922 24*	madsara has quit (Ping timeout: 245 seconds)
+T 1394530936 23*	madsara (~madsara@bolgia7.circleeight.net23) has joined
+T 1394530936 18<popl18>	az_: You can read about Perl's flow control statements in perlsyn. They are under the heading "Compound Statements".
+T 1394531069 23*	feldspath (~feldspath@tedm0.fltr.ucl.ac.be23) has joined
+T 1394531166 24*	salv0 has quit (Ping timeout: 265 seconds)
+T 1394531325 18<az_18>	where can i read what is & and %?
+T 1394531338 23*	hpt (~hpt@123.114.143.3423) has joined
+T 1394531381 18<Botje18>	perldoc perlop
+T 1394531446 24*	randt0sh has quit (Remote host closed the connection)
+T 1394531475 23*	rindolf (~Shlomi@bzq-79-179-136-135.red.bezeqint.net23) has joined
+T 1394531491 18<rindolf18>	Hi all.
+T 1394531501 18*	GumbyPAN CPAN Upload: Catmandu-0.8010 by NICS http://metacpan.org/release/NICS/Catmandu-0.8010
+T 1394531501 18*	GumbyPAN CPAN Upload: Bio-MaxQuant-ProteinGroups-Response-0.03 by JIMI http://metacpan.org/release/JIMI/Bio-MaxQuant-ProteinGroups-Response-0.03
+T 1394531506 18<vague18>	And perldoc perlsub depending on which & is meant
+T 1394531601 24*	madboxs has quit (Ping timeout: 265 seconds)
+T 1394531609 24*	biffen has quit (Ping timeout: 240 seconds)
+T 1394531675 23*	randt0sh (~tosh@2a02-8420-5d7e-c300-d491-2113-9fdc-274a.rev.sfr.net23) has joined
+T 1394531772 23*	biffen (~biffen@83.241.229.13223) has joined
+T 1394531808 23*	sputnick1 (~quenot@192.134.7.23423) has joined
+T 1394531865 18<az_18>	sooo
+T 1394531869 23*	Walzmyn (~quassel@h147.143.29.71.dynamic.ip.windstream.net23) has joined
+T 1394531874 18<az_18>	@ and % in php is just @
+T 1394531883 18<az_18>	but when is @ in perl then without keys
+T 1394531888 18<az_18>	and when % then array with keys
+T 1394531889 18<az_18>	true :D?
+T 1394531900 18<Altreus18>	wat
+T 1394531901 18<tm60418>	no, see perldoc perldata
+T 1394531904 18<Altreus18>	what's PHP got to do with it
+T 1394531912 18<az_18>	i know php
+T 1394531914 18<Altreus18>	@ in PHP is "protect me from my own mistakes"
+T 1394531919 18<Nei18>	php "array" is both @ and % at the same tiem
+T 1394531931 18<Nei18>	in perl there is a sharp distinction you cant mix em
+T 1394531939 18<Altreus18>	az_: don't compare it to PHP. You'll confuse yourself
+T 1394531940 18<Nei18>	if you start using @ then you cant switch to % later on
+T 1394531944 18<Altreus18>	forget PHP because it's wrong
+T 1394531955 18<Altreus18>	Nei: cough
+T 1394531966 18<Altreus18>	not in the same variable no
+T 1394531967 18<Nei18>	also to access individual elements in perl you always need to use $
+T 1394531976 18<MChizhov18>	php is wrong? =)
+T 1394531985 18<Nei18>	like $hashvar{key} and $arrayvar[2435]
+T 1394531997 18<Altreus18>	MChizhov: often and with disastrous effects
+T 1394532018 18<az_18>	but
+T 1394532021 18<Altreus18>	but but
+T 1394532026 18<MChizhov18>	butt
+T 1394532028 18<az_18>	$aaa[5] will be same as @aaa[5] ?
+T 1394532031 18<Altreus18>	no
+T 1394532032 18<Nei18>	Altreu  is a php pro
+T 1394532037 18<MChizhov18>	second is error
+T 1394532038 18<Nei18>	do not use @aaa[5]
+T 1394532039 18<Altreus18>	perlbot: anatomy of types
+T 1394532039 18<perlbot18>	Altreus: http://altreus.blogspot.com/2011/06/anatomy-of-types.html
+T 1394532041 18<az_18>	but type will be scalar?
+T 1394532042 18<Altreus18>	MChizhov: false
+T 1394532045 18<Altreus18>	mistake, not error
+T 1394532057 18<Altreus18>	az_: if it's a scalar it has a $
+T 1394532086 23*	salv0 (~salva@213.37.131.197.static.user.ono.com23) has joined
+T 1394532102 18<MChizhov18>	az_ forget about @ and %, use pointers
+T 1394532114 18<Altreus18>	what
+T 1394532119 18<Altreus18>	MChizhov: you're not helping
+T 1394532125 18<tm60418>	pointers? wrong language
+T 1394532149 18<MChizhov18>	$pointer_hash->{key}
+T 1394532154 18<tm60418>	that's not a pointer
+T 1394532160 18<MChizhov18>	$pointer_array->[num]
+T 1394532164 18<tm60418>	still not a pointer
+T 1394532167 18<Nei18>	anyone in for some @aaa->[123] non-pointers
+T 1394532197 18<vague18>	I'll take 10
+T 1394532378 24*	biffen has quit (Ping timeout: 240 seconds)
+T 1394532419 23*	rdark (~rdark@217.33.138.5023) has joined
+T 1394532443 23*	biffen (~biffen@83.241.229.13223) has joined
+T 1394532461 18<az_18>	what is &
+T 1394532464 18<az_18>	then :D
+T 1394532471 18<Altreus18>	bitwise and
+T 1394532476 18<rindolf18>	az_: a leading &?
+T 1394532486 18<az_18>	as type
+T 1394532491 18<az_18>	like $,%,@
+T 1394532493 18<Altreus18>	there is no & type
+T 1394532496 18<Altreus18>	there used to be
+T 1394532500 18<rindolf18>	az_: or do you mean $x & $y
+T 1394532501 18<az_18>	in lama book i have :p
+T 1394532504 18<Altreus18>	and it's still used in references
+T 1394532509 18<rindolf18>	az_: $ , % and @ are sigils.
+T 1394532512 18<Altreus18>	but it isn't a type, really
+T 1394532514 18<rindolf18>	az_: they aren't types.
+T 1394532524 18<az_18>	&greeet($_) foreach @person;
+T 1394532583 18<Altreus18>	invalid
+T 1394532590 18<Altreus18>	Whatever you're reading, burn it
+T 1394532594 18<Altreus18>	perlbot: books
+T 1394532594 18<perlbot18>	Altreus: For Perl Books see http://books.perl.org/ , http://perl-begin.org/books/ and http://www.perl.org/books/library.html . Especially see the Modern Perl factoid and perl-tutorial.org
+T 1394532613 18<Altreus18>	read a book written this decade please ^
+T 1394532655 24*	denis_boyun has quit (Read error: Operation timed out)
+T 1394532675 24*	mkpai has quit (Ping timeout: 244 seconds)
+T 1394532783 23*	mkpai (mkpai@nat/redhat/x-norapbozqplwlpwo23) has joined
+T 1394532824 23*	fmerges (~fmerges@161.72.100.5023) has joined
+T 1394532881 24*	popl has quit (Read error: Operation timed out)
+T 1394532964 24*	bpmedley has quit (Remote host closed the connection)
+T 1394532978 24*	bars0_ has quit (Quit: leaving)
+T 1394533000 23*	bars0_ (~Name@d132-201.icpnet.pl23) has joined
+T 1394533108 24*	Platini has quit (Read error: Operation timed out)
+T 1394533135 23*	MindlessDrone (~MindlessD@unaffiliated/mindlessdrone23) has joined
+T 1394533143 24*	flight16 has quit (Quit: Leaving)
+T 1394533264 23*	kaleem (~ksiddiqu@115.241.241.11523) has joined
+T 1394533305 18*	GumbyPAN CPAN Upload: Var-Pairs-0.001005 by DCONWAY http://metacpan.org/release/DCONWAY/Var-Pairs-0.001005
+T 1394533321 23*	pmurias (~pawel@89-76-115-130.dynamic.chello.pl23) has joined
+T 1394533330 24*	pmurias (~pawel@89-76-115-130.dynamic.chello.pl24) has left
+T 1394533469 24*	mkpai has quit (Ping timeout: 240 seconds)
+T 1394533585 23*	mkpai (mkpai@nat/redhat/x-sfmqkbccpsrfstxe23) has joined
+T 1394533645 24*	feldspath has quit (Quit: Konversation terminated!)
+T 1394533662 23*	feldspath (~feldspath@tedm0.fltr.ucl.ac.be23) has joined
+T 1394533730 23*	MidnighToker (~Toker@unaffiliated/midnightoker23) has joined
+T 1394533843 24*	laouji_ has quit (Remote host closed the connection)
+T 1394533878 23*	laouji (~laouji@221x248x167x82.ap221.ftth.ucom.ne.jp23) has joined
+T 1394533883 23*	mauryaarun (~Thunderbi@122.252.234.6623) has joined
+T 1394533967 23*	Platini (sparrow@unaffiliated/platini23) has joined
+T 1394534038 23*	dragon3_ (~dragon3_@FL1-118-111-123-55.fko.mesh.ad.jp23) has joined
+T 1394534180 23*	proller (~proller@2a02:6b8:0:408:1896:da74:6d68:ac1323) has joined
+T 1394534208 18*	GumbyPAN CPAN Upload: MooseX-Deprecated-0.005 by TOBYINK http://metacpan.org/release/TOBYINK/MooseX-Deprecated-0.005
+T 1394534600 18<^^lol^^18>	hi
+T 1394534638 24*	feldspath has quit (Ping timeout: 264 seconds)
+T 1394534640 18<^^lol^^18>	who can download data in database?
+T 1394534640 23*	kirotawa (~kirotawa@179.176.63.187.dynamic.adsl.gvt.net.br23) has joined
+T 1394534714 18<DrForr_18>	Most of us, I imagine. What have you tried?
+T 1394534770 18<^^lol^^18>	i want download data of database.
+T 1394534779 18<^^lol^^18>	in the web
+T 1394534780 22*	26ChanServ gives channel operator status to 18Su-Shee
+T 1394534791 22*	26Su-Shee has kicked 18^^lol^^ from 22#perl (24^^lol^^)
+T 1394534832 24*	mauryaarun has quit (Quit: mauryaarun)
+T 1394534832 24*	mr_charlatan has quit (Ping timeout: 240 seconds)
+T 1394534841 18<Su-Shee18>	oh. I might possibly thrown out a phony moron..
+T 1394534864 22*	26ChanServ removes channel operator status from 18Su-Shee
+T 1394534879 18<Altreus18>	thanks internet D:
+T 1394534885 18<Altreus18>	http://gabrielecirulli.github.io/2048/
+T 1394534893 18<Altreus18>	NSFW - you won't do any W
+T 1394534981 18<DrForr_18>	Su-Shee: Not likely.
+T 1394534992 18<DrForr_18>	Back in a sec, ident.
+T 1394534997 24*	DrForr_ (~jgoff@li165-209.members.linode.com24) has left
+T 1394535005 23*	DrForr (~jgoff@li165-209.members.linode.com23) has joined
+T 1394535010 18<DrForr18>	There, that's better.
+T 1394535041 23*	BiggFREE (~BiggFREE@modemcable168.154-22-96.mc.videotron.ca23) has joined
+T 1394535054 24*	gry has quit (Changing host)
+T 1394535054 23*	gry (noone@freenode/staff/gry23) has joined
+T 1394535110 24*	proller has quit (Ping timeout: 265 seconds)
+T 1394535139 18<DrForr18>	Looking the question I thought I'd accidentally crossed streams with ##php again. (I'm over there as well for the (distinctly lacking) lulz.)
+T 1394535209 23*	Jayk97 (~quassel@50.13.169.6423) has joined
+T 1394535233 18<rindolf18>	Altreus: that page gives me "Waiting for coinwidget.com" - maybe my ISP blocks it as well?
+T 1394535273 23*	feldspath (~feldspath@tedm0.fltr.ucl.ac.be23) has joined
+T 1394535290 18<Su-Shee18>	how bored are you?!
+T 1394535300 18<Nei18>	so whats tiyr score Altreus
+T 1394535369 18<Altreus18>	DrForr: that place D:
+T 1394535376 18<Altreus18>	Nei: what is this tiyr thing
+T 1394535392 24*	KCL has quit (Ping timeout: 252 seconds)
+T 1394535394 24*	Leconite has quit (Read error: Connection reset by peer)
+T 1394535411 18*	GumbyPAN CPAN Upload: superclass-0.003 by DAGOLDEN http://metacpan.org/release/DAGOLDEN/superclass-0.003
+T 1394535420 18<Nei18>	just a typo
+T 1394535434 24*	xenoterracide has quit (Ping timeout: 244 seconds)
+T 1394535441 18<Altreus18>	whats typo score
+T 1394535443 18<DrForr18>	Well, I'm mainly trying to distract myself from having to write this bloody training talk until I can get in the right headspace.
+T 1394535461 18<Altreus18>	DrForr: ##php is definitely the right headspace for a training talk
+T 1394535490 18<Nei18>	what's your *high* score
+T 1394535515 18<Altreus18>	oh right
+T 1394535517 18<Altreus18>	There's a score?
+T 1394535522 18<Altreus18>	oh!
+T 1394535526 18<Altreus18>	It didn't fit on my screen
+T 1394535530 18<Altreus18>	I dunno but it's better than I just did
+T 1394535550 18<Altreus18>	256+128+64+various
+T 1394535563 18<Nei18>	so not at 2048 yet ;(
+T 1394535567 18<Altreus18>	n
+T 1394535570 18<DrForr18>	Ordinarily I'd say "No, it'd mostly involve ranting at idiots that can't read the documentation" but in PHP's case the documentation exists entirely as folklore and samizdata.
+T 1394535605 18<Altreus18>	PHP's documentation is actually a strange honeypot for people more competent at comprehending code than you'd expect from PHP developers
+T 1394535665 24*	dragon3_ has quit (Remote host closed the connection)
+T 1394535774 23*	neurodrone (~neurodron@unaffiliated/neurodrone23) has joined
+T 1394535781 24*	gizmomathboy has quit (Quit: going, going, gone)
+T 1394535849 24*	neurodrone has quit (Client Quit)
+T 1394535940 24*	sputnick1 (~quenot@192.134.7.23424) has left
+T 1394536098 24*	feldspath has quit (Ping timeout: 240 seconds)
+T 1394536189 23*	denis_boyun (~quassel@cn-bgp-nat.portaone.com23) has joined
+T 1394536199 24*	kirotawa has quit (Ping timeout: 240 seconds)
+T 1394536247 24*	q0 has quit (Quit: q0)
+T 1394536315 18*	GumbyPAN CPAN Upload: Net-SugarCRM-3.23126 by NITO http://metacpan.org/release/NITO/Net-SugarCRM-3.23126
+T 1394536348 23*	neurodrone (~neurodron@unaffiliated/neurodrone23) has joined
+T 1394536386 18<Su-Shee18>	JESUS THIS IS SO FRUSTRATING :(
+T 1394536405 18<DrForr18>	If it weren't, we'd be out of a job.
+T 1394536421 18<jkg18>	Su-Shee: been reading ##php again?
+T 1394536434 24*	weie has quit (Quit: Leaving...)
+T 1394536459 18<Su-Shee18>	jkg: I never do, why would I do that?
+T 1394536484 18<Su-Shee18>	trying to clean up this elaborate mix of moose, catalyst, formhandler and mason..
+T 1394536486 18<jkg18>	that's a reasonable question
+T 1394536571 23*	pagu (~plcnet@gw.viscomp.bg23) has joined
+T 1394536571 24*	pagu has quit (Changing host)
+T 1394536572 23*	pagu (~plcnet@openbglab/staff/pagu23) has joined
+T 1394536606 18<Su-Shee18>	man this is the single most frustrating programming experience I ever encountered.. never.. NEVER again.
+T 1394536622 18<Altreus18>	I finally found my PHP issue so I'm chillaxing
+T 1394536631 18<Altreus18>	It took me a week, most of which was trying to get debug information out of PHP
+T 1394536638 18<Altreus18>	if it were a JS issue I would have found it immediately
+T 1394536650 18<locsmif18>	Altreus: well, I just played and it's very addivtive
+T 1394536661 18<Altreus18>	locsmif: yep, time to aim higher than 256
+T 1394536685 18<Su-Shee18>	oh yeah I'm so looking forward to later deal with javascript frontend frameworks, that'll be so much more fun and so much less of a elaborate, entangled mess :(
+T 1394536732 23*	kirotawa (~kirotawa@179.176.63.187.dynamic.adsl.gvt.net.br23) has joined
+T 1394536772 23*	feldspath (~feldspath@tedm0.fltr.ucl.ac.be23) has joined
+T 1394536785 18<DrForr18>	Su-Shee: You've moved to working at Booking? :)
+T 1394536813 18<DrForr18>	(yes, they still have Mason code.)
+T 1394536878 18<Su-Shee18>	DrForr: no, I was so insane to take a job with a decade of catalyst, mason, moose by someone who thinks that bleeding the last drop out of meta piled on meta is a great idea. there's literally NO sense of "keep things simple" in here..
+T 1394536902 18<Su-Shee18>	DrForr: he LIKES mason!
+T 1394536907 23*	Steve_p_ (48834b30@gateway/web/freenode/ip.72.131.75.4823) has joined
+T 1394536920 18<DrForr18>	O, right, I remember other conversations on .. yeah.
+T 1394536928 18<DrForr18>	And I thought I had a headache before.
+T 1394536929 18<Su-Shee18>	and that is such a waste of time having to learn to deal with it because .. WHO THE FUCK USES MASON?
+T 1394536931 24*	Steve_p_ has quit (Client Quit)
+T 1394537001 18<jkg18>	http://www.masonhq.com/sites # hth hand etc ;)
+T 1394537001 18<Su-Shee18>	and now I'm stuck with some stupid fucking god damn shit trait which is a completely useless wrapper around formhandler stuff which formhandler already provides and "somehow" magically $c does not know about this useless trait so the entire chain of mason - form - formhandler - controller falls apart.
+T 1394537020 18<Altreus18>	f7u12
+T 1394537022 18<Su-Shee18>	jkg: are you actively trying to REALLY piss me off just now ;)
+T 1394537022 18<Altreus18>	I just reset my game
+T 1394537076 18<Altreus18>	protip, spacebar restarts the game
+T 1394537083 18<Su-Shee18>	god I'm that short [-] to throw out my notebook throw the window.
+T 1394537091 18<Botje18>	Su-Shee: time to reach for the emergency chocolate
+T 1394537104 23*	view (~view@197.255.118.25223) has joined
+T 1394537116 18<Su-Shee18>	doesn't make this pile of meta shit work any better.
+T 1394537184 18<Su-Shee18>	why can't everybody be LeoNerd, dammit.
+T 1394537230 23*	weie (~~weie@softbank221078042071.bbtec.net23) has joined
+T 1394537358 24*	feldspath has quit (Quit: Konversation terminated!)
+T 1394537455 23*	feldspath (~feldspath@tedm0.fltr.ucl.ac.be23) has joined
+T 1394537461 23*	proller (~proller@2a02:6b8:0:408:4c5c:b2ac:cd92:fcf123) has joined
+T 1394537515 23*	carandraug (~carandrau@octave/developer/carandraug23) has joined
+T 1394537643 18<Altreus18>	Nei: 3328
+T 1394537818 18*	GumbyPAN CPAN Upload: Text-TEI-Markup-1.8 by AURUM http://metacpan.org/release/AURUM/Text-TEI-Markup-1.8
+T 1394537819 18<DrForr18>	Egads, I just looked back in ##php and someone's complaining that mysql is broken because they don't know how to write queries. Same shit, different channel.
+T 1394538018 24*	sujithm has quit (Ping timeout: 240 seconds)
+T 1394538047 18<DrForr18>	Of course I recognize the nick from here, so the complaint is unsurprising in nature, but the world keeps on revolving.
+T 1394538101 23*	sujithm (~sujithm@121.244.199.14223) has joined
+T 1394538135 23*	rooster_rus (~user@37-146-149-235.broadband.corbina.ru23) has joined
+T 1394538212 24*	rooster_rus (~user@37-146-149-235.broadband.corbina.ru24) has left
+T 1394538213 23*	honkzilla (~honkzilla@68-112-158-156.dhcp.stcd.mn.charter.com23) has joined
+T 1394538461 23*	anno (~anno@p4FC97CF2.dip0.t-ipconnect.de23) has joined
+T 1394538472 24*	C1ph3r has quit (Ping timeout: 244 seconds)
+T 1394538560 23*	cannonball (~todd@unaffiliated/cannonball23) has joined
+T 1394538578 23*	C1ph3r (~Cipher@unaffiliated/c1ph3r23) has joined
+T 1394538657 24*	gm152 has quit (Quit: WeeChat 0.4.1)
+T 1394538720 18*	GumbyPAN CPAN Upload: AnyEvent-Promises-0.06 by DANIELR http://metacpan.org/release/DANIELR/AnyEvent-Promises-0.06
+T 1394538745 24*	_AnK has quit (Quit: _AnK)
+T 1394538806 23*	ThatOtherGuy (~TOGP]@unaffiliated/thatotherguy23) has joined
+T 1394538922 24*	fnordperfect has quit (Ping timeout: 264 seconds)
+T 1394538931 24*	qwerty has quit (Quit: User banned (G-lined) reason: Spaming in channels)
+T 1394539361 18<Nei18>	Altreus: keep practicing ;)
+T 1394539367 18<Altreus18>	5764 \o/
+T 1394539382 18<Nei18>	the 2048 is near!
+T 1394539390 24*	az_ has quit (Ping timeout: 264 seconds)
+T 1394539402 18<jkg18>	eventually my curiosity is going to crack and I'm going to look at this game and be hopelessly addicted.
+T 1394539413 18<Nei18>	lolol
+T 1394539417 18<jkg18>	but, I only just got past that with Threes, dammit.
+T 1394539514 24*	rdark has quit (Read error: Operation timed out)
+T 1394539568 18<Nei18>	looks like this is just the same
+T 1394539589 18<Altreus18>	threes?
+T 1394539601 18<Nei18>	http://asherv.com/threes/ pretty similar
+T 1394539609 23*	ZadYree (~Zad@46.218.16.11423) has joined
+T 1394539631 23*	santiagoR (~santiagoR@201.216.209.20123) has joined
+T 1394539639 18<jkg18>	http://threesjs.com/ is the web version (I've been playing it on iOS)
+T 1394539657 18<Altreus18>	aha
+T 1394539668 18<Altreus18>	I was gonna say, this 2048 game benefits from being a web app
+T 1394539692 24*	ircuser-1 has quit (Ping timeout: 240 seconds)
+T 1394539740 18<jkg18>	dunno, I can't (or at least, don't generally) play web apps on the toilet :)
+T 1394539742 23*	rdark (~rdark@217.33.138.5023) has joined
+T 1394539782 24*	bal has quit (Quit: bal)
+T 1394539816 18<Botje18>	sure you can, once it's loaded.
+T 1394539823 18<Altreus18>	I just played it through a power cut
+T 1394539849 24*	tracks has quit (Quit: Leaving)
+T 1394539902 23*	bal (~Thunderbi@86.125.63.6623) has joined
+T 1394539924 24*	Jordman has quit (Ping timeout: 265 seconds)
+T 1394540099 24*	view has quit (Ping timeout: 240 seconds)
+T 1394540204 24*	neurodrone has quit (Quit: neurodrone)
+T 1394540225 18*	GumbyPAN CPAN Upload: DSP-LinPred_XS-0.02 by ADOKOY http://metacpan.org/release/ADOKOY/DSP-LinPred_XS-0.02
+T 1394540530 18<DrForr18>	oh, dear god. 'when creating a search form, is it good practice to validate  search inputs ?
+T 1394540537 23*	void64 (~null0@2607:f058:10:a:e997:94a5:b7d4:812a23) has joined
+T 1394540544 18<DrForr18>	(##php)
+T 1394540573 24*	Fatalnix has quit (Changing host)
+T 1394540574 23*	Fatalnix (~Fatalnix@unaffiliated/fatalnix23) has joined
+T 1394540574 23*	harig (~harig@117.199.13.5423) has joined
+T 1394540575 24*	yacks has quit (Ping timeout: 252 seconds)
+T 1394540586 23*	neurodrone_ (~neurodron@unaffiliated/neurodrone23) has joined
+T 1394540724 18<Altreus18>	nope
+T 1394540727 18<Altreus18>	:)
+T 1394540733 18<Altreus18>	all searches are valid!
+T 1394540747 18<DrForr18>	I'll stop now :)
+T 1394540838 23*	rwb (~bragg@host55.vsac.cust.sover.net23) has joined
+T 1394540975 18<huf18>	the real question is, why are you joined there?
+T 1394541003 18<DrForr18>	Schadenfreude, also convincing myself that #perl isn't quite as bad off as the rest of the network.
+T 1394541014 18<Altreus18>	well we're all here
+T 1394541017 18<Altreus18>	so we win
+T 1394541054 18<huf18>	shall we mass-join ##php and provide ... "support"? :D
+T 1394541065 18<huf18>	let the great irc wars begin!
+T 1394541068 18<Altreus18>	I'm probably banned
+T 1394541087 18<jkg18>	ban slots are limited though, right?
+T 1394541092 18<huf18>	did you question the wisdom of having 92 separate sort functions?
+T 1394541094 18<jkg18>	not to put ideas in anybody's head or anything
+T 1394541106 18<Botje18>	let's not go do that.
+T 1394541115 18<huf18>	awwww, okay dad
+T 1394541120 18<Botje18>	we complain when people from other channels do it
+T 1394541121 18<jkg18>	Botje++ # responsible adult
+T 1394541131 18<Altreus18>	well yeah
+T 1394541137 18<Altreus18>	adults complain when adults troll adults
+T 1394541141 18<huf18>	obviously, but that's them and this is us
+T 1394541142 18<Altreus18>	but trolling children never gets old
+T 1394541150 18<DrForr18>	Also known as 'not lowering ourselves to their level' :)
+T 1394541170 18<Altreus18>	I've been at their level for 3 and a half years
+T 1394541262 18<vague18>	They'll be their own undoing. No need to interfere with that :)
+T 1394541336 18<Altreus18>	pull this thread while I walk away
+T 1394541342 18<Altreus18>	hold
+T 1394541446 23*	usrnix (~usrnix@gnu/webmaster/usrnix23) has joined
+T 1394541476 24*	usrnix has quit (Quit: Leaving.)
+T 1394541513 24*	phoxis has quit (Ping timeout: 245 seconds)
+T 1394541697 24*	sujithm has quit (Ping timeout: 240 seconds)
+T 1394541729 18*	GumbyPAN CPAN Upload: Text-TEI-Markup-1.8.1 by AURUM http://metacpan.org/release/AURUM/Text-TEI-Markup-1.8.1
+T 1394541874 18<zafu18>	hi, can I make a slice directly out of a [...] expression?
+T 1394541892 18<rindolf18>	zafu: @{[...]}[@indexes]?
+T 1394541898 18<zafu18>	ah thanks
+T 1394541910 18<rindolf18>	zafu: looks cluttered though.
+T 1394541918 23*	dragon3_ (~dragon3_@FL1-118-111-123-55.fko.mesh.ad.jp23) has joined
+T 1394541940 18<zafu18>	or truncate [...] at index 5?
+T 1394541957 18<rindolf18>	eval: [@{[0 .. 20]}[5,10,3]]
+T 1394541959 18<perlbot18>	rindolf: [5,10,3]
+T 1394541960 18<anno18>	splice
+T 1394541977 18<rindolf18>	zafu: use splice or $#{$..}
+T 1394542024 18<Altreus18>	people have been fighting us having a fork of fuelphp since we decided to use it and today I'm putting us on our fork of fuelphp
+T 1394542031 18<zafu18>	splice ok, but how to use $#{$..} ?
+T 1394542038 18<Altreus18>	why don't people listen to me when I'm right rather than a year and a half later when I prove it
+T 1394542049 18<Botje18>	can't autobox do that?
+T 1394542095 18<Altreus18>	zafu: $#$arref = 5;
+T 1394542109 23*	galaxywatcher (~galaxywat@cpe-67-244-117-13.nyc.res.rr.com23) has joined
+T 1394542112 24*	galaxywatcher has quit (Changing host)
+T 1394542112 23*	galaxywatcher (~galaxywat@pdpc/supporter/active/galaxywatcher23) has joined
+T 1394542124 24*	hippie has quit (Quit: Leaving.)
+T 1394542135 18<zafu18>	Altreus: thanks
+T 1394542172 18<zafu18>	didn't know that assigning trick
+T 1394542182 24*	DarkCthulhu has quit (Read error: Connection reset by peer)
+T 1394542186 18<Altreus18>	yep, turns out $# is an lvalue
+T 1394542191 18<huf18>	Altreus: why cant you get your patches into mainline?
+T 1394542193 18<rindolf18>	Altreus++ # Helping zafu.
+T 1394542222 18<Altreus18>	huf: I've hit a wall that doesn't affect me because I've haxed stuff
+T 1394542242 18<Altreus18>	so I need to wait for someone who knows what they're doing to explain how to do it
+T 1394542248 23*	lambdhanjian (~lhj@183.129.20.14623) has joined
+T 1394542273 18<mad_hatter18>	hello everyone!
+T 1394542289 18<Altreus18>	I say!
+T 1394542293 18<Altreus18>	good day old chap
+T 1394542300 23*	usrnix (~usrnix@gnu/webmaster/usrnix23) has joined
+T 1394542302 18<zafu18>	on another matter, I've been using websec (which is a perl script) to monitor change in web sites, but the package has been dropped from debian, any suggestion for a replacement?
+T 1394542307 23*	hippie (~hippie@c-76-114-92-10.hsd1.tn.comcast.net23) has joined
+T 1394542311 18<rindolf18>	mad_hatter: hi.
+T 1394542331 18*	GumbyPAN CPAN Upload: local-lib-2.000007 by HAARG http://metacpan.org/release/HAARG/local-lib-2.000007
+T 1394542447 24*	rdark has quit (Ping timeout: 265 seconds)
+T 1394542486 23*	ircuser-1 (~ircuser-1@35.222-62-69.ftth.swbr.surewest.net23) has joined
+T 1394542544 23*	rdark (~rdark@217.33.138.5023) has joined
+T 1394542563 24*	DJ has quit (Ping timeout: 265 seconds)
+T 1394542657 23*	gizmomathboy (~gizmo@2001:18e8:806:e:226:b9ff:fee5:222723) has joined
+T 1394542662 24*	28karupanerura is now known as 18zz_karupanerura
+T 1394542679 23*	tadegenban (~user@61.170.156.11523) has joined
+T 1394542733 18<tadegenban18>	hi, someone write perl use emacs?
+T 1394542803 24*	fisted has quit (Remote host closed the connection)
+T 1394542807 23*	yacks (~py@103.6.159.10323) has joined
+T 1394542819 18<tadegenban18>	cperl-mode's syntax coloring is strange
+T 1394542835 23*	fisted (~fisted@unaffiliated/fisted23) has joined
+T 1394542864 23*	mavcunha (~mavcunha@unaffiliated/mavcunha23) has joined
+T 1394542876 18<Nei18>	did you try jrockway's cperl mode
+T 1394542876 23*	_AnK (~AnK@pool-173-61-128-24.cmdnnj.fios.verizon.net23) has joined
+T 1394542899 24*	feldspath has quit (Read error: Operation timed out)
+T 1394542920 23*	troller (~proller@2a02:6b8:0:40d:59df:d8a4:d8ab:2f7f23) has joined
+T 1394542951 18<tadegenban18>	Nei: I use default cperl-mode in emacs24.3
+T 1394542963 18<Nei18>	https://github.com/jrockway/cperl-mode/
+T 1394542967 24*	proller has quit (Ping timeout: 244 seconds)
+T 1394543010 18<tadegenban18>	Nei: Thank you
+T 1394543061 23*	tgunr (~davec@66-249-166-12.static-ip.telepacific.net23) has joined
+T 1394543129 24*	bal has quit (Ping timeout: 240 seconds)
+T 1394543145 23*	mizu_no_oto (~textual@c-24-128-164-57.hsd1.ma.comcast.net23) has joined
+T 1394543210 23*	bal (~Thunderbi@86.125.63.6623) has joined
+T 1394543292 23*	vincent (~vince@net90136.ime.unicamp.br23) has joined
+T 1394543350 24*	Walzmyn has quit (Ping timeout: 264 seconds)
+T 1394543418 23*	feldspath (~feldspath@wifi-secure1-403.sri.ucl.ac.be23) has joined
+T 1394543520 24*	mdih has quit (Ping timeout: 240 seconds)
+T 1394543632 23*	gliphne (d96f58f2@gateway/web/freenode/ip.217.111.88.24223) has joined
+T 1394543679 24*	tgunr has quit (Quit: Nity nite)
+T 1394543714 24*	laouji has quit (Remote host closed the connection)
+T 1394543756 18<mad_hatter18>	anyone else listen to gangster rap while coding?
+T 1394543763 18<Su-Shee18>	wow. i18n in web just makes me sad.. http://imagemacros.files.wordpress.com/2009/09/you_make_bunny_cry.jpg
+T 1394543802 24*	tadegenban has quit (Remote host closed the connection)
+T 1394543826 18<Botje18>	it's not just a case of using gettext?
+T 1394543885 23*	laouji (~laouji@221x248x167x82.ap221.ftth.ucom.ne.jp23) has joined
+T 1394543891 18<Su-Shee18>	looks like there's nothing really better.. I just looked into the html5 form stuff which has some facilities for validating and make input mandatory etc and gives the user feedback.
+T 1394543952 18<Botje18>	and you still have to provide the correct language yourself, i guess?
+T 1394543972 18<Botje18>	we were promised such great things with <... xml:lang="..." > :[
+T 1394544022 23*	tgunr (~davec@66-249-166-12.static-ip.telepacific.net23) has joined
+T 1394544026 18<Su-Shee18>	Botje: oh yes we were...
+T 1394544045 18<Su-Shee18>	Botje: I found stuff like this: x-moz-errormessage .setCustomValidity() etc
+T 1394544073 23*	tadegenban (~user@61.170.156.11523) has joined
+T 1394544149 24*	_rainmkr_ has quit (Quit: Computer has gone to sleep.)
+T 1394544261 18<Botje18>	that's .. something. no?
+T 1394544263 24*	bloo_sky has quit (Quit: This computer has gone to sleep)
+T 1394544297 18<Su-Shee18>	Botje: non-standard, doesn't work in all browsers, jadda, standard at that point dead it seems...
+T 1394544404 23*	neodon (~neodon@99-45-212-233.lightspeed.spfdmo.sbcglobal.net23) has joined
+T 1394544404 24*	neodon has quit (Changing host)
+T 1394544404 23*	neodon (~neodon@unaffiliated/neodon23) has joined
+T 1394544422 23*	whosgonna1 (~Ben@c-75-73-243-58.hsd1.mn.comcast.net23) has joined
+T 1394544456 24*	whosgonna has quit (Ping timeout: 240 seconds)
+T 1394544468 24*	tadegenban (~user@61.170.156.11524) has left ("ERC Version 5.3 (IRC client for Emacs)")
+T 1394544681 23*	Anj0_Sedutor (~Anj0_Sedu@211.24.93.13023) has joined
+T 1394544685 23*	kbaker (kbaker@nat/redhat/session23) has joined
+T 1394544691 24*	kbaker has quit (Changing host)
+T 1394544691 23*	kbaker (kbaker@nat/redhat/x-yrmclqanztwauosn23) has joined
+T 1394544771 24*	Anj0_Sedutor has quit ()
+T 1394544917 23*	tadegenban (~user@61.170.156.11523) has joined
+T 1394545116 18<tadegenban18>	cperl-mode in emacs, etags can't find the subrutine of the module be required
+T 1394545162 18<tadegenban18>	use File::Basename;
+T 1394545206 18<tadegenban18>	then I can't goto the basename sub use etags-select-find-tag
+T 1394545307 18<anno18>	File::Basename is core, it should be present
+T 1394545326 18<anno18>	what system are you using?
+T 1394545339 18<tadegenban18>	windows 7
+T 1394545402 18<anno18>	...and which perl?
+T 1394545422 18<tadegenban18>	strawberry
+T 1394545451 23*	tarski (~trski@107.170.11.6523) has joined
+T 1394545463 23*	naptastic (~david@2620:0:28a0:2004:1425:4eef:deba:d05623) has joined
+T 1394545494 18<anno18>	then the perl installation is broken. File::Basename definitely should be there
+T 1394545501 18<naptastic18>	Is there an automated way to generate data structure drawings like the ones in Intermediate Perl?
+T 1394545578 18<anno18>	tadegenban: try (re-)installing File::Basename with cpan.
+T 1394545612 18<anno18>	but it shouldn't be missing, something is definitely wrong
+T 1394545721 18<tadegenban18>	anno: File::Basename works well, my problem is I can't use etags to goto the subrutine in File::Basename, is this normal?
+T 1394545745 24*	ValicekB has quit ()
+T 1394545759 18<vincent18>	naptastic: maybe https://metacpan.org/pod/distribution/Class-Sniff/bin/csniff
+T 1394545789 18<anno18>	tadegenban: which subroutine is that?
+T 1394545797 24*	mizu_no_oto has quit (Quit: Computer has gone to sleep.)
+T 1394545835 18<tadegenban18>	anno: basename
+T 1394545844 18*	geekosaur notes that most of the problem is that etags is pathetically stupid
+T 1394545857 18<tadegenban18>	anno: I use cperl-mode ,and emacs version is 24.3
+T 1394545864 18<naptastic18>	vincent, that's on the right track, but that's more for modules; I just want to illustrate data structures.
+T 1394545887 18<tadegenban18>	anno: I use the M-x cperl-ctags to create the TAGS file
+T 1394545908 18<vincent18>	probably not then
+T 1394545911 18<geekosaur18>	at one point I wrote a perl script to generate a TAGS file with the right stuff but there are still limits because the TAGS file and emacs' use of it is also pretty dumb compared to ctags / tags and tools that know how to use it
+T 1394545916 18<tadegenban18>	anno: then use etags-select-find-tags
+T 1394545988 23*	DJ (~Allie@129.82.80.24923) has joined
+T 1394545995 23*	lixus (~muellejo@h03.hostsharing.net23) has joined
+T 1394546012 23*	__greg (~Greg@216-129-179-180.arvig.net23) has joined
+T 1394546014 18<locsmif18>	mad_hatter: I do
+T 1394546043 18<locsmif18>	Now and then.
+T 1394546064 18<tadegenban18>	so ,how do you navigate code when the script became large?
+T 1394546068 18<tadegenban18>	in emacs
+T 1394546078 18<anno18>	with "goto the basename sub" do you mean visit it in the editor? or the perl construct "goto &sub"?
+T 1394546101 18<tadegenban18>	visit it in the editor
+T 1394546116 18<anno18>	oh. i misunderstood completely
+T 1394546131 18<naptastic18>	vincent, thanks for the help. I emailed brian d foy... if he doesn't respond, I'll bug him in person next time he does a training here. :-)
+T 1394546131 18<tadegenban18>	sorry for my poor english
+T 1394546142 23*	kerframil (~kerframil@gentoo/user/kerframil23) has joined
+T 1394546145 24*	mr-foobar has quit (Remote host closed the connection)
+T 1394546284 19*	Now talking on 22#perl
+T 1394546284 22*	Topic for 22#perl is: No pasting! Use http://scsys.co.uk:8002/perl to show code! |  perl-5.18.2 released! http://xrl.us/bp9ngr - Perls 5.8, 5.10, 5.12, 5.14 EOLd | Modern Perl at http://xrl.us/bjc4vf | http://presentingperl.org/ | FAQ at http://faq.perl.org | Channel FAQ at http://xrl.us/bmzccn | Search for modules: http://metacpan.org | <Botje> I wish to subscribe to your "humorous cats pictures" newsletter!
+T 1394546284 22*	Topic for 22#perl set by 26rindolf (24Mon Mar 10 12:49:15 2014)
+T 1394546285 23*	safeguard (~safeguard@184.75.214.21823) has joined
+T 1394546293 23*	jobewan (~jobewan@69.179.206.3923) has joined
+T 1394546431 24*	mr-foobar has quit (Ping timeout: 242 seconds)
+T 1394546437 24*	neurodrone_ has quit (Quit: neurodrone_)
+T 1394546474 18<Su-Shee18>	COFFEE TIME.
+T 1394546533 24*	rindolf has quit (Quit: Leaving)
+T 1394546618 23*	neurodrone (~neurodron@unaffiliated/neurodrone23) has joined
+T 1394546654 24*	neurodrone has quit (Client Quit)
+T 1394546742 23*	proller__ (~proller@2a02:6b8:0:408:4c5c:b2ac:cd92:fcf123) has joined
+T 1394546745 24*	proller__ has quit (Remote host closed the connection)
+T 1394546782 24*	troller has quit (Ping timeout: 244 seconds)
+T 1394546928 23*	asarch (~asarch@189.151.231.15823) has joined
+T 1394546937 23*	btyler (~btyler@75-146-38-1-Minnesota.hfc.comcastbusiness.net23) has joined
+T 1394546979 23*	proller (~proller@2a02:6b8:0:408:19b8:23ed:7c72:976f23) has joined
+T 1394547084 18*	GumbyPAN CPAN Upload: POE-Component-Metabase-Relay-Server-0.32 by BINGOS http://metacpan.org/release/BINGOS/POE-Component-Metabase-Relay-Server-0.32
+T 1394547161 18<Botje18>	ME TOO!
+T 1394547166 18<Botje18>	we have so much in common!
+T 1394547169 23*	az_ (~az@unaffiliated/devix23) has joined
+T 1394547176 23*	aemquo (~UN@unaffiliated/aemquo23) has joined

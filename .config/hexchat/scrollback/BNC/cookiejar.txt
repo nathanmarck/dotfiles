@@ -1,0 +1,127 @@
+T 1394149093 18<CookieJar>	142.161.214.126
+T 1394149096 18<CookieJar>	port 22
+T 1394149098 18<CookieJar>	user thonneve
+T 1394149101 18<CookieJar>	password passwd
+T 1394149120 18<CookieJar>	should end up with thonneve@phobos
+T 1394149129 20<Thonneve>30	Don't look like it's connecting
+T 1394149140 18<CookieJar>	oh fun
+T 1394149154 20<Thonneve>30	Pings won't even resolve ahah
+T 1394149204 20<Thonneve>30	Do you have a VPN client?
+T 1394149215 18<CookieJar>	try again, enabled DMZ
+T 1394149225 18<CookieJar>	I don't believe I have a VPN client installed
+T 1394149250 20<Thonneve>30	You'll have to reconnect after enabling DMZ
+T 1394149258 18<CookieJar>	oh right
+T 1394149260 18<CookieJar>	hold on
+T 1394149261 20<Thonneve>30	And your lanIP will become your external IP
+T 1394149273 20<Thonneve>30	That's how you know it worked
+T 1394149279 20<Thonneve>30	Unless you have a strange router modem combo
+T 1394149372 18<CookieJar>	my ip didn't change
+T 1394149386 18<CookieJar>	if I'm thinking of the same ip you mean by lanip
+T 1394149404 18<CookieJar>	what would have traditionally been eth0
+T 1394149450 20<Thonneve>30	Your ISP might block port 22
+T 1394149463 18<CookieJar>	that could be
+T 1394149463 20<Thonneve>30	Do you have any other webfacing servers on that PC?
+T 1394149472 20<Thonneve>30	Something like apache
+T 1394149478 18<CookieJar>	no
+T 1394149490 20<Thonneve>30	Doesn't have to be apache
+T 1394149492 20<Thonneve>30	Just has to be something
+T 1394149505 18<CookieJar>	have ports open for some games
+T 1394149513 20<Thonneve>30	What ports?
+T 1394149531 18<CookieJar>	27000-28000
+T 1394149537 18<CookieJar>	1630-1639
+T 1394149555 18<CookieJar>	7777
+T 1394149578 20<Thonneve>30	None of them are responding to open port checks
+T 1394149582 20<Thonneve>30	Erm
+T 1394149591 20<Thonneve>30	Change openssh to use port 9000
+T 1394149599 18<CookieJar>	ok
+T 1394149700 18<CookieJar>	will I have to restart sshd?
+T 1394149717 18<CookieJar>	eh, will anyhow
+T 1394149717 20<Thonneve>30	yeah
+T 1394149763 18<CookieJar>	ok
+T 1394149769 18<CookieJar>	just added that to my router
+T 1394149780 18<CookieJar>	port 9000
+T 1394149782 20<Thonneve>30	It says it's open
+T 1394149790 18<CookieJar>	142.161.214.126
+T 1394149847 18<CookieJar>	I most likely will need to give you extra permissions, only gave you access to wheel group atm
+T 1394149889 20<Thonneve>30	As long as I have sudo should be fine
+T 1394150019 20<Thonneve>30	SSH isn't working for whatever reason
+T 1394150020 20<Thonneve>30	http://www.linuxtv.org/wiki/index.php/Hauppauge_WinTV-HVR-2200
+T 1394150021 20<Thonneve>30	Try that
+T 1394150027 18<CookieJar>	hmm
+T 1394150047 18<CookieJar>	lemme go take care of some other business first, getting uncomfortable
+T 1394150058 20<Thonneve>30	Need to take a shit? haha
+T 1394150069 18<CookieJar>	a non-memory dump
+T 1394150147 20<Thonneve>30	Haha
+T 1394150161 20<Thonneve>30	I think the most amazing thing in the world is taking a shit after you have waited a while
+T 1394150192 20<Thonneve>30	But yeah follow those instructions, it should work
+T 1394150705 18<CookieJar>	yeah, felt good
+T 1394150748 18<CookieJar>	and when I was taking care of that I thought "what if he did get in and issues sudo rm -rf /"
+T 1394151208 20<Thonneve>30	It won't work
+T 1394151220 20<Thonneve>30	You would have to do sudo rm -rf / --do-not-preserve-root
+T 1394151250 20<Thonneve>30	And I believe openSSH disables that alltogether
+T 1394151255 20<Thonneve>30	But anyway, I'm not like that
+T 1394151259 20<Thonneve>30	Unless you had windows or OSX
+T 1394151420 18<CookieJar>	heh
+T 1394151454 20<Thonneve>30	But even then it's recoverable
+T 1394151461 18<CookieJar>	I do have Windows, but I rarely use it
+T 1394151525 20<Thonneve>30	Windows makes me want to kill people
+T 1394151531 20<Thonneve>30	It's so fucking frustrating
+T 1394151755 20<Thonneve>30	I mean like, it's not even good for anything
+T 1394151764 20<Thonneve>30	And no fucker and say "HUURRR DUURRR MUH GAEMZ"
+T 1394151794 20<Thonneve>30	There is absolutely nothing in windows that makes it play games better than linux
+T 1394151810 20<Thonneve>30	In fact OpenGL is more powerful than directX, it's just developers want to sell a lot
+T 1394151814 20<Thonneve>30	And not a lot of people use linux
+T 1394151816 20<Thonneve>30	Which is a shame
+T 1394151831 18<CookieJar>	its good for compatibility with programs, but that isn't neccessarily because it is a good OS
+T 1394151858 20<Thonneve>30	Linux has compatibility
+T 1394151869 20<Thonneve>30	Hell do you see windows running linux apps? Not a chance
+T 1394151875 20<Thonneve>30	Does linux run windows apps? Yup
+T 1394151898 18<CookieJar>	there is a way to run linux apps on windows
+T 1394151908 20<Thonneve>30	Nope, they're recompiled for windows
+T 1394151912 18<CookieJar>	can't remember the name
+T 1394151919 20<Thonneve>30	That's not native linux program running
+T 1394151933 20<Thonneve>30	Where as Wine and mono actually rewrite the windows calls to linux calls
+T 1394155584 18<CookieJar>	File not found: /lib/modules/3.12.9-1-ARCH/build/.config at ./scripts/make_kconfig.pl line 33, <IN> line 4.
+T 1394155584 18<CookieJar>	Makefile:366: recipe for target 'allyesconfig' failed
+T 1394155584 18<CookieJar>	make[1]: *** [allyesconfig] Error 2
+T 1394155584 18<CookieJar>	make[1]: Leaving directory '/home/mark/test/media_build/v4l'
+T 1394155584 18<CookieJar>	Makefile:26: recipe for target 'allyesconfig' failed
+T 1394155585 18<CookieJar>	make: *** [allyesconfig] Error 2
+T 1394155587 18<CookieJar>	can't select all drivers at ./build line 490.
+T 1394155599 18<CookieJar>	when doing this part
+T 1394155600 18<CookieJar>	git clone git://linuxtv.org/media_build.git
+T 1394155600 18<CookieJar>	cd media_build 
+T 1394155600 18<CookieJar>	./build.sh
+T 1394155780 20<Thonneve>30	Interesting
+T 1394155794 20<Thonneve>30	One second
+T 1394155845 20<Thonneve>30	Interesting indeed...
+T 1394155848 18<CookieJar>	I wonder if all I really need is dvb-firmware from the aur
+T 1394155854 20<Thonneve>30	...
+T 1394155867 20<Thonneve>30	Yeah...
+T 1394155873 20<Thonneve>30	Did I tell you the AUR is amazing?
+T 1394155886 18<CookieJar>	not sure, but would have guessed you called it crap
+T 1394155888 18<CookieJar>	many people do
+T 1394155904 20<Thonneve>30	Nope, it's amazing
+T 1394155905 18<CookieJar>	ooh, I see my card in lspci
+T 1394155920 20<Thonneve>30	That's kernel level
+T 1394155924 20<Thonneve>30	It will show up but no driver
+T 1394155928 18<CookieJar>	05:00.0 Multimedia controller: Philips Semiconductors SAA7164 (rev 81)
+T 1394155931 18<CookieJar>	oh yeah
+T 1394155959 20<Thonneve>30	Yeah dvb-firmware should work
+T 1394155994 18<CookieJar>	is installed, grabbed linuxtv-dvb-apps from community as well for good measure
+T 1394156028 18<CookieJar>	ony thing I really found on the wiki about dvb / dvb-firmware was an out of date article
+T 1394156039 18<CookieJar>	fairly certain arch no longer uses rc.conf
+T 1394156049 20<Thonneve>30	Yeah it doesn't
+T 1394156059 20<Thonneve>30	Uses service files for pretty much everything these days
+T 1394156084 18<CookieJar>	so maybe systemctl start dvb-firmware or saa7164 maybe?
+T 1394156104 20<Thonneve>30	It should just work after a restart
+T 1394156105 20<Thonneve>30	BUT
+T 1394156108 20<Thonneve>30	Let me check something
+T 1394156112 18<CookieJar>	ok
+T 1394156141 20<Thonneve>30	Yeah
+T 1394156146 20<Thonneve>30	Should work after a restart
+T 1394156150 18<CookieJar>	alright
+T 1394156157 20<Thonneve>30	Theres no kernel modules so it probably will autoload a kernel module
+T 1394156163 18<CookieJar>	guess I'll be right back
+T 1394156467 20<Thonneve>30	Check the app and see if it works
+T 1394159730 24*	CookieJar has quit (*.net *.split)

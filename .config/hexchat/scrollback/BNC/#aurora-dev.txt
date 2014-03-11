@@ -1,0 +1,23 @@
+T 1394515415 19*	Now talking on 22#aurora-dev
+T 1394515415 22*	Topic for 22#aurora-dev is: Info:- New 0.8 Download @ https://github.com/aurora-sim/Aurora-Sim-Releases/tree/master/Current%20Release | Mantis Bug Tracker :- http://mantis.aurora-sim.org/my_view_page.php | Main Site :- http://aurora-sim.org/ | Please post your question and be patient for a response thank you.
+T 1394515415 22*	Topic for 22#aurora-dev set by 26RevolutionSmythe!IceChat77@mtbserver.student.rit.edu (24Sat May 18 20:04:50 2013)
+T 1394515415 22*	Channel 22#aurora-dev modes: 24+npt
+T 1394515415 22*	Channel 22#aurora-dev created on 24Thu Sep 30 00:20:38 2010
+T 1394515474 18*	velus is back (gone 07:51:52)
+T 1394516013 24*	Ken_S has quit (Read error: Connection reset by peer)
+T 1394516297 23*	Ken_S (~IceChat77@c50-26-173-43.abilcmtk01.tx.dh.suddenlink.net23) has joined
+T 1394518726 24*	velus has quit (Quit: bye bye im outta irc)
+T 1394518754 23*	velus (~velus@213.205.241.10323) has joined
+T 1394518754 24*	velus has quit (Changing host)
+T 1394518754 23*	velus (~velus@unaffiliated/velus23) has joined
+T 1394520400 23*	RazLaptop (~Intertric@c-65-34-239-133.hsd1.fl.comcast.net23) has joined
+T 1394524883 19*	Now talking on 22#aurora-dev
+T 1394524883 22*	Topic for 22#aurora-dev is: Info:- New 0.8 Download @ https://github.com/aurora-sim/Aurora-Sim-Releases/tree/master/Current%20Release | Mantis Bug Tracker :- http://mantis.aurora-sim.org/my_view_page.php | Main Site :- http://aurora-sim.org/ | Please post your question and be patient for a response thank you.
+T 1394524883 22*	Topic for 22#aurora-dev set by 26RevolutionSmythe!IceChat77@mtbserver.student.rit.edu (24Sat May 18 20:04:50 2013)
+T 1394525739 23*	danbanner (~60115a87@unaffiliated/danbanner23) has joined
+T 1394534028 23*	H-H-H (~H-H-H@host-92-20-231-214.as13285.net23) has joined
+T 1394537789 24*	H-H-H has quit (Ping timeout: 240 seconds)
+T 1394540727 24*	velus has quit (Read error: Connection reset by peer)
+T 1394546285 19*	Now talking on 22#aurora-dev
+T 1394546285 22*	Topic for 22#aurora-dev is: Info:- New 0.8 Download @ https://github.com/aurora-sim/Aurora-Sim-Releases/tree/master/Current%20Release | Mantis Bug Tracker :- http://mantis.aurora-sim.org/my_view_page.php | Main Site :- http://aurora-sim.org/ | Please post your question and be patient for a response thank you.
+T 1394546285 22*	Topic for 22#aurora-dev set by 26RevolutionSmythe!IceChat77@mtbserver.student.rit.edu (24Sat May 18 20:04:50 2013)

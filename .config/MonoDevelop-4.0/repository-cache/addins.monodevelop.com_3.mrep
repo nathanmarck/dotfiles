@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Repository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>MonoDevelop Add-in Repository</Name>
+  <Url>http://addins.monodevelop.com/Stable/Linux/4.2.4/root.mrep</Url>
+  <Addin>
+    <Url>CSharpInteractive.CSharpInteractive-1.0.mpack</Url>
+    <Addin>
+      <Id>CSharpInteractive</Id>
+      <Namespace>CSharpInteractive</Namespace>
+      <Name>C# Interactive</Name>
+      <Version>1.0</Version>
+      <BaseVersion />
+      <Author>Frank A. Krueger</Author>
+      <Copyright>2013 Frank A. Krueger</Copyright>
+      <Url />
+      <Description>C# Interactive</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>::MonoDevelop.Core</AddinId>
+          <Version>4.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>::MonoDevelop.Ide</AddinId>
+          <Version>4.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>::MonoDevelop.SourceEditor2</AddinId>
+          <Version>4.0</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">7786</Property>
+      </Properties>
+    </Addin>
+  </Addin>
+  <Addin>
+    <Url>MonoDevelop.Debugger.Soft.Unity-4.0.mpack</Url>
+    <Addin>
+      <Id>MonoDevelop.Debugger.Soft.Unity</Id>
+      <Namespace />
+      <Name>Mono Soft Debugger Support for Unity</Name>
+      <Version>4.0</Version>
+      <BaseVersion />
+      <Author>Clifford Roche based on work from Lucas Meijer and others</Author>
+      <Copyright>MIT/X11</Copyright>
+      <Url>http://github.com/cmroche/MonoDevelop.Debugger.Soft.Unity</Url>
+      <Description>Mono Soft Debugger Support for Unity</Description>
+      <Category>Unity</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>MonoDevelop.Ide</AddinId>
+          <Version>4.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>MonoDevelop.Core</AddinId>
+          <Version>4.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>MonoDevelop.Debugger</AddinId>
+          <Version>4.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>MonoDevelop.Debugger.Soft</AddinId>
+          <Version>4.0</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">14966</Property>
+      </Properties>
+    </Addin>
+  </Addin>
+  <Addin>
+    <Url>MonoDevelop.FSharpBinding-3.2.23.mpack</Url>
+    <Addin>
+      <Id>FSharpBinding</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>F# Language Binding</Name>
+      <Version>3.2.23</Version>
+      <BaseVersion />
+      <Author>F# Open Source Foundation (fsharp.org)</Author>
+      <Copyright>F# Open Source Foundation (fsharp.org)</Copyright>
+      <Url>http://fsharp.github.com/fsharpbinding</Url>
+      <Description>F# Language Binding (for MonoDevelop 4.2.2). Install F# 3.0 before using.</Description>
+      <Category>Language bindings</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>4.2.2</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>4.2.2</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>SourceEditor2</AddinId>
+          <Version>4.2.2</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Refactoring</AddinId>
+          <Version>4.2.2</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">4733732</Property>
+      </Properties>
+    </Addin>
+  </Addin>
+  <Addin>
+    <Url>MonoDevelop.GTKSharp3.GTKSharp3Project-0.1.mpack</Url>
+    <Addin>
+      <Id>GTKSharp3Project</Id>
+      <Namespace>MonoDevelop.GTKSharp3</Namespace>
+      <Name>GTK# 3 Simple Project Template</Name>
+      <Version>0.1</Version>
+      <BaseVersion />
+      <Author>Robert Nordan</Author>
+      <Copyright>MIT/X11</Copyright>
+      <Url>http://www.robpvn.net</Url>
+      <Description>Provides a template for a simple GTK#3 Project where you use Glade (externally) to design the UI files.</Description>
+      <Category>GTK3 Development</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>::MonoDevelop.Ide</AddinId>
+          <Version>4.0</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">5911</Property>
+      </Properties>
+    </Addin>
+  </Addin>
+  <Addin>
+    <Url>MonoDevelop.StyleCop-1.0.1.6.mpack</Url>
+    <Addin>
+      <Id>StyleCop</Id>
+      <Namespace>MonoDevelop</Namespace>
+      <Name>StyleCop Support</Name>
+      <Version>1.0.1.6</Version>
+      <BaseVersion />
+      <Author>Alexander Jochum</Author>
+      <Copyright>APL 2.0</Copyright>
+      <Url />
+      <Description>Provides StyleCop support to MonoDevelop</Description>
+      <Category>IDE extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>Core</AddinId>
+          <Version>4.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>Ide</AddinId>
+          <Version>4.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>SourceEditor2</AddinId>
+          <Version>4.0</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">2380504</Property>
+      </Properties>
+    </Addin>
+  </Addin>
+  <Addin>
+    <Url>ProjectLinker.ProjectLinker-1.1.mpack</Url>
+    <Addin>
+      <Id>ProjectLinker</Id>
+      <Namespace>ProjectLinker</Namespace>
+      <Name>Project linker</Name>
+      <Version>1.1</Version>
+      <BaseVersion />
+      <Author>Rafael Steil</Author>
+      <Copyright>LGPL</Copyright>
+      <Url>http://rafaelsteil.github.io/monodevelop-project-linker</Url>
+      <Description>Automatically link files from one project onto another</Description>
+      <Category>Project Extensions</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>::MonoDevelop.Ide</AddinId>
+          <Version>4.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>::MonoDevelop.Core</AddinId>
+          <Version>4.0</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="UpdateRank">Normal</Property>
+        <Property name="ReleaseNotes">
+			{{1.1, 2013-08-14}}
+			Fixed two issues:
+			- Sync now correctly removes all inexistent files
+			- Fixed an issue where Visual Studio would not recognize the project items if the target project was in the same directory structure of the source project
+		</Property>
+        <Property name="DownloadSize">12510</Property>
+      </Properties>
+    </Addin>
+  </Addin>
+  <Addin>
+    <Url>Unity.Utilities-4.0.mpack</Url>
+    <Addin>
+      <Id>Unity.Utilities</Id>
+      <Namespace />
+      <Name>Utilities for use with Unity</Name>
+      <Version>4.0</Version>
+      <BaseVersion />
+      <Author>Clifford Roche, Levi Bard</Author>
+      <Copyright>MIT/X11</Copyright>
+      <Url>http://github.com/cmroche/MonoDevelop.Debugger.Soft.Unity</Url>
+      <Description>This addin adds support for shaderlab, cginc, and glsl syntax highlighting. Easy access to Unity Script Reference, and Unity behaviour templates.</Description>
+      <Category>Unity</Category>
+      <Dependencies>
+        <AddinDependency>
+          <AddinId>MonoDevelop.Ide</AddinId>
+          <Version>4.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>MonoDevelop.Core</AddinId>
+          <Version>4.0</Version>
+        </AddinDependency>
+        <AddinDependency>
+          <AddinId>MonoDevelop.SourceEditor2</AddinId>
+          <Version>4.0</Version>
+        </AddinDependency>
+      </Dependencies>
+      <OptionalDependencies />
+      <Properties>
+        <Property name="DownloadSize">7216</Property>
+      </Properties>
+    </Addin>
+  </Addin>
+</Repository>

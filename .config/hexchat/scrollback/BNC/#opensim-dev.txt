@@ -1,0 +1,503 @@
+T 1394475725 18<ftcodes18>	if you create then with a new parentFolderID, agentID and inventoryID you got your item ;)
+T 1394475731 18<Sked18>	i have and the one i make with php code dont work?
+T 1394475754 18<ftcodes18>	you messed up assetType and inventoryType then
+T 1394475788 18<ftcodes18>	you should just use some items your viewer created as your template simplifies a lot
+T 1394475824 18<Sked18>	parentFolderID is the same as folderID in inventoryFolder db
+T 1394475831 18<ftcodes18>	yes
+T 1394475837 18<Sked18>	cool tnx
+T 1394475839 18<ftcodes18>	that is where the item is placed
+T 1394475876 18<Sked18>	and assetID is new
+T 1394475928 18<Sked18>	i didnt find it nowhere in db
+T 1394476072 18<Lloydi18>	question... do the functions within http://opensimulator.org/wiki/OSSL_Enabling_Functions need to be enabled one by one to work correctly?
+T 1394476393 18<ftcodes18>	the ones you do not find in asset table are assetTypes 24 and 25
+T 1394476403 24*	zadark has quit (Ping timeout: 252 seconds)
+T 1394476406 18<Sked18>	ftcodes do you think is this code right : http://pastebin.com/08Te51Lc
+T 1394476428 18<Sked18>	one example for Default Pants
+T 1394476565 18<ftcodes18>	just checked it
+T 1394476573 18<ftcodes18>	looks correct for Default Pants item
+T 1394476614 18<Sked18>	so i make this in inventoryitems and i will have it in my inventory 
+T 1394476623 18<Sked18>	or i need to make anythink else
+T 1394476634 18<ftcodes18>	no need to create the asset it is already there
+T 1394476655 18<ftcodes18>	when the viewer edits an item it actually uploads a new asset and changes assetID
+T 1394476704 23*	Monday (~Thursday@static-72-67-52-110.lsanca.fios.verizon.net23) has joined
+T 1394476705 18<Sked18>	o i see
+T 1394476706 18<ftcodes18>	but did you create the folder "My Inventory" with the parentFolderID = "00000000-0000-0000-0000-000000000000"
+T 1394476725 18<Sked18>	ups there is problem
+T 1394476748 18<Sked18>	sorry my mistake
+T 1394476762 18<ftcodes18>	viewer will not do anything right without that one
+T 1394476809 23*	SignpostMarv (~Marv@188-220-32-146.zone11.bethere.co.uk23) has joined
+T 1394476871 18<Sked18>	no, i have parentFolderID $folderID5
+T 1394476874 18<Sked18>	the code is good
+T 1394476999 24*	paulieflomar has quit (Ping timeout: 244 seconds)
+T 1394477002 23*	paulie_flomar (~paulieflo@97-125-47-69.eugn.qwest.net23) has joined
+T 1394477075 18<Sked18>	"00000000-0000-0000-0000-000000000000" is for GroupID
+T 1394477076 24*	paulie_flomar has quit (Read error: Connection reset by peer)
+T 1394477207 23*	paulieflomar (~paulieflo@216.240.181.20923) has joined
+T 1394477621 18<ftcodes18>	yes, it means no group and that is why groupowned is set to 0
+T 1394477655 18<Sked18>	yes
+T 1394477866 24*	paulieflomar has quit (Ping timeout: 264 seconds)
+T 1394477952 23*	paulieflomar (~paulieflo@216.240.181.20923) has joined
+T 1394477955 18<Dev_Random18>	Lloydi: You can enable groups of them with "OSFunctionThreatLevel" setting
+T 1394477997 18<Lloydi18>	thanks, but I still have region scripts disabled
+T 1394478009 18<Lloydi18>	can't figure for the life of me how to enable them
+T 1394478018 18<Dev_Random18>	AllowOSFunctions = true ??
+T 1394478028 18<Lloydi18>	got it
+T 1394478054 18<Lloydi18>	this is a standalone varregion 1024x1024 should it still work?
+T 1394478060 18<Dev_Random18>	yup
+T 1394478067 18<Lloydi18>	hmm
+T 1394478080 18<Lloydi18>	anywere else it would be disabled?
+T 1394478088 18<Dev_Random18>	"about land"?
+T 1394478096 18<Lloydi18>	tried that
+T 1394478118 18<Lloydi18>	scripts are not disabled
+T 1394478189 18<Dev_Random18>	no scripts at all?  or just the osxxx functions?
+T 1394478220 18<Lloydi18>	the "disable scripts" box is unchecked
+T 1394478228 18<Lloydi18>	in "about land"
+T 1394478249 18<Dev_Random18>	can you run *any* scripts?  or is it just the osxxx functions that don't work?
+T 1394478268 18<Lloydi18>	good question...lol
+T 1394478269 18<Lloydi18>	brb
+T 1394478327 23*	zadark (~zadark@cpc7-bolt13-2-0-cust340.10-3.cable.virginm.net23) has joined
+T 1394478352 18<Lloydi18>	no i have the little icon in the top of the view that says "scripts not allowed"
+T 1394478367 18<Lloydi18>	shouldn't that be gone
+T 1394478375 18<Lloydi18>	if I could use any script
+T 1394478375 18<Dev_Random18>	maybe group permission to run  scripts?
+T 1394478450 18<Lloydi18>	I'm having issues with the profile also. wonder if that causing it
+T 1394478454 18<Lloydi18>	can't update profile
+T 1394478661 18<Lloydi18>	and i keep getting this msg "[USER MANAGEMENT MODULE]: No grid user found for 3fc379....-     -   ...
+T 1394478689 18<Lloydi18>	so why would a standalone configured region ask for a grid user?
+T 1394478742 18<Dev_Random18>	I'd spin up one from scratch (new DB, etc), and see if it works there... If so, try to find what's different.
+T 1394478756 18<Lloydi18>	yea, good idea
+T 1394478794 18<ftcodes18>	pretty simple you were somewhen strolling through HG
+T 1394478809 18<ftcodes18>	or imported an IAR that had HG creator entries
+T 1394478846 18<Lloydi18>	I dumped that freebemall from http://zadaroo.com/?page_id=1647 on a small region beside a large var region and things started going haywire 
+T 1394478874 18<Lloydi18>	ok i know may have been a bit half baked idea
+T 1394478908 18<Dev_Random18>	and now scripts won't run in the var...? 
+T 1394478926 18<Lloydi18>	actually I didn't try before...
+T 1394478929 18<Lloydi18>	so can't say
+T 1394478933 18<Dev_Random18>	ha.. okay
+T 1394478979 18<Lloydi18>	I can't get this syntax to save an iar
+T 1394478989 18<Lloydi18>	can anyone help me out with that
+T 1394479017 18<Lloydi18>	save iar firstname lastname .....
+T 1394479027 18<Lloydi18>	how does one specify the inventory path?
+T 1394479046 18<Lloydi18>	from console
+T 1394479086 18<Lloydi18>	shouldn't it be /inventory 
+T 1394479201 18<Lloydi18>	oh snap i just figured out the "*" character works...lol
+T 1394479451 24*	cmickeyb has quit (Remote host closed the connection)
+T 1394479609 18<osmantis18>	Bug #7052:04 Map tiles no longer show in Map Tool in Viewer 14( http://opensimulator.org/mantis/view.php?id=7052 ): A NOTE has been added to this issue.
+T 1394480061 18<Lloydi18>	ahh scripts are work ing fine with a fresh db
+T 1394480069 18<Lloydi18>	hmmm
+T 1394480118 23*	SignpostMarv1 (~Marv@188-220-32-146.zone11.bethere.co.uk23) has joined
+T 1394480206 24*	SignpostMarv has quit (Ping timeout: 264 seconds)
+T 1394480487 18<Sked18>	ftcodes i find problem
+T 1394480526 18<Sked18>	i must fill in inventoryDescription too
+T 1394481077 18<ftcodes18>	actually that can be left empty
+T 1394481104 18<ftcodes18>	but you need that My Inventory folder
+T 1394481262 18<Sked18>	i have it
+T 1394481280 18<Sked18>	now i get everythink in inventory
+T 1394481297 18<Sked18>	only shape,skin and hair is problem
+T 1394481304 18<Sked18>	i am searching what is problem
+T 1394481320 18<ftcodes18>	shape and skin and hair have a different assetType 
+T 1394481329 18<Sked18>	yes this is problem
+T 1394481342 18<ftcodes18>	so you create them with that one
+T 1394481361 18<ftcodes18>	I gave you the hint to look how those look like when the viewer requests for the creation
+T 1394481367 18<Sked18>	i must create new assetID?
+T 1394481377 18<Sked18>	OK tnx
+T 1394481436 18<Sked18>	what assetType have skin,shape and hair
+T 1394481447 18<Sked18>	new one or the one from asset db
+T 1394481636 18<ftcodes18>	13
+T 1394481711 24*	|-fInE-| has quit (Read error: Connection reset by peer)
+T 1394481864 18<ftcodes18>	sked if you reuse the default items you still just have to use that asset uuid
+T 1394481905 18<Sked18>	for shape, hair and skin too
+T 1394481930 18<ftcodes18>	if you are going to create the default bodyparts simply yes
+T 1394481947 18<Sked18>	OK tnx
+T 1394482636 18<Sked18>	yeha its work
+T 1394482641 18<Sked18>	thank you so much
+T 1394482659 18<Lloydi18>	so grid service must be enabled to have userprofile work?
+T 1394482670 18<Lloydi18>	which does not in standalone... is that correct?
+T 1394482796 18<Lloydi18>	http://opensimulator.org/wiki/UserProfiles says I can configure it for standalone... this must not be true for varregions
+T 1394483476 18<osmantis18>	Bug #7052:04 Map tiles no longer show in Map Tool in Viewer 14( http://opensimulator.org/mantis/view.php?id=7052 ): A NOTE has been added to this issue.
+T 1394483487 23*	H-H-H (~H-H-H@host-92-20-231-214.as13285.net23) has joined
+T 1394483776 18<ftcodes18>	Lloydi from what I saw it is available for any DB except SQLite (which is the default shown in config file)
+T 1394483823 18<H-H-H18>	hey guys does anyone use the datasnapshot and search modules?
+T 1394484013 18<dahlia18>	H-H-H: we dont survey usage
+T 1394484170 18<H-H-H18>	well im trying to run them on master and according to the console they are initialized but nothing is being written to datasnapshot dir or to db :|
+T 1394484248 18<dahlia18>	oh.. no sorry I don't use them. No clue if/how they work
+T 1394484277 18<dahlia18>	maybe justin might know, could try asking when he's online
+T 1394484298 18<H-H-H18>	thanks for yor time anyway i will continue stepping through and see what is doing what or not as the case may be
+T 1394484308 18<H-H-H18>	your*
+T 1394484316 18<dahlia18>	np :)
+T 1394484914 18<Lloydi18>	ok so bots are not ready for varregions yet
+T 1394484947 18<Lloydi18>	and scripts 
+T 1394484970 18<Lloydi18>	having a time trying to get basic scripts to work on standalone varregion
+T 1394484996 18<Lloydi18>	Im done for today...
+T 1394485001 18<Lloydi18>	good day eveyrone
+T 1394485017 23*	RazLaptop (~Intertric@c-50-140-3-247.hsd1.fl.comcast.net23) has joined
+T 1394485017 23*	RazLaptop2 (~Intertric@c-50-140-3-247.hsd1.fl.comcast.net23) has joined
+T 1394485516 18<osmantis18>	Bug #7052:04 Map tiles no longer show in Map Tool in Viewer 14( http://opensimulator.org/mantis/view.php?id=7052 ): A NOTE has been added to this issue.
+T 1394486126 24*	Sked has quit (Quit: Page closed)
+T 1394486749 23*	|-fInE-| (~marcus@ppp-93-104-89-230.dynamic.mnet-online.de23) has joined
+T 1394486776 23*	RazLaptop3 (~Intertric@c-50-140-3-247.hsd1.fl.comcast.net23) has joined
+T 1394487230 24*	orenh has quit (Ping timeout: 265 seconds)
+T 1394487335 23*	jakdaniels_ (~jakdaniel@hengwm2.ateb.co.uk23) has joined
+T 1394487508 24*	jakdaniels has quit (Ping timeout: 244 seconds)
+T 1394487730 24*	mehdi-spynka has quit (Quit: Leaving.)
+T 1394487852 23*	paulie_flomar (~paulieflo@216.240.181.20923) has joined
+T 1394487936 24*	paulieflomar has quit (Ping timeout: 240 seconds)
+T 1394488089 24*	RazLaptop has quit (Ping timeout: 252 seconds)
+T 1394488097 24*	RazLaptop2 has quit (Ping timeout: 244 seconds)
+T 1394488129 24*	RazLaptop3 has quit (Ping timeout: 265 seconds)
+T 1394488198 24*	dmiles_afk has quit (Ping timeout: 264 seconds)
+T 1394488309 23*	RazLaptop (~Intertric@c-50-140-3-247.hsd1.fl.comcast.net23) has joined
+T 1394488438 24*	28ssm2017[Away] is now known as 18ssm2017
+T 1394489037 23*	newdog (~newdog@wsip-70-168-129-203.dc.dc.cox.net23) has joined
+T 1394489998 24*	randomhuman has quit (Ping timeout: 240 seconds)
+T 1394491433 24*	Wanderer_42 (~kvirc@dslb-084-060-147-023.pools.arcor-ip.net24) has left ("Bye")
+T 1394491474 24*	Abitar has quit (Ping timeout: 264 seconds)
+T 1394492595 24*	|-fInE-| has quit (Read error: Connection reset by peer)
+T 1394492759 23*	dubrovna (~dubrovna@50-81-51-31.client.mchsi.com23) has joined
+T 1394495484 24*	ftcodes has quit (Read error: Connection reset by peer)
+T 1394496002 24*	osmantis has quit (Remote host closed the connection)
+T 1394496019 23*	osmantis (~sdague@opensimulator.org23) has joined
+T 1394496600 23*	justincc (~justincc@cpc22-bour5-2-0-cust130.15-1.cable.virginm.net23) has joined
+T 1394496843 24*	H-H-H has quit (Quit: Leaving)
+T 1394497002 18<cia-opensim18>	5opensim: 3jjustincc * r77e7bbcbf753 OpenSim (36 files in 4 dirs)5:
+T 1394497003 18<cia-opensim18>	  Send group notices through the same messaging module mechanism used to send group chat to avoid timeout issues when sending messages to large groups.
+T 1394497004 18<cia-opensim18>	  
+T 1394497005 18<cia-opensim18>	  Only implementing for XmlRpcGroups initially to test.
+T 1394497006 18<cia-opensim18>	  May require MessageOnlineUsersOnly = true in [Groups] to be effective.
+T 1394497007 18<cia-opensim18>	  In relation to http://opensimulator.org/mantis/view.php?id=7037
+T 1394497008 18<cia-opensim18>	  2http://opensimulator.org/viewgit/?a=commit&p=opensim&h=77e7bbcbf753018074211ca8358c642dd7204f42
+T 1394497018 18<cia-opensim18>	5opensim: 3jjustincc * r932c9e757b1e / (37 files in 3 dirs)5:
+T 1394497019 18<cia-opensim18>	  Merge branch 'master' of ssh://opensimulator.org/var/git/opensim
+T 1394497020 18<cia-opensim18>	  2http://opensimulator.org/viewgit/?a=commit&p=opensim&h=932c9e757b1e4ba519ba9d486e9773290c5b3719
+T 1394497176 18<osjenkins18>	Starting build #3350 for job opensim » mono-2.10.8.1 (previous build: SUCCESS)
+T 1394497291 18<Melanie_T18>	justincc: ping
+T 1394497309 18<Melanie_T18>	justincc: group messaging offline users is an issue in principle, i think
+T 1394497314 18<justincc18>	hello Melanie_T
+T 1394497322 18<Melanie_T18>	justincc: it may need a long hard look at how it is done 
+T 1394497347 18<Melanie_T18>	justincc: as i would think a web/robust service to distribute to all offline users, apart from the sim, may be the way to go
+T 1394497354 18<justincc18>	yes, in diva's v2 groups she is only messaging online users as far as i can see
+T 1394497363 23*	dmiles_afk (~dmiles@c-50-137-36-57.hsd1.or.comcast.net23) has joined
+T 1394497367 18<Melanie_T18>	well, you want to message offline users
+T 1394497372 18<justincc18>	this is group message
+T 1394497375 18<Melanie_T18>	advertising should go out by im-to-email
+T 1394497385 18<Melanie_T18>	like it does in sl
+T 1394497390 18<Melanie_T18>	businesses depend o it
+T 1394497392 18<diva18>	it's configurable
+T 1394497393 18<Melanie_T18>	so do event venues
+T 1394497403 18<Melanie_T18>	so making it impossible is not really an option
+T 1394497414 18<osjenkins18>	Project opensim » mono-2.10.8.1 build #3350: SUCCESS in 6 min 47 sec: http://jenkins.opensimulator.org/job/opensim/./MONO_VERSION=mono-2.10.8.1/3350/
+T 1394497414 18<osjenkins18>	jjustincc: Send group notices through the same messaging module mechanism used to send group chat to avoid timeout issues when sending messages to large groups.
+T 1394497430 18<diva18>	thers's a config var that rules whether to foward messages to offline users or not. We had it off during the conference
+T 1394497472 18<justincc18>	is that in offline im?
+T 1394497491 18<diva18>	I don't remember, but I can look it up.
+T 1394497492 18<Melanie_T18>	i believe group notices are fully in the province of the groups modules
+T 1394497504 18<Melanie_T18>	control over how and what is done with them lies there
+T 1394497535 18<diva18>	brb
+T 1394497646 18<Plugh18>	I modified offline.php to send offline messages to email if the user hasn't said no to getting them via email.
+T 1394497673 18<Melanie_T18>	the new profile module in core actually saves the user's selection
+T 1394497683 18<Melanie_T18>	so you have that setting available now if you're not already using it
+T 1394497703 18<justincc18>	yeah, the issue is with naively sending messages to offline users rather than putting them into the offline store, which I'm assuming is what offline IM implements
+T 1394497712 18<Melanie_T18>	ye
+T 1394497720 18<Melanie_T18>	right now, the system leverages IM
+T 1394497725 18<Melanie_T18>	so every user is sent an IM
+T 1394497740 18<Melanie_T18>	that  goes through the usual presence check and user hunt
+T 1394497752 18<Melanie_T18>	but i know i added a bulk presence query api when i designed that
+T 1394497762 18<Melanie_T18>	so you could give all group members' ids to it
+T 1394497768 18<Melanie_T18>	and then send im to those who are online
+T 1394497778 18<Melanie_T18>	and pass the message plus the ids to save them for to another service
+T 1394497781 18<justincc18>	yes, diva groups and xmlrpc with the appropriate option already do that
+T 1394497806 18<justincc18>	as far as i can see, you wouldn't want to send group notices to offline users anyway, it looks like the mechanism is for them to pick them up some other time
+T 1394497866 18<Melanie_T18>	well, "sending" them means to put them into offline messaging
+T 1394497885 18<Melanie_T18>	whereas "not sending" would mean dropping them on the floor
+T 1394497889 18<Melanie_T18>	so you do want to "send" them
+T 1394497899 18<Melanie_T18>	you'd just not treat offline and online users the same
+T 1394497919 18<Melanie_T18>	but instead bypass the "presence check and sim hunting" part for those known to be offline anyway
+T 1394497939 18<Melanie_T18>	and you don't want to drop them on the floor
+T 1394497952 18<Melanie_T18>	group notices are the primary means for product announcements and events
+T 1394497954 18<justincc18>	looks like diva's offline im already may handle group notice undelivered
+T 1394497975 18<Melanie_T18>	i didn't read her code yet
+T 1394497999 18<Melanie_T18>	avination addressed this a long time ago but in a different way
+T 1394498010 18<Melanie_T18>	however, doing it this way would probably be better than what we did
+T 1394498048 18<Melanie_T18>	because even though we don't "check and hunt" we do call the web service once for each user to save the message for
+T 1394498069 18<Melanie_T18>	rather than doing it once and having the php multiply it
+T 1394498133 24*	danbanner has quit (Read error: Connection reset by peer)
+T 1394498136 18<osmantis18>	Bug #7035:04 Land Settings change 14( http://opensimulator.org/mantis/view.php?id=7035 ): A NOTE has been added to this issue.
+T 1394498173 18<osmantis18>	Bug #7035:04 Land Settings change 14( http://opensimulator.org/mantis/view.php?id=7035 ): A NOTE has been added to this issue.
+T 1394498364 18<osmantis18>	Bug #7037:04 Group Notices Cause Time Outs (Both V2 and Flostream) 14( http://opensimulator.org/mantis/view.php?id=7037 ): A NOTE has been added to this issue.
+T 1394498373 18<osmantis18>	Bug #7037:04 Group Notices Cause Time Outs (Both V2 and Flostream) 14( http://opensimulator.org/mantis/view.php?id=7037 ): requires your FEEDBACK.
+T 1394498579 24*	SignpostMarv1 has quit (Read error: Connection reset by peer)
+T 1394498678 18<Lloydi18>	think i found a bug today. trying to run pcambot on a var region
+T 1394498717 18<justincc18>	that wouldn't surprise me.  What happens?
+T 1394498767 18<Lloydi18>	just trying to remember the msg
+T 1394498787 18<Lloydi18>	it's something like it's can't recognize the land....
+T 1394498794 18<Lloydi18>	i can recreate it
+T 1394498798 18<Lloydi18>	if you want
+T 1394498828 18<justincc18>	tbh, I'm not in a hurry - there are a hundred other bugs crying for attention
+T 1394498840 18<Lloydi18>	: Unrecognized LayerData type LandExtended
+T 1394498871 18<Lloydi18>	still it's running like an iron horse!!!
+T 1394498875 18<Lloydi18>	I'm loving it
+T 1394498876 18<justincc18>	though it would be good to be able to stress test var regions with pcampbot
+T 1394498889 18<Lloydi18>	much better then I've seen "ever"
+T 1394498901 18<Lloydi18>	and i've been with ya for years actually
+T 1394498907 18<justincc18>	it is impressively performant
+T 1394498931 18<Lloydi18>	performant....
+T 1394498936 18<Lloydi18>	i love it yea
+T 1394498937 18<cia-opensim18>	5opensim: 3orenh * r120f872d2b2f OpenSim/Region/CoreModules/Framework/InventoryAccess (3InventoryAccessModule.cs)5:
+T 1394498938 18<cia-opensim18>	  After an object with KeyframeMotion is copied into inventory, resume the motion (previously it remained stopped)
+T 1394498939 18<cia-opensim18>	  2http://opensimulator.org/viewgit/?a=commit&p=opensim&h=120f872d2b2f58560ab026f35a9f523e8540d2c6
+T 1394498943 18<Melanie_T18>	well, varregions of course needed a different and format
+T 1394498946 18<osjenkins18>	Starting build #3351 for job opensim » mono-2.10.8.1 (previous build: SUCCESS)
+T 1394498957 18<Melanie_T18>	that's the major egg that had to be broken to make the varregion omelette
+T 1394498965 18<justincc18>	if pCampbot doesn't work then probably ordinary libomv bots don't work either
+T 1394498972 18<Lloydi18>	having an issue with profiles on standalone varregions also
+T 1394498974 18<Melanie_T18>	so anything that's a client will need to recognize that
+T 1394498975 18<justincc18>	esp with an error like you're describing
+T 1394498984 18<Lloydi18>	may be a config issue though
+T 1394498999 18<lkalif18>	I don't think libomv client supports that atm... well not sure
+T 1394499021 18<Lloydi18>	i was going to try and config robust this evening
+T 1394499028 18<Lloydi18>	for varregion
+T 1394499063 18<Lloydi18>	I'm like 95% their on a standalone config with everything working
+T 1394499084 18<Lloydi18>	1024x1024, 
+T 1394499106 18<Lloydi18>	actually i was very supprised when I could add smaller regions right beside it
+T 1394499118 18<justincc18>	radams has done a lot of work on this
+T 1394499124 18<Lloydi18>	i little buggy with visuals and console 
+T 1394499134 18<Melanie_T18>	i believe there are some detail issues to be sroted out for nonequal size neighbors
+T 1394499136 18<justincc18>	but it is a very complex change
+T 1394499136 18<Lloydi18>	but it's working!!!!
+T 1394499143 18<Lloydi18>	yea
+T 1394499149 18<Melanie_T18>	but the general principle is sound and allows it
+T 1394499158 18<Lloydi18>	I watched the bugs in aurora trying to get it working
+T 1394499165 18<Lloydi18>	for a looong time
+T 1394499175 18<osjenkins18>	Project opensim » mono-2.10.8.1 build #3351: SUCCESS in 3 min 53 sec: http://jenkins.opensimulator.org/job/opensim/./MONO_VERSION=mono-2.10.8.1/3351/
+T 1394499175 18<osjenkins18>	jjustincc: After an object with KeyframeMotion is copied into inventory, resume the motion (previously it remained stopped)
+T 1394499180 18<osmantis18>	Bug #6948:04 [PATCH] Resume motion of objects with KeyframeMotion  after they were copied into inventory 14( http://opensimulator.org/mantis/view.php?id=6948 ): has been RESOLVED.
+T 1394499203 18<Melanie_T18>	justincc: that is "take copy" of a moving object?
+T 1394499212 18*	Melanie_T probably forgot that case
+T 1394499217 18<justincc18>	I believe so
+T 1394499237 18<Melanie_T18>	i believe my original code stopped the motion
+T 1394499249 18<Melanie_T18>	because otherwise whwn you rez the taken object, it starts moving
+T 1394499254 18<Melanie_T18>	very disconcerting
+T 1394499258 18<Melanie_T18>	but i covered only tae
+T 1394499260 18<Melanie_T18>	take
+T 1394499264 18<Melanie_T18>	not take copy :/
+T 1394499549 18<Lloydi18>	i'm getting a huge amount of warnings about this "No way to resolve conflict between "Iconic.zip"... during compile.. Is there somthing I need to update to make this disappear?
+T 1394499619 18<justincc18>	you're compiling master?
+T 1394499628 18<Lloydi18>	yea varregion
+T 1394499643 18<justincc18>	how are you compiling?
+T 1394499651 18<Lloydi18>	default
+T 1394499656 18<Lloydi18>	all
+T 1394499658 18<Lloydi18>	lol
+T 1394499663 18<justincc18>	"nant all"?
+T 1394499667 18<Lloydi18>	no
+T 1394499673 18<osmantis18>	Bug #7037:04 Group Notices Cause Time Outs (Both V2 and Flostream) 14( http://opensimulator.org/mantis/view.php?id=7037 ): A NOTE has been added to this issue.
+T 1394499696 18<Lloydi18>	actually run prebuild then with VS 2010
+T 1394499724 18<justincc18>	ok, so my first suspcicion is that you have old dlls around which are referencing older ionic stuff, or similar
+T 1394499745 18<justincc18>	easiest in this case is to start in a fresh directory.  Slightly harder is to manually remove all OpenSim*.dll in bin before rebuilding
+T 1394499760 18<Lloydi18>	I do
+T 1394499762 18<justincc18>	if you were using nant I would say "nant clean" but you're not
+T 1394499765 18<Lloydi18>	it's a fresh dir
+T 1394499790 24*	Monday has quit (Ping timeout: 264 seconds)
+T 1394499797 18<Lloydi18>	thinking where I may use those dll's on something else
+T 1394499815 18<Lloydi18>	installed
+T 1394499818 18<Lloydi18>	not?
+T 1394499823 18<justincc18>	I doublt it's a clash with anything external
+T 1394499831 18<Lloydi18>	k
+T 1394499836 18<justincc18>	maybe you could pastebin the exact output
+T 1394499863 18<cia-opensim18>	5opensim: 3orenh * r0237d9113d3c OpenSim/Region/Framework/Scenes (3KeyframeMotion.cs)5:
+T 1394499864 18<cia-opensim18>	  Don't start KeyframeMotion timers until all the regions are ready. This prevents problems in megaregions (prims that think they've crossed over to other regions).
+T 1394499865 18<cia-opensim18>	  2http://opensimulator.org/viewgit/?a=commit&p=opensim&h=0237d9113d3cc510fcd9f94d53631c254b8a0351
+T 1394499871 18<osjenkins18>	Starting build #3352 for job opensim » mono-2.10.8.1 (previous build: SUCCESS)
+T 1394499881 18<Lloydi18>	http://pastebin.com/eBcdkmJC
+T 1394499902 18<Lloydi18>	it compiles without errors
+T 1394499921 18<Lloydi18>	so i'm happy, just wondering if it would cause issues during config
+T 1394499944 18<Melanie_T18>	justincc: do you think we can differentiate the naming a bit?
+T 1394499972 18<Melanie_T18>	the flag "RegionReady" could be confused with the RegionReady module and people may be led to believe that they need to configure and start that module
+T 1394500015 18<justincc18>	Lloydi: it's not going to be a probem here, the references to the dll are the same but for some reason one exists with a public key token and one without
+T 1394500033 18<Lloydi18>	good deal... Thank you!
+T 1394500079 18<justincc18>	Melanie_T: they are the same thing
+T 1394500098 18<osjenkins18>	Project opensim » mono-2.10.8.1 build #3352: SUCCESS in 3 min 51 sec: http://jenkins.opensimulator.org/job/opensim/./MONO_VERSION=mono-2.10.8.1/3352/
+T 1394500098 18<osjenkins18>	jjustincc: Don't start KeyframeMotion timers until all the regions are ready. This prevents problems in megaregions (prims that think they've crossed over to other regions).
+T 1394500110 18<Melanie_T18>	so that means having keyframe motion timers start (and keyframe to work) now requires the region ready module?
+T 1394500130 18<Melanie_T18>	that should not be necessary because that module also messages all scripts and that is not always desired
+T 1394500139 18<Melanie_T18>	that module should remain optional
+T 1394500209 18<Melanie_T18>	keyframe motions are a core thing - they should not depend on an optional module
+T 1394500213 18<justincc18>	no, if regionready is not active then ready is always true
+T 1394500214 18<justincc18>	they do not
+T 1394500218 18<Melanie_T18>	ok
+T 1394500235 18<Melanie_T18>	i'd just as soon remove regionready as i consider it a hack
+T 1394500241 18<Melanie_T18>	but people use it so it stays
+T 1394500245 18<Melanie_T18>	i still don't have to like it
+T 1394500250 18<justincc18>	why is it a hack?
+T 1394500258 18<Melanie_T18>	it's highly xengine specific
+T 1394500274 18<Melanie_T18>	any other script engine has no need for it
+T 1394500339 18<Melanie_T18>	but as i said, i'm not lobbying for removal - just don't want it made mandatory
+T 1394500395 18<osmantis18>	Bug #6947:04 [PATCH] Fixed disappearing prims that use KeyframeMotion, with megaregions 14( http://opensimulator.org/mantis/view.php?id=6947 ): has been RESOLVED.
+T 1394500508 23*	Luca_Peck (~Luca_Peck@194.230.155.6923) has joined
+T 1394500637 18<justincc18>	ok, time to get some rest now.  Goodnight folks
+T 1394500638 24*	justincc has quit (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+T 1394500776 24*	Luca_Peck has quit (Ping timeout: 244 seconds)
+T 1394501117 24*	Sanz_w7 has quit (Ping timeout: 244 seconds)
+T 1394501149 23*	Sanz_w7 (~Sanz_w7@unaffiliated/c-sanz23) has joined
+T 1394501485 24*	dubrovna has quit ()
+T 1394501516 24*	28ssm2017 is now known as 18ssm2017[Away]
+T 1394503359 24*	mcore has quit (Remote host closed the connection)
+T 1394508138 23*	dmiles (~dmiles@c-50-137-36-57.hsd1.or.comcast.net23) has joined
+T 1394508143 24*	dmiles_afk has quit (Read error: Connection reset by peer)
+T 1394508714 24*	Arielle_ has quit (Quit: Life without danger is a waste of oxygen)
+T 1394509723 23*	Ken_S (~IceChat77@c50-26-173-43.abilcmtk01.tx.dh.suddenlink.net23) has joined
+T 1394509864 18<osmantis18>	Bug #7053:04 Terrain editing causes high cpu usage for several minutes on minor editing. 14( http://opensimulator.org/mantis/view.php?id=7053 ): has been ASSIGNED.
+T 1394510049 18<osmantis18>	Bug #7008:04 Varregion Terrain very slow to load when teleporting in. Much slower than same exact oars loaded on a mega region 14( http://opensimulator.org/mantis/view.php?id=7008 ): has been UPDATED.
+T 1394510752 23*	djphil_ (~djphil@109.128.152.14323) has joined
+T 1394510904 24*	djphil has quit (Ping timeout: 240 seconds)
+T 1394511799 18<osmantis18>	Bug #7052:04 Map tiles no longer show in Map Tool in Viewer 14( http://opensimulator.org/mantis/view.php?id=7052 ): has a PATCH to be looked at.
+T 1394511889 18<osmantis18>	Bug #7052:04 [PATCH] Map tiles no longer show in Map Tool in Viewer 14( http://opensimulator.org/mantis/view.php?id=7052 ): has been UPDATED.
+T 1394512582 24*	RazLaptop has quit (Ping timeout: 252 seconds)
+T 1394514399 18<cia-opensim18>	5opensim: 3misterblue * r742f5054408b OpenSim (33 files in 3 dirs)5:
+T 1394514400 18<cia-opensim18>	  Change terrain update sending to be triggered by frame tick rather
+T 1394514401 18<cia-opensim18>	  than everytime terrain is changed.
+T 1394514402 18<cia-opensim18>	  
+T 1394514403 18<cia-opensim18>	  The TerrainModule now hooks the frame event and, if terrain has changed,
+T 1394514404 18<cia-opensim18>	  sends terrain updates to the clients. This polling pattern replaces
+T 1394514405 18<cia-opensim18>	  2http://opensimulator.org/viewgit/?a=commit&p=opensim&h=742f5054408bbd928ea2422dd9abc04ee57c80dc
+T 1394514408 18<osjenkins18>	Starting build #3353 for job opensim » mono-2.10.8.1 (previous build: SUCCESS)
+T 1394514591 24*	Lloydi has quit (Quit: Page closed)
+T 1394514635 18<osjenkins18>	Project opensim » mono-2.10.8.1 build #3353: SUCCESS in 3 min 51 sec: http://jenkins.opensimulator.org/job/opensim/./MONO_VERSION=mono-2.10.8.1/3353/
+T 1394514636 18<osjenkins18>	misterblue: Change terrain update sending to be triggered by frame tick rather
+T 1394514820 18<cia-opensim18>	5opensim: 3amy88smith * r3e8f593bf2ed / (32 files in 2 dirs)5:
+T 1394514821 18<cia-opensim18>	  PhysicalPrimMax to 64m for ini Default files to enable standard size prims and mesh to be used with vehicles.
+T 1394514822 18<cia-opensim18>	  
+T 1394514823 18<cia-opensim18>	  Signed-off-by: Robert Adams <misterblue@misterblue.com>
+T 1394514824 18<cia-opensim18>	  2http://opensimulator.org/viewgit/?a=commit&p=opensim&h=3e8f593bf2ed525dbd53ef9807382e9dc2a64c6d
+T 1394514828 18<osjenkins18>	Starting build #3354 for job opensim » mono-2.10.8.1 (previous build: SUCCESS)
+T 1394514832 18<cia-opensim18>	5opensim: 3amy88smith * r71c808cd32f6 bin (3OpenSim.ini.example)5:
+T 1394514833 18<cia-opensim18>	  PhysicalPrimMax 64m for OpenSim_ini_example standard size prim
+T 1394514834 18<cia-opensim18>	  
+T 1394514835 18<cia-opensim18>	  Signed-off-by: Robert Adams <misterblue@misterblue.com>
+T 1394514836 18<cia-opensim18>	  2http://opensimulator.org/viewgit/?a=commit&p=opensim&h=71c808cd32f6049d99b8d802d24ab1d07011fb48
+T 1394514844 18<cia-opensim18>	5opensim: 3misterblue * r6b17c9bd9875 / (3CONTRIBUTORS.txt)5:
+T 1394514845 18<cia-opensim18>	  Add Lani Global to CONTRIBUTORS.txt
+T 1394514846 18<cia-opensim18>	  2http://opensimulator.org/viewgit/?a=commit&p=opensim&h=6b17c9bd98751aae47e0f5e521ffba1f70e9980a
+T 1394514869 18<osmantis18>	Bug #7028:04 [PATCH] PhysicalPrimMax to 64m for ini Default files to enable standard size prims and mesh to be used with vehicles. 14( http://opensimulator.org/mantis/view.php?id=7028 ): A NOTE has been added to this issue.
+T 1394515086 18<osjenkins18>	Project opensim » mono-2.10.8.1 build #3354: SUCCESS in 3 min 51 sec: http://jenkins.opensimulator.org/job/opensim/./MONO_VERSION=mono-2.10.8.1/3354/
+T 1394515086 18<osjenkins18>	* misterblue: PhysicalPrimMax to 64m for ini Default files to enable standard size prims and mesh to be used with vehicles.
+T 1394515086 18<osjenkins18>	* misterblue: PhysicalPrimMax 64m for OpenSim_ini_example standard size prim
+T 1394515086 18<osjenkins18>	* misterblue: Add Lani Global to CONTRIBUTORS.txt
+T 1394515140 18<nebadon_18>	hey Misterblue
+T 1394515168 18<nebadon_18>	did you see this http://www.youtube.com/watch?v=j6LmH8Yv2C4
+T 1394515170 18<Plugh18>	Hey, nebadon.
+T 1394515173 18<nebadon_18>	hey Plugh
+T 1394515241 18<Plugh18>	Got an odd problem. A user had a problem with their account. Got things more or less fixed but items they create show  Unknown UserUMMAU4 for creator. They cleared viewer cache but that didn't help.
+T 1394515245 18<Plugh18>	Any ideas?
+T 1394515261 18<nebadon_18>	hmm
+T 1394515269 18<nebadon_18>	was the region restarted?
+T 1394515278 18<nebadon_18>	its probably cached in the user name cache
+T 1394515286 18<Plugh18>	Oh, ok.
+T 1394515291 18<dahlia18>	interesting video nebadon_ but I kinda thought aurora was stagnant and just about everyone left for the fork?
+T 1394515299 18<Plugh18>	nebadon_: That will happen in the morning.
+T 1394515312 18<nebadon_18>	not sure dahlia i dont follow development there at all, someone else pasted the video
+T 1394515316 20<Thonneve>30	Aurora got forked?
+T 1394515320 18<nebadon_18>	I just though maybe it was some code we could look at
+T 1394515330 18<nebadon_18>	make terrain editing better in opensim
+T 1394515334 18<dahlia18>	ya the fork is called "whitecore"
+T 1394515340 19<Plugh>	Thonneve: yes, it did.
+T 1394515364 20<Thonneve>30	Oh damn
+T 1394515403 18<Plugh18>	No idea how many people are working on the fork.
+T 1394515406 18<Ken_S18>	I watch aurora-dev and there has been virtually no activity there in ages
+T 1394515425 18<Ken_S18>	But there may be a new channel for the fork, idk
+T 1394515431 20<Thonneve>30	There hasn't been updates in 3 months or so?
+T 1394515454 18<Plugh18>	Aurora dev is dead at the moment.
+T 1394515486 20<Thonneve>30	I guess rev dissapeared or something
+T 1394515496 18<dahlia18>	I thought it was fly-man who forked it but Im not sure
+T 1394515521 18<Ken_S18>	White Star forked it I think
+T 1394515525 20<Thonneve>30	It was whitesomething I believe
+T 1394515531 20<Thonneve>30	White star sounds familiar yeah
+T 1394515566 24*	Plugh has quit (Quit: Leaving.)
+T 1394515944 24*	Sanz_w7 has quit ()
+T 1394516013 24*	Ken_S has quit (Read error: Connection reset by peer)
+T 1394516140 23*	orenh (~quassel@89-139-131-74.bb.netvision.net.il23) has joined
+T 1394516291 18<djphil_18>	Aurora-Sim forked is WhiteCore (Fly-man and Greytane)
+T 1394516297 23*	Ken_S (~IceChat77@c50-26-173-43.abilcmtk01.tx.dh.suddenlink.net23) has joined
+T 1394517484 18<Misterblue18>	I will have improved terrain editting in OpenSim soon... and terrain updating
+T 1394517535 18<djphil_18>	yeah this is a good thing
+T 1394517543 18<Ken_S18>	Faster var terrain updating will be GREATLY appreciated Mr. Blue.
+T 1394517582 18<djphil_18>	Have you tested terraforming in aurora
+T 1394517582 18<djphil_18>	it works very well and is pretty much terraform smoth
+T 1394517601 24*	osmantis has quit (Remote host closed the connection)
+T 1394517614 23*	osmantis (~sdague@216.245.194.4223) has joined
+T 1394517625 18<Misterblue18>	is 'terraforming' different than terrain editting?
+T 1394517655 18<djphil_18>	What's this then?
+T 1394517756 18<Misterblue18>	I was asking if Aurora had other terrain operations for 'terraforming' that were different than quicker/faster terrain editting
+T 1394517757 18<LiruCookies18>	I think they are the same, Misterblue, the land tab of build floater right?(rightmost square at the top)
+T 1394517767 18<dahlia18>	I'd probably considr "terraforming" and "terrain editing" to be the same thing, assuming a user is doing it from the viewer
+T 1394517792 18<dahlia18>	but terrain editing could also be done by a script or other program
+T 1394517833 18<dahlia18>	hmmm now that I think about it, i guess that would be terraforming also.... never mind :)
+T 1394517856 18<LiruCookies18>	Changing the form of land/terra/terrain
+T 1394517858 18<djphil_18>	here is terraon console command of Aurora-Sim
+T 1394517859 18<djphil_18>	http://pastebin.com/hmfzygUf
+T 1394517896 18<dahlia18>	djphil_: are those different than opensim?
+T 1394517982 18<Misterblue18>	those look the same as in OpenSim... although I want to add more parameters
+T 1394518000 18<djphil_18>	here is opensim : http://pastebin.com/iDAwA3WS
+T 1394518033 18<dahlia18>	those terrain commands have been there for ages, long before aurora ever existed
+T 1394518060 20<Thonneve>30	Iirc there where a lot of terrain changes at one point, but I may be mistaken
+T 1394518079 18<Misterblue18>	boy, Pastebin has gone ad crazy... there are like 40 sites getting refs from each page
+T 1394518089 18<dahlia18>	I know the brushes in opensim were pretty bad for a long time
+T 1394518138 18<Ken_S18>	Misterblue, did you happen to see my note regarding the secret to make ODE boats work in Bulletsim?
+T 1394518149 18<djphil_18>	I just see a different: "terrain stats"
+T 1394518185 18<djphil_18>	Aurora-Sim also has a module "fractal terrain"
+T 1394518209 18<Misterblue18>	I did Ken_S, I will look into that soon
+T 1394518225 18<djphil_18>	i have never tested brush in Aurora (and OS). ^^
+T 1394519942 24*	diva has quit (Ping timeout: 256 seconds)
+T 1394520400 23*	RazLaptop (~Intertric@c-65-34-239-133.hsd1.fl.comcast.net23) has joined
+T 1394520695 20<Thonneve>30	Wheres the stuff in opensim.ini for enable os functions?
+T 1394520706 18<nebadon_18>	[Xengine] section
+T 1394520760 20<Thonneve>30	And is it still AllowOSFunctions = UUIDHERE?
+T 1394520904 18<nebadon_18>	ya
+T 1394520907 18<nebadon_18>	there are other methods too
+T 1394520910 18<nebadon_18>	read the notes
+T 1394521001 20<Thonneve>30	I checked them out, but I get the feeling I have a wierd opensim.ini
+T 1394521308 20<Thonneve>30	I think I broke it now...
+T 1394521369 20<Thonneve>30	http://sprunge.us/GXBJ
+T 1394521375 20<Thonneve>30	Can you see anything wrong with that?
+T 1394521408 20<Thonneve>30	It's completely broken my scripting somehow
+T 1394521616 18<nebadon_18>	AllowMODFunctions
+T 1394521619 18<nebadon_18>	this is wrong
+T 1394521623 18<nebadon_18>	it a yes no on this one
+T 1394521629 18<nebadon_18>	or true false
+T 1394521632 20<Thonneve>30	Oh right
+T 1394521640 20<Thonneve>30	I thought you could put a UUID there aswell
+T 1394521666 20<Thonneve>30	Is it the same for AllowOsFunctions? or does that allow uuids?
+T 1394522041 20<Thonneve>30	Can I just use Allow_Severe?
+T 1394524522 24*	jakdaniels_ has quit (Ping timeout: 264 seconds)
+T 1394524881 19*	Now talking on 22#opensim-dev
+T 1394524881 22*	Topic for 22#opensim-dev is: [#opensim-dev] If you're looking for Stable, please use the last tagged stable release. If you're looking to report a bug, please visit http://opensimulator.org/mantis/. This is a development channel. Development topics are discussed here. For General chat, please visit #opensim
+T 1394524881 22*	Topic for 22#opensim-dev set by 26Melanie_T!~melanie@ip-178-203-112-69.unitymediagroup.de (24Sun Feb  9 11:23:54 2014)
+T 1394525281 23*	Monday (~Thursday@static-72-67-52-110.lsanca.fios.verizon.net23) has joined
+T 1394525396 23*	SignpostMarv (~Marv@188-220-32-146.zone11.bethere.co.uk23) has joined
+T 1394525739 23*	danbanner (~60115a87@unaffiliated/danbanner23) has joined
+T 1394526367 23*	jakdaniels (~jakdaniel@hengwm2.ateb.co.uk23) has joined
+T 1394527847 23*	randomhuman (~kevin@host39-208.statics.netsource.ie23) has joined
+T 1394528524 23*	mehdi-spynka (~spynka@mne69-7-82-243-147-14.fbx.proxad.net23) has joined
+T 1394529454 24*	mehdi-spynka has quit (Read error: Connection reset by peer)
+T 1394530616 23*	nebadon2 (~nebadon@c-50-166-84-181.hsd1.nj.comcast.net23) has joined
+T 1394530772 24*	nebadon_ has quit (Ping timeout: 245 seconds)
+T 1394530773 23*	|-fInE-| (~marcus@ppp-93-104-77-13.dynamic.mnet-online.de23) has joined
+T 1394531851 18<osmantis18>	Bug #7052:04 [PATCH] Map tiles no longer show in Map Tool in Viewer 14( http://opensimulator.org/mantis/view.php?id=7052 ): A NOTE has been added to this issue.
+T 1394532587 18<osmantis18>	Bug #7028:04 [PATCH] PhysicalPrimMax to 64m for ini Default files to enable standard size prims and mesh to be used with vehicles. 14( http://opensimulator.org/mantis/view.php?id=7028 ): A NOTE has been added to this issue.
+T 1394534028 23*	H-H-H (~H-H-H@host-92-20-231-214.as13285.net23) has joined
+T 1394537042 24*	Monday has quit (Quit: Bye)
+T 1394537320 24*	|-fInE-| (~marcus@ppp-93-104-77-13.dynamic.mnet-online.de24) has left
+T 1394537323 23*	|-fInE-| (~marcus@ppp-93-104-77-13.dynamic.mnet-online.de23) has joined
+T 1394537789 24*	H-H-H has quit (Ping timeout: 240 seconds)
+T 1394538751 23*	vegaslon (~vegaslon@adsl-065-013-015-147.sip.asm.bellsouth.net23) has joined
+T 1394539203 24*	osmantis has quit (Remote host closed the connection)
+T 1394539218 23*	osmantis (~sdague@opensimulator.org23) has joined
+T 1394539583 23*	Sanz_w7 (~Sanz_w7@unaffiliated/c-sanz23) has joined
+T 1394541253 23*	Lloydi (4bb041bf@gateway/web/freenode/ip.75.176.65.19123) has joined
+T 1394541348 18<osmantis18>	Bug #7052:04 [PATCH] Map tiles no longer show in Map Tool in Viewer 14( http://opensimulator.org/mantis/view.php?id=7052 ): A NOTE has been added to this issue.
+T 1394541813 18<Lloydi18>	Good Day everyone!
+T 1394541857 18<|-fInE-|18>	hello Lloydi
+T 1394541857 18<osmantis18>	Bug #7052:04 [PATCH] Map tiles no longer show in Map Tool in Viewer 14( http://opensimulator.org/mantis/view.php?id=7052 ): A NOTE has been added to this issue.
+T 1394546283 19*	Now talking on 22#opensim-dev
+T 1394546283 22*	Topic for 22#opensim-dev is: [#opensim-dev] If you're looking for Stable, please use the last tagged stable release. If you're looking to report a bug, please visit http://opensimulator.org/mantis/. This is a development channel. Development topics are discussed here. For General chat, please visit #opensim
+T 1394546283 22*	Topic for 22#opensim-dev set by 26Melanie_T!~melanie@ip-178-203-112-69.unitymediagroup.de (24Sun Feb  9 11:23:54 2014)
+T 1394547209 24*	28ssm2017[Away] is now known as 18ssm2017

@@ -1,0 +1,502 @@
+T 1394123451 18<Emdek18>	[20:48:26] for now ask system to open it
+T 1394123451 18<Emdek18>	[20:49:10] in future it will be handled by mail module, as long as it is enabled
+T 1394123451 18<Sh1fty18>	[20:49:39] any plans for a generic protocol handling module?
+T 1394123451 18<Emdek18>	[20:49:50] now I've just fixed actions in context menu, they used to be the same like for egular links and it didn't make any sense ;-)
+T 1394123451 18<Carpetsmoker18>	[20:49:55] WebHandeler would also be cool. ie; https://www.fastmail.fm/action/compose/?mailto=%s
+T 1394123451 18<Sh1fty18>	[20:50:52] mailto uses a bit more than that
+T 1394123451 18<Sh1fty18>	[20:51:22] http://en.wikipedia.org/wiki/Mailto
+T 1394123451 18<Emdek18>	[20:51:23] yes, it was planned, but more like for modules that open own windows
+T 1394123451 18<Emdek18>	[21:01:21] bye
+T 1394123451 18<shannow18>	[03:13:04] http://slashdot.org/story/199031
+T 1394123451 18<shannow18>	[03:13:06] !
+T 1394123451 18<***18>	Buffer Playback Complete.
+T 1394123517 20*	You are now known as 18Thonneve
+T 1394124112 23*	bajasoft (~Dogmeat@109.69.211.2323) has joined
+T 1394126293 24*	plfiorini has quit (Read error: Operation timed out)
+T 1394128640 23*	ggr (~ggr@gprs-inet-65-205.elisa.ee23) has joined
+T 1394131953 24*	ggr has quit (Quit: process loop() signal timeout)
+T 1394132674 24*	Grzechooo has quit ()
+T 1394135336 24*	AlexRussia has quit (Remote host closed the connection)
+T 1394135404 23*	AlexRussia (~manjaro@unaffiliated/alexrussia23) has joined
+T 1394136096 23*	Kohlio (~kohlrabi@kohlio.de23) has joined
+T 1394136219 24*	Kohlrabi has quit (Quit: No Ping reply in 180 seconds.)
+T 1394136225 23*	twied (~twied@188.174.92.15123) has joined
+T 1394137345 24*	twied has quit (Quit: Leaving.)
+T 1394140946 23*	RedM (~redw@89-73-179-171.dynamic.chello.pl23) has joined
+T 1394141016 24*	RedW has quit (Ping timeout: 264 seconds)
+T 1394142353 24*	lagothrix has quit (Remote host closed the connection)
+T 1394142795 23*	lagothrix (~lagothrix@unaffiliated/lagothrix23) has joined
+T 1394142983 24*	Carpetsmoker (~Carpetsmo@82.95.88.4824) has left
+T 1394143568 23*	Not-002 (~notifico@198.199.82.21623) has joined
+T 1394143568 18<Not-00218>	[02otter] 07Emdek pushed 031 commit to 03master [+3/-0/±3] 13http://git.io/rGaHgQ
+T 1394143571 18<Not-00218>	[02otter] 07Emdek 03840c9f9 - Add draft of UI to manage User Agent definitions
+T 1394143756 18<Not-00218>	[02otter] 07Emdek pushed 031 commit to 03master [+0/-0/±3] 13http://git.io/xIDZiQ
+T 1394143759 18<Not-00218>	[02otter] 07Emdek 031e3a966 - Drop unused description
+T 1394143785 18<Emdek18>	bye
+T 1394143788 24*	Emdek has quit (Remote host closed the connection)
+T 1394143993 24*	bajasoft has quit ()
+T 1394147256 24*	AlexRussia has quit (Ping timeout: 240 seconds)
+T 1394148864 23*	Necro|senseless (~Necro@ip-37-201-46-67.unitymediagroup.de23) has joined
+T 1394148912 24*	Necromantic has quit (Ping timeout: 252 seconds)
+T 1394157831 23*	michalin1 (michalind@gateway/shell/mydevil.net/x-mzdkmhwoclpxsivk23) has joined
+T 1394157910 23*	CucumisS1 (zxcv@gateway/shell/mydevil.net/x-xwgsethirpvqbbed23) has joined
+T 1394158031 24*	michalind has quit (Ping timeout: 240 seconds)
+T 1394158032 24*	toruvinn has quit (Ping timeout: 240 seconds)
+T 1394158032 24*	danderss1n has quit (Ping timeout: 240 seconds)
+T 1394158033 24*	CucumisSativus has quit (Ping timeout: 240 seconds)
+T 1394158098 23*	dandersson (~daniel@c83-248-174-166.bredband.comhem.se23) has joined
+T 1394158544 23*	toruvinn (~toruvinn@79.139.2.19523) has joined
+T 1394158978 18<shannow18>	https://scontent-b-atl.xx.fbcdn.net/hphotos-frc3/t1/p403x403/1489118_433953956707306_603738330_n.jpg
+T 1394159058 23*	danderss1n (~daniel@c83-248-174-166.bredband.comhem.se23) has joined
+T 1394159713 24*	Kohlio has quit (*.net *.split)
+T 1394159713 24*	KoH_ has quit (*.net *.split)
+T 1394159714 24*	danderss1n has quit (*.net *.split)
+T 1394159714 24*	RedM has quit (*.net *.split)
+T 1394159715 24*	vOYtEC__ has quit (*.net *.split)
+T 1394159717 24*	dandersson has quit (*.net *.split)
+T 1394159718 24*	Not-002 has quit (*.net *.split)
+T 1394159719 24*	CucumisS1 has quit (*.net *.split)
+T 1394159719 24*	michalin1 has quit (*.net *.split)
+T 1394159720 24*	lagothrix has quit (*.net *.split)
+T 1394159720 24*	Lakitu7_ has quit (*.net *.split)
+T 1394159721 24*	shannow has quit (*.net *.split)
+T 1394159721 24*	malcolmlewis has quit (*.net *.split)
+T 1394159722 24*	WOFall has quit (*.net *.split)
+T 1394159722 24*	Isarra has quit (*.net *.split)
+T 1394159723 24*	toruvinn has quit (*.net *.split)
+T 1394159723 24*	Heis has quit (*.net *.split)
+T 1394159724 24*	Sh1fty has quit (*.net *.split)
+T 1394159725 24*	mmint has quit (*.net *.split)
+T 1394159726 24*	Smar has quit (*.net *.split)
+T 1394159728 24*	pegro1 has quit (*.net *.split)
+T 1394159728 24*	KanjiMonster has quit (*.net *.split)
+T 1394159728 24*	Perlovka has quit (*.net *.split)
+T 1394159729 24*	Necro|senseless has quit (*.net *.split)
+T 1394159730 24*	eki has quit (*.net *.split)
+T 1394159730 24*	morsik has quit (*.net *.split)
+T 1394161354 23*	Heis (~quassel@p57AFD9B2.dip0.t-ipconnect.de23) has joined
+T 1394161567 24*	Heis has quit (*.net *.split)
+T 1394161919 23*	Heis (~quassel@p57AFD9B2.dip0.t-ipconnect.de23) has joined
+T 1394162161 23*	lagothrix (~lagothrix@p4FCBABC2.dip0.t-ipconnect.de23) has joined
+T 1394163087 23*	Lakitu7 (~Lakitu7@71.19.148.3423) has joined
+T 1394163087 23*	michalind (michalind@gateway/shell/mydevil.net/session23) has joined
+T 1394163087 23*	CucumisS1 (zxcv@gateway/shell/mydevil.net/x-xwgsethirpvqbbed23) has joined
+T 1394170669 19*	Now talking on 22#otter-browser
+T 1394170669 22*	Topic for 22#otter-browser is: Otter Browser | http://otter-browser.org/ | http://6g6.eu/otter-get-involved | http://6g6.eu/otter-forum | Third alpha released!
+T 1394170669 22*	Topic for 22#otter-browser set by 26Emdek!~quassel@adec72.neoplus.adsl.tpnet.pl (24Sat Mar  1 18:39:53 2014)
+T 1394174304 23*	lagothri1 (~lagothrix@p4FCB8D63.dip0.t-ipconnect.de23) has joined
+T 1394174311 24*	lagothrix has quit (Ping timeout: 265 seconds)
+T 1394176831 23*	Emdek (~quassel@src74-188.pwn.maverick.com.pl23) has joined
+T 1394178819 23*	bajasoft (5e7cb902@gateway/web/freenode/ip.94.124.185.223) has joined
+T 1394178819 23*	shannow (~aCidCraCk@c-68-54-232-167.hsd1.tn.comcast.net23) has joined
+T 1394178819 23*	malcolmlewis (~malcolmle@184-155-244-67.cpe.cableone.net23) has joined
+T 1394178819 23*	KoH_ (~kane@trir-5d805a29.pool.mediaWays.net23) has joined
+T 1394178819 23*	Kohlrabi (~kohlrabi@kohlio.de23) has joined
+T 1394178819 23*	danderss1n (~daniel@c83-248-174-166.bredband.comhem.se23) has joined
+T 1394178819 23*	toruvinn (~toruvinn@79.139.2.19523) has joined
+T 1394178819 23*	Necro|senseless (~Necro@ip-37-201-46-67.unitymediagroup.de23) has joined
+T 1394178819 23*	RedM (~redw@89-73-179-171.dynamic.chello.pl23) has joined
+T 1394178819 23*	vOYtEC__ (vOYtEC@62.244.11.4223) has joined
+T 1394178819 23*	Sh1fty (sh1fty@unaffiliated/sh1fty23) has joined
+T 1394178819 23*	WOFall (wofall@unaffiliated/wofall23) has joined
+T 1394178819 23*	Isarra (~root@wikimedia/Isarra23) has joined
+T 1394178819 23*	mmint (~mmint@unaffiliated/mmint23) has joined
+T 1394178819 23*	eki (~eki@cs165177.pp.htv.fi23) has joined
+T 1394178819 23*	Smar (smar@freenet/translator/finnish/Smar23) has joined
+T 1394178819 23*	morsik (morsik@ssh.darkcloud.pl23) has joined
+T 1394178819 23*	pegro1 (~pegro@2001:638:904:ffc3:290:27ff:fe1e:cc1723) has joined
+T 1394178819 23*	KanjiMonster (~KanjiMons@jogo-1-pt.tunnel.tserv6.fra1.ipv6.he.net23) has joined
+T 1394178819 23*	Perlovka (perlovka@fsf/member/Perlovka23) has joined
+T 1394178819 22*	26dickson.freenode.net gives channel operator status to 18morsik
+T 1394179001 24*	michalind has quit (Changing host)
+T 1394179001 23*	michalind (michalind@gateway/shell/mydevil.net/x-jnbohcbmvptpgtzt23) has joined
+T 1394179011 24*	Lakitu7 has quit (Changing host)
+T 1394179011 23*	Lakitu7 (~Lakitu7@tremulous/developer/Lakitu723) has joined
+T 1394180031 24*	Emdek has quit (Quit: http://quassel-irc.org - Chat comfortably. Anywhere.)
+T 1394180038 23*	Emdek (~quassel@src74-188.pwn.maverick.com.pl23) has joined
+T 1394180038 22*	26ChanServ gives channel operator status to 18Emdek
+T 1394185223 20*	Disconnected (20Invalid argument)
+T 1394185235 19*	Now talking on 22#otter-browser
+T 1394185235 22*	Topic for 22#otter-browser is: Otter Browser | http://otter-browser.org/ | http://6g6.eu/otter-get-involved | http://6g6.eu/otter-forum | Third alpha released!
+T 1394185235 22*	Topic for 22#otter-browser set by 26Emdek!~quassel@adec72.neoplus.adsl.tpnet.pl (24Sat Mar  1 18:39:53 2014)
+T 1394185930 23*	plfiorini (~plfiorini@sei.yacme.com23) has joined
+T 1394191264 23*	twied (~twied@ppp-188-174-9-207.dynamic.mnet-online.de23) has joined
+T 1394193998 24*	Emdek has quit (Ping timeout: 240 seconds)
+T 1394196960 23*	SaphirJD (~SaphirJD@88-117-126-69.adsl.highway.telekom.at23) has joined
+T 1394197997 23*	Chocimier (~quassel@gjd195.internetdsl.tpnet.pl23) has joined
+T 1394199356 23*	Chocimier_ (~quassel@gjd195.internetdsl.tpnet.pl23) has joined
+T 1394199498 24*	Chocimier_ has quit (Remote host closed the connection)
+T 1394202530 23*	Grzechooo (ja@89-70-134-166.dynamic.chello.pl23) has joined
+T 1394202755 23*	Emdek (~quassel@ahz136.neoplus.adsl.tpnet.pl23) has joined
+T 1394202755 22*	26ChanServ gives channel operator status to 18Emdek
+T 1394203142 24*	bajasoft has quit (Quit: Page closed)
+T 1394204025 23*	AlexRussia (~manjaro@unaffiliated/alexrussia23) has joined
+T 1394206201 24*	AlexRussia has quit (Ping timeout: 240 seconds)
+T 1394206445 23*	bajasoft (~Dogmeat@109.69.211.2323) has joined
+T 1394206703 24*	malcolmlewis has quit (Read error: Operation timed out)
+T 1394207709 23*	malcolmlewis (~malcolmle@opensuse/member/malcolmlewis23) has joined
+T 1394208625 24*	plfiorini has quit (Read error: Connection timed out)
+T 1394208756 23*	plfiorini (~plfiorini@sei.yacme.com23) has joined
+T 1394211487 24*	danderss1n has quit (Read error: Operation timed out)
+T 1394211534 23*	danderss1n (~daniel@c83-248-174-166.bredband.comhem.se23) has joined
+T 1394213459 23*	mulander (uid1766@gateway/web/irccloud.com/x-kdidvzuepmotcrev23) has joined
+T 1394214752 24*	plfiorini has quit (Quit: Sto andando via)
+T 1394214807 24*	Chocimier has quit (Remote host closed the connection)
+T 1394215162 24*	shannow has quit (Ping timeout: 252 seconds)
+T 1394215363 23*	shannow (~aCidCraCk@c-68-54-232-167.hsd1.tn.comcast.net23) has joined
+T 1394217139 23*	Carpetsmoker (~Carpetsmo@82.95.88.4823) has joined
+T 1394220926 23*	ggr (~ggr@gprs-inet-65-117.elisa.ee23) has joined
+T 1394221442 24*	Grzechooo has quit ()
+T 1394223060 24*	twied has quit (Quit: Leaving.)
+T 1394223380 23*	SaphirJD^Laptop (~SaphirJD@88-117-126-69.adsl.highway.telekom.at23) has joined
+T 1394226715 24*	ggr has quit (Quit: good night)
+T 1394228221 23*	Grzechooo (~ja@89-70-134-166.dynamic.chello.pl23) has joined
+T 1394228495 24*	Grzechooo has quit (Ping timeout: 264 seconds)
+T 1394229371 23*	Not-001 (~notifico@198.199.82.21623) has joined
+T 1394229371 18<Not-00118>	[02otter] 07Emdek pushed 031 commit to 03master [+0/-0/±3] 13https://github.com/Emdek/otter/compare/1e3a96668bf2...c265d9d79f5f
+T 1394229373 18<Not-00118>	[02otter] 07Emdek 03c265d9d - Enable "Manage..." button
+T 1394229778 18<Emdek18>	bye
+T 1394229780 24*	Emdek has quit (Remote host closed the connection)
+T 1394231853 24*	Heis has quit (Remote host closed the connection)
+T 1394231971 23*	Heis (~quassel@p57AFD9B2.dip0.t-ipconnect.de23) has joined
+T 1394233642 24*	SaphirJD^Laptop has quit (Quit: ChatZilla 0.9.90.1-rdmsoft [XULRunner 22.0/20130619132145])
+T 1394234157 23*	sergeyuv (~sergeyuv@91.207.117.11023) has joined
+T 1394234236 24*	bajasoft has quit ()
+T 1394239791 19*	Now talking on 22#otter-browser
+T 1394239791 22*	Topic for 22#otter-browser is: Otter Browser | http://otter-browser.org/ | http://6g6.eu/otter-get-involved | http://6g6.eu/otter-forum | Third alpha released!
+T 1394239791 22*	Topic for 22#otter-browser set by 26Emdek!~quassel@adec72.neoplus.adsl.tpnet.pl (24Sat Mar  1 18:39:53 2014)
+T 1394241077 19*	Now talking on 22#otter-browser
+T 1394241077 22*	Topic for 22#otter-browser is: Otter Browser | http://otter-browser.org/ | http://6g6.eu/otter-get-involved | http://6g6.eu/otter-forum | Third alpha released!
+T 1394241077 22*	Topic for 22#otter-browser set by 26Emdek!~quassel@adec72.neoplus.adsl.tpnet.pl (24Sat Mar  1 18:39:53 2014)
+T 1394246942 23*	Heis_ (~quassel@p57AFDAC6.dip0.t-ipconnect.de23) has joined
+T 1394247132 24*	Heis has quit (Ping timeout: 265 seconds)
+T 1394259633 23*	Sausage (sausage@tehsausage.com23) has joined
+T 1394268568 23*	ggr (~ggr@gprs-inet-65-117.elisa.ee23) has joined
+T 1394268726 23*	WOFall_ (wofall@unaffiliated/wofall23) has joined
+T 1394268964 24*	WOFall has quit (*.net *.split)
+T 1394268964 24*	Isarra has quit (*.net *.split)
+T 1394269032 23*	Isarra (~root@wikimedia/Isarra23) has joined
+T 1394271325 24*	ggr has quit (Quit: happy women's day)
+T 1394275098 23*	bajasoft (~Dogmeat@109.69.211.2323) has joined
+T 1394275749 23*	Grzechooo (ja@89-70-134-166.dynamic.chello.pl23) has joined
+T 1394275814 24*	sergeyuv has quit (Ping timeout: 265 seconds)
+T 1394278172 23*	SaphirJD^Laptop (~SaphirJD@194-166-173-162.adsl.highway.telekom.at23) has joined
+T 1394278258 24*	SaphirJD has quit (Ping timeout: 244 seconds)
+T 1394278271 24*	28SaphirJD^Laptop is now known as 18SaphirJD
+T 1394282026 23*	ggr (~ggr@gprs-inet-65-113.elisa.ee23) has joined
+T 1394283029 23*	Emdek (~quassel@adgc65.neoplus.adsl.tpnet.pl23) has joined
+T 1394283029 22*	26ChanServ gives channel operator status to 18Emdek
+T 1394283187 24*	ggr has quit (Quit: bbl)
+T 1394285053 23*	Frenzie (~fransdejo@91.176.242.4323) has joined
+T 1394285056 18<Frenzie18>	@Emdek Is the default language British English?
+T 1394285143 18<Emdek18>	Frenzie: by default you mean that of source strings? probably more like American English
+T 1394285180 18<Frenzie18>	Ok, so "startup behaviour" should be changed to "startup behavior" then.
+T 1394285192 18<Frenzie18>	I mean, I'll do that. ;)
+T 1394285202 18<Emdek18>	ok :-)
+T 1394285558 18<Frenzie18>	I noticed that all the options in "Activate the last active tab" etc. are basically copied verbatim from Opera.
+T 1394285564 18<Frenzie18>	Maybe they should be paraphrased slightly?
+T 1394285634 18<Emdek18>	it is not necessary
+T 1394285666 18<Frenzie18>	Ok
+T 1394285844 18<Frenzie18>	http://www.w3.org/TR/CSS21/fonts.html#value-def-generic-family <- so what's the "fantasy" font family? O_o
+T 1394285889 18<Frenzie18>	I've been writing CSS for years and I either never noticed or long since forgot about it :P
+T 1394285913 18<Frenzie18>	And the Otter (?) default is Comic Sans MS!
+T 1394285920 18<Carpetsmoker18>	Fantasy fonts, as used in CSS, are primarily decorative while still containing representations of characters (as opposed to Pi or Picture fonts, which do not represent characters). Examples include:Latin fonts 	Alpha Geometrique, Critter, Cottonwood, FB Reactor, Studz
+T 1394285952 18<Frenzie18>	It was a bit of a rhetorical question, but thanks. :)
+T 1394285972 18<Frenzie18>	It just looked so silly xD
+T 1394285974 18<Carpetsmoker18>	I don't think I've ever used it
+T 1394285990 18<Emdek18>	Frenzie: it is default in QtWebKit
+T 1394286010 18<Frenzie18>	Anyway, I'm kinda wondering if "category" is quite the right word there, but "generic font family" hardly is any better.
+T 1394286098 18<Emdek18>	for sure there is need for "audit" ;-)
+T 1394286305 23*	dinadmin (~dinadmin@82.146.45.623) has joined
+T 1394286389 18<Frenzie18>	Does proportional and fixed font refer to the width of letters like i and w or to something else?
+T 1394286440 18<Frenzie18>	because if so, perhaps I'm weird but it took me a moment before I realized fixed probably meant monospaced
+T 1394286461 18<Frenzie18>	Anyway, if taht's what it means I propose "fixed-width"
+T 1394286486 18<Frenzie18>	i.e. Default fixed-width font size:
+T 1394286528 18<Emdek18>	CSS specification says "monospace" http://www.w3.org/TR/CSS2/fonts.html#generic-font-families
+T 1394286568 18<Frenzie18>	Sure, but I'm a minor typography as well as CSS geek.
+T 1394286579 18<Frenzie18>	I think fixed-width is probably more transparent
+T 1394286601 18<Frenzie18>	In any case, either is better than plain "fixed"
+T 1394286605 18<Frenzie18>	imo
+T 1394286619 18<Emdek18>	feel free to change that one too
+T 1394286674 18<Frenzie18>	Hm, how do I get to the font "category" names?
+T 1394286685 18<Frenzie18>	They're not in PreferencesDialog.ui from what I can see.
+T 1394286762 18<Emdek18>	PreferencesDialog.cpp
+T 1394286793 18<Frenzie18>	thx
+T 1394287090 23*	ggr (~ggr@143.122.191.90.dyn.estpak.ee23) has joined
+T 1394287597 18<Frenzie18>	https://github.com/Frenzie/otter/commit/129e5fb94caf00c8ed1212fe1ec0978a2fd6f06a
+T 1394287597 18<Frenzie18>	Okay, here's what I came up with. Is it okay by your standards?
+T 1394287643 18<Emdek18>	aparrently your editor converted tabs to spaces
+T 1394287706 18<Frenzie18>	I just noticed. Why would it do that. O_o (PS the editor is Qt Creator.)
+T 1394287709 18<Emdek18>	https://github.com/Frenzie/otter/commit/129e5fb94caf00c8ed1212fe1ec0978a2fd6f06a#diff-aebf3950b823d2fbc3942eb62ff7997aR96 - here
+T 1394287733 18<Frenzie18>	I never even touched that part of the line.
+T 1394287750 18<Emdek18>	kind of unwanted feature
+T 1394287770 18<Emdek18>	it usually converts them in whole file, not just edited lines...
+T 1394287785 18<Frenzie18>	It's fine if it defaults to spaces (although I prefer tabs), but I think it should leave what's there the hell alone.
+T 1394287869 18<Carpetsmoker18>	Mixing tabs & spaces is even worse than just using spaces
+T 1394288083 18<Frenzie18>	Only if you mix them improperly. Anyway, the only reason I used Qt Creator is 'cause I didn't want something like this to happen. :(
+T 1394288113 18<Frenzie18>	(Not that I'm in favor of mixing them, but there's mixing and mixing.)
+T 1394288153 18<Frenzie18>	I told the program to indent with tabs and it's still inserting spaces.
+T 1394288166 18<Frenzie18>	And anyway, I reiterate I didn't create any new lines or anything.
+T 1394288176 18<Frenzie18>	I only edited a couple of characters inside a single line.
+T 1394288199 18<Frenzie18>	So it decided to convert that line from tabs to spaces
+T 1394288201 18<Frenzie18>	and that line only
+T 1394288216 18<Frenzie18>	so it did something horrible by any measure
+T 1394288531 18<Emdek18>	Frenzie: you have to edit coding style, in Options/C++
+T 1394288589 18<Emdek18>	you need to copy it first, then modify
+T 1394288682 18<Frenzie18>	Kill, kill, kill.
+T 1394288782 18<bajasoft18>	hello
+T 1394288798 18<Emdek18>	bajasoft: hello
+T 1394288897 18<Emdek18>	Frenzie: I'm not sure about that fixed-width... both classic Opera and Firefox use "monospace" 
+T 1394288962 18<Frenzie18>	http://en.wikipedia.org/wiki/Monospaced_font
+T 1394289003 18<Emdek18>	sure, but I guess that users are already familiar with "monospace"
+T 1394289043 18<bajasoft18>	Emdek: I have finally found a time to create a branch with my lookupHost part for AddressWidget. You can do some review if you have a time. I had some troubles with it (broken merge and old backup). But it should be fine now.
+T 1394289063 18<Emdek18>	bajasoft: ok :-)
+T 1394289139 18<Not-00118>	[02otter] 07Emdek pushed 032 commits to 03master [+0/-0/±4] 13http://git.io/SVcm-w
+T 1394289141 18<Not-00118>	[02otter] 07Frenzie 03febc778 - Improved consistency and user-centeredness of preferences.
+T 1394289143 18<Not-00118>	[02otter] 07Emdek 0322d34c8 - Merge pull request #209 from Frenzie/master Improved consistency and user-centeredness of preferences.
+T 1394289575 18<Frenzie18>	@Emdek We'll keep monospaced fonts in mind. :) I think Otter has a huge heads-up on other browsers here because of the preview, actually. In Fx you have to click Help to find out what it might mean.
+T 1394289762 18<Emdek18>	it could be even better, if there would be enough space to add preview widget similar to that from KDE configuration: http://im9.eu/picture/fb4276
+T 1394290133 18<Frenzie18>	Reminds me of the Windows appearance dialog.
+T 1394290700 18<Emdek18>	Frenzie: Windows? even IceWM has better theming capabilities by default ;-)
+T 1394290797 18<Frenzie18>	I don't know about theming, but I always thought this was fairly decent: http://www.help.clarosoftwaredownloads.com/help_files/images/Window%20Color%20and%20Appearance.png
+T 1394290805 18<Frenzie18>	It's been pretty much exactly the same since Windows 3.
+T 1394290822 18<Frenzie18>	Although since Vista they kinda broke it.
+T 1394290869 18<Emdek18>	yeah, I remember that dialog
+T 1394290895 18<Emdek18>	AFAIR font settings are something new
+T 1394290956 18<Frenzie18>	If by "new" you mean Windows 95, possibly, although I don't think so.
+T 1394290989 18<Frenzie18>	;)
+T 1394291005 18<Frenzie18>	The Internet is lacking in screenshots.
+T 1394291015 18<Emdek18>	;-)
+T 1394291017 18<Frenzie18>	I wish I had a Windows 3.11 VM right about now.
+T 1394291069 18<Emdek18>	I still have older PC with 98 SE, some old IBM
+T 1394291071 18<Frenzie18>	http://www.nhs.uk/accessibilityhelp/Changing-colours-in-Windows-95.html <- screenshot from 95 or 98
+T 1394291104 24*	ggr has quit (Quit: gtg)
+T 1394291148 18<Frenzie18>	http://www.guidebookgallery.org/screenshots/appearance
+T 1394291159 18<Frenzie18>	Here's a ton of stuff; Windows at the bottom.
+T 1394291192 18<Frenzie18>	No font in Windows 2 and 3.
+T 1394291193 18<Emdek18>	indeed, it's missing color scheme
+T 1394291294 18<Frenzie18>	That Whistler 2257 looks *so much better* than the fugly XP default.
+T 1394291317 18<Carpetsmoker18>	Heh, I wanted to say the *exact* same thing Frenzie
+T 1394291428 18<Frenzie18>	:)
+T 1394291535 18<Frenzie18>	From the screenshots OS/2 looks quite interesting compared to Windows 3.
+T 1394292269 24*	Grzechooo has quit ()
+T 1394292471 18<shannow18>	http://pcdiy.asus.com/2014/01/rt-ac87u-the-ultimate-router-4x4-mu-mimo-ces-2014/
+T 1394295556 24*	dinadmin has quit (Remote host closed the connection)
+T 1394296106 18<Frenzie18>	I'm quite content with my RT-N16 running TomatoUSB. :)
+T 1394296566 18<shannow18>	sda :P
+T 1394296569 18<shannow18>	sad
+T 1394297508 18<Frenzie18>	Bye.
+T 1394297509 24*	Frenzie (~fransdejo@91.176.242.4324) has left
+T 1394298688 23*	Grzechooo (ja@89-70-134-166.dynamic.chello.pl23) has joined
+T 1394300674 23*	twied (~twied@ppp-188-174-16-136.dynamic.mnet-online.de23) has joined
+T 1394301136 24*	Carpetsmoker (~Carpetsmo@82.95.88.4824) has left
+T 1394302340 24*	twied has quit (Quit: Leaving.)
+T 1394302944 24*	bajasoft has quit ()
+T 1394304461 23*	Emdek_ (~quassel@src74-188.pwn.maverick.com.pl23) has joined
+T 1394304461 22*	26ChanServ gives channel operator status to 18Emdek_
+T 1394304638 24*	Emdek has quit (Ping timeout: 240 seconds)
+T 1394305301 24*	28Emdek_ is now known as 18Emdek
+T 1394305527 24*	Grzechooo has quit ()
+T 1394305626 23*	Grzechooo (~ja@89-70-134-166.dynamic.chello.pl23) has joined
+T 1394310107 24*	Grzechooo has quit (Ping timeout: 264 seconds)
+T 1394312703 18<Not-00118>	[02otter] 07Emdek pushed 031 commit to 03master [+0/-0/±3] 13http://git.io/D422qA
+T 1394312704 18<Not-00118>	[02otter] 07Emdek 0365959e1 - Setup view
+T 1394312712 22*	26Emdek gives voice to 18Not-001
+T 1394312921 23*	restaur (~restaur@82.146.62.6123) has joined
+T 1394313318 24*	restaur has quit (Remote host closed the connection)
+T 1394313959 18<Emdek18>	bye
+T 1394313961 24*	Emdek has quit (Remote host closed the connection)
+T 1394314069 23*	Chocimier (~quassel@gjd195.internetdsl.tpnet.pl23) has joined
+T 1394314329 24*	malcolmlewis has quit (Quit: Ex-Chat)
+T 1394315071 24*	Chocimier has quit (Remote host closed the connection)
+T 1394315783 23*	firmargamak (~firmargam@62.109.29.8523) has joined
+T 1394327068 24*	mulander has quit (Quit: Connection closed for inactivity)
+T 1394331906 23*	Necromantic (~Necro@ip-37-201-46-67.unitymediagroup.de23) has joined
+T 1394331929 24*	Necro|senseless has quit (Ping timeout: 252 seconds)
+T 1394333282 23*	Heis (~quassel@p578F65DB.dip0.t-ipconnect.de23) has joined
+T 1394333438 24*	Heis_ has quit (Ping timeout: 240 seconds)
+T 1394337735 24*	Sausage has quit (Quit: Goodbye)
+T 1394339453 23*	Sausage (sausage@tehsausage.com23) has joined
+T 1394341323 23*	KoH__ (~kane@trir-5d805a9f.pool.mediaWays.net23) has joined
+T 1394341703 23*	shannow- (~aCidCraCk@c-68-54-232-167.hsd1.tn.comcast.net23) has joined
+T 1394341732 24*	KoH_ has quit (Ping timeout: 240 seconds)
+T 1394342450 24*	KanjiMonster has quit (Ping timeout: 245 seconds)
+T 1394342676 24*	shannow has quit (Write error: Connection timed out)
+T 1394342689 24*	Not-001 has quit (Excess Flood)
+T 1394346195 24*	firmargamak has quit (Remote host closed the connection)
+T 1394356555 19*	Now talking on 22#otter-browser
+T 1394356555 22*	Topic for 22#otter-browser is: Otter Browser | http://otter-browser.org/ | http://6g6.eu/otter-get-involved | http://6g6.eu/otter-forum | Third alpha released!
+T 1394356555 22*	Topic for 22#otter-browser set by 26Emdek!~quassel@adec72.neoplus.adsl.tpnet.pl (24Sat Mar  1 18:39:53 2014)
+T 1394361129 23*	mulander (uid1766@gateway/web/irccloud.com/x-nuwryjuujtdgoigz23) has joined
+T 1394362527 23*	Grzechooo (ja@89-70-134-166.dynamic.chello.pl23) has joined
+T 1394364679 23*	SaphirJD^Laptop (~SaphirJD@80-121-14-43.adsl.highway.telekom.at23) has joined
+T 1394364779 24*	SaphirJD has quit (Ping timeout: 244 seconds)
+T 1394364793 24*	28SaphirJD^Laptop is now known as 18SaphirJD
+T 1394366810 23*	twied (~twied@ppp-188-174-124-97.dynamic.mnet-online.de23) has joined
+T 1394368928 23*	bajasoft (~Dogmeat@109.69.211.2323) has joined
+T 1394377179 23*	Emdek (~quassel@adgk198.neoplus.adsl.tpnet.pl23) has joined
+T 1394377180 22*	26ChanServ gives channel operator status to 18Emdek
+T 1394377950 24*	Grzechooo has quit ()
+T 1394378317 18<shannow-18>	http://www.zerohedge.com/news/2014-03-09/global-debt-crosses-100-trillion-rises-30-trillion-2007-27-trillion-foreign-held
+T 1394382301 18<Sh1fty18>	shannow-, https://imgur.com/gallery/4wpmVfM
+T 1394383563 19*	Now talking on 22#otter-browser
+T 1394383563 22*	Topic for 22#otter-browser is: Otter Browser | http://otter-browser.org/ | http://6g6.eu/otter-get-involved | http://6g6.eu/otter-forum | Third alpha released!
+T 1394383563 22*	Topic for 22#otter-browser set by 26Emdek!~quassel@adec72.neoplus.adsl.tpnet.pl (24Sat Mar  1 18:39:53 2014)
+T 1394389122 23*	Megaf (~Megaf@unaffiliated/megaf23) has joined
+T 1394394778 24*	Emdek has quit (Ping timeout: 240 seconds)
+T 1394394891 23*	Emdek (~quassel@adgk198.neoplus.adsl.tpnet.pl23) has joined
+T 1394394891 22*	26ChanServ gives channel operator status to 18Emdek
+T 1394395565 23*	germetik (~germetik@91.207.61.8423) has joined
+T 1394402545 19*	Now talking on 22#otter-browser
+T 1394402545 22*	Topic for 22#otter-browser is: Otter Browser | http://otter-browser.org/ | http://6g6.eu/otter-get-involved | http://6g6.eu/otter-forum | Third alpha released!
+T 1394402545 22*	Topic for 22#otter-browser set by 26Emdek!~quassel@adec72.neoplus.adsl.tpnet.pl (24Sat Mar  1 18:39:53 2014)
+T 1394403555 23*	Not-001 (~notifico@198.199.82.21623) has joined
+T 1394403556 18<Not-00118>	[02otter] 07Emdek pushed 031 commit to 03master [+0/-0/±5] 13http://git.io/sNE8dQ
+T 1394403558 18<Not-00118>	[02otter] 07Emdek 03f3c6a65 - Pass current list and fill view
+T 1394403613 18<Emdek18>	bye
+T 1394403614 24*	Emdek has quit (Remote host closed the connection)
+T 1394403866 24*	twied has quit (Quit: Leaving.)
+T 1394404172 24*	bajasoft has quit ()
+T 1394404654 24*	Not-001 has quit (Remote host closed the connection)
+T 1394414495 24*	germetik has quit (Remote host closed the connection)
+T 1394417668 24*	mulander has quit (Quit: Connection closed for inactivity)
+T 1394419739 24*	Heis has quit (Read error: Operation timed out)
+T 1394420022 23*	Heis (~quassel@p578F60E1.dip0.t-ipconnect.de23) has joined
+T 1394424826 24*	Megaf has quit (Ping timeout: 244 seconds)
+T 1394426216 23*	KoH_ (~kane@trir-4d0ba70d.pool.mediaWays.net23) has joined
+T 1394426438 24*	KoH__ has quit (Ping timeout: 240 seconds)
+T 1394427384 24*	shannow- has quit (Ping timeout: 252 seconds)
+T 1394427627 23*	shannow (~aCidCraCk@c-68-54-232-167.hsd1.tn.comcast.net23) has joined
+T 1394428043 24*	shannow has quit (Ping timeout: 252 seconds)
+T 1394428283 23*	shannow (~aCidCraCk@c-68-54-232-167.hsd1.tn.comcast.net23) has joined
+T 1394428561 24*	shannow has quit (Ping timeout: 265 seconds)
+T 1394429287 23*	shannow (~aCidCraCk@c-68-54-232-167.hsd1.tn.comcast.net23) has joined
+T 1394429579 24*	shannow has quit (Ping timeout: 269 seconds)
+T 1394429796 23*	shannow (~aCidCraCk@c-68-54-232-167.hsd1.tn.comcast.net23) has joined
+T 1394430209 24*	shannow has quit (Ping timeout: 240 seconds)
+T 1394430443 23*	shannow (~aCidCraCk@c-68-54-232-167.hsd1.tn.comcast.net23) has joined
+T 1394430839 24*	shannow has quit (Ping timeout: 240 seconds)
+T 1394431077 23*	shannow (~aCidCraCk@c-68-54-232-167.hsd1.tn.comcast.net23) has joined
+T 1394432078 23*	natnick (~natnick@91.207.61.6023) has joined
+T 1394434743 23*	bajasoft (5e7cb902@gateway/web/freenode/ip.94.124.185.223) has joined
+T 1394435054 24*	natnick has quit (Remote host closed the connection)
+T 1394443056 23*	plfiorini (~plfiorini@sei.yacme.com23) has joined
+T 1394444040 23*	Emdek (~quassel@adhc243.neoplus.adsl.tpnet.pl23) has joined
+T 1394444040 22*	26ChanServ gives channel operator status to 18Emdek
+T 1394445160 23*	Emdek_ (~quassel@src74-188.pwn.maverick.com.pl23) has joined
+T 1394445160 22*	26ChanServ gives channel operator status to 18Emdek_
+T 1394445299 24*	Emdek has quit (Ping timeout: 240 seconds)
+T 1394445390 24*	28Emdek_ is now known as 18Emdek
+T 1394446472 24*	Perlovka has quit (Ping timeout: 245 seconds)
+T 1394446622 23*	Perlovka (perlovka@fsf/member/Perlovka23) has joined
+T 1394447773 20*	Disconnected (20Invalid argument)
+T 1394447785 19*	Now talking on 22#otter-browser
+T 1394447785 22*	Topic for 22#otter-browser is: Otter Browser | http://otter-browser.org/ | http://6g6.eu/otter-get-involved | http://6g6.eu/otter-forum | Third alpha released!
+T 1394447785 22*	Topic for 22#otter-browser set by 26Emdek!~quassel@adec72.neoplus.adsl.tpnet.pl (24Sat Mar  1 18:39:53 2014)
+T 1394450952 23*	Megaf (~Megaf@unaffiliated/megaf23) has joined
+T 1394451079 23*	SaphirJD^Laptop (~SaphirJD@194-166-170-14.adsl.highway.telekom.at23) has joined
+T 1394451176 24*	SaphirJD has quit (Ping timeout: 244 seconds)
+T 1394451191 24*	28SaphirJD^Laptop is now known as 18SaphirJD
+T 1394456896 23*	Grzechooo (ja@89-70-134-166.dynamic.chello.pl23) has joined
+T 1394462927 24*	bajasoft has quit (Quit: Page closed)
+T 1394465609 23*	bajasoft (~Dogmeat@109.69.211.2323) has joined
+T 1394466311 23*	AlexRussia (~manjaro@unaffiliated/alexrussia23) has joined
+T 1394468308 24*	shannow has quit (Quit: Got Ad Muncher? ---> http://www.admuncher.com/AM-Install.exe :)
+T 1394468455 23*	Carpetsmoker1 (~martin@home.arp242.net23) has joined
+T 1394468483 24*	Carpetsmoker1 has quit (Client Quit)
+T 1394469597 23*	shannow (~aCidCraCk@h69-130-146-61.mtjltn.broadband.dynamic.tds.net23) has joined
+T 1394472132 24*	plfiorini has quit (Quit: Sto andando via)
+T 1394472166 23*	alekksander (~mail@agk197.neoplus.adsl.tpnet.pl23) has joined
+T 1394472523 18<alekksander18>	Emdek: please support massive import of rules for content blocker. for example like in opera - edit txt, paste millions of rules, and save it. this can be done from the browser (even better solution), but must be doable imho
+T 1394472588 18<alekksander18>	and it really really should support blocking js as well
+T 1394472624 18<alekksander18>	and everything else that is fetched for the website
+T 1394472879 23*	AmateurFIN (~amateur@77.109.225.15123) has joined
+T 1394473308 23*	mulander (uid1766@gateway/web/irccloud.com/x-oghbsjmsngzmdpps23) has joined
+T 1394473379 24*	shannow has quit (Ping timeout: 240 seconds)
+T 1394473687 23*	shannow (~aCidCraCk@h69-130-146-61.mtjltn.broadband.dynamic.tds.net23) has joined
+T 1394475434 18<Emdek18>	alekksander: import will be available
+T 1394475530 18<alekksander18>	from O12?
+T 1394476439 24*	alekksander (~mail@agk197.neoplus.adsl.tpnet.pl24) has left
+T 1394478272 23*	alekksander (~mail@agk197.neoplus.adsl.tpnet.pl23) has joined
+T 1394478897 24*	Grzechooo has quit ()
+T 1394478971 18<Emdek18>	alekksander: yes, and adblock rules too
+T 1394479200 18<alekksander18>	great :)
+T 1394479325 23*	plfiorini (~communi@93-39-146-114.ip76.fastwebnet.it23) has joined
+T 1394480451 18<Emdek18>	http://www.ibiblio.org/harris/500milemail.html :-D
+T 1394481874 18<Necromantic18>	Heh, didn't know that story.
+T 1394482964 18<Emdek18>	bajasoft: hello, I'm reviewing that branch right now
+T 1394482983 18<bajasoft18>	Emdek: hello
+T 1394483017 18<Emdek18>	m_lookupQuery(QString::null) - there is no need to initialize it, it's empty string by default anyway
+T 1394483122 18<bajasoft18>	I was wondering why there is no string initialization elsewhere. good to know
+T 1394483210 18<Emdek18>	isAddress() needs new name, maybe something like handleUserInput() or someting similar...
+T 1394483337 18<Emdek18>	bajasoft: are there any benefits of postponed matching against search keywords?
+T 1394483408 18<bajasoft18>	I don't understand now
+T 1394483511 23*	Emdek_ (~quassel@aebf117.neoplus.adsl.tpnet.pl23) has joined
+T 1394483511 22*	26ChanServ gives channel operator status to 18Emdek_
+T 1394483557 24*	plfiorini has quit (Remote host closed the connection)
+T 1394483598 18<Emdek_18>	bajasoft: had I missed something?
+T 1394483678 24*	Emdek has quit (Ping timeout: 240 seconds)
+T 1394483839 18<bajasoft18>	No, google translator helped :-)
+T 1394483857 24*	28Emdek_ is now known as 18Emdek
+T 1394483921 18<Emdek18>	I meant missing something due to reconnecting ;-)
+T 1394484013 18<bajasoft18>	There is no direct benefit, I have just moved it into separate method. It is a last stand when all checking fail
+T 1394484043 18<Emdek18>	please move timerEvent() before paintEvent(), both declaration and implementation
+T 1394484107 18<Emdek18>	well, I would begin with that check, to avoid lookup when user wants to use shortcuts
+T 1394484262 18<bajasoft18>	ok, I will change it
+T 1394484446 18<Emdek18>	and please reduce this method to single line: https://github.com/bajasoft/otter/commit/500c9c0d60c7bf9a2af794897066926c7ecee638#diff-f3a42f6ee526d5facbd58826a1215e6cR334
+T 1394484494 18<bajasoft18>	as you wish ;-)
+T 1394484520 18<Emdek18>	:-)
+T 1394484628 18<Emdek18>	small detail, please change: if (m_lookupQuery == text) -> if (text == m_lookupQuery)
+T 1394484723 18<bajasoft18>	well, devil is hidden in details :-)
+T 1394484818 18<bajasoft18>	I hope that I will find a time tomorrow to fix all of this
+T 1394485197 18<Emdek18>	ok
+T 1394486322 24*	alekksander (~mail@agk197.neoplus.adsl.tpnet.pl24) has left
+T 1394486483 24*	bajasoft has quit ()
+T 1394487809 23*	Not-005 (~notifico@198.199.82.21623) has joined
+T 1394487810 18<Not-00518>	[02otter] 07Emdek pushed 031 commit to 03master [+0/-0/±3] 13http://git.io/zXMMgg
+T 1394487812 18<Not-00518>	[02otter] 07Emdek 037790953 - Add getter
+T 1394487911 23*	Grzechooo (~ja@89-70-134-166.dynamic.chello.pl23) has joined
+T 1394488482 18<Emdek18>	bye
+T 1394488483 24*	Emdek has quit (Remote host closed the connection)
+T 1394488959 23*	alekksander (~mail@agk197.neoplus.adsl.tpnet.pl23) has joined
+T 1394488979 24*	alekksander (~mail@agk197.neoplus.adsl.tpnet.pl24) has left
+T 1394490310 23*	plfiorini (~communi@93-39-176-12.ip76.fastwebnet.it23) has joined
+T 1394491111 24*	Grzechooo has quit ()
+T 1394492729 24*	twied has quit (Quit: Leaving.)
+T 1394494332 24*	shannow has quit (Quit: Got Ad Muncher? ---> http://www.admuncher.com/AM-Install.exe :)
+T 1394495519 23*	shannow (~aCidCraCk@c-68-54-232-167.hsd1.tn.comcast.net23) has joined
+T 1394495668 24*	mulander has quit (Quit: Connection closed for inactivity)
+T 1394496358 24*	RedM has quit (Read error: Operation timed out)
+T 1394496482 23*	RedW (~redw@89-73-179-171.dynamic.chello.pl23) has joined
+T 1394499078 24*	AlexRussia has quit (Remote host closed the connection)
+T 1394499108 23*	AlexRussia (~manjaro@unaffiliated/alexrussia23) has joined
+T 1394505855 24*	Megaf has quit (Quit: Leaving)
+T 1394506003 23*	Heis_ (~quassel@p57AFDE35.dip0.t-ipconnect.de23) has joined
+T 1394506152 24*	Heis has quit (Ping timeout: 240 seconds)
+T 1394510921 24*	eki has quit (Ping timeout: 252 seconds)
+T 1394510935 23*	eki (~eki@cs165177.pp.htv.fi23) has joined
+T 1394512550 23*	KoH__ (~kane@trir-4d0ba441.pool.mediaWays.net23) has joined
+T 1394512752 24*	KoH_ has quit (Ping timeout: 240 seconds)
+T 1394512990 24*	AlexRussia has quit (Ping timeout: 244 seconds)
+T 1394520104 24*	plfiorini has quit (Quit: Communi 3.1.0 - http://communi.github.com)
+T 1394520210 23*	bajasoft (5e7cb902@gateway/web/freenode/ip.94.124.185.223) has joined
+T 1394524881 19*	Now talking on 22#otter-browser
+T 1394524881 22*	Topic for 22#otter-browser is: Otter Browser | http://otter-browser.org/ | http://6g6.eu/otter-get-involved | http://6g6.eu/otter-forum | Third alpha released!
+T 1394524881 22*	Topic for 22#otter-browser set by 26Emdek!~quassel@adec72.neoplus.adsl.tpnet.pl (24Sat Mar  1 18:39:53 2014)
+T 1394525185 23*	Emdek (~quassel@src74-188.pwn.maverick.com.pl23) has joined
+T 1394525186 22*	26ChanServ gives channel operator status to 18Emdek
+T 1394527038 23*	plfiorini (~plfiorini@sei.yacme.com23) has joined
+T 1394529827 18<bajasoft18>	Emdek: hello. I fixed issues you write about. Do you want to check the code again?
+T 1394530334 18<Emdek18>	bajasoft: hello, sure, but a bit later, I have some work to do right now...
+T 1394530370 18<bajasoft18>	ok, I prepared it into my lookup branch
+T 1394530884 23*	twied (~twied@ppp-188-174-83-247.dynamic.mnet-online.de23) has joined
+T 1394537488 23*	SaphirJD^Laptop (~SaphirJD@91-115-107-156.adsl.highway.telekom.at23) has joined
+T 1394537573 24*	SaphirJD has quit (Ping timeout: 244 seconds)
+T 1394537585 24*	28SaphirJD^Laptop is now known as 18SaphirJD
+T 1394544106 23*	AlexRussia (~manjaro@unaffiliated/alexrussia23) has joined
+T 1394545141 23*	alekksander (~mail@eqv175.neoplus.adsl.tpnet.pl23) has joined
+T 1394545799 24*	AlexRussia has quit (Remote host closed the connection)
+T 1394545950 23*	AlexRussia (~manjaro@unaffiliated/alexrussia23) has joined
+T 1394546283 19*	Now talking on 22#otter-browser
+T 1394546283 22*	Topic for 22#otter-browser is: Otter Browser | http://otter-browser.org/ | http://6g6.eu/otter-get-involved | http://6g6.eu/otter-forum | Third alpha released!
+T 1394546283 22*	Topic for 22#otter-browser set by 26Emdek!~quassel@adec72.neoplus.adsl.tpnet.pl (24Sat Mar  1 18:39:53 2014)

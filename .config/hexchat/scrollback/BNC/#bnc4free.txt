@@ -1,0 +1,508 @@
+T 1394342287 24*	28Shanmugamp7|away is now known as 18Shanmugamp7
+T 1394342397 24*	28Connor1301 is now known as 18Connor1301_away
+T 1394342676 24*	tofaffy has quit (Write error: Connection timed out)
+T 1394344735 24*	lucif3r_ has quit (Quit: Connection closed for inactivity)
+T 1394345680 24*	28UglyFigurine is now known as 18UglyFigurine_afk
+T 1394346286 24*	pinaevm has quit (Ping timeout: 265 seconds)
+T 1394346732 24*	28kkzu is now known as 18kkzu_off
+T 1394347117 24*	28Connor1301_away is now known as 18Connor1301
+T 1394348307 24*	28Connor1301 is now known as 18Connor1301_away
+T 1394349315 24*	28Connor1301_away is now known as 18Connor1301
+T 1394351313 24*	drvino_ has quit (Remote host closed the connection)
+T 1394351313 24*	deedee has quit (Remote host closed the connection)
+T 1394351313 24*	sinnet3000 has quit (Remote host closed the connection)
+T 1394351313 24*	MartynKeigher has quit (Remote host closed the connection)
+T 1394351313 24*	poneo has quit (Remote host closed the connection)
+T 1394351313 24*	micko01 has quit (Remote host closed the connection)
+T 1394351313 24*	[BNC]kevr has quit (Read error: Connection reset by peer)
+T 1394351313 24*	RuthSmart has quit (Remote host closed the connection)
+T 1394351313 24*	chrisimmortal has quit (Remote host closed the connection)
+T 1394351367 24*	28Connor1301 is now known as 18Connor1301_away
+T 1394351972 23*	MartynKeigher (MartynKeig@3ee-003.static.bnc4free.com23) has joined
+T 1394351972 22*	26ChanServ gives voice to 18MartynKeigher
+T 1394352092 23*	chrisimmortal (chrisimmor@you.aint.leav.in23) has joined
+T 1394352092 22*	26ChanServ gives voice to 18chrisimmortal
+T 1394352302 23*	[BNC]kevr (kevr@3ee-007.static.bnc4free.com23) has joined
+T 1394352302 22*	26ChanServ gives voice to 18[BNC]kevr
+T 1394352362 23*	micko01 (micko01@3ee-003.static.bnc4free.com23) has joined
+T 1394352362 22*	26ChanServ gives voice to 18micko01
+T 1394352644 24*	28UglyFigurine_afk is now known as 18UglyFigurine
+T 1394352782 23*	RuthSmart (RuthSmart@3ee-008.static.bnc4free.com23) has joined
+T 1394352794 22*	26ChanServ gives voice to 18RuthSmart
+T 1394352905 23*	poneo (~ponyfag@2001:470:51cc:b00b::23) has joined
+T 1394352914 24*	28UglyFigurine is now known as 18UglyFigurine_afk
+T 1394353027 23*	zz_deedee (deedee@3ee-010.static.bnc4free.com23) has joined
+T 1394353027 22*	26ChanServ gives voice to 18zz_deedee
+T 1394353051 24*	28zz_deedee is now known as 18deedee
+T 1394353262 23*	drvino_ (drvino@unaffiliated/drvino23) has joined
+T 1394353262 22*	26ChanServ gives voice to 18drvino_
+T 1394353385 23*	sinnet3000 (sinnet3000@3ee-008.static.bnc4free.com23) has joined
+T 1394353387 22*	26ChanServ gives voice to 18sinnet3000
+T 1394353428 23*	lucif3r_ (uid26190@gateway/web/irccloud.com/x-unateghkwsqsbreh23) has joined
+T 1394354000 24*	Shanmugamp7 has quit (Ping timeout: 265 seconds)
+T 1394356554 19*	Now talking on 22#bnc4free
+T 1394356554 22*	Topic for 22#bnc4free is: Welcome to BNC4FREE - Free IRC Bouncers on Demand - Site: http://bnc4free.com/ - We provide Free IRC Bouncers to networks other than those listed at http://bnc4free.com/?page_id=11 - TOS: http://bnc4free.com/tos - 1 BNC / Person  - Use !request to request a BNC.
+T 1394356554 22*	Topic for 22#bnc4free set by 26BNC4FREE!services@bot.bnc4free.com (24Fri Feb 28 19:18:47 2014)
+T 1394357344 23*	Tux[Qyou] (~Tux@176.103.41.523) has joined
+T 1394357809 22*	26BNC4FREE removes ban on 18*!*@68.118.163.19
+T 1394357814 24*	eDW1n has quit (Quit: EliteBNC free bnc service - http://elitebnc.org - be a part of the Elite!)
+T 1394357862 23*	eDW1n (zero@gateway/shell/elitebnc/x-xbuwdikpxtesxwnk23) has joined
+T 1394358077 24*	Packardnode has quit (Remote host closed the connection)
+T 1394358108 24*	eDW1n has quit (Client Quit)
+T 1394358121 23*	Packardnode (Pack@charlie.yourbnc.co.uk23) has joined
+T 1394358162 23*	eDW1n (zero@gateway/shell/elitebnc/x-vfbbwsqebajctmym23) has joined
+T 1394359768 24*	autoprime has quit (Ping timeout: 256 seconds)
+T 1394359875 23*	autoprime (~autoprime@unaffiliated/autoprime23) has joined
+T 1394362135 24*	lucif3r_ has quit (Quit: Connection closed for inactivity)
+T 1394362696 23*	JacksonIsaac (uid13084@gateway/web/irccloud.com/x-edvnlebqkfscbqdf23) has joined
+T 1394362714 18<JacksonIsaac18>	!request
+T 1394362714 18<BNC4FREE18>	Not enough parameters.
+T 1394362714 18<BNC4FREE18>	Syntax: !REQUEST [USERNAME] [IRC SERVER OR NETWORK NAME] [IRC PORT] [EMAIL]
+T 1394362714 18<BNC4FREE18>	If no 12IRC SERVER and 12IRC PORT are given, the server you are making this request from will be used.
+T 1394362714 18<BNC4FREE18>	If you would like to use SSL to connect to the IRC network, please add a + in front of the port and make sure the port you request for allows SSL connections.
+T 1394362714 18<BNC4FREE18>	Please ensure you have read our 12Terms of Service before requesting which can be found at 12http://bnc4free.com/tos
+T 1394362773 18<JacksonIsaac18>	!request JacksonIsaac_ irc.gimp.org 6667 bug.jacksonisaac@gmail.com
+T 1394362773 18<BNC4FREE18>	04Error: We do not accept requests for users who are connected IRCCloud. Please use your own IP
+T 1394363012 23*	Shanmugamp7 (uid18127@wikipedia/Shanmugamp723) has joined
+T 1394364403 23*	mpmc2 (~Instantbi@host31-50-34-201.range31-50.btcentralplus.com23) has joined
+T 1394364433 23*	mpmc (mpmc@2001:1608:10:38::126f:e2c523) has joined
+T 1394364434 24*	mpmc has quit (Excess Flood)
+T 1394364900 23*	mpmc (mpmc@unaffiliated/mpmc23) has joined
+T 1394364910 24*	mpmc (mpmc@unaffiliated/mpmc24) has left
+T 1394364952 24*	mpmc2 has quit (Quit: Instantbird 1.6a1pre -- http://www.instantbird.com)
+T 1394365320 23*	mpmc (mpmc@unaffiliated/mpmc23) has joined
+T 1394366533 23*	lucif3r_ (uid26190@gateway/web/irccloud.com/x-hasjtawaluyneian23) has joined
+T 1394367498 23*	sargyknight (~asdasdas@unaffiliated/sargyknight23) has joined
+T 1394367504 24*	sargyknight (~asdasdas@unaffiliated/sargyknight24) has left
+T 1394367570 24*	28UglyFigurine_afk is now known as 18UglyFigurine
+T 1394370526 24*	28BuGy is now known as 18tututu
+T 1394370642 24*	28tututu is now known as 18BuGy
+T 1394372001 24*	Shanmugamp7 has quit (Quit: Connection closed for inactivity)
+T 1394372616 23*	Shanmugamp7 (uid18127@wikipedia/Shanmugamp723) has joined
+T 1394375935 24*	lucif3r_ has quit (Quit: Connection closed for inactivity)
+T 1394379478 24*	^Neptune^ has quit (Read error: Connection reset by peer)
+T 1394379570 24*	ajrty33 has quit (Quit: Leaving)
+T 1394379597 23*	ajrty33 (~ajrty33@unaffiliated/ajrty3323) has joined
+T 1394382239 24*	Tux[Qyou] has quit (Ping timeout: 240 seconds)
+T 1394382359 24*	28UglyFigurine is now known as 18UglyFigurine_afk
+T 1394382590 23*	lucif3r_ (uid26190@gateway/web/irccloud.com/x-nrkzilxheauhrbnf23) has joined
+T 1394383096 23*	Tux[Qyou] (~Tux@176.103.41.523) has joined
+T 1394383563 19*	Now talking on 22#bnc4free
+T 1394383563 22*	Topic for 22#bnc4free is: Welcome to BNC4FREE - Free IRC Bouncers on Demand - Site: http://bnc4free.com/ - We provide Free IRC Bouncers to networks other than those listed at http://bnc4free.com/?page_id=11 - TOS: http://bnc4free.com/tos - 1 BNC / Person  - Use !request to request a BNC.
+T 1394383563 22*	Topic for 22#bnc4free set by 26BNC4FREE!services@bot.bnc4free.com (24Fri Feb 28 19:18:47 2014)
+T 1394383576 24*	28mpmc is now known as 18mpmc[BNC4FREE]
+T 1394387572 23*	pobeditel (~pobeditel@193.106.31.4623) has joined
+T 1394387797 24*	pobeditel has quit (Remote host closed the connection)
+T 1394389606 23*	pamoil (~pamoil@188.190.126.6023) has joined
+T 1394389613 23*	sambao21 (~sambao21@50.7.1.223) has joined
+T 1394389804 18<sambao2118>	!request
+T 1394389804 18<BNC4FREE18>	Not enough parameters.
+T 1394389804 18<BNC4FREE18>	Syntax: !REQUEST [USERNAME] [IRC SERVER OR NETWORK NAME] [IRC PORT] [EMAIL]
+T 1394389804 18<BNC4FREE18>	If no 12IRC SERVER and 12IRC PORT are given, the server you are making this request from will be used.
+T 1394389804 18<BNC4FREE18>	If you would like to use SSL to connect to the IRC network, please add a + in front of the port and make sure the port you request for allows SSL connections.
+T 1394389804 18<BNC4FREE18>	Please ensure you have read our 12Terms of Service before requesting which can be found at 12http://bnc4free.com/tos
+T 1394390138 24*	sambao21 has quit (Quit: Computer has gone to sleep.)
+T 1394390464 23*	sambao21 (~sambao21@50.7.1.223) has joined
+T 1394390498 24*	Guest90233 has quit (Remote host closed the connection)
+T 1394390696 24*	sambao21 (~sambao21@50.7.1.224) has left
+T 1394391072 24*	28UglyFigurine_afk is now known as 18UglyFigurine
+T 1394391176 23*	sambao21 (~sambao21@50.7.1.223) has joined
+T 1394391209 23*	RyanKnack (RyanKnack@unaffiliated/ryanknack23) has joined
+T 1394391209 22*	26ChanServ gives voice to 18RyanKnack
+T 1394391228 18<sambao2118>	!request sambao21 chat.freenode.net +7000 sambao21@gmail.com
+T 1394391232 18<BNC4FREE18>	12You're almost there! We have sent you an email to confirm your email address. Follow the instructions in the email in order for your request to be processed.
+T 1394391232 18<BNC4FREE18>	Please ensure you have read our 12Terms of Service which can be found at 12http://bnc4free.com/tos
+T 1394391390 24*	28Shanmugamp7 is now known as 18Shanmugamp7|Zzz
+T 1394391521 18<sambao2118>	!verify e3c0fc215215c99cde2af73a852bdc38
+T 1394391521 18<BNC4FREE18>	12Congratulations sambao21: Your email has been verified and your request is now marked as pending. Requests are usually processed within 24/48 hours by staff and you will be notified by email when it has been processed.
+T 1394391521 18<BNC4FREE18>	You can check the status by using: 12!check 6736
+T 1394392603 18<sambao2118>	!check 6736
+T 1394392603 18<BNC4FREE18>	12sambao21 Request Status: 04Rejected -  Please request a BNC from your own IP, not from a server
+T 1394392687 24*	sambao21 (~sambao21@50.7.1.224) has left ("Goodbye")
+T 1394393111 24*	JacksonIsaac has quit (Quit: Connection closed for inactivity)
+T 1394393555 23*	Kristiina (Kristiina@gateway/shell/bnc4free/x-tzgzaplnxqmnullu23) has joined
+T 1394393555 22*	26ChanServ gives voice to 18Kristiina
+T 1394393559 24*	Kristiina has quit (*.net *.split)
+T 1394393869 22*	26BNC4FREE sets ban on 18*!*@50.7.1.2
+T 1394394765 24*	pamoil has quit (Remote host closed the connection)
+T 1394394785 23*	Kristiina (Kristiina@gateway/shell/bnc4free/x-omangokymkqmoaqg23) has joined
+T 1394394789 22*	26ChanServ gives voice to 18Kristiina
+T 1394395150 23*	neolan (~neolan@195.78.109.15223) has joined
+T 1394395524 24*	28mpmc[BNC4FREE] is now known as 18mpmc
+T 1394396935 24*	lucif3r_ has quit (Quit: Connection closed for inactivity)
+T 1394396993 24*	neolan has quit (Remote host closed the connection)
+T 1394399802 23*	sargyknight (~asdasdas@unaffiliated/sargyknight23) has joined
+T 1394401921 24*	sargyknight (~asdasdas@unaffiliated/sargyknight24) has left
+T 1394402310 24*	Tux[Qyou] has quit (Quit: Excess flood)
+T 1394402335 23*	Tux[Qyou] (~Tux@176.103.41.523) has joined
+T 1394402545 19*	Now talking on 22#bnc4free
+T 1394402545 22*	Topic for 22#bnc4free is: Welcome to BNC4FREE - Free IRC Bouncers on Demand - Site: http://bnc4free.com/ - We provide Free IRC Bouncers to networks other than those listed at http://bnc4free.com/?page_id=11 - TOS: http://bnc4free.com/tos - 1 BNC / Person  - Use !request to request a BNC.
+T 1394402545 22*	Topic for 22#bnc4free set by 26BNC4FREE!services@bot.bnc4free.com (24Fri Feb 28 19:18:47 2014)
+T 1394402881 24*	ativelkov has quit (Quit: I'm using a Free IRC Bouncer from BNC4FREE - http://bnc4free.com/)
+T 1394402904 24*	cmitchelmore has quit (Ping timeout: 240 seconds)
+T 1394402929 24*	algabe has quit (Quit: I'm using a Free IRC Bouncer from BNC4FREE - http://bnc4free.com/)
+T 1394402929 24*	imk0tter has quit (Quit: I'm using a Free IRC Bouncer from BNC4FREE - http://bnc4free.com/)
+T 1394402933 24*	Wh1tebird has quit (Quit: Bye bye)
+T 1394402962 24*	teme has quit (Quit: obai!)
+T 1394402962 24*	NLZ13 has quit (Quit: I'm using a Free IRC Bouncer from BNC4FREE - http://bnc4free.com/)
+T 1394402980 24*	Southparkfan|BNC has quit (Quit: Bye. - BNC by BNC4FREE)
+T 1394405562 24*	28daveleigh_away is now known as 18daveleigh
+T 1394407016 24*	28daveleigh is now known as 18daveleigh_away
+T 1394409609 24*	28UglyFigurine is now known as 18UglyFigurine_afk
+T 1394411473 24*	Tux[Qyou] has quit (Read error: Connection reset by peer)
+T 1394411658 23*	sargyknight (~asdasdas@unaffiliated/sargyknight23) has joined
+T 1394412570 24*	sargyknight has quit (Quit: Same thing happened to me when I played Neil Armstrong in Moonshot. They found me in an alley in Burbank trying to re-enter the earth's atmosphere in an old refrigerator box.)
+T 1394412589 24*	28UglyFigurine_afk is now known as 18UglyFigurine
+T 1394415831 24*	28mpmc is now known as 18mpmc[BNC4FREE]
+T 1394416169 23*	^Neptune^ (~Eclipse@99-69-141-80.lightspeed.hstntx.sbcglobal.net23) has joined
+T 1394417850 24*	28kkzu_off is now known as 18kkzu
+T 1394419513 24*	28UglyFigurine is now known as 18UglyFigurine_afk
+T 1394419757 24*	28Shanmugamp7|Zzz is now known as 18Shanmugamp7
+T 1394419895 18<hypech18>	!help
+T 1394420274 24*	mirion- has quit (Remote host closed the connection)
+T 1394420274 24*	thschee has quit (Remote host closed the connection)
+T 1394420274 24*	jaspr has quit (Remote host closed the connection)
+T 1394420274 24*	[BNC]DarthLoki has quit (Remote host closed the connection)
+T 1394420274 24*	eewa has quit (Remote host closed the connection)
+T 1394421213 23*	eewa (eewa@2a00:dcc0:eda:3748:247:48:123:623) has joined
+T 1394421213 22*	26ChanServ gives voice to 18eewa
+T 1394421243 23*	jaspr (jaspr@2a00:dcc0:eda:3748:247:48:123:beef23) has joined
+T 1394421243 23*	jagger|away (jagger@2a00:dcc0:eda:3748:247:48:123:223) has joined
+T 1394421243 22*	26ChanServ gives voice to 18jaspr jagger|away
+T 1394421261 24*	28jagger|away is now known as 18jagger
+T 1394421333 23*	mirion (mirion@2a00:dcc0:eda:3748:247:48:123:523) has joined
+T 1394421333 22*	26ChanServ gives voice to 18mirion
+T 1394421752 23*	DarthLoki (DarthLoki@2a00:dcc0:eda:3748:247:48:123:923) has joined
+T 1394421752 22*	26ChanServ gives voice to 18DarthLoki
+T 1394422413 23*	thschee (thschee@2a00:dcc0:eda:3748:247:48:123:423) has joined
+T 1394422413 22*	26ChanServ gives voice to 18thschee
+T 1394422955 23*	lucif3r_ (uid26190@gateway/web/irccloud.com/x-lyzihtawtmcxibhs23) has joined
+T 1394424881 24*	Swim` has quit (Quit: Leaving...)
+T 1394424896 23*	Swim (swim@gateway/shell/elitebnc/x-zkfbwrhifqsenbcx23) has joined
+T 1394428821 24*	aem` has quit (Quit: Ciao!)
+T 1394429337 23*	AEM` (AEM@gateway/shell/elitebnc/x-ylatyokhjdygvdib23) has joined
+T 1394430467 23*	algabe (~arch@unaffiliated/algabe23) has joined
+T 1394430478 24*	algabe has quit (Client Quit)
+T 1394430536 24*	lucif3r_ has quit (Quit: Connection closed for inactivity)
+T 1394433165 23*	rododendrona (~rododendr@92.63.96.14123) has joined
+T 1394433687 24*	28UglyFigurine_afk is now known as 18UglyFigurine
+T 1394433967 24*	28UglyFigurine is now known as 18UglyFigurine_afk
+T 1394434896 24*	28kkzu is now known as 18kkzu_off
+T 1394435055 24*	rododendrona has quit (Remote host closed the connection)
+T 1394437177 23*	lucif3r_ (uid26190@gateway/web/irccloud.com/x-jgpudpttfqbehqso23) has joined
+T 1394437488 24*	28eDW1n is now known as 18zero
+T 1394437502 24*	28zero is now known as 18eDW1n
+T 1394438887 24*	28emmanuel_off is now known as 18emmanuel
+T 1394439087 23*	cmitchelmore (~cmitchelm@37.157.38.1023) has joined
+T 1394439127 18<cmitchelmore18>	!check 7f0064e242f14de74752b16030d0b166 
+T 1394439127 18<BNC4FREE18>	04Error: No Request or User with that ID or Username exists.
+T 1394439180 18<cmitchelmore18>	!request
+T 1394439180 18<BNC4FREE18>	Not enough parameters.
+T 1394439180 18<BNC4FREE18>	Syntax: !REQUEST [USERNAME] [IRC SERVER OR NETWORK NAME] [IRC PORT] [EMAIL]
+T 1394439180 18<BNC4FREE18>	If no 12IRC SERVER and 12IRC PORT are given, the server you are making this request from will be used.
+T 1394439180 18<BNC4FREE18>	If you would like to use SSL to connect to the IRC network, please add a + in front of the port and make sure the port you request for allows SSL connections.
+T 1394439180 18<BNC4FREE18>	Please ensure you have read our 12Terms of Service before requesting which can be found at 12http://bnc4free.com/tos
+T 1394439199 18<cmitchelmore18>	!request cmitchelmore chat.freenode.net 6667 chrismitchelmore@gmail.com
+T 1394439199 18<BNC4FREE18>	04Error: The username 12cmitchelmore is already in use. Please choose another username.
+T 1394439212 18<cmitchelmore18>	!check cmitchelmore
+T 1394439212 18<BNC4FREE18>	12cmitchelmore Request Status: 03Accepted
+T 1394439284 24*	cmitchelmore has quit (Client Quit)
+T 1394439596 23*	cmitchelmore (~cmitchelm@37.157.38.1023) has joined
+T 1394439614 23*	njaal (uid24269@gateway/web/irccloud.com/x-skmcbsnjfwfcajih23) has joined
+T 1394439627 18<cmitchelmore18>	Hey, having trouble logging in to bnc. When I /quote ... I get "Your message to [NickServ] got lost, you are not connected to IRC!"
+T 1394439630 18<cmitchelmore18>	any suggestions?
+T 1394441494 24*	28emmanuel is now known as 18emmanuel_off
+T 1394441958 23*	Tux[Qyou] (~Tux@176.103.41.523) has joined
+T 1394442745 24*	Tux[Qyou] has quit (Read error: Connection reset by peer)
+T 1394442767 23*	Tux[Qyou] (~Tux@176.103.41.523) has joined
+T 1394443085 24*	28emmanuel_off is now known as 18emmanuel
+T 1394443712 24*	28emmanuel is now known as 18emmanuel_off
+T 1394444935 24*	lucif3r_ has quit (Quit: Connection closed for inactivity)
+T 1394445091 23*	cmitchelmo02 (cmitchelmo@b1f-002.static.bnc4free.com23) has joined
+T 1394445091 23*	imk0tter (imk0tter@has.the-best.xxx23) has joined
+T 1394445092 22*	26ChanServ gives voice to 18cmitchelmo02
+T 1394445092 22*	26ChanServ gives voice to 18imk0tter
+T 1394445151 23*	temeluchus (temeluchus@2001:470:8327:babe::23) has joined
+T 1394445170 24*	28emmanuel_off is now known as 18emmanuel
+T 1394445301 23*	Southparkfan|BNC (Southparkf@has.the-best.xxx23) has joined
+T 1394445301 22*	26ChanServ gives voice to 18Southparkfan|BNC
+T 1394445331 23*	Wh1tebird (Wh1tebird@b1f-007.static.bnc4free.com23) has joined
+T 1394445331 22*	26ChanServ gives voice to 18Wh1tebird
+T 1394445601 23*	algabe (arch@b1f-007.static.bnc4free.com23) has joined
+T 1394445601 22*	26ChanServ gives voice to 18algabe
+T 1394445609 24*	28algabe is now known as 18Guest34549
+T 1394445751 23*	NLZ13 (NLZ13@has.a.free.bouncer.from.bnc4free.co.uk23) has joined
+T 1394445751 22*	26ChanServ gives voice to 18NLZ13
+T 1394445811 23*	ativelkov (ativelkov@has.the-best.xxx23) has joined
+T 1394445811 22*	26ChanServ gives voice to 18ativelkov
+T 1394446758 24*	28emmanuel is now known as 18emmanuel_off
+T 1394447773 20*	Disconnected (20Invalid argument)
+T 1394447785 19*	Now talking on 22#bnc4free
+T 1394447785 22*	Topic for 22#bnc4free is: Welcome to BNC4FREE - Free IRC Bouncers on Demand - Site: http://bnc4free.com/ - We provide Free IRC Bouncers to networks other than those listed at http://bnc4free.com/?page_id=11 - TOS: http://bnc4free.com/tos - 1 BNC / Person  - Use !request to request a BNC.
+T 1394447785 22*	Topic for 22#bnc4free set by 26BNC4FREE!services@bot.bnc4free.com (24Fri Feb 28 19:18:47 2014)
+T 1394448848 24*	28emmanuel_off is now known as 18emmanuel
+T 1394449384 24*	28kkzu_off is now known as 18kkzu
+T 1394450256 24*	28emmanuel is now known as 18emmanuel_off
+T 1394450393 24*	Guest29226 has quit (Quit: I'm using a Free IRC Bouncer from BNC4FREE - http://bnc4free.com/)
+T 1394450397 24*	mazilema has quit (Ping timeout: 245 seconds)
+T 1394450397 24*	Crackz0r has quit (Ping timeout: 245 seconds)
+T 1394450472 24*	djalin has quit (Ping timeout: 245 seconds)
+T 1394450577 23*	MateoVives (MateoVives@7b5-003.static.bnc4free.com23) has joined
+T 1394450592 22*	26ChanServ gives voice to 18MateoVives
+T 1394450637 23*	tmh|AWAY (themadhatt@7b5-007.static.bnc4free.com23) has joined
+T 1394450637 22*	26ChanServ gives voice to 18tmh|AWAY
+T 1394450645 24*	28tmh|AWAY is now known as 18Guest35219
+T 1394450817 23*	Crackz0r (Crackz0r@7b5-003.static.bnc4free.com23) has joined
+T 1394450817 22*	26ChanServ gives voice to 18Crackz0r
+T 1394451401 23*	djalin (Esential@gateway/shell/bouncerstation/x-wjpkyyyyoipfinet23) has joined
+T 1394451417 24*	28MiSKLaCHd is now known as 18MiSKLaCH
+T 1394451788 24*	28emmanuel_off is now known as 18emmanuel
+T 1394452293 23*	Tuxedo[Qyou] (~Tux@176.103.41.523) has joined
+T 1394452478 24*	Tux[Qyou] has quit (Ping timeout: 240 seconds)
+T 1394452486 24*	28emmanuel is now known as 18emmanuel_off
+T 1394452695 23*	Tux[Qyou] (~Tux@176.103.41.523) has joined
+T 1394452846 24*	Tuxedo[Qyou] has quit (Ping timeout: 264 seconds)
+T 1394453222 24*	Tux[Qyou] has quit (Ping timeout: 244 seconds)
+T 1394453902 24*	28mpmc[BNC4FREE] is now known as 18mpmc
+T 1394454632 24*	sunitkna- has quit (Quit: EliteBNC - http://elitebnc.org (Auto-Removal: idle account/not being used))
+T 1394455414 24*	28MiSKLaCH is now known as 18MiSKLaCH|bnc
+T 1394455492 22*	26BNC4FREE sets ban on 18*!*@5.135.208.233
+T 1394455532 22*	26BNC4FREE sets ban on 18*!*@2001:470:1f11:209::/64
+T 1394456171 23*	lucif3r_ (uid26190@gateway/web/irccloud.com/x-gjmkpfawdoedcits23) has joined
+T 1394456254 24*	28kkzu is now known as 18kkzu_off
+T 1394456335 23*	Tux[Qyou] (~Tux@176.103.41.523) has joined
+T 1394456439 24*	dstol has quit (Changing host)
+T 1394456439 23*	dstol (dstol@drupal.org/user/329570/view23) has joined
+T 1394456439 22*	26orwell.freenode.net gives voice to 18dstol
+T 1394456439 22*	26ChanServ removes voice from 18dstol
+T 1394456907 23*	Tuxedo[Qyou] (~Tux@176.103.41.523) has joined
+T 1394457100 24*	Tux[Qyou] has quit (Read error: Operation timed out)
+T 1394457218 24*	Tuxedo[Qyou] has quit (Ping timeout: 240 seconds)
+T 1394458375 24*	28daveleigh_away is now known as 18daveleigh
+T 1394459447 24*	28emmanuel_off is now known as 18emmanuel
+T 1394459736 24*	28emmanuel is now known as 18emmanuel_off
+T 1394461717 23*	Tux[Qyou] (~Tux@176.103.41.523) has joined
+T 1394462661 24*	RyanKnack has quit (Ping timeout: 265 seconds)
+T 1394462935 24*	BuGy has quit (Quit: restart)
+T 1394462957 24*	weedran has quit (Remote host closed the connection)
+T 1394463009 23*	[BNC]weedran (weedran@gateway/shell/bnc4free/x-jzbfbqfdqxuycert23) has joined
+T 1394463010 22*	26ChanServ gives voice to 18[BNC]weedran
+T 1394463055 24*	28[BNC]weedran is now known as 18weedran
+T 1394463081 23*	Guest89430 (RyanKnack@unaffiliated/ryanknack23) has joined
+T 1394463082 22*	26ChanServ gives voice to 18Guest89430
+T 1394463112 23*	BuGy (BuGy@melon.bnc4free.com23) has joined
+T 1394463112 22*	26ChanServ gives voice to 18BuGy
+T 1394465524 24*	djalin has quit (Remote host closed the connection)
+T 1394465943 23*	djalin (Esential@gateway/shell/bouncerstation/x-yqywsiziyvijakgg23) has joined
+T 1394467560 23*	Love` (~team@iworx5.webxtra.net23) has joined
+T 1394467564 18<Love`18>	!help
+T 1394467573 18<Love`18>	!request
+T 1394467573 18<BNC4FREE18>	Not enough parameters.
+T 1394467573 18<BNC4FREE18>	Syntax: !REQUEST [USERNAME] [IRC SERVER OR NETWORK NAME] [IRC PORT] [EMAIL]
+T 1394467573 18<BNC4FREE18>	If no 12IRC SERVER and 12IRC PORT are given, the server you are making this request from will be used.
+T 1394467573 18<BNC4FREE18>	If you would like to use SSL to connect to the IRC network, please add a + in front of the port and make sure the port you request for allows SSL connections.
+T 1394467573 18<BNC4FREE18>	Please ensure you have read our 12Terms of Service before requesting which can be found at 12http://bnc4free.com/tos
+T 1394467626 18<Love`18>	!request Angel irc.planetwork.web.id 6667 banyakwaktu@outlook.com
+T 1394467630 18<BNC4FREE18>	12You're almost there! We have sent you an email to confirm your email address. Follow the instructions in the email in order for your request to be processed.
+T 1394467631 18<BNC4FREE18>	Please ensure you have read our 12Terms of Service which can be found at 12http://bnc4free.com/tos
+T 1394467706 18<Love`18>	banyakwaktu@outlook.com
+T 1394467715 18<Love`18>	!verify 12322e0514f74e559b086639d03a33c9
+T 1394467715 18<BNC4FREE18>	12Congratulations Angel: Your email has been verified and your request is now marked as pending. Requests are usually processed within 24/48 hours by staff and you will be notified by email when it has been processed.
+T 1394467715 18<BNC4FREE18>	You can check the status by using: 12!check 6753
+T 1394467722 18<Love`18>	!check 6753
+T 1394467723 18<BNC4FREE18>	12Angel Request Status: 15Pending
+T 1394468219 24*	cmitchelmore has quit (Remote host closed the connection)
+T 1394468256 23*	cmitchelmore (~cmitchelm@37.157.38.1023) has joined
+T 1394468439 24*	cmitchelmore has quit (Read error: Operation timed out)
+T 1394469650 18<Love`18>	!check 6753
+T 1394469650 18<BNC4FREE18>	12Angel Request Status: 15Pending
+T 1394469934 24*	lucif3r_ (uid26190@gateway/web/irccloud.com/x-gjmkpfawdoedcits24) has left
+T 1394470558 24*	Love` has quit (Ping timeout: 264 seconds)
+T 1394473003 23*	algabe (~arch@unaffiliated/algabe23) has joined
+T 1394473648 24*	fzeta has quit (Quit: leaving)
+T 1394474245 23*	Tuxedo[Qyou] (~Tux@176.103.41.523) has joined
+T 1394474438 24*	Tux[Qyou] has quit (Ping timeout: 240 seconds)
+T 1394475491 23*	fzeta (fz3t4@unaffiliated/fzeta23) has joined
+T 1394475610 24*	algabe has quit (Quit: May the force be with you!)
+T 1394475658 24*	28Guest34549 is now known as 18algabe
+T 1394475669 24*	algabe has quit (Changing host)
+T 1394475669 23*	algabe (arch@unaffiliated/algabe23) has joined
+T 1394475669 22*	26dickson.freenode.net gives voice to 18algabe
+T 1394476118 24*	fzeta has quit (Quit: leaving)
+T 1394476317 23*	fzeta (fz3t4@unaffiliated/fzeta23) has joined
+T 1394476389 18<BNC4FREE18>	12[Love`] Your request has been accepted. Check your email for more information.
+T 1394476840 24*	28UglyFigurine_afk is now known as 18UglyFigurine
+T 1394476844 23*	Tux[Qyou] (~Tux@176.103.41.523) has joined
+T 1394476992 24*	Tuxedo[Qyou] has quit (Ping timeout: 240 seconds)
+T 1394477040 23*	cmitchelmore (~cmitchelm@94.12.101.17623) has joined
+T 1394477799 23*	Guest17623 (~junx@50-73-10-145-richmond.hfc.comcastbusiness.net23) has joined
+T 1394478064 24*	28Guest17623 is now known as 18junx
+T 1394478103 23*	Tuxedo[Qyou] (~Tux@176.103.41.523) has joined
+T 1394478302 24*	Tux[Qyou] has quit (Ping timeout: 244 seconds)
+T 1394478649 22*	26BNC4FREE sets ban on 18*!*@174.92.253.12
+T 1394479863 24*	junx (~junx@50-73-10-145-richmond.hfc.comcastbusiness.net24) has left
+T 1394480294 24*	temeluchus has quit (Disconnected by services)
+T 1394480338 24*	28AEM` is now known as 18aem`
+T 1394480474 24*	cmitchelmore has quit (Remote host closed the connection)
+T 1394480491 23*	teme (temeluchus@2001:470:8327:babe::23) has joined
+T 1394480505 23*	cmitchelmore (~cmitchelm@94.12.101.17623) has joined
+T 1394480541 24*	autoprime has quit (Quit: Leaving...)
+T 1394480625 23*	autoprime (~autoprime@unaffiliated/autoprime23) has joined
+T 1394480759 24*	cmitchelmore has quit (Ping timeout: 240 seconds)
+T 1394484627 23*	cmitchelmore (~cmitchelm@94.12.101.17623) has joined
+T 1394485661 24*	28UglyFigurine is now known as 18UglyFigurine_afk
+T 1394485898 24*	28UglyFigurine_afk is now known as 18UglyFigurine
+T 1394487228 24*	28UglyFigurine is now known as 18UglyFigurine_afk
+T 1394487695 24*	28dstol is now known as 18dstol_
+T 1394488649 24*	28UglyFigurine_afk is now known as 18UglyFigurine
+T 1394489956 24*	28UglyFigurine is now known as 18UglyFigurine_afk
+T 1394492308 24*	cmitchelmore has quit (Remote host closed the connection)
+T 1394492342 23*	cmitchelmore (~cmitchelm@94.12.101.17623) has joined
+T 1394492377 24*	28daveleigh is now known as 18daveleigh_away
+T 1394492473 24*	28ajrty33 is now known as 18tartaro
+T 1394492593 24*	cmitchelmore has quit (Ping timeout: 240 seconds)
+T 1394492644 24*	28tartaro is now known as 18ajrty33
+T 1394493169 24*	Tuxedo[Qyou] has quit (Read error: Connection reset by peer)
+T 1394493254 24*	hypech has quit (Quit: Free ZNC by #FoundBNC <www.foundbnc.us>)
+T 1394493772 23*	hypech- (hypech@gateway/shell/elitebnc/x-dwxnxsdacmbuhtst23) has joined
+T 1394493847 24*	28hypech- is now known as 18hypech
+T 1394494075 24*	28UglyFigurine_afk is now known as 18UglyFigurine
+T 1394494829 24*	28kkzu_off is now known as 18kkzu
+T 1394495060 24*	WhiteWolf|AWAY has quit (Ping timeout: 265 seconds)
+T 1394495191 23*	WhiteWolf|AWAY (~Wolfy@whitewolf.staff.blupaw.net23) has joined
+T 1394495339 24*	28daveleigh_away is now known as 18daveleigh
+T 1394495518 24*	28mpmc is now known as 18mpmc[BNC4FREE]
+T 1394495611 24*	WhiteWolf|AWAY has quit (Ping timeout: 265 seconds)
+T 1394495995 23*	cmitchelmore (~cmitchelm@94.12.101.17623) has joined
+T 1394496033 23*	WhiteWolf|AWAY (~Wolfy@whitewolf.staff.blupaw.net23) has joined
+T 1394496716 23*	morganto__ (uid10085@gateway/web/irccloud.com/x-jhzocovtclygxshq23) has joined
+T 1394496958 24*	cmitchelmore has quit (Ping timeout: 240 seconds)
+T 1394499577 23*	cmitchelmore (~cmitchelm@94.12.101.17623) has joined
+T 1394499840 24*	cmitchelmore has quit (Ping timeout: 240 seconds)
+T 1394501440 24*	ajrty33 has quit (Ping timeout: 265 seconds)
+T 1394501752 24*	28UglyFigurine is now known as 18UglyFigurine_afk
+T 1394502221 23*	ajrty33 (~ajrty33@unaffiliated/ajrty3323) has joined
+T 1394502944 24*	28UglyFigurine_afk is now known as 18UglyFigurine
+T 1394503345 24*	reans has quit (Ping timeout: 265 seconds)
+T 1394503360 23*	cmitchelmore (~cmitchelm@94.12.101.17623) has joined
+T 1394503367 23*	reans (~Reans@2001:470:dce3:0:a00:27ff:fed4:3c1523) has joined
+T 1394503504 24*	cmitchelmore has quit (Ping timeout: 252 seconds)
+T 1394503644 24*	njaal has quit (Quit: Connection closed for inactivity)
+T 1394507002 24*	28daveleigh is now known as 18daveleigh_away
+T 1394507446 24*	23LAAMCGA has quit (Remote host closed the connection)
+T 1394507458 23*	64MAAKQUM (scrollback@conference/jsconf/x-bjatpnmbogpofezw23) has joined
+T 1394509124 24*	28daveleigh_away is now known as 18daveleigh
+T 1394510940 24*	28daveleigh is now known as 18daveleigh_away
+T 1394513025 24*	MartynKeigher has quit (Quit: Bye for now!)
+T 1394513165 24*	[BNC]kevr has quit (Quit: Later.)
+T 1394513282 23*	[BNC]kevr (kevr@3ee-007.static.bnc4free.com23) has joined
+T 1394513282 22*	26ChanServ gives voice to 18[BNC]kevr
+T 1394513358 24*	28compTECH is now known as 18Pajero
+T 1394513403 24*	28Pajero is now known as 18jun
+T 1394513457 24*	28jun is now known as 18Pajero
+T 1394513562 23*	MartynKeigher (MartynKeig@3ee-003.static.bnc4free.com23) has joined
+T 1394513562 22*	26ChanServ gives voice to 18MartynKeigher
+T 1394514801 24*	Shanmugamp7 has quit (Quit: Connection closed for inactivity)
+T 1394515298 24*	RuthSmart has quit (Quit: I'm using a Free IRC Bouncer from BNC4FREE - http://bnc4free.com/)
+T 1394515408 24*	[BNC]kevr has quit (Remote host closed the connection)
+T 1394515441 24*	drvino_ has quit (Quit: :wq!)
+T 1394515446 24*	chrisimmortal has quit (Quit: I'm using a Free IRC Bouncer from BNC4FREE - http://bnc4free.com/)
+T 1394515446 24*	deedee has quit (Quit: I'm using a Free IRC Bouncer from BNC4FREE - http://bnc4free.com/)
+T 1394515525 24*	Pajero has quit (Quit: ........disconnected.........)
+T 1394515560 24*	MartynKeigher has quit (Max SendQ exceeded)
+T 1394515712 23*	MartynKeigher (MartynKeig@3ee-003.static.bnc4free.com23) has joined
+T 1394515712 22*	26ChanServ gives voice to 18MartynKeigher
+T 1394515832 23*	chrisimmortal (chrisimmor@you.aint.leav.in23) has joined
+T 1394515832 22*	26ChanServ gives voice to 18chrisimmortal
+T 1394515952 23*	[BNC]kevr (kevr@3ee-007.static.bnc4free.com23) has joined
+T 1394515952 22*	26ChanServ gives voice to 18[BNC]kevr
+T 1394516432 23*	RuthSmart (RuthSmart@3ee-008.static.bnc4free.com23) has joined
+T 1394516432 22*	26ChanServ gives voice to 18RuthSmart
+T 1394516642 23*	zz_deedee (deedee@3ee-010.static.bnc4free.com23) has joined
+T 1394516642 22*	26ChanServ gives voice to 18zz_deedee
+T 1394516644 24*	28zz_deedee is now known as 18deedee
+T 1394516822 23*	drvino_ (drvino@unaffiliated/drvino23) has joined
+T 1394516822 22*	26ChanServ gives voice to 18drvino_
+T 1394517112 23*	Tux[Qyou] (~Tux@176.103.41.523) has joined
+T 1394517807 23*	cmitchelmore (~cmitchelm@94.12.101.17623) has joined
+T 1394518056 24*	cmitchelmore has quit (Ping timeout: 240 seconds)
+T 1394518509 23*	Ax_SeS (~MW@pool-96-254-221-224.tampfl.fios.verizon.net23) has joined
+T 1394518528 18<Ax_SeS18>	!check 6758
+T 1394518529 18<BNC4FREE18>	12AxSeS Request Status: 15Pending
+T 1394519337 24*	Ax_SeS (~MW@pool-96-254-221-224.tampfl.fios.verizon.net24) has left ("Leaving")
+T 1394520204 24*	aem` has quit (Ping timeout: 265 seconds)
+T 1394520297 23*	AEM` (AEM@gateway/shell/elitebnc/x-ztfuexnfverzhwxy23) has joined
+T 1394521287 24*	28UglyFigurine is now known as 18UglyFigurine_afk
+T 1394521452 23*	cmitchelmore (~cmitchelm@94.12.101.17623) has joined
+T 1394521562 24*	cmitchelmore has quit (Remote host closed the connection)
+T 1394522084 23*	njaal (uid24269@gateway/web/irccloud.com/x-zzgwcbeaylrmhsbt23) has joined
+T 1394523068 24*	28kkzu is now known as 18kkzu_off
+T 1394524881 19*	Now talking on 22#bnc4free
+T 1394524881 22*	Topic for 22#bnc4free is: Welcome to BNC4FREE - Free IRC Bouncers on Demand - Site: http://bnc4free.com/ - We provide Free IRC Bouncers to networks other than those listed at http://bnc4free.com/?page_id=11 - TOS: http://bnc4free.com/tos - 1 BNC / Person  - Use !request to request a BNC.
+T 1394524881 22*	Topic for 22#bnc4free set by 26BNC4FREE!services@bot.bnc4free.com (24Fri Feb 28 19:18:47 2014)
+T 1394526370 24*	28kkzu_off is now known as 18kkzu
+T 1394527420 24*	28mpmc[BNC4FREE] is now known as 18mpmc
+T 1394527754 23*	sargyknight (~asdasdas@unaffiliated/sargyknight23) has joined
+T 1394527941 24*	sargyknight (~asdasdas@unaffiliated/sargyknight24) has left
+T 1394529465 24*	28emmanuel_off is now known as 18emmanuel
+T 1394531012 23*	sargyknigiht (~asdasdas@adsl-74-240-50-118.jan.bellsouth.net23) has joined
+T 1394531021 24*	sargyknigiht (~asdasdas@adsl-74-240-50-118.jan.bellsouth.net24) has left
+T 1394531345 24*	28emmanuel is now known as 18emmanuel_off
+T 1394531402 24*	28MiSKLaCH|bnc is now known as 18MiSKLaCH
+T 1394532114 24*	28MiSKLaCH is now known as 18MiSKLaCH|bnc
+T 1394532176 24*	28emmanuel_off is now known as 18emmanuel
+T 1394532679 24*	28emmanuel is now known as 18emmanuel_off
+T 1394532710 24*	28emmanuel_off is now known as 18emmanuel
+T 1394533432 24*	28emmanuel is now known as 18emmanuel_off
+T 1394534074 24*	28emmanuel_off is now known as 18emmanuel
+T 1394534120 24*	28emmanuel is now known as 18emmanuel_off
+T 1394534242 24*	28emmanuel_off is now known as 18emmanuel
+T 1394534297 24*	BNC4FREE has quit (Remote host closed the connection)
+T 1394535867 23*	BNC4FREE (services@bot.bnc4free.com23) has joined
+T 1394535868 22*	26ChanServ gives channel operator status to 18BNC4FREE
+T 1394535943 23*	fppe (fppe@gateway/shell/bnc4free/x-yfbqwjesajekckpi23) has joined
+T 1394535943 22*	26ChanServ gives channel operator status to 18fppe
+T 1394540030 24*	28emmanuel is now known as 18emmanuel_off
+T 1394540145 24*	28dstol_ is now known as 18dstol
+T 1394541922 24*	28emmanuel_off is now known as 18emmanuel
+T 1394542141 23*	Tuxedo[Qyou] (~Tux@176.103.41.523) has joined
+T 1394542316 24*	Tux[Qyou] has quit (Ping timeout: 244 seconds)
+T 1394542435 24*	Guest89430 has quit (Ping timeout: 264 seconds)
+T 1394542560 24*	28emmanuel is now known as 18emmanuel_off
+T 1394542637 23*	RyanKnack (RyanKnack@unaffiliated/ryanknack23) has joined
+T 1394542637 22*	26ChanServ gives voice to 18RyanKnack
+T 1394542716 23*	sargyknight (~asdasdas@unaffiliated/sargyknight23) has joined
+T 1394542854 24*	AEM` has quit (Ping timeout: 265 seconds)
+T 1394542962 24*	sargyknight (~asdasdas@unaffiliated/sargyknight24) has left
+T 1394542977 23*	AEM` (AEM@gateway/shell/elitebnc/x-wjrtkatwvirxihkk23) has joined
+T 1394543056 23*	duedb (~duedddddd@109.204.112.14823) has joined
+T 1394543063 18<duedb18>	!request
+T 1394543063 18<BNC4FREE18>	Not enough parameters.
+T 1394543063 18<BNC4FREE18>	Syntax: !REQUEST [USERNAME] [IRC SERVER OR NETWORK NAME] [IRC PORT] [EMAIL]
+T 1394543063 18<BNC4FREE18>	If no 12IRC SERVER and 12IRC PORT are given, the server you are making this request from will be used.
+T 1394543063 18<BNC4FREE18>	If you would like to use SSL to connect to the IRC network, please add a + in front of the port and make sure the port you request for allows SSL connections.
+T 1394543063 18<BNC4FREE18>	Please ensure you have read our 12Terms of Service before requesting which can be found at 12http://bnc4free.com/tos
+T 1394543179 18<duedb18>	!request duedb sendak.freenode.net 6666 douevendogebro@gmail.com
+T 1394543181 18<BNC4FREE18>	12You're almost there! We have sent you an email to confirm your email address. Follow the instructions in the email in order for your request to be processed.
+T 1394543181 18<BNC4FREE18>	Please ensure you have read our 12Terms of Service which can be found at 12http://bnc4free.com/tos
+T 1394543276 18<duedb18>	!verify 24fe8758052e2d32d707263759203a0e
+T 1394543277 18<BNC4FREE18>	12Congratulations duedb: Your email has been verified and your request is now marked as pending. Requests are usually processed within 24/48 hours by staff and you will be notified by email when it has been processed.
+T 1394543277 18<BNC4FREE18>	You can check the status by using: 12!check 6763
+T 1394543291 18<duedb18>	!check 6763
+T 1394543291 18<BNC4FREE18>	12duedb Request Status: 15Pending
+T 1394543295 18<duedb18>	<3
+T 1394543320 24*	28UglyFigurine_afk is now known as 18UglyFigurine
+T 1394544847 24*	28emmanuel_off is now known as 18emmanuel
+T 1394544898 18<BNC4FREE18>	12[duedb] Your request has been accepted. Check your email for more information.
+T 1394545597 18<duedb18>	ty!
+T 1394545989 24*	28emmanuel is now known as 18emmanuel_off
+T 1394546121 24*	duedb has quit (Quit: ( www.nnscript.com :: NoNameScript 4.22 :: www.esnation.com ))
+T 1394546283 19*	Now talking on 22#bnc4free
+T 1394546283 22*	Topic for 22#bnc4free is: Welcome to BNC4FREE - Free IRC Bouncers on Demand - Site: http://bnc4free.com/ - We provide Free IRC Bouncers to networks other than those listed at http://bnc4free.com/?page_id=11 - TOS: http://bnc4free.com/tos - 1 BNC / Person  - Use !request to request a BNC.
+T 1394546283 22*	Topic for 22#bnc4free set by 26BNC4FREE!services@bot.bnc4free.com (24Fri Feb 28 19:18:47 2014)
+T 1394546332 23*	duedb (~duedddddd@109.204.112.14823) has joined
+T 1394546506 24*	duedb has quit (Client Quit)
+T 1394546514 23*	[BNC]duedb (duedb@gateway/shell/bnc4free/x-xpdljbitabbgjkho23) has joined
+T 1394546517 22*	26ChanServ gives voice to 18[BNC]duedb
+T 1394546568 24*	28[BNC]duedb is now known as 18duedb
+T 1394546617 24*	28daveleigh_away is now known as 18daveleigh

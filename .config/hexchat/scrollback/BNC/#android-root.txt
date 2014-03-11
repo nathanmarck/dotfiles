@@ -1,0 +1,646 @@
+T 1393905201 18<ndrscharitysvcs18>	I think i used ADB once, directly, on the LG P990...
+T 1393905230 18<godlessfather18>	I'd say just open the terminal app if you're not familiar with adb
+T 1393905240 18<ndrscharitysvcs18>	right the local computer is logged in as administrator. is that what you meant?
+T 1393905248 18<godlessfather18>	no
+T 1393905250 18<ndrscharitysvcs18>	oh
+T 1393905252 18<godlessfather18>	on the device
+T 1393905261 18<godlessfather18>	CM includes 'Terminal'
+T 1393905261 18<ndrscharitysvcs18>	how do i run it on the device from the laptop?
+T 1393905265 18<ndrscharitysvcs18>	CM?
+T 1393905275 18<ndrscharitysvcs18>	I have the ADB package from google installed
+T 1393905277 18<godlessfather18>	am I talking to the right person...
+T 1393905280 18<ndrscharitysvcs18>	with the phone drivers.
+T 1393905281 18<godlessfather18>	ha
+T 1393905303 18<ndrscharitysvcs18>	but I searched and searched for hours with google for articles like recovering from this mess, and no one mentioned it.
+T 1393905304 18<godlessfather18>	yeah, you have CM 10.1.3, right?
+T 1393905319 18<ndrscharitysvcs18>	there is scant well-made documentation for normal people who are not programmers.
+T 1393905328 18<ndrscharitysvcs18>	godlessfather: yes. CM10.1.3 stable is on the phone
+T 1393905336 18<ndrscharitysvcs18>	but i dont know anything about a terminal window in it.
+T 1393905373 18<ndrscharitysvcs18>	the phone went from Stock, to Philz which added root and cwm, to CM 10.1.3 stable, and then added dorimanx kernel 9.43.
+T 1393905382 18<ndrscharitysvcs18>	And I use it, and that's about all I know about using it.
+T 1393905390 18<godlessfather18>	if you have adb installed on your computer and can connect to the device via adb, it is essentially the same as using the terminal app on the device
+T 1393905398 18<ndrscharitysvcs18>	Uh, okay
+T 1393905413 18<godlessfather18>	your pick, same command, ultimately
+T 1393905413 18<ndrscharitysvcs18>	So i open a terminal window on the device. I saw i terminal application somewhere.
+T 1393905420 18<ndrscharitysvcs18>	(gets device)
+T 1393905423 18<godlessfather18>	"Terminal"
+T 1393905442 18<ndrscharitysvcs18>	ok.
+T 1393905446 18<ndrscharitysvcs18>	yes the terminal window is open
+T 1393905450 18<godlessfather18>	command is 'su -c 'flash_image recovery /path/to/recovery.img''
+T 1393905463 18<ndrscharitysvcs18>	it shows app_42@android:/ $
+T 1393905467 18<godlessfather18>	mhm
+T 1393905486 18<godlessfather18>	you'd type ^^ but edit the path to the recovery image and the file name
+T 1393905501 18<ndrscharitysvcs18>	The recovery image is "philz_touch_6.19.3-i9100.zip" ?
+T 1393905504 18<godlessfather18>	the opening and closing '' are not necessary
+T 1393905507 18<ndrscharitysvcs18>	in this case?
+T 1393905529 18<godlessfather18>	you'd need an image file...it's in that zip
+T 1393905560 18<godlessfather18>	that zip was for installing via your custom recovery but you've borked it
+T 1393905565 18<ndrscharitysvcs18>	ok. Im using wifi file transfer pro, now to upload it. cause im a noooob
+T 1393905658 18<godlessfather18>	did you unzip the file to find 'recovery.img'?
+T 1393905660 18<ndrscharitysvcs18>	godlessfather: Okay, I just had it upload recovery.img to /storage/sdcard0
+T 1393905663 18<ndrscharitysvcs18>	yeah
+T 1393905668 18<godlessfather18>	great
+T 1393905685 18<godlessfather18>	command is 'su -c 'flash_image recovery /storage/sdcard0/recovery.img''
+T 1393905692 18<godlessfather18>	don't need the first and last '
+T 1393905706 18<godlessfather18>	but flash...img should be in '
+T 1393905740 18<ndrscharitysvcs18>	okay
+T 1393905745 18<ndrscharitysvcs18>	okay this is what i did so-far:
+T 1393905745 18<godlessfather18>	su -c 'flash_image recovery /storage/sdcard0/recovery.img'
+T 1393905754 18<ndrscharitysvcs18>	terminal is open uh I didn't use the SU command...
+T 1393905762 18<ndrscharitysvcs18>	okay but I didn't send the command yet either.
+T 1393905834 18<ndrscharitysvcs18>	okay I got it all typed in
+T 1393905870 18<ndrscharitysvcs18>	okay I got a superuser request, approved it, and it shows
+T 1393905879 18<godlessfather18>	k
+T 1393905879 18<ndrscharitysvcs18>	failed: -1
+T 1393905902 18<ndrscharitysvcs18>	ok i just typed 'su' by itself so i dont have to issue the su command every time
+T 1393905909 18<ndrscharitysvcs18>	in case i gotta retype this again
+T 1393905919 24*	madLyfe has quit (Read error: Connection reset by peer)
+T 1393905945 18<ndrscharitysvcs18>	godlessfather: I'm glad I got up at 4 AM and you were around :)
+T 1393905968 18<ndrscharitysvcs18>	okay I 'cd'd to /storage then /sdcard0
+T 1393905977 18<ndrscharitysvcs18>	and did an 'ls' and I see recovery.img
+T 1393906009 23*	SoFLy (~textual@cpe-24-92-241-58.twcny.res.rr.com23) has joined
+T 1393906013 18<ndrscharitysvcs18>	there's a boot.img inside of CWM-KitKatCompatible-i9100.zip. Should I try that instead?
+T 1393906116 23*	madLyfe (~quassel@173-20-228-48.client.mchsi.com23) has joined
+T 1393906123 18<ndrscharitysvcs18>	godlessfather: ?
+T 1393906253 18<godlessfather18>	nah, seems to fail on my recovery as well...
+T 1393906274 18<ndrscharitysvcs18>	well, i tried: flash_image recovery recovery.img, and it continues to fail with -1 on here also, in the /storage/sdcard0 folder and with su already running
+T 1393906277 18<ndrscharitysvcs18>	:/
+T 1393906299 18<godlessfather18>	last option would be dd
+T 1393906301 18<ndrscharitysvcs18>	the question was can I substitute boot.img for recovery.img but otherwise do the same process?
+T 1393906326 18<ndrscharitysvcs18>	The boot.img from CWM-KitKatCompatible-i9100.zip ?
+T 1393906338 18<ndrscharitysvcs18>	is it just a different name but essentially the same thing?
+T 1393906347 18<ndrscharitysvcs18>	godlessfather: weird
+T 1393906368 18<ndrscharitysvcs18>	I don't know what -1 error means other than "It didn't work."
+T 1393906372 18<godlessfather18>	from the recovery zip you downloaded, it says /dev/block/mmcblk0p5 is your recovery partition
+T 1393906385 18<ndrscharitysvcs18>	way to go, 2014 and error messages continue to be unnecessarily cryptic...
+T 1393906406 18<godlessfather18>	dd if=/storage/sdcard0/recovery.img of=/dev/block/mmcblk0p5
+T 1393906408 18<ndrscharitysvcs18>	yeah, but I dont know anything about that.
+T 1393906444 18<ndrscharitysvcs18>	i can't verify what you typed, about /dev/block/mmcblk0p5 being the recovery partition.
+T 1393906464 18<ndrscharitysvcs18>	I can type in what kind of phone it is, i9100 :)
+T 1393906501 18<ndrscharitysvcs18>	the recovery zip is supposed to be for the international i9100 samsung galaxy s 2, and yes, that is that kind of phone here. :)
+T 1393906519 18<ndrscharitysvcs18>	is that where we get the /dev/block/mmcblk0p5 from?
+T 1393906526 18<ndrscharitysvcs18>	man my head hurts.
+T 1393906529 18<ndrscharitysvcs18>	too much linux
+T 1393906540 18<ndrscharitysvcs18>	and not enough sleep
+T 1393906542 18<ndrscharitysvcs18>	yet
+T 1393906605 18<ndrscharitysvcs18>	when I plugged the phone into the laptop on XP, it shows needing drivers for SAMSUNG_Android. Do you know where I can get these drivers? Are they needed for ADB to work?
+T 1393906605 18<godlessfather18>	from that zip, "This package is for 'galaxys2,i9100,GT-I9100,GT-I9100M,GT-I9100P,GT-I9100T'"
+T 1393906608 18<ndrscharitysvcs18>	ok
+T 1393906614 18<ndrscharitysvcs18>	yeah
+T 1393906615 18<ndrscharitysvcs18>	i9100
+T 1393906642 23*	tweetergal (tweetergal@unaffiliated/currypuff23) has joined
+T 1393906670 18<ndrscharitysvcs18>	okay so even though the CWM-KitKatCompatible-i9100.zip has it named 'boot.img', i could try with that? I really don't know what a 'failure -1' is, and probably no one else does who is not a priest of the programmign environment.... about 99,9999% of people on the planet.
+T 1393906672 18<ndrscharitysvcs18>	:)
+T 1393906777 18<ndrscharitysvcs18>	lemme get those samsung android drivers installed while we all think about it
+T 1393906928 18<godlessfather18>	both of those zips say /dev/block/mmcblk0p5 is your recovery partition
+T 1393906979 18<godlessfather18>	if you flash either of them the customary way, you'd be copying the image to that location
+T 1393907000 18<godlessfather18>	same result as what I typed eariler
+T 1393907003 18<godlessfather18>	*earlier
+T 1393907135 18<yazdmich18>	can the regular <3e> recovery apply a nandroid image?
+T 1393907158 18<yazdmich18>	doesn't look like i can get CWM recovery on my device (galaxy discover)
+T 1393907173 18<ndrscharitysvcs18>	godlessfather: Okay so I try the 'dd' command
+T 1393907210 18<ndrscharitysvcs18>	godlessfather: brb
+T 1393907268 18<godlessfather18>	from the guy who heads TWRP's recovery development, i9100 command would be 'dd if=/sdcard/recovery.img of=/dev/block/mmcblk0p5'
+T 1393907335 18<ndrscharitysvcs18>	godlessfather: thats very nice to research it.
+T 1393907341 18<ndrscharitysvcs18>	i need to go lie down though
+T 1393907418 18<godlessfather18>	k
+T 1393907419 18<ndrscharitysvcs18>	so if I don't see you soon thanks very much
+T 1393907420 18<ndrscharitysvcs18>	i copied that into a text file
+T 1393907420 18<ndrscharitysvcs18>	will try it next.
+T 1393907420 18<ndrscharitysvcs18>	:)
+T 1393907420 18<ndrscharitysvcs18>	thanks again
+T 1393907421 18<godlessfather18>	I'll be around, though I'm several hours behind you so I'll likely still be sleeping
+T 1393907638 24*	ndrscharitysvcs has quit (Ping timeout: 245 seconds)
+T 1393907938 24*	SoFLy has quit (Quit: Textual IRC Client: www.textualapp.com)
+T 1393909862 24*	joe75 has quit (Read error: Connection reset by peer)
+T 1393909925 23*	joe75 (~joe75@cpe-67-240-186-233.rochester.res.rr.com23) has joined
+T 1393910085 24*	ajrty33 has quit (Ping timeout: 265 seconds)
+T 1393910543 24*	CheckDavid has quit (Quit: Connection closed for inactivity)
+T 1393912892 24*	{DV8} has quit (Quit: Leaving)
+T 1393913059 24*	m002D2 has quit (Read error: Connection reset by peer)
+T 1393913069 23*	m002D2 (~m00se@unaffiliated/m00se23) has joined
+T 1393913970 23*	barbs (~barbs@218.185.237.2223) has joined
+T 1393914112 23*	Playb3yond (~Playb3yon@user-0c99hia.cable.mindspring.com23) has joined
+T 1393914200 18<barbs18>	dumb question: I know how to execute single commands in adb via my computer's terminal (e.g. "adb shell cat somefile.txt"), is there a way I can execute these commands as root?
+T 1393914324 24*	bencryption has quit (Ping timeout: 264 seconds)
+T 1393914333 18<genii18>	probably adb shell su -c "cat something.txt"
+T 1393914464 23*	bencryption (~bencrypti@unaffiliated/bencryption23) has joined
+T 1393914530 18<barbs18>	awesome, works great. Thanks muchly genii
+T 1393914549 18<genii18>	barbs: Yer welcome
+T 1393914954 23*	Almtesh (~Almtesh@unaffiliated/almtesh23) has joined
+T 1393915240 24*	broody has quit (Quit: Leaving.)
+T 1393915531 24*	GusBricker has quit (Remote host closed the connection)
+T 1393915708 24*	Playb3yond has quit (Quit: Colloquy for iPhone - http://colloquy.mobi)
+T 1393916194 24*	barbs has quit (Remote host closed the connection)
+T 1393916199 24*	28gv1222 is now known as 18gv1222|Away
+T 1393916623 23*	m76 (~mike@128-73-135-253.broadband.corbina.ru23) has joined
+T 1393917081 23*	MroiZo (~oizo@185.20.241.13823) has joined
+T 1393917636 23*	capella (~chatzilla@cpe-72-230-125-7.twcny.res.rr.com23) has joined
+T 1393918294 24*	Almtesh has quit (Remote host closed the connection)
+T 1393918629 23*	oooooo (~oooooo@unaffiliated/oooooo23) has joined
+T 1393918819 23*	ninjak (~ninjak@77.239.137.14223) has joined
+T 1393919164 23*	CrazyLemon (Lq0sjYbOPw@BSN-77-143-220.static.dsl.siol.net23) has joined
+T 1393919286 23*	fiet (~fiet@unaffiliated/fiet23) has joined
+T 1393919308 24*	Zesty_ has quit (Excess Flood)
+T 1393919365 23*	Zesty_ (~Zesty@unaffiliated/zestybaby23) has joined
+T 1393920083 24*	godlessfather has quit (Read error: Connection reset by peer)
+T 1393920307 23*	godlessfather1 (~godlessfa@unaffiliated/godlessfather23) has joined
+T 1393920529 24*	genii has quit (Ping timeout: 240 seconds)
+T 1393920685 23*	genii (~quassel@ubuntu/member/genii23) has joined
+T 1393920844 24*	tweetergal has quit (Ping timeout: 265 seconds)
+T 1393921283 23*	GusBricker (~GusBricke@c122-107-239-5.mckinn3.vic.optusnet.com.au23) has joined
+T 1393921336 24*	m002D2 has quit (Read error: Connection reset by peer)
+T 1393921342 23*	m00dr0id (~m00se@unaffiliated/m00se23) has joined
+T 1393921377 24*	m00dr0id has quit (Read error: Connection reset by peer)
+T 1393921388 23*	m002D2 (~m00se@unaffiliated/m00se23) has joined
+T 1393921662 23*	ivali (~valentin@unaffiliated/ivali23) has joined
+T 1393922023 24*	capella has quit (Read error: Connection reset by peer)
+T 1393922770 23*	capella (~chatzilla@cpe-72-230-125-7.twcny.res.rr.com23) has joined
+T 1393922844 23*	Eyes (~Eyes@WiseOS/Founder/NiaTeppelin23) has joined
+T 1393922963 24*	bray90820 has quit ()
+T 1393923066 23*	[Serge] (~Miranda@80.93.176.24623) has joined
+T 1393923182 23*	bray90820 (~bray90820@50-81-253-32.client.mchsi.com23) has joined
+T 1393923433 24*	am0rphis has quit (Ping timeout: 240 seconds)
+T 1393923928 23*	robbyoconnor (~wakawaka@guifications/user/r0bby23) has joined
+T 1393924149 23*	matteo (~matteo@openwrt/developer/matteo23) has joined
+T 1393924173 24*	robbyoconnor has quit (Remote host closed the connection)
+T 1393924197 23*	robbyoconnor (~wakawaka@guifications/user/r0bby23) has joined
+T 1393924277 23*	karab44 (~kvirc@host-91-192-90-101.elomza.pl23) has joined
+T 1393924304 23*	setra (~setra@195.16.233.13023) has joined
+T 1393924475 24*	genii has quit (Remote host closed the connection)
+T 1393924506 23*	j_simon (~j_simon@mail.know-center.tu-graz.ac.at23) has joined
+T 1393925057 23*	tweetergal (~currypuff@unaffiliated/currypuff23) has joined
+T 1393925079 23*	utack (~utack@mnch-5d875f44.pool.mediaWays.net23) has joined
+T 1393925128 24*	OneMiner has quit (Ping timeout: 252 seconds)
+T 1393925646 24*	Onixs has quit (Quit: Caught sigterm, terminating...)
+T 1393925701 23*	Onixs (~Onixs@124.105.107.6823) has joined
+T 1393926489 23*	Almtesh (~Almtesh@unaffiliated/almtesh23) has joined
+T 1393926958 23*	hashbang (~isajb@cse-ajb.cse.bris.ac.uk23) has joined
+T 1393927269 23*	EPG (~EPG@p508F5307.dip0.t-ipconnect.de23) has joined
+T 1393927476 23*	ndrscharitysvcs (5b422153@gateway/web/freenode/ip.91.66.33.8323) has joined
+T 1393927512 18<ndrscharitysvcs18>	godlessfather1: woot! it worked sort of. It doesn't boot into anything else, but it *does* boot into Philz touch recovery (the recovery.img file)
+T 1393927521 18<ndrscharitysvcs18>	i have a recent nandroid backup
+T 1393927542 18<ndrscharitysvcs18>	wew
+T 1393927780 24*	VonKranke has quit (Read error: Connection reset by peer)
+T 1393927941 24*	GusBricker has quit (Remote host closed the connection)
+T 1393928904 23*	IceBone (~Ice@BSN-182-130-196.dial-up.dsl.siol.net23) has joined
+T 1393928929 18<IceBone18>	Does anyone know how to boost sound levels on a rooted phone? Pushing them past max, I mean.
+T 1393929300 24*	canvs2321 has quit (Ping timeout: 264 seconds)
+T 1393929432 24*	m002D2 has quit (Read error: Connection reset by peer)
+T 1393929445 23*	m002D2 (~m00se@unaffiliated/m00se23) has joined
+T 1393929526 24*	m002D2 has quit (Read error: Connection reset by peer)
+T 1393929545 23*	m002D2 (~m00se@unaffiliated/m00se23) has joined
+T 1393929625 24*	tweetergal has quit (Ping timeout: 240 seconds)
+T 1393929757 20*	You are now known as 18Osatia-Bot
+T 1393929774 20*	You are now known as 18Thonneve
+T 1393929796 23*	tweetergal (tweetergal@unaffiliated/currypuff23) has joined
+T 1393930732 24*	zombieJesus has quit (Read error: Connection reset by peer)
+T 1393930763 23*	zombieJesus (~kate@unaffiliated/insomnia23) has joined
+T 1393931356 24*	m002D2 has quit (Read error: Connection reset by peer)
+T 1393931367 23*	m002D2 (~m00se@unaffiliated/m00se23) has joined
+T 1393931463 23*	AlexPortable (uid7568@gateway/web/irccloud.com/x-rdnzmirqqowrbvum23) has joined
+T 1393931547 23*	SuinDraw (~Eyes@WiseOS/Founder/NiaTeppelin23) has joined
+T 1393931712 24*	Eyes has quit (Ping timeout: 264 seconds)
+T 1393931752 23*	GusBricker (~GusBricke@c122-107-239-5.mckinn3.vic.optusnet.com.au23) has joined
+T 1393932488 24*	Kostenko_ has quit (Read error: Connection reset by peer)
+T 1393932676 24*	zombieJesus has quit (Ping timeout: 265 seconds)
+T 1393932744 24*	GusBricker has quit (Remote host closed the connection)
+T 1393932762 23*	iMast777 (uid11287@gateway/web/irccloud.com/x-kcpodmjofdfyfspx23) has joined
+T 1393933714 23*	Kostenko (~Kostenko@bl14-106-230.dsl.telepac.pt23) has joined
+T 1393933980 24*	setra has quit (Ping timeout: 264 seconds)
+T 1393934378 24*	SS01 has quit (Ping timeout: 240 seconds)
+T 1393934569 24*	ninjak has quit (Ping timeout: 240 seconds)
+T 1393935079 23*	setra (~setra@195.16.233.13023) has joined
+T 1393935494 23*	ninjak (~ninjak@77.239.137.14223) has joined
+T 1393936049 24*	ivali has quit (Ping timeout: 244 seconds)
+T 1393936126 23*	Vampire0 (~Vampire@jEdit/Vampire23) has joined
+T 1393936249 24*	Vampire0_ has quit (Ping timeout: 240 seconds)
+T 1393937004 18<ndrscharitysvcs18>	IceBone: yeah
+T 1393937015 23*	ajrty33 (~ajrty33@unaffiliated/ajrty3323) has joined
+T 1393937019 18<IceBone18>	Do tell.
+T 1393937053 18<ndrscharitysvcs18>	IceBone: at least on the i9100 / samsung galaxy s2, with cm 10.1.3 stable installed, added the dorimanx 9.43 kernel, then it was possible to run STweaks (app store, free), and boost the various outputs
+T 1393937070 18<ndrscharitysvcs18>	like add +4db to the speaker output across all apps.
+T 1393937081 18<IceBone18>	This is an HTC One S, fully open.
+T 1393937086 18<IceBone18>	I'll look into it.
+T 1393937100 18<ndrscharitysvcs18>	well
+T 1393937117 18<IceBone18>	Hmm, yeah, this looks to be specifically for the syiah kernel on s2 and s3.
+T 1393937118 18<ndrscharitysvcs18>	stweaks is only for samsung, but there might be something for your platform, a kernel, that has those tweaks.
+T 1393937131 18<ndrscharitysvcs18>	i find the stock kernel with CM 'works', but not really as well as it could
+T 1393937138 18<ndrscharitysvcs18>	Like...
+T 1393937143 18<IceBone18>	I currently have this running, dad says it works: https://play.google.com/store/apps/details?id=mobi.omegacentauri.Earpiece&hl=en
+T 1393937196 18<ndrscharitysvcs18>	A LG P990 was rooted, and the stock kernel from CM 10.1x used up battery too fast. there was a dedicated P990 kernel that fixed that along with some other stuff.
+T 1393937197 18<ndrscharitysvcs18>	Ahh
+T 1393937200 18<ndrscharitysvcs18>	okay i looked at the link
+T 1393937221 18<ndrscharitysvcs18>	I used something like that, a Music EQ app, previously. That would be about the same, the app up there, and it looks nicer too.
+T 1393937232 18<ndrscharitysvcs18>	So just go ahead and use that Mobi Earpeace app then
+T 1393937237 18<IceBone18>	But I'm wondering if there's any lower way of doing it, rather than a service.
+T 1393937254 18<ndrscharitysvcs18>	I really like the Mobi Music and Mobi Audiobook player apps... going to check that out :)
+T 1393937265 18<ndrscharitysvcs18>	IceBone: Sure, the kernel level.
+T 1393937282 18<IceBone18>	Yeah, just need to find someone with knowledge of One S kernels for 4.2.2.
+T 1393937283 18<ndrscharitysvcs18>	Search around for a kernel for that phone that is dedicated to that hardware.
+T 1393937299 18<ndrscharitysvcs18>	Just keep google searching. It only took a few minutes to find the kernel for the P990
+T 1393937336 18<ndrscharitysvcs18>	The Dorimanx kernel was soooo much better for the S2 than the CM stock kernel, figured there must also be one for the P990 and most other common phones. The HTC One S is fairly common, no?
+T 1393937340 18<IceBone18>	Well, I'm running the elementalx kernel, which supposedly boosts audio, but dad still complained.
+T 1393937363 18<ndrscharitysvcs18>	... that it was too quiet?
+T 1393937369 18<IceBone18>	Yeah.
+T 1393937380 18<IceBone18>	He's a bit hard of hearing, even though you won't hear him say it.
+T 1393937406 18<ndrscharitysvcs18>	http://forum.xda-developers.com/showthread.php?t=2083229 this one?
+T 1393937411 23*	CheckDavid (uid14990@unaffiliated/checkdavid23) has joined
+T 1393937414 18<IceBone18>	yeah
+T 1393937444 18<IceBone18>	TBH, that was one of my complaints when I had the phone, too.
+T 1393937459 18<IceBone18>	He got my hand-me-down.
+T 1393937516 18<ndrscharitysvcs18>	reading...
+T 1393937574 18<ndrscharitysvcs18>	apparently there is a .conf (config file) to edit that changes kernel options. I looked for the word 'sound' on that page, and only found one instance but not referencing the speaker.
+T 1393937596 18<ndrscharitysvcs18>	so it might not have a STweaks type app to interface with the config, you might have to find the setting and change it manually.
+T 1393937614 18<IceBone18>	Well, I'll see what dad says about the app.
+T 1393937692 18<ndrscharitysvcs18>	IceBone: since google picks google.de as the search engine, and this changes the search results I see from what you probably see, i got this link (translated) http://translate.google.de/translate?hl=en&sl=de&u=http://www.android-hilfe.de/htc-one-m7-forum/461050-htc-one-lautsprecher-boomsound-12.html&prev=/search%3Fq%3Delemental%2Bkernel%2Bhtc%2Bone%2BS%2Bsound%2Bproblem%26safe%3Doff%26espv%3D210%26es_sm%3D93
+T 1393937710 18<ndrscharitysvcs18>	where someone looks like they are posting about exactly the same issue.
+T 1393937717 18<ndrscharitysvcs18>	sorry I couldnt help more though. i have to go.
+T 1393937726 18<IceBone18>	np
+T 1393937726 24*	ndrscharitysvcs has quit (Quit: Page closed)
+T 1393937739 24*	m002D2 has quit (Read error: Connection reset by peer)
+T 1393937743 23*	m00dr0id (~m00se@unaffiliated/m00se23) has joined
+T 1393938359 24*	Unforgiving has quit (Ping timeout: 240 seconds)
+T 1393938402 24*	28godlessfather1 is now known as 18godlessfather
+T 1393938716 24*	zoktar has quit (Quit: -)
+T 1393938891 23*	zoktar (~zoktar@unaffiliated/zoktar23) has joined
+T 1393939050 23*	Unforgiving (~cnts@unaffiliated/unforgiving23) has joined
+T 1393939081 24*	CheckDavid has quit (Changing host)
+T 1393939081 23*	CheckDavid (uid14990@gateway/web/irccloud.com/x-dtliidvpqqkoxbqo23) has joined
+T 1393939766 23*	razor1101 (~razor1101@unaffiliated/razor110123) has joined
+T 1393940363 23*	c4ds (~cads@unaffiliated/al4nc4ds23) has joined
+T 1393941039 24*	iMast777 has quit (Quit: Connection closed for inactivity)
+T 1393941043 24*	c4ds has quit (Read error: Connection reset by peer)
+T 1393941756 24*	razor1101 has quit (Quit: Leaving)
+T 1393942129 24*	m00dr0id has quit (Ping timeout: 240 seconds)
+T 1393942247 23*	XDS2010 (sid1218@gateway/web/irccloud.com/x-radbbksxlueowzex23) has joined
+T 1393942434 24*	zoktar has quit (Ping timeout: 245 seconds)
+T 1393942493 23*	zoktar (~zoktar@unaffiliated/zoktar23) has joined
+T 1393942515 23*	am0rphis (~am0rphis@2001:41d0:8:b330::123) has joined
+T 1393942835 23*	ivali (valentin@unaffiliated/ivali23) has joined
+T 1393943130 24*	Almtesh has quit (Remote host closed the connection)
+T 1393943180 23*	utack_ (~utack@mnch-5d875f44.pool.mediaWays.net23) has joined
+T 1393943214 23*	ke- (~ke@93.160.63.12223) has joined
+T 1393943255 24*	utack has quit (Ping timeout: 252 seconds)
+T 1393943489 24*	ke- has quit (Ping timeout: 244 seconds)
+T 1393943538 23*	ke- (~ke@93.160.63.12223) has joined
+T 1393943717 23*	iMast777 (uid11287@gateway/web/irccloud.com/x-dwatjrhrbbgpaail23) has joined
+T 1393943860 24*	AlexPortable has quit (Quit: Connection closed for inactivity)
+T 1393943952 24*	tweetergal has quit ()
+T 1393944811 23*	MrMaffen (~quassel@aftr-37-24-156-137.unity-media.net23) has joined
+T 1393945219 24*	EPG has quit (Quit: EPG)
+T 1393945728 23*	moza (~moza@dynamic.1.16.34dbfd721d80.0236994134c.afb.bredband2.com23) has joined
+T 1393946045 23*	AlexPortable (uid7568@gateway/web/irccloud.com/x-picachjrrlgojxse23) has joined
+T 1393946331 24*	karab44 has quit (Quit: KVIrc 4.1.3 Equilibrium http://www.kvirc.net/)
+T 1393946353 24*	robbyoconnor has quit (Ping timeout: 240 seconds)
+T 1393946499 23*	m002D2 (~m00se@unaffiliated/m00se23) has joined
+T 1393946543 24*	CheckDavid has quit (Quit: Connection closed for inactivity)
+T 1393946638 24*	Leeds has quit (Quit: Leaving)
+T 1393946874 23*	x-fak (~WinGuru@reactos/tester/x-fak23) has joined
+T 1393947678 24*	ivali has quit (Ping timeout: 240 seconds)
+T 1393947971 23*	moviuro (~moviuro@ginfo.ext.ec-m.fr23) has joined
+T 1393948050 18<moviuro18>	Hi there! I'm using PAC-ROM on Nexus4 and would like to have an Android equivalent of autossh that runs as daemon, reconnects to a server and opens a SOCKS proxy at 127.0.0.1:8000. Does  such a thing exist?
+T 1393949076 24*	MroiZo has quit (Quit: Leaving)
+T 1393950086 24*	ninjak has quit (Read error: Connection reset by peer)
+T 1393950281 23*	karab44 (~kvirc@host-91-192-90-101.elomza.pl23) has joined
+T 1393950611 24*	28SuinDraw is now known as 18Eyes
+T 1393950640 23*	Almtesh (~Almtesh@unaffiliated/almtesh23) has joined
+T 1393950745 23*	Jagster (~Jag@81.22.18.20223) has joined
+T 1393950978 24*	fiet has quit (Quit: Leaving)
+T 1393951090 24*	setra has quit (Remote host closed the connection)
+T 1393951092 24*	j_simon has quit (Quit: Linkinus - http://linkinus.com)
+T 1393951166 24*	28awaycopter88 is now known as 18helicopter88
+T 1393951171 23*	Anaphaxeton (~george@unaffiliated/anaphaxeton23) has joined
+T 1393951239 24*	iMast777 has quit (Quit: Connection closed for inactivity)
+T 1393951600 23*	ivali (~ivali@unaffiliated/ivali23) has joined
+T 1393952107 24*	ivali has quit (Ping timeout: 244 seconds)
+T 1393952425 24*	hashbang has quit (Quit: Leaving.)
+T 1393952756 23*	CheckDavid (uid14990@gateway/web/irccloud.com/x-ghluwpfhjxfustwb23) has joined
+T 1393953396 18<Anaphaxeton18>	hi. i am on linux and i want to root my xperia u. i see there is an automated way (for windows) and another way where you tell sony you rooted your phone. i dont like either approach. i am familiar with the cli and have tons of android related stuff on my desktop.
+T 1393953475 18<Anaphaxeton18>	i want to do things not in one step, because i want to learn and i want to know what is going on. i dont want any superuser app to appear. i dont like closed source stuff. i am claustophobic!
+T 1393954260 23*	systom404 (~darren@host31-50-116-84.range31-50.btcentralplus.com23) has joined
+T 1393954262 24*	28helicopter88 is now known as 18awaycopter88
+T 1393954377 23*	CPngN (~CPngN@unaffiliated/cpngn/x-698519923) has joined
+T 1393954392 24*	moza has quit (Quit: do widzenia)
+T 1393954442 18<utack_18>	does anyone else use faux kernel with the nexus 4?
+T 1393954499 23*	Steevca (~Ivke@cable-178-149-7-90.dynamic.sbb.rs23) has joined
+T 1393954619 23*	FreezingCold (~FreezingC@135.0.41.1423) has joined
+T 1393954619 24*	Unforgiving has quit (Ping timeout: 241 seconds)
+T 1393954697 23*	ZarakiKenpachi1 (~Ivke@cable-178-149-7-90.dynamic.sbb.rs23) has joined
+T 1393954841 23*	Unforgiving (~cnts@unaffiliated/unforgiving23) has joined
+T 1393954873 24*	Steevca has quit (Ping timeout: 240 seconds)
+T 1393955166 23*	toastcfh_ (~toastcfh@unaffiliated/toastcfh23) has joined
+T 1393955176 24*	m76 has quit (Ping timeout: 244 seconds)
+T 1393955197 23*	genii (~quassel@ubuntu/member/genii23) has joined
+T 1393955233 23*	m76 (~mike@128-73-135-253.broadband.corbina.ru23) has joined
+T 1393955544 24*	m76 has quit (Ping timeout: 264 seconds)
+T 1393955587 24*	XDS2010 has quit (*.net *.split)
+T 1393955587 24*	toastcfh has quit (*.net *.split)
+T 1393955587 24*	Trojaner|Offline has quit (*.net *.split)
+T 1393955621 23*	setra (~setra@195.16.233.13023) has joined
+T 1393955668 24*	m002D2 has quit (Read error: Connection reset by peer)
+T 1393955688 23*	m002D2 (~m00se@unaffiliated/m00se23) has joined
+T 1393956058 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393956065 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393956184 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393956191 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393956217 24*	michael_lee has quit (Read error: Connection reset by peer)
+T 1393956261 23*	insomnia (~kate@unaffiliated/insomnia23) has joined
+T 1393956315 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393956323 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393956386 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393956393 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393956486 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393956493 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393957140 23*	robbyoconnor (~wakawaka@guifications/user/r0bby23) has joined
+T 1393957200 24*	systom404 has quit (Ping timeout: 264 seconds)
+T 1393957566 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393957574 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393957612 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393957620 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393957638 24*	28Milotop` is now known as 18Milotop
+T 1393957729 24*	matteo has quit (Ping timeout: 240 seconds)
+T 1393957731 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393957739 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393957779 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393957787 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393957907 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393957915 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393957971 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393957979 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393958044 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393958052 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393958097 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393958105 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393958172 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393958180 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393958196 24*	28gv1222|Away is now known as 18gv1222
+T 1393958266 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393958273 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393958289 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393958297 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393958389 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393958395 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393958471 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393958479 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393958525 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393958533 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393958572 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393958580 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393958612 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393958620 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393958640 23*	jas4711 (~jas@2001:16d8:cca1:0:145b:841a:7a8:2f4123) has joined
+T 1393958714 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393958722 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393958786 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393958794 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393958825 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393958833 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393958841 18<jas471118>	hi. is it possible to script enabling/disabling various settings from the android command line?  i'm thinking of running some 'am' command talking to the com.android.settings app?
+T 1393958878 24*	robbyoconnor has quit (Ping timeout: 240 seconds)
+T 1393958887 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393958895 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393959000 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393959008 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393959053 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393959060 18*	genii slaps sjmikem around while screaming "fix your connection!!!" for therapeutic reasons 
+T 1393959061 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393959117 23*	Cizzle (S@unaffiliated/cizzle23) has joined
+T 1393959129 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393959137 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393959162 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393959170 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393959191 24*	CPngN has quit (Quit: Later daze)
+T 1393959224 23*	CPngN (~CPngN@unaffiliated/cpngn/x-698519923) has joined
+T 1393959240 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393959247 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393959276 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393959284 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393959304 24*	CPngN has quit (Remote host closed the connection)
+T 1393959324 23*	CPngN (~CPngN@unaffiliated/cpngn/x-698519923) has joined
+T 1393959331 24*	chris_is_me has quit (Read error: Connection reset by peer)
+T 1393959409 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393959417 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393959450 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393959458 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393959474 24*	CPngN has quit (Client Quit)
+T 1393959493 23*	CPngN (~CPngN@unaffiliated/cpngn/x-698519923) has joined
+T 1393959535 23*	m76 (~mike@128-73-135-253.broadband.corbina.ru23) has joined
+T 1393959564 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393959570 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393959660 23*	systom404 (~darren@host31-50-116-84.range31-50.btcentralplus.com23) has joined
+T 1393959678 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393959687 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393959761 23*	VonKranke (~SYS64790@127.0.0.123) has joined
+T 1393959770 23*	n-iCe (~nice@Aircrack-NG/User/n-iCe23) has joined
+T 1393959771 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393959779 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393959795 18<n-iCe18>	hi
+T 1393959876 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393959884 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393959937 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393959945 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393959977 24*	CPngN has quit (Quit: Later daze)
+T 1393959998 23*	CPngN (~CPngN@unaffiliated/cpngn/x-698519923) has joined
+T 1393960000 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393960007 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393960109 24*	28awaycopter88 is now known as 18helicopter88
+T 1393960167 23*	chris_is_me (~chris2319@unaffiliated/chris23198923) has joined
+T 1393960180 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393960188 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393960286 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393960294 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393960334 24*	jas4711 has quit (Ping timeout: 245 seconds)
+T 1393960383 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393960391 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393960471 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393960478 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393960524 23*	GentileBen (~RaycisCha@cpc5-lutn10-2-0-cust681.9-3.cable.virginm.net23) has joined
+T 1393960558 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393960566 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393960591 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393960599 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393960634 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393960642 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393960663 24*	ZarakiKenpachi1 has quit (Ping timeout: 244 seconds)
+T 1393960666 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393960674 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393960783 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393960791 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393960890 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393960898 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393960911 24*	chris_is_me has quit (Read error: Connection reset by peer)
+T 1393960919 24*	Unforgiving has quit (Ping timeout: 240 seconds)
+T 1393961019 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393961026 18<utack_18>	sjmikem, what the actual...
+T 1393961027 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393961031 24*	28gv1222 is now known as 18gv1222|Away
+T 1393961071 23*	chris_is_me (~chris2319@unaffiliated/chris23198923) has joined
+T 1393961084 23*	ZarakiKenpachi (~Ivke@cable-178-149-7-90.dynamic.sbb.rs23) has joined
+T 1393961141 23*	jas4711 (~jas@static-213-115-179-130.sme.bredbandsbolaget.se23) has joined
+T 1393961204 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393961212 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393961236 24*	VonKranke has quit (Read error: Connection reset by peer)
+T 1393961306 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393961314 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393961351 23*	Unforgiving (~cnts@unaffiliated/unforgiving23) has joined
+T 1393961432 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393961440 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393961529 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393961537 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393961639 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393961646 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393961711 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393961720 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393961768 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393961776 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393961825 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393961833 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393961893 24*	quaxim has quit (Quit: This was not suppose to happen!)
+T 1393961933 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393961941 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393962037 23*	canvs2321 (~canvs2321@132.sub-70-208-194.myvzw.com23) has joined
+T 1393962051 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393962058 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393962120 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393962128 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393962145 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393962151 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393962226 23*	EF0 (~efo@135.64.249.5.rev.vodafone.pt23) has joined
+T 1393962230 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393962238 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393962246 24*	Izlsnizzt has quit (Remote host closed the connection)
+T 1393962265 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393962273 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393962305 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393962311 23*	Izlsnizzt (~Kappa@unaffiliated/izlsnizzt23) has joined
+T 1393962312 23*	tweetergal (tweetergal@unaffiliated/currypuff23) has joined
+T 1393962313 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393962428 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393962436 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393962527 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393962535 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393962645 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393962653 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393962694 24*	oooooo has quit (Remote host closed the connection)
+T 1393962736 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393962743 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393962762 24*	chris_is_me has quit (Read error: Connection reset by peer)
+T 1393962811 23*	chris_is_me (~chris2319@unaffiliated/chris23198923) has joined
+T 1393962815 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393962823 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393962935 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393962942 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393963005 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393963013 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393963069 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393963078 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393963135 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393963135 24*	n-iCe has quit (Quit: Lost terminal)
+T 1393963143 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393963220 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393963228 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393963263 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393963271 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393963348 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393963355 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393963363 23*	SuD (~alex@13-197-39-46.usuarios.innovasur.com23) has joined
+T 1393963386 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393963393 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393963425 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393963432 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393963478 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393963486 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393963515 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393963523 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393963588 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393963589 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393963646 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393963652 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393963662 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393963670 24*	sjmikem has quit (Max SendQ exceeded)
+T 1393963770 23*	sjmikem (~mmigdol@ipsec.igware.com23) has joined
+T 1393963908 24*	m76 has quit (Read error: Connection reset by peer)
+T 1393964113 24*	setra has quit (Ping timeout: 265 seconds)
+T 1393964552 23*	kahtahs (~kahtahs@unaffiliated/shathak23) has joined
+T 1393964559 24*	kahtahs (~kahtahs@unaffiliated/shathak24) has left
+T 1393964941 24*	28gv1222|Away is now known as 18gv1222
+T 1393965165 23*	GusBricker (~GusBricke@c220-237-20-42.eburwd9.vic.optusnet.com.au23) has joined
+T 1393965173 24*	chris_is_me has quit (Read error: Connection reset by peer)
+T 1393965351 24*	m002D2 has quit (Ping timeout: 240 seconds)
+T 1393965396 23*	chris_is_me (~chris2319@unaffiliated/chris23198923) has joined
+T 1393965779 24*	Unforgiving has quit (Ping timeout: 240 seconds)
+T 1393965928 24*	chris_is_me has quit (Read error: Connection reset by peer)
+T 1393965945 23*	chris_is_me (~chris2319@unaffiliated/chris23198923) has joined
+T 1393965995 24*	karab44 has quit (Quit: KVIrc 4.1.3 Equilibrium http://www.kvirc.net/)
+T 1393965999 23*	Unforgiving (~cnts@unaffiliated/unforgiving23) has joined
+T 1393966020 24*	Eyes has quit (Ping timeout: 264 seconds)
+T 1393966026 24*	oiZo has quit (Ping timeout: 252 seconds)
+T 1393966071 23*	oiZo (~oizo@dhcp-5-103-45-22.seas-nve.net23) has joined
+T 1393966241 24*	GusBricker has quit (Remote host closed the connection)
+T 1393966257 24*	oiZo has quit (Max SendQ exceeded)
+T 1393966276 23*	GusBricker (~GusBricke@c220-237-20-42.eburwd9.vic.optusnet.com.au23) has joined
+T 1393966286 23*	oiZo (~oizo@dhcp-5-103-45-22.seas-nve.net23) has joined
+T 1393966309 24*	GusBricker has quit (Read error: Connection reset by peer)
+T 1393966316 23*	GusBrick_ (~GusBricke@c220-237-20-42.eburwd9.vic.optusnet.com.au23) has joined
+T 1393966713 23*	kennae (kennae@psykedelia.org23) has joined
+T 1393966727 18<kennae18>	I have a problem, new with android but fucking god with linux
+T 1393966731 18<kennae18>	so that is kennae
+T 1393966756 18<kennae18>	I got my first android phone few weeks ago and flashed temaseks CM11 into it, after I was happy with everything I encrypted the phone
+T 1393966786 18<kennae18>	after that I only realized that I would have to decrypt my phone to install new ROM and kernel
+T 1393966803 18<kennae18>	so what would be the sane idea to continue?
+T 1393966838 18<kennae18>	oh, my phone is samsung note 3 universal
+T 1393966877 18<kennae18>	someone make this work and I donate 5e to AOSP
+T 1393966879 18<kennae18>	_Å4
+T 1393966884 18<kennae18>	:P
+T 1393967279 18<kennae18>	in settings -> security -> there is at the very bottom "encrypt" etc. but it is greyed out
+T 1393967300 24*	28helicopter88 is now known as 18awaycopter88
+T 1393967308 24*	IceBone (~Ice@BSN-182-130-196.dial-up.dsl.siol.net24) has left
+T 1393967335 24*	ZarakiKenpachi has quit (Quit: Leaving)
+T 1393967393 24*	Izlsnizzt has quit (Remote host closed the connection)
+T 1393967434 23*	Izlsnizzt (~Kappa@unaffiliated/izlsnizzt23) has joined
+T 1393967758 23*	ZarakiKenpachi (~Ivke@cable-178-149-7-90.dynamic.sbb.rs23) has joined
+T 1393967777 24*	ZarakiKenpachi has quit (Read error: Connection reset by peer)
+T 1393967854 24*	systom404 has quit (Ping timeout: 265 seconds)
+T 1393967876 24*	GusBrick_ has quit (Remote host closed the connection)
+T 1393968944 23*	amiloxa (~amiloxa@drsd-4dbda052.pool.mediaWays.net23) has joined
+T 1393969309 24*	MrMaffen has quit (Remote host closed the connection)
+T 1393969766 23*	m76 (~mike@128-73-135-253.broadband.corbina.ru23) has joined
+T 1393969802 23*	setra (~setra@195.16.233.13023) has joined
+T 1393970299 24*	amiloxa has quit (Quit: Leaving.)
+T 1393970356 23*	quaxim (~quaxim@lettuce.whatbox.ca23) has joined
+T 1393970519 24*	Unforgiving has quit (Ping timeout: 240 seconds)
+T 1393970590 23*	blsuffolk (~blsuffolk@204.62.51.223) has joined
+T 1393970797 23*	Unforgiving (~cnts@unaffiliated/unforgiving23) has joined
+T 1393970843 23*	GusBricker (~GusBricke@CPE-120-148-198-99.heum1.vic.bigpond.net.au23) has joined
+T 1393971422 23*	Gspot (~G@46-218-218.adsl.cyta.gr23) has joined
+T 1393971649 24*	setra has quit (Ping timeout: 240 seconds)
+T 1393971707 23*	nmuntz (~nmuntz@pc-14-48-47-190.cm.vtr.net23) has joined
+T 1393971716 18<nmuntz18>	does anyone know if there's an app that will disable 3G when 3G signal is low and turn on EDGE instead?
+T 1393971817 24*	blsuffolk has quit (Ping timeout: 240 seconds)
+T 1393972046 23*	blsuffolk (~blsuffolk@204.62.35.24723) has joined
+T 1393972096 18<kennae18>	 2g
+T 1393972245 18<nmuntz18>	right
+T 1393972564 24*	utack_ has quit (Remote host closed the connection)
+T 1393972829 24*	28Milotop is now known as 18Milotop`
+T 1393973013 24*	genii has quit (Remote host closed the connection)
+T 1393973190 18<OxFEEDBACC18>	does android 4.3 have selinux on board? or specifically the moto g?
+T 1393973276 18<OxFEEDBACC18>	i somehow can't manage it give permissions to the default adb shell user to write beyond /system/custom
+T 1393973305 18<OxFEEDBACC18>	system is mounted rw, and the directory in question is owned by shell(2000)
+T 1393973355 18<OxFEEDBACC18>	s/s/\/s/
+T 1393973364 24*	\mSg has quit (Ping timeout: 265 seconds)
+T 1393973467 23*	\mSg (~mSg@unaffiliated/msg/x-457634223) has joined
+T 1393973471 24*	CrazyLemon has quit (Remote host closed the connection)
+T 1393973686 24*	m76 has quit (Ping timeout: 252 seconds)
+T 1393974124 23*	m002D2 (~m00se@unaffiliated/m00se23) has joined
+T 1393974170 23*	meti_ (~meti@unaffiliated/meti23) has joined
+T 1393974319 24*	meti has quit (Ping timeout: 260 seconds)
+T 1393974458 24*	OxFEEDBACC has quit (Ping timeout: 244 seconds)
+T 1393975144 23*	utack (~utack@mnch-5d875f44.pool.mediaWays.net23) has joined
+T 1393975170 24*	Gspot has quit (Remote host closed the connection)
+T 1393976088 24*	Izlsnizzt has quit (Remote host closed the connection)
+T 1393976131 23*	Izlsnizzt (~Kappa@unaffiliated/izlsnizzt23) has joined
+T 1393976536 24*	GentileBen has quit ()
+T 1393976667 24*	Onixs has quit (Read error: Connection reset by peer)
+T 1393976800 23*	genii (~quassel@ubuntu/member/genii23) has joined
+T 1393976835 24*	utack has quit (Remote host closed the connection)

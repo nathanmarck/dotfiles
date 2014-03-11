@@ -1,0 +1,645 @@
+T 1393949988 18<moofy18>	I wonder if you can get motivation lessons
+T 1393949996 18<funnynickname18>	lol
+T 1393950024 18<itamz18>	there is a thing called "motivational speaker" I thing
+T 1393950028 18<itamz18>	think
+T 1393950035 18<moofy18>	turth
+T 1393950047 23*	Gordonz (~gjcarrasc@50.56.228.6523) has joined
+T 1393950047 18<moofy18>	what makes you get out of bed in the morning
+T 1393950056 18<moofy18>	says moofy who is currently in bed
+T 1393950066 18<itamz18>	shower
+T 1393950072 18<itamz18>	after I shower, I no longer want to be in bed
+T 1393950086 18<radiofree18>	great work funnynickname
+T 1393950088 18<radiofree18>	proud of you
+T 1393950089 24*	Gordonz has quit (Remote host closed the connection)
+T 1393950095 18<funnynickname18>	k
+T 1393950111 23*	SirDigby (~SirDigby@c-98-222-116-98.hsd1.in.comcast.net23) has joined
+T 1393950167 23*	Watball (~Watball@f124242.upc-f.chello.nl23) has joined
+T 1393950323 18<moofy18>	showers eh
+T 1393950329 18<moofy18>	get her
+T 1393950350 18<moofy18>	bet you're a fan of golden showers n'all
+T 1393950358 24*	harsesus has quit (Ping timeout: 240 seconds)
+T 1393950377 18<moofy18>	gold jerry, solid gold
+T 1393950655 18<radiofree18>	Mitzy::onMitzy(Mitzy mitzy)
+T 1393950684 18<moofy18>	C++?
+T 1393950737 18<Oddity18>	OHNO
+T 1393950768 18<moofy18>	69% mitzy
+T 1393950808 18<itamz18>	31% what
+T 1393950879 24*	SeferYetzirah has quit (Quit: KVIrc 4.0.4 Insomnia http://www.kvirc.net/)
+T 1393950912 23*	SeferYetzirah (~SeferYetz@pdpc/supporter/active/seferyetzirah23) has joined
+T 1393950936 24*	budrose has quit (Ping timeout: 264 seconds)
+T 1393950938 18<itamz18>	moofy, have you looked at this? http://jsfiddle.net/JPADY/6/
+T 1393950939 18<rbarrybot18>	[ Edit fiddle - JSFiddle ] - jsfiddle.net
+T 1393950976 18<moofy18>	dataset?
+T 1393951000 18<moofy18>	where do these new things keep coming from
+T 1393951069 18<itamz18>	it's a new HTML5 thing actually
+T 1393951075 18<itamz18>	.g html5 dataset
+T 1393951075 18<rbarrybot18>	itamz: https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement.dataset
+T 1393951085 18<itamz18>	basically allows you to store data inside HTML elements
+T 1393951107 18<itamz18>	doesn't work with old browsers and all...
+T 1393951126 18<itamz18>	but this is HTML5, fuck old browsers
+T 1393951126 18<mitzy-bot18>	HTML5 programming! And cloud technologies!
+T 1393951158 24*	28RawBin|away is now known as 18RawBin
+T 1393951270 18<funnynickname18>	soon, we'll all be taking golden showers...
+T 1393951280 18<itamz18>	wat
+T 1393951284 18<itamz18>	where's that coming from
+T 1393951392 18<moofy18>	see
+T 1393951397 18<moofy18>	you're doing the thing
+T 1393951398 23*	m0k0 (~moko@192.241.143.16923) has joined
+T 1393951404 18<moofy18>	where you introduce something i've never heard of
+T 1393951410 18<itamz18>	and then explain it
+T 1393951411 18<moofy18>	and don't know exists
+T 1393951416 18<moofy18>	and what it does
+T 1393951428 18<itamz18>	but it's one thing at a time
+T 1393951436 18<itamz18>	how do you want to learn new stuff without introducing new things
+T 1393951450 18<itamz18>	also, about those old browsers, there are compatibility things you can include that will make it work
+T 1393951454 24*	m0k0 (~moko@192.241.143.16924) has left
+T 1393951460 18<itamz18>	also, it's a simple thing
+T 1393951474 18<moofy18>	simple, along with powerful
+T 1393951480 18<itamz18>	"there's an object called dataset in every HTML element, you can use it to store data"
+T 1393951481 18<moofy18>	are the two most abused words in programming
+T 1393951481 18<itamz18>	that's all
+T 1393951492 18<itamz18>	also if you do <div data-something="stuff">
+T 1393951503 18<itamz18>	then you can retrieve thatDiv.dataset.something
+T 1393951506 18<itamz18>	and it will equal "stuff"
+T 1393951524 18<itamz18>	basically it's for storing custom data inside elements
+T 1393951527 18<itamz18>	how could it be any simpler?
+T 1393951565 18<moofy18>	i don't know, i'm not a browser designer
+T 1393951610 18<itamz18>	so do you understand that code?
+T 1393951630 18<itamz18>	the "this" part is a bit complicated, but you see what it does in this case hopefully
+T 1393951660 18<moofy18>	i think so
+T 1393951680 24*	SirDigby has quit (Remote host closed the connection)
+T 1393951708 18<itamz18>	well then you should be able to write a function that takes to arguments (x, y)
+T 1393951708 18<itamz18>	and creates an x by y grid
+T 1393951727 18<itamz18>	and get the x,y coordinates when clicking on any of those places
+T 1393951737 18<moofy18>	woah woah wah
+T 1393951742 18<moofy18>	i don't see how that follows
+T 1393951742 24*	28RawBin is now known as 18RawBin|away
+T 1393951754 18<itamz18>	well you create a bunch of divs
+T 1393951760 18<itamz18>	add x, y to their dataset
+T 1393951769 18<moofy18>	but isn't the dataset one thing
+T 1393951777 18<itamz18>	it's an object
+T 1393951785 18<itamz18>	look at that code
+T 1393951788 18<itamz18>	it says div.dataset.counter
+T 1393951790 18<moofy18>	you said it was an html element
+T 1393951793 18<itamz18>	you can use div.dataset.x, div.dataset.y
+T 1393951802 18<itamz18>	no, it's a property that every html element has
+T 1393951807 18<itamz18>	div is the element
+T 1393951812 18<itamz18>	dataset is it's property
+T 1393951826 18<moofy18>	but how does this make a grid
+T 1393951831 18<moofy18>	isn't that a css thing
+T 1393951846 18<itamz18>	the simplest way would be to add a <br> after every x divs
+T 1393951873 18<itamz18>	another would be to make y divs and put x divs into every one of THOSE divs
+T 1393951876 18<itamz18>	etc.
+T 1393951879 18<itamz18>	use your creativity
+T 1393951885 18<itamz18>	can also be a table
+T 1393951920 18<itamz18>	the <br> thing is probably simplest right now
+T 1393951965 18<moofy18>	br huehuehue
+T 1393952086 18<itamz18>	Jajajajaja
+T 1393952237 23*	EthicsGradient (~EthicsGra@unaffiliated/pretendperson23) has joined
+T 1393952397 23*	floatingpoint (TURN@128.119.27.3923) has joined
+T 1393952416 23*	EthicsGradient_ (~EthicsGra@unaffiliated/pretendperson23) has joined
+T 1393952510 24*	EthicsGradient has quit (Ping timeout: 244 seconds)
+T 1393952552 24*	28RawBin|away is now known as 18RawBin
+T 1393952562 23*	ChronosA (~Fake@unaffiliated/chronosa23) has joined
+T 1393952581 24*	Lemony has quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+T 1393952590 23*	EthicsGradient (~EthicsGra@unaffiliated/pretendperson23) has joined
+T 1393952691 23*	EthicsGradient__ (~EthicsGra@unaffiliated/pretendperson23) has joined
+T 1393952697 24*	EthicsGradient_ has quit (Ping timeout: 244 seconds)
+T 1393952823 24*	floatingpoint has quit (Ping timeout: 252 seconds)
+T 1393952858 24*	EthicsGradient has quit (Ping timeout: 240 seconds)
+T 1393952879 24*	Anomie21 has quit (Ping timeout: 269 seconds)
+T 1393952958 24*	EthicsGradient__ has quit (Ping timeout: 240 seconds)
+T 1393952977 23*	EthicsGradient (~EthicsGra@unaffiliated/pretendperson23) has joined
+T 1393953294 24*	Zymdyv has quit (Remote host closed the connection)
+T 1393953510 23*	Thero (~thero87@unaffiliated/thero23) has joined
+T 1393953510 24*	28Thero is now known as 18thero
+T 1393953542 23*	blazerz (~androirc@183.83.34.1723) has joined
+T 1393953573 24*	blazerz has quit (Client Quit)
+T 1393954033 23*	zyxw (~zyx@boi59-3-82-233-182-64.fbx.proxad.net23) has joined
+T 1393954261 24*	28themadhatter is now known as 18tmh|AWAY
+T 1393954264 23*	yeru (~yeru@nrbg-4dbe2249.pool.mediaWays.net23) has joined
+T 1393954337 23*	eoss (~e0s@pdpc/supporter/student/eoss23) has joined
+T 1393954350 23*	rindolf (~Shlomi@bzq-79-182-128-247.red.bezeqint.net23) has joined
+T 1393954360 18<rindolf18>	Hi all.
+T 1393954392 18<ixxvil18>	hi
+T 1393954419 18<radiofree18>	hi ixxvil
+T 1393954421 18<radiofree18>	and rindolf
+T 1393954437 18<rindolf18>	Hi.
+T 1393954449 18<ixxvil18>	hi radiofree
+T 1393954620 18<radiofree18>	why are you being so nice today ixxvil
+T 1393954665 18<ixxvil18>	cause im bored
+T 1393954681 18<moofy18>	where were you for 11:11
+T 1393954686 18<moofy18>	the world needs you
+T 1393954694 18<radiofree18>	%m stats11
+T 1393954694 18<mitzy-bot18>	Total: 7/7 (100.00%), Today: success
+T 1393954694 18<mitzy-bot18>	Current chain: 7, Longest chain: 7
+T 1393954694 18<mitzy-bot18>	Top users: f unnynickname (4), i tamz (1), r adiofree (1), T uqui-tuqui (1)
+T 1393954694 18<mitzy-bot18>	Last 5 weekdays: Mon [x], Fri [x], Thu [x], Wed [x], Tue [x]
+T 1393954696 18<ixxvil18>	for the what
+T 1393954700 18<radiofree18>	looks like we did ok
+T 1393954730 18<moofy18>	11:11
+T 1393954733 18<moofy18>	it's the place to be
+T 1393954761 18<ixxvil18>	what is it
+T 1393954770 18<radiofree18>	what isn't it ixxvil
+T 1393954800 18<moofy18>	69th greatest institution wehave
+T 1393954820 18<radiofree18>	lol 69
+T 1393954921 18<radiofree18>	so i cashed a cheque today
+T 1393954921 18<radiofree18>	TODAY
+T 1393954922 18<radiofree18>	"Funds available 10/03/2014"
+T 1393954922 18<moofy18>	for £69?
+T 1393954927 18<itamz18>	whats the point of cheques anyway
+T 1393954933 18<radiofree18>	no idea itamz
+T 1393954933 18<itamz18>	it;s 2014
+T 1393954938 18<radiofree18>	it's the first one i received in years
+T 1393954944 23*	Lemony (~textual@cpc50-slam6-2-0-cust27.2-4.cable.virginm.net23) has joined
+T 1393954950 18<radiofree18>	phone companies... electricity companies etc... still use them
+T 1393954955 18<radiofree18>	when you overpay, get refunds etc...
+T 1393954962 18<radiofree18>	just to fuck you in the arse a little bit more
+T 1393954982 18<itamz18>	well you pay them from a bank account right
+T 1393954988 18<itamz18>	why not just send the money back to the same account
+T 1393955036 18<radiofree18>	because that would be way too convenient?
+T 1393955047 18<radiofree18>	it's not me who requested the cheque itamz
+T 1393955154 23*	quackgyver_ (sid11872@gateway/web/irccloud.com/x-gsjxcdmvutiodfpa23) has joined
+T 1393955530 18<moofy18>	so what makes you get up in the morning rads
+T 1393955535 18<moofy18>	is it the money, the girls
+T 1393955544 18<moofy18>	the high society that comes with programmin
+T 1393955556 18<moofy18>	the complimentary company blowjobs
+T 1393955586 24*	Olipro has quit (*.net *.split)
+T 1393955587 24*	ElectRo` has quit (*.net *.split)
+T 1393955587 24*	Slasher has quit (*.net *.split)
+T 1393955587 24*	XDS2010 has quit (*.net *.split)
+T 1393955587 24*	quackgyver has quit (*.net *.split)
+T 1393955598 23*	Slasher (slasher@pdpc/supporter/active/slasher23) has joined
+T 1393955617 24*	28quackgyver_ is now known as 18quackgyver
+T 1393955624 18<radiofree18>	need money for booze moofy
+T 1393955626 18<radiofree18>	it ain't cheap
+T 1393955647 18<radiofree18>	but also work is pretty great
+T 1393955654 18<radiofree18>	so i don't mind
+T 1393955666 18<moofy18>	then why are you in here so much
+T 1393955719 18<moofy18>	checkmate
+T 1393955732 18<radiofree18>	i don't see what that has to do with anything
+T 1393955756 18<moofy18>	CHECKMATE
+T 1393955762 18<radiofree18>	un-checkmate
+T 1393955771 18<radiofree18>	perfectly valid chess move
+T 1393955800 18<moofy18>	czech mate
+T 1393955849 18<radiofree18>	slovakian mate
+T 1393955858 18<moofy18>	czech yourself
+T 1393955863 18<moofy18>	before you wreck yourelf
+T 1393955877 18<radiofree18>	czechoslovakia yourself
+T 1393955901 18<moofy18>	bit out of date there
+T 1393955908 18<radiofree18>	for some reason i still refer to the czech republic as czechoslovakia
+T 1393955920 18<radiofree18>	i was... 8 or 9 when they split, so it's within memory
+T 1393955922 18<itamz18>	for some reason I still refer to eastern ukraine as ukraine
+T 1393955924 18<moofy18>	well youcan tell me about it
+T 1393955931 18<moofy18>	on our holiday to siam
+T 1393955932 18<itamz18>	 /topical
+T 1393955945 18<radiofree18>	I'm going to Ceylon!
+T 1393955948 18<moofy18>	we'll be stopping in abysinia
+T 1393956033 18<itamz18>	absinthia
+T 1393956054 18<ixxvil18>	lol ceylon
+T 1393956056 18<ixxvil18>	its a shithole
+T 1393956062 18<radiofree18>	absinthe
+T 1393956066 18<ixxvil18>	get murdered by the LTTE
+T 1393956073 18<moofy18>	ltitties
+T 1393956080 18<ixxvil18>	of all places ceylon
+T 1393956080 18<moofy18>	for your lbody
+T 1393956083 18<radiofree18>	i'm not really going to ceylon ixxvil
+T 1393956094 18<radiofree18>	probably because it hasn't existed for 60 odd years
+T 1393956114 23*	l3ck (~l3ck@107-195-4-162.lightspeed.sndgca.sbcglobal.net23) has joined
+T 1393956144 18<itamz18>	what about a nice holiday in rhodesia
+T 1393956188 18<radiofree18>	lovely stuff
+T 1393956189 18<ixxvil18>	what?
+T 1393956194 18<ixxvil18>	ceylon is in srilanka
+T 1393956210 18<ixxvil18>	its been thereforever
+T 1393956210 18<radiofree18>	ceylon *is* sri lanka now
+T 1393956215 18<ixxvil18>	no its not
+T 1393956216 18<ixxvil18>	LOL
+T 1393956217 24*	michael_lee has quit (Read error: Connection reset by peer)
+T 1393956221 18<moofy18>	How about Zaire
+T 1393956221 18<radiofree18>	sri lanka used to be british ceylon ixxvil
+T 1393956224 18<ixxvil18>	youre full of shit brah
+T 1393956229 18<ixxvil18>	srilanka is srilanka
+T 1393956232 18<ixxvil18>	ceylon is part of it
+T 1393956273 18<moofy18>	he really knows how to roll with the joke doesn't he rads
+T 1393956289 18<ixxvil18>	ye ye
+T 1393956291 18<radiofree18>	i wouldn't expect a dalit to have a firm grasp of colonial history
+T 1393956294 18<radiofree18>	it's fine
+T 1393956296 18<ixxvil18>	righttt
+T 1393956312 18<ixxvil18>	and a whiteboy would know more about it than someone who is a neighbour of srilanka
+T 1393956338 18<radiofree18>	a white boy who would have been running your country had i been born 100 years earlier
+T 1393956371 18<ixxvil18>	andthen got thrown out
+T 1393956421 18*	radiofree arrives riding an elephant to much applause
+T 1393956459 18<ixxvil18>	quite frankly we'd have done it sooner without that gandhi shithead
+T 1393956473 18<ixxvil18>	gandhi and his fuckall non-violence bullshit extended the period
+T 1393956484 18<ixxvil18>	when it was time to leave the british had nothing to take and so they left
+T 1393956487 18<radiofree18>	don't you talk about gandhi like that you filthy dalit!
+T 1393956495 18<ixxvil18>	sure sure
+T 1393956496 18<radiofree18>	if he were alive today he'd be nuking the planet
+T 1393956509 18<ixxvil18>	nuking his  pants
+T 1393956509 18<ixxvil18>	if he could wear one
+T 1393956509 18<radiofree18>	if civilisation iv/v is anything to go by
+T 1393956610 23*	ElectRo` (ElectRo@2a01:270:2050:1337::3123) has joined
+T 1393956610 23*	Olipro (~Olipro@d.e.r.p.6.a.1.0.d.d.0.7.2.0.1.0.a.2.ip6.arpa23) has joined
+T 1393956631 24*	Olipro has quit (Max SendQ exceeded)
+T 1393956671 23*	Olipro (~Olipro@uncyclopedia/pdpc.21for7.olipro23) has joined
+T 1393956812 18<radiofree18>	lol http://www.bbc.co.uk/news/world-europe-26440556
+T 1393956813 18<rbarrybot18>	[ BBC News - Russia TV host calls Ukraine intervention 'wrong' on-air ] - www.bbc.co.uk
+T 1393956816 23*	tacoinanus (~tacoinanu@71-217-146-111.hlna.qwest.net23) has joined
+T 1393956826 18<radiofree18>	"Contrary to the popular opinion, RT doesn't beat its journalists into submission, and they are free to express their own opinions, not just in private but on the air."
+T 1393956864 18<tacoinanus18>	Said the rapist.
+T 1393956988 18<radiofree18>	tacoinanus: s/rapist/therapist
+T 1393956989 18<rbarrybot18>	radiofree thinks tacoinanus meant to say: Said the therapist.
+T 1393957018 18<sorabji525218>	Analrapist?
+T 1393957122 24*	rindolf has quit (Quit: Leaving)
+T 1393957155 18<sorabji525218>	nothing, great
+T 1393957254 18<none__18>	nothing in the anus, your right
+T 1393957397 18<ErrGnomeOus18>	 
+T 1393957552 18<tacoinanus18>	Don;t say shit about my anus sorabji5252
+T 1393957586 18<moofy18>	india
+T 1393957593 18<moofy18>	land of annoying people who call you
+T 1393957596 18<moofy18>	to sell you things
+T 1393957638 24*	28Milotop` is now known as 18Milotop
+T 1393957837 18<tacoinanus18>	I won't sell you shit
+T 1393957898 24*	Watball has quit (Ping timeout: 240 seconds)
+T 1393957930 18<tacoinanus18>	Someone buy me a taco
+T 1393957932 18<moofy18>	you know what's funny
+T 1393957939 18<moofy18>	india is starting to have problems with obesity
+T 1393957948 18<moofy18>	and the beetus
+T 1393957964 18<Oddity18>	haw haw
+T 1393958048 18<tacoinanus18>	fat facks
+T 1393958050 18<tacoinanus18>	fucks
+T 1393958066 18<moofy18>	fattest is mexico tohugh
+T 1393958075 18<moofy18>	they drink on average
+T 1393958088 18<moofy18>	half a litre of fizzy pop per person
+T 1393958090 18<moofy18>	every day
+T 1393958141 18<moofy18>	i don't think i drank half a litre of sugarwater in the past year
+T 1393958238 23*	AquarionMars (~SolarAqua@unaffiliated/solaraquarion23) has joined
+T 1393958239 18<tacoinanus18>	I drink a lot of kool-aide
+T 1393958251 18<moofy18>	too kool for skool
+T 1393958315 18<moofy18>	aide
+T 1393958322 18<sorabji525218>	i'm sorry
+T 1393958347 18<moofy18>	you should be
+T 1393958349 18<moofy18>	you pervert
+T 1393958359 18<sorabji525218>	it was an arrested development reference
+T 1393958360 18<sorabji525218>	i'm so sorry
+T 1393958365 18<sorabji525218>	i didn't know
+T 1393958369 24*	SolarAquarion has quit (Ping timeout: 244 seconds)
+T 1393958375 18<nebulta18>	cut out coke/sweet tea for new years, have lost 10-15lbs
+T 1393958387 18<moofy18>	what's that in real person units
+T 1393958399 18<nebulta18>	10-15rpu's
+T 1393958417 18<moofy18>	kilogram
+T 1393958417 24*	varikonniemi has quit (Read error: Connection reset by peer)
+T 1393958418 18<moofy18>	master unit
+T 1393958431 18<nebulta18>	15lbs = 6kg
+T 1393958431 18<moofy18>	grats on losing 10-15kgs
+T 1393958447 18<moofy18>	it's much funnier if you just treat lbs like kgs
+T 1393958455 18<moofy18>	because then a 600kg fat person
+T 1393958458 18<moofy18>	is that much fatter
+T 1393958587 18<tacoinanus18>	http://upload.wikimedia.org/wikipedia/commons/e/ea/Huntsman_spider_white_bg03.jpg
+T 1393958654 23*	budrose (~budrose@50-198-150-254-static.hfc.comcastbusiness.net23) has joined
+T 1393958804 24*	lambchop has quit ()
+T 1393959147 24*	freddie19 has quit (Quit: freddie19)
+T 1393959400 23*	snuffeluffegus (~snuffeluf@2a01:7a0:10:151:236:15:59:123) has joined
+T 1393959542 18<tacoinanus18>	OH MY GOD
+T 1393959545 18<tacoinanus18>	It's snuffeluffegus
+T 1393959600 23*	ssky (~ssky@c-50-152-96-8.hsd1.pa.comcast.net23) has joined
+T 1393959607 24*	ssky (~ssky@c-50-152-96-8.hsd1.pa.comcast.net24) has left
+T 1393959609 23*	Delver (~Delver@174-24-39-55.clsp.qwest.net23) has joined
+T 1393959655 18<snuffeluffegus18>	yup
+T 1393959685 24*	l3ck has quit (Quit: Bye!)
+T 1393959685 18<snuffeluffegus18>	Comes from a taco that's been violated in ways the boggle the minf.
+T 1393959687 18<snuffeluffegus18>	mind*
+T 1393959769 23*	asd5a (~asd5a@unaffiliated/asd6a23) has joined
+T 1393959894 18<tacoinanus18>	Are you still on sesame street
+T 1393959963 18<moofy18>	snuff film
+T 1393960241 24*	tacoinanus has quit (Remote host closed the connection)
+T 1393960504 24*	28tmh|AWAY is now known as 18themadhatter
+T 1393960590 24*	[JIHADI] has quit ()
+T 1393960650 24*	rustyn has quit (Quit: restart)
+T 1393960671 24*	SeferYetzirah has quit (Quit: KVIrc 4.0.4 Insomnia http://www.kvirc.net/)
+T 1393961088 23*	kcj (~casey@unaffiliated/kcj23) has joined
+T 1393961136 23*	GeorgeBWush (~GeorgeBWu@99-53-248-207.lightspeed.hstntx.sbcglobal.net23) has joined
+T 1393961148 23*	alienatu (Florin@unaffiliated/alienatu23) has joined
+T 1393961271 24*	mclarkelauer has quit (Ping timeout: 265 seconds)
+T 1393961372 23*	rustyn (~rustyn@unaffiliated/rustyn23) has joined
+T 1393961617 23*	Sam4242 (~Sam4242@50-81-130-161.client.mchsi.com23) has joined
+T 1393961706 23*	Watball (~Watball@f124242.upc-f.chello.nl23) has joined
+T 1393961759 23*	Khaaan (~Khaaan@unaffiliated/khaaan23) has joined
+T 1393962006 23*	floatingpoint (TURN@128.119.26.24823) has joined
+T 1393962094 24*	Sam4242 has quit (Quit: Sam4242)
+T 1393962145 18<itamz18>	http://i.imgur.com/a5JaJ4j.jpg
+T 1393962152 18<alienatu18>	radiofree ! buddy!
+T 1393962384 18<Delver18>	I thought Chicago was safe because guns were illegal?
+T 1393962589 23*	mclarkelauer (~mclarkela@208.185.145.14223) has joined
+T 1393962684 24*	Richelieu has quit (Quit: Leaving)
+T 1393962717 23*	nisstyre (yourstruly@oftn/member/Nisstyre23) has joined
+T 1393962772 23*	tacoinanus (~tacoinanu@71-217-146-111.hlna.qwest.net23) has joined
+T 1393962782 18<tacoinanus18>	snuffeluffegus, I love you
+T 1393962878 23*	mani2399 (~mani2399@75-148-219-34-Houston.hfc.comcastbusiness.net23) has joined
+T 1393962891 24*	`St0ner has quit (Remote host closed the connection)
+T 1393963022 24*	Hauser has quit (Quit: Leaving.)
+T 1393963152 23*	`St0ner (~St0ner@bas5-ottawa10-2925207937.dsl.bell.ca23) has joined
+T 1393963455 18<GeorgeBWush18>	wot?
+T 1393963564 18<ErrGnomeOus18>	touch my penis
+T 1393963603 18<sorabji525218>	i will not
+T 1393963670 23*	sxn (~sxn@mnch-5d866299.pool.mediaWays.net23) has joined
+T 1393963757 24*	28rustyn is now known as 18rustyn|afk
+T 1393963823 24*	floatingpoint has quit (Ping timeout: 265 seconds)
+T 1393963826 18<tacoinanus18>	[I will
+T 1393963838 18<tacoinanus18>	;)
+T 1393963842 18<ErrGnomeOus18>	;)
+T 1393964087 18<tacoinanus18>	sudo apt-get install sl
+T 1393964091 18<tacoinanus18>	run it
+T 1393964117 18<tacoinanus18>	then
+T 1393964119 18<tacoinanus18>	sl
+T 1393964125 18<tacoinanus18>	and smile
+T 1393964223 18<sorabji525218>	rm -rf /etc/* && make smile
+T 1393964235 18<tacoinanus18>	no thank you
+T 1393964251 24*	ajikeshi has quit (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+T 1393964373 23*	Hauser (~Hauser@135-23-101-94.cpe.pppoe.ca23) has joined
+T 1393964461 18<tacoinanus18>	what is that removing
+T 1393964530 18<tacoinanus18>	You're an ass
+T 1393964535 18<tacoinanus18>	don't run that
+T 1393964687 18<tacoinanus18>	For real that's kind of a dick thing to do.
+T 1393964918 23*	pepee (~qzerty@unaffiliated/pepee23) has joined
+T 1393965002 18<sorabji525218>	i didn't think you'd actually run it
+T 1393965002 24*	28themadhatter is now known as 18tmh|AWAY
+T 1393965007 18<sorabji525218>	(oops)
+T 1393965031 24*	28tmh|AWAY is now known as 18themadhatter
+T 1393965059 18<tacoinanus18>	No haha
+T 1393965061 18<tacoinanus18>	I'm not dumb
+T 1393965063 18<tacoinanus18>	I wouldn't be talking right now if I did. haha
+T 1393965109 18<sorabji525218>	worst i ever did was try to upgrade to python 3 years ago
+T 1393965119 18<sorabji525218>	first step, apt-get purge python*
+T 1393965155 18<sorabji525218>	i didn't make it to step two
+T 1393965241 24*	alienatu has quit (Read error: Connection reset by peer)
+T 1393965258 24*	28ThatOneRoadie is now known as 18Thor_Out
+T 1393965278 24*	radiofree has quit (Quit: changing servers)
+T 1393965351 18<tacoinanus18>	haha thaat's great
+T 1393965426 24*	28Thor_Out is now known as 18ThatOneRoadie
+T 1393965427 18<sorabji525218>	that's when i realized that python 3 was just a dream, and the real world still used 2
+T 1393965447 23*	Manyman (~Jake@wikia/Manyman23) has joined
+T 1393965479 23*	rockymadden (~rockymadd@unaffiliated/rockymadden23) has joined
+T 1393965592 23*	freddie19 (~freddie@h112n2-s-oev-a31.ias.bredband.telia.com23) has joined
+T 1393965864 24*	mani2399 has quit (Read error: Connection reset by peer)
+T 1393965963 23*	harsesus (~harsesus@c-174-57-217-163.hsd1.nj.comcast.net23) has joined
+T 1393965993 24*	caffeinatedcode has quit (Ping timeout: 252 seconds)
+T 1393966076 23*	caffeinatedcode (~caffeine@unaffiliated/caffeinatedcode23) has joined
+T 1393966087 23*	bdavenport (~davenport@chronos.rpi.mindlesstux.com23) has joined
+T 1393966099 18<pepee18>	hello
+T 1393966171 18<sorabji525218>	sup pepee
+T 1393966259 18<pepee18>	not much sorabji5252. how are you?
+T 1393966269 18<sorabji525218>	battling some email validation
+T 1393966273 18<sorabji525218>	good fun
+T 1393966352 24*	tacoinanus has quit (Quit: Leaving)
+T 1393966529 24*	kcj has quit (Ping timeout: 240 seconds)
+T 1393966644 24*	Manyman has quit (Remote host closed the connection)
+T 1393967228 23*	ChronosXD (c0f8f843@gateway/web/freenode/ip.192.248.248.6723) has joined
+T 1393967530 24*	nisstyre has quit (Quit: WeeChat 0.4.3)
+T 1393967534 18<sorabji525218>	what up @u pepee
+T 1393967550 24*	28RawBin is now known as 18RawBin|away
+T 1393967552 18<sorabji525218>	(had to add the validation to the proper groups was all...facepalm)
+T 1393967561 24*	mandy has quit (Remote host closed the connection)
+T 1393967579 18<pepee18>	just reading random stuff.. as usual :(
+T 1393967598 23*	mandy (~mandy@pool-74-108-31-137.nycmny.fios.verizon.net23) has joined
+T 1393967619 18<sorabji525218>	what's on the ticket for today?
+T 1393967860 24*	funnynickname has quit (Quit: Page closed)
+T 1393967954 24*	moofy has quit (Quit: moofy)
+T 1393968017 18<ChronosXD18>	Hey everyone.
+T 1393968041 18<Delver18>	hi
+T 1393968052 18<ChronosXD18>	What other popular Reddit-related IRC channels are there on Freenode?
+T 1393968068 18<Delver18>	guns
+T 1393968078 18<Delver18>	some others but I don't remember offhand
+T 1393968079 18<sorabji525218>	that's messed up
+T 1393968104 18<ChronosXD18>	Okay, thanks.
+T 1393968106 18<ChronosXD18>	What's messed up?
+T 1393968132 18<pepee18>	sorabji5252, not sure if I understand what you mean.... but, I'll just read random stuff :P
+T 1393968141 18<Delver18>	sorabji5252 must hate guns
+T 1393968145 18<Delver18>	he fears the gun
+T 1393968146 18<sorabji525218>	coming in here, and then asking about other channels
+T 1393968147 18<sorabji525218>	rude
+T 1393968151 18<pepee18>	ChronosXD, /msg alis list *reddit*
+T 1393968154 18<pepee18>	ChronosXD, /msg alis list *r_*
+T 1393968185 18<sorabji525218>	pepee: like, whatcha reading
+T 1393968192 23*	merica (~merica@198.23.71.115-static.reverse.softlayer.com23) has joined
+T 1393968197 18<ChronosXD18>	Oh, I didn't think it was rude.
+T 1393968202 18<ChronosXD18>	But thanks for the information. :)
+T 1393968229 18<sorabji525218>	i'm just being a dick :D
+T 1393968234 18<ChronosXD18>	haha
+T 1393968237 18<pepee18>	sorabji5252, ah, I'm reading stuff from /lit/
+T 1393968252 18<pepee18>	these guys love mental masturbation
+T 1393968267 18<ChronosXD18>	Holy crap, these lists are great.
+T 1393968283 18<sorabji525218>	isn't that all literature is?
+T 1393968319 18<sorabji525218>	or at least the bulk of it
+T 1393968353 18<pepee18>	not only literature
+T 1393968429 18<pepee18>	I gotta admit I haven't read a whole book in a long time.. I'm really lazy
+T 1393968465 18<sorabji525218>	i haven't read a book in years...i feel really bad about it
+T 1393968468 18<sorabji525218>	i used to read all the time
+T 1393968521 18<Delver18>	yeah I don't read much anymore either  :(
+T 1393968532 24*	Klevre has quit (Quit: Leaving)
+T 1393968601 18<sorabji525218>	programming takes up too much of my time
+T 1393968612 18<sorabji525218>	whatever i have left gets devoted to music or just being lazy
+T 1393968634 18<sorabji525218>	speaking of which...i'm supposed to be performing on sunday, and i still haven't nailed down what i'll be playing
+T 1393968788 18<Delver18>	what do you play?
+T 1393968803 18<sorabji525218>	piano
+T 1393968825 18<Delver18>	I'm going to go with 'Christmas time is here'
+T 1393968850 18<Delver18>	works well on the piano. needs no lyrics. in fact it becomes better with no lyrics
+T 1393968854 18<Delver18>	works very well in winter
+T 1393968867 18<Delver18>	it's Jazz so you can slop it around a bit
+T 1393968872 18<sorabji525218>	tossup between a rachmaninoff prelude, chopin scherzo, or a liszt's petrarch sonnet 104
+T 1393968880 18<ChronosXD18>	Liszt.
+T 1393968897 18<sorabji525218>	i've done the peanut's song for xmas, goes over very nicely
+T 1393968901 18<ChronosXD18>	Or Guaraldi, like Delver recommends.
+T 1393968925 18<sorabji525218>	this is a proper recital though, so i'm supposed to play something from one of the main time periods
+T 1393968936 18<Delver18>	bahh humbug
+T 1393968945 18<sorabji525218>	i've gotten too sloppy in my old age :(
+T 1393968949 18<ChronosXD18>	How about Saint-Saens?
+T 1393968976 24*	yonderboy has quit (Read error: No route to host)
+T 1393968978 18<ChronosXD18>	Wrong time period?
+T 1393968991 18<sorabji525218>	nah, just don't have any saint-saens in my fingers atm
+T 1393969004 18<sorabji525218>	only ever played one of his etudes i think...the valse one
+T 1393969036 18<sorabji525218>	http://www.youtube.com/watch?v=dLETlzO6BrQ
+T 1393969037 18<rbarrybot18>	[YouTube] Title: CZIFFRA - Saint-Saens Etude en forme de Valse Op.52,6 LIVE !!! | Duration: 6mins 24secs
+T 1393969042 18<sorabji525218>	mmmm
+T 1393969083 18<ChronosXD18>	I wish I could listen. I'm at work. :/
+T 1393969083 18<sorabji525218>	i don't think i could pull that back by sunday though
+T 1393969084 18<ChronosXD18>	Play whatever is the most fun?
+T 1393969097 18<Delver18>	bah. he's limited to a unfun period
+T 1393969104 18<ChronosXD18>	hahaha
+T 1393969111 18<sorabji525218>	nah, it's a fun period
+T 1393969119 18<sorabji525218>	my skills just suck now, an everything's sloppy
+T 1393969124 18<sorabji525218>	and i can hear it, and it bothers me greatly
+T 1393969135 18<Delver18>	that's why a sloppy song is so good
+T 1393969145 18<Delver18>	non of that articulate finger poking stuff
+T 1393969156 18<sorabji525218>	they didn't do sloppy in these pieces though
+T 1393969170 18<sorabji525218>	haha, articulate finger poking stuff
+T 1393969177 18<ChronosXD18>	How about Liebestraume, but not the parts that everyone knows.
+T 1393969179 18<Delver18>	I bet you aren't even allowe Rhapsody in Blue
+T 1393969212 18<sorabji525218>	the cadenzas would be all shit :(
+T 1393969219 18<Delver18>	speaking of Rhapsody, I bet you aren't even allowed Hungarian Rhapsody.
+T 1393969239 18<Delver18>	I give up. that's the end of my piano knowledge
+T 1393969244 18<ChronosXD18>	hahaha
+T 1393969278 18<sorabji525218>	which hungarian rhapsodie? liszt wrote 20
+T 1393969287 18<sorabji525218>	errr, 19
+T 1393969289 18<ChronosXD18>	The one everyone knows from Who Framed Roger Rabbit.
+T 1393969306 24*	AndyKay has quit (Quit: Textual IRC Client: www.textualapp.com)
+T 1393969308 18<ChronosXD18>	No, wait.
+T 1393969308 18<sorabji525218>	second then
+T 1393969324 24*	thero has quit (Quit: no ruhan you can't have the hawks fourth line)
+T 1393969335 18<ChronosXD18>	I'm thinking of another one, but I can't explain it without humming it.
+T 1393969366 18<ChronosXD18>	Unless I'm thinking of a saber dance.
+T 1393969381 18<ChronosXD18>	I can't remember, and I can't listen to Youtube videos to tell if I'm right or wrong. :|
+T 1393969396 18<sorabji525218>	all the way to khachaturian? cray cray
+T 1393969417 18<ChronosXD18>	Well, what's fun for you to play?
+T 1393969449 24*	Hauser has quit (Quit: Leaving.)
+T 1393969564 18<ChronosXD18>	I have the hardest time reading sheet music. I have to tell myself FACE and ACEG as I'm looking at the staffs, trying to figure out where each note is.
+T 1393969570 18<sorabji525218>	they all are, but performance is too different
+T 1393969579 18<sorabji525218>	gotta perform it well, but i'm so out of practice
+T 1393969586 18<ChronosXD18>	Staves?
+T 1393969592 18<ChronosXD18>	Oh, I see.
+T 1393969609 18<sorabji525218>	downsides of being professionally trained, you can hear all the mistakes :(
+T 1393969625 18<ChronosXD18>	Yeah, I know what you mean.
+T 1393969631 24*	KindOne has quit (Quit: ZNC - http://znc.in)
+T 1393969671 24*	mclarkelauer has quit (Quit: Leaving...)
+T 1393969682 18<sorabji525218>	as for sheet music, just read more
+T 1393969693 18<sorabji525218>	it gets easier, eventually you don't even think about it
+T 1393969700 18<ChronosXD18>	Yeah, I'm trying. :)
+T 1393969700 18<sorabji525218>	same as reading anything else i suppose
+T 1393969704 18<ChronosXD18>	It's just been a very long time.
+T 1393969712 18<ChronosXD18>	I'm reading Disney music, haha.
+T 1393969769 18<sorabji525218>	disney sucks so much nowadays
+T 1393969777 18<ChronosXD18>	In what regard?
+T 1393969786 18<sorabji525218>	pretty much everything
+T 1393969795 18<sorabji525218>	they've dropped everything that made them great
+T 1393969797 18<ChronosXD18>	Eh, I still love Disneyland.
+T 1393969804 18<sorabji525218>	all tweeny friendly and shit
+T 1393969810 18<ChronosXD18>	Yeah, I do hate the tweeny stuff.
+T 1393969820 18<sorabji525218>	true, they haven't really fuxxed with disneyland/world
+T 1393969833 18<ChronosXD18>	Well, they did do a bunch of tweeny stuff at the parks.
+T 1393969844 18<ChronosXD18>	Like, the parades and random street entertainment became very tweeny.
+T 1393969860 18<ChronosXD18>	That's been disappointing.
+T 1393969866 18<sorabji525218>	they used to show the classic cartoons on their channel
+T 1393969871 18<ChronosXD18>	Yes!!!
+T 1393969876 18<sorabji525218>	now it's endless show after endless show of...shit
+T 1393969891 18<sorabji525218>	it's just sad
+T 1393969898 18<ChronosXD18>	They recently came out with a few classic-styled cartoons... and they're not really good, IMO.
+T 1393969907 18<sorabji525218>	last good thing they put out was the hercules movie, and that was a total throwback to their old stuff
+T 1393969924 18<sorabji525218>	wait, not hercules
+T 1393969927 18<sorabji525218>	emperor's new groove
+T 1393969940 18<ChronosXD18>	Did you see Frozen?
+T 1393969945 18<ChronosXD18>	It's not Pixar.
+T 1393969948 18<sorabji525218>	i have not
+T 1393969978 18<ChronosXD18>	It's not bad. People go apeshit over the music. IT's a decent soundtrack, but it's not as great as people make it out to be, imo.
+T 1393969981 18<ChronosXD18>	It's very, very, very catchy.
+T 1393969986 18<ChronosXD18>	But also very, very, very simple.
+T 1393970009 18<ChronosXD18>	With that said, I sing a long to it because its' fun as hell, haha.
+T 1393970010 23*	KindOne (kindone@colchester-lug/silly-fool/donut23) has joined
+T 1393970023 18<ChronosXD18>	*it's
+T 1393970023 18<sorabji525218>	hmm, maybe i'll have to check it out
+T 1393970031 18<ChronosXD18>	Yeah, I liked the movie a lot.
+T 1393970036 18<sorabji525218>	i've lost a lot of love for disney, i'm not sure they'll ever be able to win me back
+T 1393970047 18<ChronosXD18>	Cute, solid voice acting, good story, not so cliche.
+T 1393970049 24*	28themadhatter is now known as 18tmh|AWAY
+T 1393970057 18<ChronosXD18>	Hell, they make fun of one of the characters for falling in love with a guy so quickly.
+T 1393970116 24*	28tmh|AWAY is now known as 18themadhatter
+T 1393970338 18<sorabji525218>	jonas brothers are disney's fault right?
+T 1393970364 18<ChronosXD18>	I think so.
+T 1393970366 18<ChronosXD18>	hahaha
+T 1393970374 18<ChronosXD18>	I like how you call it a "fault".
+T 1393970414 18<sorabji525218>	disney has no business making/promoting bands
+T 1393970423 18<sorabji525218>	asinine
+T 1393970441 18<ChronosXD18>	Yeah, I really disliked all the tweeny stuff, too. It left a sour taste in my mouth.
+T 1393970519 23*	Hauser (~Hauser@135-23-101-94.cpe.pppoe.ca23) has joined
+T 1393970559 24*	Khaaan has quit ()
+T 1393970589 23*	blsuffolk (~blsuffolk@204.62.51.223) has joined
+T 1393970607 18<sorabji525218>	seems to have worked though, and that's also upsetting
+T 1393970641 18<sorabji525218>	faith in humanity, yada yada
+T 1393970644 18<ChronosXD18>	hahaha
+T 1393970655 18<ChronosXD18>	They needed something to reel in the younger crowd, and it worked.
+T 1393970698 18<sorabji525218>	they thought they needed that
+T 1393970712 18<sorabji525218>	there's more to life than high profits
+T 1393970728 18<sorabji525218>	like not tarnishing the great thing that disney used to be
+T 1393970754 18<ChronosXD18>	I used to love watching "Vault Disney" stuff on the Disney Channel.
+T 1393970765 18<ChronosXD18>	Where they'd show their old shows and documentaries.
+T 1393970789 18<sorabji525218>	it should ONLY be vault disney
+T 1393970792 18<ChronosXD18>	hahahah
+T 1393970798 18<ChronosXD18>	I hear you, but they have to stay afloat, you know?
+T 1393970799 18<sorabji525218>	just fire everyone, keep with the classics
+T 1393970803 18<ChronosXD18>	hahaha
+T 1393970819 18<sorabji525218>	i'm sure royalties, residual income will be plenty
+T 1393970864 18<sorabji525218>	but that's a conscious decision to maintain something, rather than blindly seeking growth and profit
+T 1393970910 18<sorabji525218>	corps have their uses...ensuring something awesome remains so is not one of them.
+T 1393970924 24*	ohp has quit (Quit: ChatZilla 0.9.89 [Firefox 27.0.1/20140212131424])
+T 1393970949 18<ChronosXD18>	I would totally buy Vault Disney stuff to watch at home if it was available.
+T 1393970965 18<ChronosXD18>	Like, put out a Blu-ray collections of Vault Disney material. I'd be all over that.
+T 1393970978 18<ChronosXD18>	*put out Blu-Ray collections
+T 1393970992 18<sorabji525218>	truth
+T 1393971013 18<sorabji525218>	http://en.wikipedia.org/wiki/White_Wilderness_(film)
+T 1393971014 18<rbarrybot18>	[ White Wilderness (film) - Wikipedia, the free encyclopedia ] - en.wikipedia.org
+T 1393971019 18<sorabji525218>	now that's classic disney
+T 1393971027 18<sorabji525218>	murdering harmless lemmings
+T 1393971159 18<ChronosXD18>	:(
+T 1393971190 24*	EthicsGradient has quit (Quit: EthicsGradient)
+T 1393971500 24*	rustyn|afk has quit (Quit: sleep)
+T 1393971505 24*	vravn has quit (Excess Flood)
+T 1393971544 24*	snuffeluffegus has quit (Ping timeout: 244 seconds)
+T 1393971652 23*	vravn (~vravn@syn.rook.sx23) has joined
+T 1393971657 24*	yano has quit (Read error: Connection reset by peer)
+T 1393971755 23*	yano (~yano@freenode/staff/yano23) has joined
+T 1393971817 24*	blsuffolk has quit (Ping timeout: 240 seconds)
+T 1393971834 23*	snuffeluffegus (~snuffeluf@2a01:7a0:10:151:236:15:59:123) has joined
+T 1393971897 23*	EthicsGradient (~EthicsGra@unaffiliated/pretendperson23) has joined
+T 1393971958 23*	nupogodi (~pizdetz@199-7-156-134.eng.wind.ca23) has joined
+T 1393972037 23*	blsuffolk (~blsuffolk@204.62.35.24723) has joined
+T 1393972085 24*	ChronosXD (c0f8f843@gateway/web/freenode/ip.192.248.248.6724) has left
+T 1393972416 24*	yano has quit (Read error: Connection reset by peer)
+T 1393972538 18<sorabji525218>	yes, sad :(
+T 1393972770 24*	budrose has quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+T 1393972829 24*	28Milotop is now known as 18Milotop`
+T 1393972885 24*	vravn has quit (Excess Flood)
+T 1393972939 23*	yano (~yano@freenode/staff/yano23) has joined
+T 1393972942 23*	vravn (~vravn@syn.rook.sx23) has joined
+T 1393973067 23*	jedimind (~pud@unaffiliated/jedimind23) has joined
+T 1393973110 24*	28jedimind is now known as 18drej
+T 1393973203 24*	drej has quit (Client Quit)
+T 1393973226 23*	jedimind (~pud@unaffiliated/jedimind23) has joined
+T 1393973240 24*	28jedimind is now known as 18drej
+T 1393973292 24*	Moparx has quit ()
+T 1393973364 24*	\mSg has quit (Ping timeout: 265 seconds)
+T 1393973401 24*	sdamashek has quit (Ping timeout: 240 seconds)
+T 1393973467 23*	\mSg (~mSg@unaffiliated/msg/x-457634223) has joined
+T 1393973604 24*	Kenway has quit (Read error: Connection reset by peer)
+T 1393973604 24*	ryanstein has quit (Read error: Connection reset by peer)
+T 1393973728 24*	snuffeluffegus has quit (Quit: Leaving)
+T 1393973843 24*	28themadhatter is now known as 18tmh|AWAY
+T 1393974329 24*	krawchyk has quit (Quit: away)
+T 1393974357 18<Delver18>	we are all sad
+T 1393974362 18<drej18>	NOT ME
+T 1393974363 18<Delver18>	sad little moneys
+T 1393974375 18<Delver18>	shush it. you are sad. that's final
+T 1393974385 18<drej18>	sorry, youre right
+T 1393974386 18*	drej sulks
+T 1393974390 18<Delver18>	better
+T 1393974407 18<Delver18>	okay enough of being sad. it's depressing
+T 1393974652 23*	snuffeluffegus (~snuffeluf@2a01:7a0:10:151:236:15:59:123) has joined
+T 1393974744 23*	sdamashek (sdamashek@gentoo/developer/sdamashek23) has joined
+T 1393974783 24*	dihydrogen has quit (Read error: Connection reset by peer)
+T 1393974882 24*	JeffW has quit (Quit: Textual IRC Client: www.textualapp.com)
+T 1393974957 24*	jobewan has quit (Quit: Leaving)
+T 1393975015 18<sorabji525218>	it is
+T 1393975015 24*	Delver has quit (Quit: Leaving)
+T 1393975018 18<sorabji525218>	what can we be happy about?
+T 1393975120 23*	krawchyk (~textual@50-198-150-254-static.hfc.comcastbusiness.net23) has joined
+T 1393975232 24*	vravn has quit (Excess Flood)
+T 1393975282 23*	vravn (~vravn@syn.rook.sx23) has joined
+T 1393975338 23*	dihydrogen (~dihydroge@unaffiliated/dihydrogen23) has joined
+T 1393975352 18<drej18>	nothing, now im sad
+T 1393975516 23*	siba (~siba@ppp121-44-30-20.lns20.syd6.internode.on.net23) has joined
+T 1393975546 24*	krawchyk has quit (Quit: bbye)
+T 1393975568 23*	mindleyhilner (~p@tombartelt.com23) has joined
+T 1393975570 24*	28tmh|AWAY is now known as 18themadhatter
+T 1393975605 18<mindleyhilner18>	does anyone have a link to that comic of the pro-eu half of ukraine being placed on the wait list next to turkey?
+T 1393975673 23*	Richelieu (~Phantasma@nat-130-132-173-204.central.yale.edu23) has joined
+T 1393975784 18<pepee18>	I would put them next to greece or spain
+T 1393975800 24*	ChronosA has quit (Quit: Bye)
+T 1393976735 23*	budrose (~budrose@50-198-150-254-static.hfc.comcastbusiness.net23) has joined

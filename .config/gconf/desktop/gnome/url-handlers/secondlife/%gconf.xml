@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="enabled" mtime="1394523294" type="bool" value="true"/>
+	<entry name="command" mtime="1394523294" type="string">
+		<stringvalue>/opt/singularityviewer/handle_secondlifeprotocol.sh &quot;%s&quot;</stringvalue>
+	</entry>
+</gconf>

@@ -1,0 +1,17 @@
+T 1393904916 18<Dev_Random>	Hey, I'm a longtime Java dev, and I've been finding useful info on MSDN.  They have a section "C# for Java Developers".  http://msdn.microsoft.com/en-us/library/ms228358%28v=vs.90%29.aspx
+T 1393904950 20<Thonneve>30	Is it "noob" friendly?
+T 1393904969 18<Dev_Random>	it's comparisons mostly.... 
+T 1393904974 18<Dev_Random>	Java this, C# that
+T 1393904977 20<Thonneve>30	Ahh right
+T 1393904977 18<Dev_Random>	and example code
+T 1393904999 20<Thonneve>30	I'll check it out then
+T 1393905006 18<Dev_Random>	don't hurt to look
+T 1393905013 20<Thonneve>30	I know they're very similar, but I just can't work it out
+T 1393905038 18<Dev_Random>	same... I stare at the OpenSim code and there's a lot of WTF
+T 1393905058 20<Thonneve>30	I can actually read the opensim code, and could probably contribute to it
+T 1393905072 20<Thonneve>30	But I won't because I can't write C#, but I can work out how stuff works
+T 1393905088 18<Dev_Random>	same.. .got a couple couple patches in now.... no way I could write from scratch though.
+T 1393905116 20<Thonneve>30	I submitted a few patches by proxy to aurora-sim
+T 1393905142 18<Dev_Random>	anyway... MSDN is a start.... must get back to work now.
+T 1393905150 20<Thonneve>30	Alright, have fun, thanks for the link
+T 1393968058 24*	Dev_Random has quit (Ping timeout: 240 seconds)

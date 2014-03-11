@@ -1,0 +1,509 @@
+T 1394463625 18<apm118>	i had a similar problem with ME2
+T 1394463634 18<fuorviatos18>	gothic 2, golden edition
+T 1394463638 18<apm118>	fix was , enabling windowed mode
+T 1394463653 18<apm118>	hmm try running in windowed mode
+T 1394463673 18<apm118>	then from inside the game's menu force it to run full screen
+T 1394463686 18<apm118>	this worked for ME2 on my machine
+T 1394463791 18<fuorviatos18>	apm1: you mean, enable "virtual desktop" in winecfg?
+T 1394463797 24*	sdkie has quit (Ping timeout: 265 seconds)
+T 1394463799 24*	28sdkie_ is now known as 18sdkie
+T 1394463829 18<apm118>	fuorviatos, aye
+T 1394463852 24*	Yotson has quit (Quit: -)
+T 1394464093 23*	a2nd (cffdcb58@gateway/web/freenode/ip.207.253.203.8823) has joined
+T 1394464249 18<a2nd18>	Hello, trying to run Counter Strike on an Intel Core 2 Duo with 2 GB of RAM, 32-bit OS, i945GM graphics, and my game lags out right after choosing my team and player model. I get the same results on my actual gaming comp (Athlon 64x2, GeForce 8600 GT, 2 GB RAM, 64-bit).
+T 1394464279 24*	endle has quit (Quit: Leaving)
+T 1394464363 23*	Logan_A (logan@zer0drive.lawarias.srb2.org23) has joined
+T 1394464398 23*	frechdachs69_ (~chatzilla@2001:a60:f08d:1:80d:9a5f:9cc:fcd923) has joined
+T 1394464404 18<apm118>	a2nd, there is a linux native version of CS
+T 1394464436 24*	roi1979 (~rat@firewall.kabeltv.com24) has left
+T 1394464449 18<a2nd18>	apm1: Really? Is it compatible with the Windows versions?
+T 1394464456 18<apm118>	yes
+T 1394464468 18<a2nd18>	Will it run on my hardware specified up there?
+T 1394464474 18<apm118>	easily
+T 1394464484 24*	lambdhanjian has quit (Quit: 风光冉冉东西陌)
+T 1394464486 18<apm118>	a2nd, where did you get this copy of CS from ?
+T 1394464489 24*	Aristide has quit (Read error: Connection reset by peer)
+T 1394464502 18<apm118>	if you were using steam you'd know abt the linux and mac versions
+T 1394464522 24*	frechdachs69 has quit (Ping timeout: 245 seconds)
+T 1394464527 24*	28frechdachs69_ is now known as 18frechdachs69
+T 1394464528 18<apm118>	if you did infact <cough>*acquire it*<cough>
+T 1394464532 18<apm118>	we can't help
+T 1394464548 24*	LoganA has quit (Ping timeout: 245 seconds)
+T 1394464556 18<a2nd18>	I didn't buy it, it's free
+T 1394464567 18<apm118>	how can it be free ???
+T 1394464574 18<apm118>	where did you get it from ?
+T 1394464582 18<a2nd18>	Well, there's a probably old version of it
+T 1394464594 18<apm118>	do you ahve cd key ?
+T 1394464598 18<a2nd18>	Got the version, counter-strike 1.6
+T 1394464601 18<a2nd18>	Nope
+T 1394464607 18<a2nd18>	Got it from their website
+T 1394464618 18<apm118>	from valve's ?
+T 1394464630 18<apm118>	in what year >
+T 1394464637 18<apm118>	*/>/?
+T 1394464647 18<a2nd18>	I didn't download it from steam
+T 1394464685 18<a2nd18>	But, well, the school's gaming lab had CS 1.6 for free
+T 1394464706 18<apm118>	ah so its pirated
+T 1394464707 18<apm118>	no help sorry
+T 1394464709 18<apm118>	gotta go anyway
+T 1394464711 24*	apm1 has quit (Quit: UNIX or DIE)
+T 1394465169 23*	lambdhanjian (~lhj@183.129.120.1023) has joined
+T 1394465262 23*	sdkie_ (~chatzilla@123.201.144.2623) has joined
+T 1394465479 24*	sdkie has quit (Ping timeout: 265 seconds)
+T 1394465481 24*	28sdkie_ is now known as 18sdkie
+T 1394465594 18<a2nd18>	Problem: PulseAudio conflicts with it. I fixed it.
+T 1394465613 23*	omeringen (~omeringen@88.241.7.11623) has joined
+T 1394466109 24*	28falcon` is now known as 18Falcon`
+T 1394466351 24*	28Falcon` is now known as 18falcon`
+T 1394466421 24*	28xpander is now known as 18xpander69
+T 1394466571 24*	28falcon` is now known as 18Falcon`
+T 1394466876 23*	apm1 (~apm@unaffiliated/apm123) has joined
+T 1394466908 18<apm118>	a2nd, sorry to bail on ya
+T 1394466918 18<a2nd18>	apm1: No prob
+T 1394466924 18<a2nd18>	My problem was about PulseAudio
+T 1394466933 18<a2nd18>	Plus, I didn't even know the game was still on sale :P
+T 1394466945 24*	markovh has quit (Remote host closed the connection)
+T 1394466953 18<apm118>	but from what you described its not a legal copy a2nd :p
+T 1394466975 18<a2nd18>	apm1: I know. It's for school's gaming lab
+T 1394466991 18<fuorviatos18>	apm1: seems to have helped, indeed. Thx
+T 1394466995 24*	OmegaPhil has quit ()
+T 1394467168 18<apm118>	fuorviatos, my windowed mode fix worked ?
+T 1394467194 18<fuorviatos18>	ran the game once, and it was fine
+T 1394467199 18<fuorviatos18>	so, seems it have
+T 1394467332 23*	larsivi (~quassel@pc200-62.ktv.no23) has joined
+T 1394467361 24*	lambdhanjian has quit (Ping timeout: 252 seconds)
+T 1394467439 24*	a2nd has quit (Quit: Page closed)
+T 1394467447 24*	darkbasic has quit (Read error: Connection reset by peer)
+T 1394467460 23*	darkbasic (~quassel@niko.linuxsystems.it23) has joined
+T 1394467488 24*	WormDrink has quit (Ping timeout: 240 seconds)
+T 1394467548 24*	Dartellum has quit (Quit: Dartellum)
+T 1394467786 23*	vpovirk (~urk@75-146-153-89-minnesota.hfc.comcastbusiness.net23) has joined
+T 1394467946 24*	darkbasic has quit (Read error: Connection reset by peer)
+T 1394467960 23*	darkbasic (~quassel@niko.linuxsystems.it23) has joined
+T 1394468085 24*	jactry has quit (Ping timeout: 252 seconds)
+T 1394468195 23*	Dartellum (~Thunderbi@c-69-249-244-7.hsd1.pa.comcast.net23) has joined
+T 1394468431 23*	darkbasic_ (~quassel@niko.linuxsystems.it23) has joined
+T 1394468472 24*	darkbasic has quit (Ping timeout: 240 seconds)
+T 1394468481 24*	larsivi has quit (Ping timeout: 252 seconds)
+T 1394468749 23*	mcnelson (~mcnelsn@67.137.33.17823) has joined
+T 1394468862 18<Tom^18>	fuorviatos: i got same deal with cs:go, i just have to alt tab and refocus the wine window
+T 1394469239 18<fuorviatos18>	Tom^: that wouldn't work but aplms hint fixed the problem for me
+T 1394469459 24*	manuscle has quit (Quit: Ex-Chat)
+T 1394469719 24*	SlicerDicer has quit (Quit: The cows says Moooooo)
+T 1394469886 23*	SlicerDicer (~SlicerDic@pdpc/supporter/monthlygold/slicerdicer23) has joined
+T 1394469894 23*	jactry (~jactry@183.4.8.16423) has joined
+T 1394471345 24*	{w}izard has quit (Quit: Page closed)
+T 1394471791 23*	Aliekzhi (~Aliekzhi@80.215.84.12823) has joined
+T 1394471928 24*	Aliekzhi has quit (Client Quit)
+T 1394471941 23*	Aliekzhi (~Aliekzhi@80.215.84.12823) has joined
+T 1394472198 24*	Leoneof has quit (Ping timeout: 240 seconds)
+T 1394472214 24*	jalan_work has quit (Ping timeout: 264 seconds)
+T 1394472219 23*	Leoneof (~Leoneof@unaffiliated/leoneof23) has joined
+T 1394472233 23*	jalan_work (~jalan_wor@155.188.247.1823) has joined
+T 1394472312 24*	Aliekzhi has quit (Ping timeout: 240 seconds)
+T 1394472319 23*	Aliekzhi_ (~Aliekzhi@80.215.84.9423) has joined
+T 1394472699 23*	WormDrink (~WormDrink@105-237-101-79.access.mtnbusiness.co.za23) has joined
+T 1394472700 24*	WormDrink has quit (Changing host)
+T 1394472700 23*	WormDrink (~WormDrink@unaffiliated/wormdrink23) has joined
+T 1394472919 24*	fuorviatos has quit ()
+T 1394472944 23*	fuorviatos (~quassel@77-254-200-244.adsl.inetia.pl23) has joined
+T 1394472962 24*	pcaban has quit (Quit: Konversation terminated!)
+T 1394473055 24*	killall-9 has quit (Quit: Leaving)
+T 1394473752 24*	WormDrink has quit (Ping timeout: 240 seconds)
+T 1394473835 24*	puk has quit (Quit: Leaving)
+T 1394474060 23*	WormDrink (~WormDrink@105-208-240-171.access.mtnbusiness.co.za23) has joined
+T 1394474061 24*	WormDrink has quit (Changing host)
+T 1394474061 23*	WormDrink (~WormDrink@unaffiliated/wormdrink23) has joined
+T 1394474366 24*	WormDrink has quit (Read error: Connection reset by peer)
+T 1394474404 23*	WormDrink (~WormDrink@105-237-109-176.access.mtnbusiness.co.za23) has joined
+T 1394474405 24*	WormDrink has quit (Changing host)
+T 1394474405 23*	WormDrink (~WormDrink@unaffiliated/wormdrink23) has joined
+T 1394474842 24*	WormDrink has quit (Ping timeout: 264 seconds)
+T 1394475042 24*	mahler has quit (Quit: Leaving)
+T 1394475346 24*	nephyrin has quit (Quit: No Ping reply in 180 seconds.)
+T 1394475371 23*	nephyrin (~neph@2620:101:8003:200:7a2b:cbff:fe9e:2e6723) has joined
+T 1394475416 24*	salamanderrake has quit (Read error: Connection reset by peer)
+T 1394475418 24*	Aliekzhi_ has quit (Ping timeout: 240 seconds)
+T 1394475525 23*	WormDrink (~WormDrink@unaffiliated/wormdrink23) has joined
+T 1394475576 24*	diffycat has quit (Quit: diffycat)
+T 1394475786 23*	salamanderrake (~salamande@cpe-71-74-247-103.neo.res.rr.com23) has joined
+T 1394475789 24*	jactry has quit ()
+T 1394475881 23*	Z_God (~julius@2001:888:141f:0:6cac:767c:5a03:ff3023) has joined
+T 1394476357 23*	samkod (~samkod@d27-96-36-35.nap.wideopenwest.com23) has joined
+T 1394476457 18<samkod18>	I have been running wine unstable on debian wheezy amd64 with the fglrx driver for ages now, I am currently running 1.7.14 and have never had any issues. All of a sudden one of my games has no mouse input when I open it. Any thoughts? http://paste.debian.net/86938/
+T 1394476533 18<samkod18>	this paticular application (totala.exe) uses a custom cursor. I'm not sure if that has anything to do with anything but its always worked without any trouble
+T 1394476720 23*	q66 (~q66@enlightenment/developer/q6623) has joined
+T 1394476824 23*	Usurp_ (~syl@reactos/developer/Usurp23) has joined
+T 1394476826 24*	Usurp has quit (Killed (card.freenode.net (Nickname regained by services)))
+T 1394476826 24*	28Usurp_ is now known as 18Usurp
+T 1394476848 24*	apm1 has quit (Quit: UNIX or DIE)
+T 1394477011 23*	Teddy5090 (~Thunderbi@172.56.7.3123) has joined
+T 1394477035 24*	28Falcon` is now known as 18falcon`
+T 1394477077 24*	merek31 (c768fd51@gateway/web/cgi-irc/kiwiirc.com/ip.199.104.253.8124) has left
+T 1394477459 24*	WormDrink has quit (Read error: Connection reset by peer)
+T 1394477470 24*	_Lucretia_ has quit (Ping timeout: 264 seconds)
+T 1394478243 23*	_Lucretia_ (~munkee@pdpc/supporter/active/lucretia23) has joined
+T 1394478480 23*	WormDrink (~WormDrink@105-237-64-146.access.mtnbusiness.co.za23) has joined
+T 1394478492 24*	WormDrink has quit (Changing host)
+T 1394478492 23*	WormDrink (~WormDrink@unaffiliated/wormdrink23) has joined
+T 1394478681 24*	venkat_330 has quit (Ping timeout: 252 seconds)
+T 1394478760 23*	venkat_330 (~Thunderbi@203.196.191.7523) has joined
+T 1394478783 23*	Aliekezhi (~Aliekezhi@80.215.44.8423) has joined
+T 1394478804 24*	28CyberJacob|Away is now known as 18CyberJacob
+T 1394479041 24*	Aliekezhi has quit (Client Quit)
+T 1394479054 23*	Aliekezhi (~Aliekezhi@80.215.44.8423) has joined
+T 1394479065 23*	RageRiot (~Rage@87.115.166.5023) has joined
+T 1394479237 24*	samkod has quit (Remote host closed the connection)
+T 1394479295 23*	Haaninjo (~anders@fsf/member/Haaninjo23) has joined
+T 1394479424 24*	28robert___ is now known as 18robert_
+T 1394479593 23*	larsivi (~quassel@pc200-62.ktv.no23) has joined
+T 1394479621 23*	paddy_ (~patrick@unaffiliated/paddy23) has joined
+T 1394480014 23*	FreezingCold (~FreezingC@135.0.41.1423) has joined
+T 1394480083 23*	onny (~onny@krlh-5f7134ed.pool.mediaWays.net23) has joined
+T 1394480814 23*	Yoshimo (~Miranda@unaffiliated/yoshimo23) has joined
+T 1394481143 23*	nug700 (~nug700@71-37-219-192.phnx.qwest.net23) has joined
+T 1394481472 24*	Yoshimo has quit (Ping timeout: 245 seconds)
+T 1394481573 23*	frankyboy_ (~franky@188.123.252.2323) has joined
+T 1394481984 24*	Teddy5090 has quit (Quit: I logged out / went offline of Mozilla Thunderbird IRC.)
+T 1394482399 23*	Usurp_ (~syl@reactos/developer/Usurp23) has joined
+T 1394482400 24*	28Usurp is now known as 18Guest68461
+T 1394482400 24*	28Usurp_ is now known as 18Usurp
+T 1394482409 24*	Guest68461 has quit (Ping timeout: 240 seconds)
+T 1394483292 24*	ariscop has quit (Ping timeout: 244 seconds)
+T 1394483426 23*	Eduard_Munteanu (~EduardMun@188.27.70.2423) has joined
+T 1394483507 24*	28falcon` is now known as 18Falcon`
+T 1394483688 24*	nsivov has quit (Ping timeout: 240 seconds)
+T 1394483723 24*	28Falcon` is now known as 18falcon`
+T 1394483748 23*	fraggeln (~fragg@144.63.248.21123) has joined
+T 1394483758 24*	fraggeln (~fragg@144.63.248.21124) has left
+T 1394483886 24*	28falcon` is now known as 18Falcon`
+T 1394483953 24*	28Falcon` is now known as 18falcon`
+T 1394484018 23*	GreatEmerald (~dainius@cable-226-150.cgates.lt23) has joined
+T 1394484059 23*	conan_ (~conan@AGrenoble-651-1-491-107.w90-42.abo.wanadoo.fr23) has joined
+T 1394484131 23*	ariscop (~Phase4@101.119.27.2623) has joined
+T 1394484152 23*	puk (~michi@dslb-084-056-164-060.pools.arcor-ip.net23) has joined
+T 1394484169 23*	lekare_ (~tobias@c-2737e555.013-342-6b73641.cust.bredbandsbolaget.se23) has joined
+T 1394484252 18<GreatEmerald18>	I'm trying to run a (somewhat complicated) .bat script, and it seems that Wine doesn't like something in it (I suspect that it's some sort of a problem with quotes and/or backslashes).
+T 1394484257 18<GreatEmerald18>	Here's the script: http://bpaste.net/show/GLr9gMAozYwuTHKFLyTa/
+T 1394484325 18<GreatEmerald18>	And the output: http://bpaste.net/show/eu1AGoebMK2Z6GINO0tA/
+T 1394484352 24*	28falcon` is now known as 18Falcon`
+T 1394484398 23*	apm1 (~apm@unaffiliated/apm123) has joined
+T 1394484483 24*	paddy_ has quit (Quit: Leaving)
+T 1394484527 23*	nsivov (~nsivov@ppp83-237-197-157.pppoe.mtu-net.ru23) has joined
+T 1394484533 24*	SlicerDicer has quit (Ping timeout: 265 seconds)
+T 1394484545 24*	28Falcon` is now known as 18falcon`
+T 1394484599 23*	SlicerDicer (~SlicerDic@pdpc/supporter/monthlygold/slicerdicer23) has joined
+T 1394485407 24*	ariscop has quit (Quit: Leaving)
+T 1394485440 24*	WormDrink has quit (Ping timeout: 240 seconds)
+T 1394485992 23*	WormDrink (~WormDrink@unaffiliated/wormdrink23) has joined
+T 1394486195 24*	salamanderrake has quit (Remote host closed the connection)
+T 1394486394 23*	ariscop (~Phase4@eduroam-students1.swin.edu.au23) has joined
+T 1394486650 23*	diegoviola (~yaaic@unaffiliated/diegoviola23) has joined
+T 1394486659 18<diegoviola18>	hi
+T 1394486674 18<diegoviola18>	windows viruses run on wine?
+T 1394486719 18<apm118>	yes infections have happened
+T 1394486738 18<apm118>	use clamav to scan your prefixes and isolate your / and /home
+T 1394486749 18<apm118>	or if you can't then scan them too
+T 1394486754 18<diegoviola18>	they can only affect $HOME no?
+T 1394486759 18<apm118>	yes
+T 1394486777 24*	lekare_ has quit (Read error: Connection reset by peer)
+T 1394486780 18<apm118>	they can also affect / if you have it accesible in drives tab under cfg
+T 1394486794 18<diegoviola18>	I see
+T 1394486803 18<diegoviola18>	thanks
+T 1394486809 18<apm118>	personally i don't scan jack squat
+T 1394486830 18<apm118>	lack of care
+T 1394486869 18<diegoviola18>	I see
+T 1394486870 23*	salamanderrake (~salamande@cpe-71-74-247-103.neo.res.rr.com23) has joined
+T 1394486912 18<diegoviola18>	Thanks
+T 1394486949 24*	conan_ has quit (Quit: Computer has gone to sleep.)
+T 1394487285 18<eroen-falcon18>	diegoviola: you can mitigate the problem a bit by using separate WINEPREFIXes for everything (like you probably want to do anyway)
+T 1394487346 24*	Aliekezhi has quit (Remote host closed the connection)
+T 1394487419 24*	onny has quit (Ping timeout: 241 seconds)
+T 1394487455 24*	_Lucretia_ has quit (Read error: Operation timed out)
+T 1394487659 24*	vpovirk has quit (Remote host closed the connection)
+T 1394487738 24*	frankyboy_ has quit (Quit: Ухожу я от вас)
+T 1394487798 23*	Nytram (~Nytram@97e76e32.skybroadband.com23) has joined
+T 1394487892 24*	sdkie (~chatzilla@123.201.144.2624) has left
+T 1394487911 24*	Nytram has quit (Client Quit)
+T 1394487966 24*	Andy2 has quit (Remote host closed the connection)
+T 1394488291 23*	c_korn (~korn@2001:a60:10ed:4901:55a9:4f36:63bf:ab0723) has joined
+T 1394488534 23*	_Lucretia_ (~munkee@pdpc/supporter/active/lucretia23) has joined
+T 1394488590 23*	tc_ (~tc@e178217199.adsl.alicedsl.de23) has joined
+T 1394488614 24*	c_korn has quit (Quit: Bye bye.)
+T 1394488910 24*	omeringen has quit (Remote host closed the connection)
+T 1394489162 24*	chas_ has quit (Quit: Leaving (eskimo-node.freenode statis: exploded.))
+T 1394489331 24*	ivanich has quit (Read error: Operation timed out)
+T 1394489399 23*	ivanich (~ivanich@ivanich.tenet.odessa.ua23) has joined
+T 1394489532 23*	Primer (~daniel@www.ceregatti.org23) has joined
+T 1394489571 18<Primer18>	Soooo wow is broken again. Any thoughts? Tried latest git as 64 bit, but I only have 32 bit from distro, which is Linux mint
+T 1394489660 18<Primer18>	both crash
+T 1394489673 24*	fuorviatos has quit (Remote host closed the connection)
+T 1394490057 18<Primer18>	ahh it has to be that wow-64.exe was restored by the patch
+T 1394490435 24*	28diegoviola is now known as 18Guest57094
+T 1394490449 24*	FreezingCold has quit (Ping timeout: 240 seconds)
+T 1394490783 24*	Primer (~daniel@www.ceregatti.org24) has left ("Client exiting")
+T 1394490820 24*	apm1 has quit (Quit: UNIX or DIE)
+T 1394491318 24*	ariscop has quit (Ping timeout: 240 seconds)
+T 1394491541 24*	falcon` has quit (Ping timeout: 246 seconds)
+T 1394492079 24*	Haaninjo has quit (Quit: Ex-Chat)
+T 1394492330 23*	ariscop (~Phase4@eduroam-students1.swin.edu.au23) has joined
+T 1394492489 24*	tc_ has quit (Ping timeout: 240 seconds)
+T 1394492639 23*	falcon` (Falcon@hell.kolosowscy.pl23) has joined
+T 1394492925 24*	c10ud has quit (Quit: cya)
+T 1394493189 24*	Engys has quit (Quit: Verlassend)
+T 1394493233 23*	FreezingCold (~FreezingC@135.0.41.1423) has joined
+T 1394493322 24*	falcon` has quit (Ping timeout: 245 seconds)
+T 1394493347 23*	D-HUND (~Wowbagger@p549CBD9C.dip0.t-ipconnect.de23) has joined
+T 1394493365 24*	debdog has quit (Ping timeout: 252 seconds)
+T 1394493521 24*	vivid has quit (Quit: Leaving)
+T 1394493601 24*	puk has quit (Quit: Client exiting)
+T 1394493752 23*	falcon` (Falcon@hell.kolosowscy.pl23) has joined
+T 1394493879 23*	Teddy5090 (~Thunderbi@172.56.7.3123) has joined
+T 1394494014 24*	28D-HUND is now known as 18debdog
+T 1394494022 24*	Z_God has quit (Remote host closed the connection)
+T 1394494132 24*	ariscop has quit (Ping timeout: 265 seconds)
+T 1394494472 24*	Usurp has quit (Remote host closed the connection)
+T 1394494491 23*	Usurp (~syl@reactos/developer/Usurp23) has joined
+T 1394494672 23*	madewokherd (~urk@c-66-41-79-51.hsd1.mn.comcast.net23) has joined
+T 1394494885 23*	W0rmDr1nk (~WormDrink@unaffiliated/wormdrink23) has joined
+T 1394495004 23*	frogthos (~smuxi@108-227-225-66.lightspeed.brhmal.sbcglobal.net23) has joined
+T 1394495098 24*	WormDrink has quit (Ping timeout: 240 seconds)
+T 1394495869 24*	Leoneof has quit (Read error: Operation timed out)
+T 1394495927 23*	Leoneof (~Leoneof@unaffiliated/leoneof23) has joined
+T 1394496048 24*	darkbasic_ has quit (Ping timeout: 240 seconds)
+T 1394496141 24*	Usurp has quit (Read error: Connection reset by peer)
+T 1394496144 23*	Usurp|out (~syl@78.219.146.3023) has joined
+T 1394496151 23*	darkbasic (~quassel@niko.linuxsystems.it23) has joined
+T 1394496295 23*	ariscop (~Phase4@101.119.26.2623) has joined
+T 1394496878 24*	ariscop has quit (Ping timeout: 240 seconds)
+T 1394497134 24*	q66 has quit (Quit: Leaving)
+T 1394497658 24*	Guest57094 has quit (Ping timeout: 240 seconds)
+T 1394497703 23*	ariscop (~Phase4@101.119.26.2623) has joined
+T 1394498556 24*	salamanderrake has quit (Read error: Connection reset by peer)
+T 1394498602 24*	FreezingCold has quit (Remote host closed the connection)
+T 1394498620 24*	rom1504 has quit (Quit: Lost terminal)
+T 1394498642 23*	rom1504 (rom1504@rom1504.fr23) has joined
+T 1394498691 23*	salamanderrake (~salamande@cpe-71-74-247-103.neo.res.rr.com23) has joined
+T 1394498708 23*	FreezingCold (~FreezingC@135.0.41.1423) has joined
+T 1394498897 24*	GreatEmerald has quit (Quit: Leaving.)
+T 1394498966 23*	Jon_God (~jon_god@2601:9:6700:4d9:3e07:54ff:fe26:6d6123) has joined
+T 1394499106 24*	stringfellow has quit (Ping timeout: 264 seconds)
+T 1394499555 24*	mcnelson has quit (Ping timeout: 265 seconds)
+T 1394499923 23*	stringfellow (~stringfel@foghorn.codeweavers.com23) has joined
+T 1394500006 24*	Eduard_Munteanu has quit (Ping timeout: 264 seconds)
+T 1394500047 24*	eroen-falcon has quit (Ping timeout: 245 seconds)
+T 1394500126 23*	eroen-falcon (~eroen@unaffiliated/eroen23) has joined
+T 1394500325 24*	28CyberJacob is now known as 18CyberJacob|Away
+T 1394501173 24*	MrSassyPants has quit (Remote host closed the connection)
+T 1394501419 23*	Funkeh`` (~Funkeh`@WoWUIDev/WoWAce/Ace3/BigWigs/funkeh23) has joined
+T 1394501466 24*	ariscop has quit (Quit: Leaving)
+T 1394501499 23*	ariscop (~Phase4@eduroam-students1.swin.edu.au23) has joined
+T 1394501588 24*	Funkeh` has quit (Ping timeout: 240 seconds)
+T 1394501651 24*	Teddy5090 has quit (Quit: I logged out / went offline of Mozilla Thunderbird IRC.)
+T 1394501769 23*	Funkeh``` (~Funkeh`@WoWUIDev/WoWAce/Ace3/BigWigs/funkeh23) has joined
+T 1394501922 24*	wakou2 has quit (Read error: Operation timed out)
+T 1394501948 24*	Funkeh`` has quit (Ping timeout: 240 seconds)
+T 1394503678 24*	ariscop has quit (Ping timeout: 264 seconds)
+T 1394504221 23*	un214 (~un214@2602:303:fcd0:ad29:224:8cff:fed2:ef5723) has joined
+T 1394504378 23*	jactry (~jactry@121.8.210.1223) has joined
+T 1394504428 23*	ariscop (~Phase4@101.119.26.2623) has joined
+T 1394505044 24*	28Edogaa2 is now known as 18Edogaa
+T 1394505098 24*	Funkeh``` has quit (Ping timeout: 240 seconds)
+T 1394505264 24*	darkbasic has quit (Remote host closed the connection)
+T 1394505298 24*	JackWinter has quit (Read error: Operation timed out)
+T 1394505307 23*	darkbasic (~quassel@niko.linuxsystems.it23) has joined
+T 1394505371 24*	ariscop has quit (Read error: Connection reset by peer)
+T 1394505405 23*	ariscop (~Phase4@101.119.26.2623) has joined
+T 1394505447 24*	Jon_God has quit (Ping timeout: 245 seconds)
+T 1394505748 24*	un214 has quit (Read error: Connection reset by peer)
+T 1394505798 23*	Jon_God (~jon_god@2601:9:6700:4d9:3e07:54ff:fe26:6d6123) has joined
+T 1394505962 24*	iive has quit (Quit: They came for me...)
+T 1394505975 23*	dumptruckman (dumptruckm@2600:3c02::f03c:91ff:fe6e:2cfd23) has joined
+T 1394505997 18<dumptruckman18>	anyone have experience running wow in opengl mode using the battle.net app?
+T 1394506018 18<dumptruckman18>	i just get stuck at connecting when the game starts up
+T 1394506126 18<dumptruckman18>	eh.. brb
+T 1394506145 23*	JackWinter (~jack@vodsl-10810.vo.lu23) has joined
+T 1394506265 24*	dumptruckman (dumptruckm@2600:3c02::f03c:91ff:fe6e:2cfd24) has left ("JOIN #winehq")
+T 1394506276 23*	dumptruckman (dumptruckm@2600:3c02::f03c:91ff:fe6e:2cfd23) has joined
+T 1394506351 18<dumptruckman18>	grr... why is pidgin opening channels i did not add to my list!
+T 1394506531 23*	Funkeh` (~Funkeh`@WoWUIDev/WoWAce/Ace3/BigWigs/funkeh23) has joined
+T 1394506704 24*	madewokherd has quit (Remote host closed the connection)
+T 1394506796 24*	debdog has quit (Ping timeout: 252 seconds)
+T 1394507125 23*	QBall_ (~QBall@cpc9-nrte21-2-0-cust189.8-4.cable.virginm.net23) has joined
+T 1394507150 23*	debdog (~Wowbagger@p549CBD9C.dip0.t-ipconnect.de23) has joined
+T 1394507298 24*	QBall has quit (Ping timeout: 265 seconds)
+T 1394507304 24*	28QBall_ is now known as 18QBall
+T 1394507887 24*	jactry has quit (Remote host closed the connection)
+T 1394508210 24*	PhoenixSTF has quit (Quit: Leaving)
+T 1394508948 24*	grep0r has quit (Ping timeout: 252 seconds)
+T 1394508955 24*	RageRiot has quit (Ping timeout: 264 seconds)
+T 1394509033 24*	Hendikins has quit (Ping timeout: 240 seconds)
+T 1394509068 24*	ariscop has quit (Ping timeout: 265 seconds)
+T 1394509150 23*	grep0r (grep0r@bitcoinshell.mooo.com23) has joined
+T 1394509313 23*	Hendikins (~wolfox@pdpc/supporter/student/Hendikins23) has joined
+T 1394510238 24*	Walzmyn has quit (Ping timeout: 240 seconds)
+T 1394510342 23*	jactry (~jactry@121.8.210.4323) has joined
+T 1394511172 24*	master_j has quit (Quit: WeeChat 0.4.3)
+T 1394512079 24*	nug700 has quit (Ping timeout: 240 seconds)
+T 1394512259 23*	nug700 (~nug700@71-37-219-192.phnx.qwest.net23) has joined
+T 1394513621 23*	frechdachs69_ (~chatzilla@mail.work-microwave.de23) has joined
+T 1394513622 24*	frechdachs69 has quit (Ping timeout: 245 seconds)
+T 1394513625 24*	28frechdachs69_ is now known as 18frechdachs69
+T 1394513969 24*	dumptruckman (dumptruckm@2600:3c02::f03c:91ff:fe6e:2cfd24) has left ("QUIT :Leaving.")
+T 1394514122 23*	ariscop (~Phase4@2001:44b8:4196:e800:76e5:43ff:fe41:bfc923) has joined
+T 1394514190 24*	FreezingCold has quit (Ping timeout: 264 seconds)
+T 1394515469 23*	chas (~chas@adsl-76-203-225-16.dsl.rcsntx.sbcglobal.net23) has joined
+T 1394515828 24*	nsivov has quit (Read error: Connection reset by peer)
+T 1394515875 23*	nsivov (~nsivov@ppp83-237-197-157.pppoe.mtu-net.ru23) has joined
+T 1394516098 24*	QBall has quit (Ping timeout: 240 seconds)
+T 1394516506 23*	onny (~onny@krlh-5f713791.pool.mediaWays.net23) has joined
+T 1394516700 23*	Tommy[D] (~TommyD]@gentoo/developer/tommy23) has joined
+T 1394516832 23*	croppa (~stuart@14.14.233.220.static.exetel.com.au23) has joined
+T 1394516854 23*	onny_ (~onny@krlh-5f713791.pool.mediaWays.net23) has joined
+T 1394516865 24*	Tommy[D]_ has quit (Ping timeout: 244 seconds)
+T 1394516869 24*	onny has quit (Ping timeout: 265 seconds)
+T 1394516924 23*	onny (~onny@krlh-5f71dc1e.pool.mediaWays.net23) has joined
+T 1394517113 24*	onny_ has quit (Ping timeout: 244 seconds)
+T 1394517553 23*	tc_ (~tc@e178209075.adsl.alicedsl.de23) has joined
+T 1394517666 24*	28CyberJacob|Away is now known as 18CyberJacob
+T 1394517696 24*	croppa has quit (Ping timeout: 240 seconds)
+T 1394517704 23*	croppa (~stuart@14.14.233.220.static.exetel.com.au23) has joined
+T 1394517790 24*	onny has quit (Ping timeout: 264 seconds)
+T 1394518321 24*	Jon_God has quit (Remote host closed the connection)
+T 1394518474 24*	croppa has quit (Ping timeout: 264 seconds)
+T 1394518560 24*	tc_ has quit (Ping timeout: 240 seconds)
+T 1394518663 23*	croppa (~stuart@14.14.233.220.static.exetel.com.au23) has joined
+T 1394519044 24*	croppa has quit (Ping timeout: 265 seconds)
+T 1394519926 23*	croppa (~stuart@14.14.233.220.static.exetel.com.au23) has joined
+T 1394520102 23*	diegoviola (~yaaic@177.103.108.21123) has joined
+T 1394520102 24*	diegoviola has quit (Changing host)
+T 1394520102 23*	diegoviola (~yaaic@unaffiliated/diegoviola23) has joined
+T 1394520118 24*	diegoviola (~yaaic@unaffiliated/diegoviola24) has left
+T 1394520233 24*	croppa has quit (Ping timeout: 265 seconds)
+T 1394520357 23*	croppa (~stuart@14.14.233.220.static.exetel.com.au23) has joined
+T 1394520547 24*	croppa has quit (Excess Flood)
+T 1394520709 24*	28audreycloudrat is now known as 18MACROTRICERATOPS
+T 1394521032 24*	uczekalla has quit (Ping timeout: 240 seconds)
+T 1394522476 23*	croppa (~stuart@14.14.233.220.static.exetel.com.au23) has joined
+T 1394522614 24*	larsivi has quit (Ping timeout: 264 seconds)
+T 1394522628 23*	croppa_ (~stuart@14.14.233.220.static.exetel.com.au23) has joined
+T 1394522752 23*	uczekalla (~uczekalla@173-230-186-228.cable.teksavvy.com23) has joined
+T 1394522839 24*	jactry has quit ()
+T 1394522866 24*	croppa has quit (Ping timeout: 264 seconds)
+T 1394523408 24*	Stels has quit (Ping timeout: 240 seconds)
+T 1394523812 23*	c10ud (~c10ud@95.236.123.8623) has joined
+T 1394523812 24*	c10ud has quit (Changing host)
+T 1394523812 23*	c10ud (~c10ud@emesene/dictator/c10ud23) has joined
+T 1394524014 23*	Stels (~stels@95.104.221.21423) has joined
+T 1394524094 23*	MrSassyPants (thephil@77-56-139-11.dclient.hispeed.ch23) has joined
+T 1394524103 24*	MrSassyPants has quit (Client Quit)
+T 1394524195 23*	MrSassyPants (thephil@77-56-139-11.dclient.hispeed.ch23) has joined
+T 1394524359 23*	lyon667|work (lyon667@nat/redhat/x-pcgiooowfncqafwy23) has joined
+T 1394524431 23*	wakou2 (~stephen@host86-166-173-232.range86-166.btcentralplus.com23) has joined
+T 1394524882 19*	Now talking on 22#winehq
+T 1394524882 22*	Topic for 22#winehq is: Wine end user support http://www.winehq.org || Off-topic: #winehq-social || Winetricks: http://wiki.winehq.org/winetricks || AppDB: http://appdb.winehq.org || Wiki: http://wiki.winehq.org || FAQ: http://wiki.winehq.org/FAQ || Stable[1.6.2] Development[1.7.13] || Please upgrade to 1.7.13 before seeking help || Please use http://www.pastebin.com for logs || Steam needs >= 1.6.2 / 1.7.8
+T 1394524882 22*	Topic for 22#winehq set by 26austin987!~austin@100.42.98.7 (24Thu Feb 20 20:21:04 2014)
+T 1394524898 23*	jalan_work (~jalan_wor@155.188.183.1723) has joined
+T 1394524909 24*	jalan_work has quit (Remote host closed the connection)
+T 1394524936 23*	jalan_work (~jalan_wor@155.188.247.1623) has joined
+T 1394525410 23*	Engys (~engys@p5DDB06FA.dip0.t-ipconnect.de23) has joined
+T 1394525582 23*	roi1979 (~rat@firewall.kabeltv.com23) has joined
+T 1394525691 23*	fuorviatos (~quassel@77-254-199-80.adsl.inetia.pl23) has joined
+T 1394525796 23*	puk (mstefani@nat/redhat/x-jhkhvmhpuuopdnoc23) has joined
+T 1394526152 24*	lqi has quit ()
+T 1394526489 23*	larsivi (~quassel@148-129-11.connect.netcom.no23) has joined
+T 1394527717 23*	jactry (~jactry@121.8.210.4323) has joined
+T 1394527739 24*	jactry has quit (Client Quit)
+T 1394528069 24*	MrSassyPants has quit (Quit: Even Monsters... Need Sleep)
+T 1394528726 23*	killall-9 (~paulc@diana.null.ro23) has joined
+T 1394529305 23*	Aristide (~quassel@2a01:e35:2eb9:64b0:1e4b:d6ff:feca:6b6923) has joined
+T 1394530810 23*	nandersson (~nandersso@25.238.76.188.dynamic.jazztel.es23) has joined
+T 1394530846 24*	ariscop has quit (Ping timeout: 244 seconds)
+T 1394530880 23*	ahuillet (~ahuillet@133.8.16.93.rev.sfr.net23) has joined
+T 1394530927 18<nandersson18>	Hi, in earlier versions of Wine we have experienced some trouble with PAM (Pluggable Authentication Modules) - Wine did some changes to the PAM-files. In recent versions of Wine we havn't seen those changes, which is very good, becuase Wine used to mess up our Kerberos-auth. Will things stay calm? Does anybody know why Wine interfered with PAM in the first place?
+T 1394531085 23*	ariscop (~Phase4@2001:44b8:4196:e800:76e5:43ff:fe41:bfc923) has joined
+T 1394531110 24*	croppa_ has quit (Ping timeout: 264 seconds)
+T 1394531226 24*	nug700 has quit (Quit: bye)
+T 1394531288 24*	Aristide has quit (Read error: Connection reset by peer)
+T 1394531312 18<nsivov18>	nandersson, could it be something related to samba?
+T 1394531367 18<nsivov18>	I don't think wine touches anything like that directly
+T 1394531461 18<nandersson18>	nsivov, it doesn't now. But according from my understanding (this is information I got from other devs in the company) Wine intefered with the pam-libs :-/
+T 1394531532 24*	darkbasic has quit (Quit: No Ping reply in 180 seconds.)
+T 1394531550 23*	darkbasic (~quassel@niko.linuxsystems.it23) has joined
+T 1394531551 23*	croppa_ (~stuart@14.14.233.220.static.exetel.com.au23) has joined
+T 1394531739 23*	vivid (~vivid@c-76-104-215-159.hsd1.wa.comcast.net23) has joined
+T 1394531865 23*	mahler (~matthew@c-71-194-9-125.hsd1.il.comcast.net23) has joined
+T 1394531869 23*	Walzmyn (~quassel@h147.143.29.71.dynamic.ip.windstream.net23) has joined
+T 1394532266 18<Engys18>	nandersson, wine runs without any problem in a normal user account. I am more than happy that this is possible. For me there was never a need to change anything on the system side.
+T 1394532373 24*	28MACROTRICERATOPS is now known as 18audreycloudrat
+T 1394532751 24*	W0rmDr1nk has quit (Read error: Operation timed out)
+T 1394532755 23*	manuscle (~manuscle@aqu33-4-82-233-55-206.fbx.proxad.net23) has joined
+T 1394532986 18<nandersson18>	Engys, I installed wine on Ubuntu 12.04 and I see changes have been made in /etc/pam.d/commont-account, common-auth, common-password, common-session, common-session-noninteractive.
+T 1394533008 18<nandersson18>	I did an md5-listing before and after running "apt-get install wine".
+T 1394533039 18<nandersson18>	So there is clearly something going on in /etc/pam.d and Wine is the culprit.
+T 1394533058 18<nsivov18>	nandersson, that's a question for packager then
+T 1394533118 18<nsivov18>	wine had no chance to do anything yet, if you just installed it
+T 1394533134 18<nandersson18>	nsivov, ok, I'll raise it with Canonical then.
+T 1394533162 24*	ahuillet (~ahuillet@133.8.16.93.rev.sfr.net24) has left
+T 1394533349 18<Engys18>	nandersson, I compile every new version of Wine by my own and put it into place. If there would be a need to change anything on the system side it would stop me to using Wine.
+T 1394533389 18<nandersson18>	Engys, Ok, I use the distro-packages.
+T 1394533401 24*	JackWinter has quit (Ping timeout: 240 seconds)
+T 1394533406 18<nandersson18>	I mailed Scott who is the maintainer.
+T 1394533598 23*	JackWinter (~jack@vodsl-10810.vo.lu23) has joined
+T 1394533622 24*	eroen-falcon has quit (Ping timeout: 245 seconds)
+T 1394533839 23*	desti_T2 (~desti@dslb-092-073-154-178.pools.arcor-ip.net23) has joined
+T 1394533940 23*	eroen-falcon (~eroen@unaffiliated/eroen23) has joined
+T 1394534009 24*	desti has quit (Ping timeout: 240 seconds)
+T 1394534595 23*	jactry (~jactry@121.8.210.4323) has joined
+T 1394534722 24*	eroen-falcon has quit (Ping timeout: 245 seconds)
+T 1394534752 24*	ariscop has quit (Ping timeout: 244 seconds)
+T 1394534802 23*	ariscop (~Phase4@2001:44b8:4196:e800:76e5:43ff:fe41:bfc923) has joined
+T 1394534811 23*	eroen-falcon (~eroen@unaffiliated/eroen23) has joined
+T 1394535111 24*	croppa_ has quit ()
+T 1394535870 24*	jactry has quit ()
+T 1394535905 23*	pcaban (~piotr@vpn.psi.wroc.pl23) has joined
+T 1394536510 24*	ariscop has quit (Read error: Connection reset by peer)
+T 1394537201 23*	ariscop (~Phase4@2001:44b8:4196:e800:76e5:43ff:fe41:bfc923) has joined
+T 1394537430 24*	ariscop has quit (Client Quit)
+T 1394537459 24*	larsivi has quit (Ping timeout: 240 seconds)
+T 1394537619 23*	ariscop (~Phase4@2001:44b8:4196:e800:76e5:43ff:fe41:bfc923) has joined
+T 1394537997 23*	tc_ (~tc@e178209075.adsl.alicedsl.de23) has joined
+T 1394539318 24*	Plinker_ has quit (Ping timeout: 264 seconds)
+T 1394539773 23*	Plinker_ (~plinker@64.229.195.9623) has joined
+T 1394541119 23*	JackWinter_ (~jack@vodsl-10810.vo.lu23) has joined
+T 1394541138 24*	JackWinter has quit (Ping timeout: 244 seconds)
+T 1394541308 18<killown18>	wine-git still has not implemented totally d3d-stream-patches :/
+T 1394541325 23*	FreezingCold (~FreezingC@205.211.54.16223) has joined
+T 1394541485 23*	endle (~endle@2001:da8:8000:d014:200:5efe:3b4e:1a0123) has joined
+T 1394542026 23*	PhoenixSTF (~rudiservo@78.29.155.24523) has joined
+T 1394542110 23*	apm1 (~apm@unaffiliated/apm123) has joined
+T 1394542187 23*	Aristide (~quassel@LCaen-156-55-22-239.w80-11.abo.wanadoo.fr23) has joined
+T 1394542248 23*	lambdhanjian (~lhj@183.129.20.14623) has joined
+T 1394542254 24*	tc_ has quit (Remote host closed the connection)
+T 1394542413 23*	tc_ (~tc@e178209075.adsl.alicedsl.de23) has joined
+T 1394542671 24*	tc_ has quit (Remote host closed the connection)
+T 1394543350 24*	Walzmyn has quit (Ping timeout: 264 seconds)
+T 1394543829 23*	tc_ (~tc@e178209075.adsl.alicedsl.de23) has joined
+T 1394544035 24*	Aristide has quit (Read error: Connection reset by peer)
+T 1394544041 23*	jactry (~jactry@183.4.29.23423) has joined
+T 1394544530 24*	jactry has quit ()
+T 1394544792 24*	frogthos has quit (Remote host closed the connection)
+T 1394544939 24*	apm1 has quit (Quit: UNIX or DIE)
+T 1394544988 23*	jactry (~jactry@183.4.29.23423) has joined
+T 1394545088 24*	jactry has quit (Client Quit)
+T 1394545104 23*	jactry (~jactry@183.4.29.23423) has joined
+T 1394545241 23*	frogthos (~smuxi@108-227-225-66.lightspeed.brhmal.sbcglobal.net23) has joined
+T 1394545522 24*	darkbasic has quit (Ping timeout: 245 seconds)
+T 1394545626 23*	darkbasic (~quassel@niko.linuxsystems.it23) has joined
+T 1394545779 23*	iive (~iive@87.119.101.204.client.entry.bg23) has joined
+T 1394545779 24*	iive has quit (Changing host)
+T 1394545779 23*	iive (~iive@unaffiliated/iive23) has joined
+T 1394546284 19*	Now talking on 22#winehq
+T 1394546284 22*	Topic for 22#winehq is: Wine end user support http://www.winehq.org || Off-topic: #winehq-social || Winetricks: http://wiki.winehq.org/winetricks || AppDB: http://appdb.winehq.org || Wiki: http://wiki.winehq.org || FAQ: http://wiki.winehq.org/FAQ || Stable[1.6.2] Development[1.7.13] || Please upgrade to 1.7.13 before seeking help || Please use http://www.pastebin.com for logs || Steam needs >= 1.6.2 / 1.7.8
+T 1394546284 22*	Topic for 22#winehq set by 26austin987!~austin@100.42.98.7 (24Thu Feb 20 20:21:04 2014)
+T 1394546931 23*	QBall (~QBall@cpc9-nrte21-2-0-cust189.8-4.cable.virginm.net23) has joined
+T 1394546983 24*	Leoneof has quit (Quit: Leoneof)
+T 1394547027 23*	Leoneof (~Leoneof@unaffiliated/leoneof23) has joined
+T 1394547079 24*	Leoneof has quit (Max SendQ exceeded)
+T 1394547108 23*	Leoneof (~Leoneof@unaffiliated/leoneof23) has joined
+T 1394547176 24*	Leoneof has quit (Max SendQ exceeded)
+T 1394547206 23*	Leoneof (~Leoneof@unaffiliated/leoneof23) has joined

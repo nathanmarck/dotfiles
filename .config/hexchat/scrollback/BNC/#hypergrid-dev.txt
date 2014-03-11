@@ -1,0 +1,5 @@
+T 1393975358 19*	Now talking on 22#hypergrid-dev
+T 1393975358 22*	26morgan.freenode.net sets mode 24+n on 22#hypergrid-dev
+T 1393975358 22*	26morgan.freenode.net sets mode 24+s on 22#hypergrid-dev
+T 1393975358 22*	Channel 22#hypergrid-dev modes: 24+ns
+T 1393975358 22*	Channel 22#hypergrid-dev created on 24Tue Mar  4 23:21:01 2014

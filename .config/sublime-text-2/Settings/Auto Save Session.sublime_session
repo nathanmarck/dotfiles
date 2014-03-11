@@ -1,0 +1,235 @@
+{
+	"folder_history":
+	[
+	],
+	"last_window_id": 1,
+	"settings":
+	{
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "list stats;\nlist computers;\ndefault\n{\n	state_entry()\n	{\n		llOwnerSay(\"Initilizing OsatiaOS...\");\n		llListen(-1556,\"\",\"\",\"\");\n		llListen(0,\"\",\"\",\"\");\n		stats = osGetRegionStats();\n		llSleep(2.0);\n		llSetText(\"Simulator FPS:\" + (string)llList2Float(stats, STATS_SIM_FPS) + \"\\nTimeDilation:\" + (string) llList2Float( Stats, STATS_PHYSICS_FPS ) + \"\\nScript LPS: \" + (string) llList2Float( Stats, STATS_SCRIPT_LPS ),<0,0,0>,1);\n		llOwnerSay(\"Setting up OsatiaAPI...\");\n		//Implement OsatiaAPI loading here. Probably will have to be written in C#\n	}\n	listen(integer channel, string name, key id, string msg)\n	{\n		if (msg == \"connect\" && channel = -1556)\n		{\n			computers = computers + id;\n			osMesageObject(id,\"confirmed\");\n		}\n		else if(msg == \"list\" && channel == 0)\n		{\n			llSay(0,llDumpList2String(computers,\",\"));\n		}\n	}\n}",
+					"file": "/home/nathan/Documents/LSL Scripts/Osatia OS/kernel.lsl",
+					"file_size": 779,
+					"file_write_time": 1394518231000000,
+					"settings":
+					{
+						"buffer_size": 821,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/opt/opensimulator-git/bin/OpenSim.ini",
+					"settings":
+					{
+						"buffer_size": 50622,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 341.0,
+				"selected_items":
+				[
+					[
+						"package",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"Script",
+					"Scripting",
+					"xengine"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/nathan/Documents/LSL Scripts/Osatia OS/kernel.lsl",
+							"settings":
+							{
+								"buffer_size": 821,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										408,
+										408
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/LSL/lsl.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 1082.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/opt/opensimulator-git/bin/OpenSim.ini",
+							"settings":
+							{
+								"buffer_size": 50622,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										42059,
+										42059
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 16066.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "0,0,0,0,0,265,40,1233,662,1366,768",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

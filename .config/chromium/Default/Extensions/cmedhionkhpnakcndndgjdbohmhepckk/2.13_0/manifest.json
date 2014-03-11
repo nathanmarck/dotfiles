@@ -1,0 +1,36 @@
+{
+   "background": {
+      "scripts": [ "scripts/background.js" ]
+   },
+   "content_scripts": [ {
+      "all_frames": false,
+      "css": [ "styles/block_ads.css" ],
+      "js": [ "scripts/contentscript.js" ],
+      "matches": [ "ftp://ThisScriptWillBeExecutedViaScript.com/" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com/ https://apis.google.com https://extensionanalytics.net; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_extension_description__",
+   "icons": {
+      "128": "images/icon-128.png",
+      "19": "images/icon-19.png",
+      "38": "images/icon-38.png",
+      "48": "images/icon-48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC/WmzFe8hcRH9QeTBEDo8cH/4IYaw4DpiYlK6lUlXUPmEX8kkFfugsFMjlqVqHJN44Vhhz0gEWpyxWDYMfMPaJo1lXVGp/PBkf22QjvSvfAeWTGzhCo9020ysg3FeEEztm7yK50qkSNCgqsdRSdZKgy8dqF6YSouJRcYB6y5CZhwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extension_name__",
+   "page_action": {
+      "default_icon": {
+         "19": "images/icon-19.png",
+         "38": "images/icon-32.png",
+         "48": "images/icon-48.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "__MSG_page_action_title__"
+   },
+   "permissions": [ "tabs", "idle", "webRequest", "webRequestBlocking", "webNavigation", "http://*/*", "https://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.13"
+}

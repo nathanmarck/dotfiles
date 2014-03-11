@@ -1,0 +1,5 @@
+T 1393922472 19*	Now talking on 22#osatia
+T 1393922472 22*	26morgan.freenode.net sets mode 24+n on 22#osatia
+T 1393922472 22*	26morgan.freenode.net sets mode 24+s on 22#osatia
+T 1393922472 22*	Channel 22#osatia modes: 24+ns
+T 1393922472 22*	Channel 22#osatia created on 24Tue Mar  4 08:39:37 2014

@@ -1,0 +1,44 @@
+{
+   "branding": {
+      "message": "Adblock de Youtube\u2122"
+   },
+   "disable": {
+      "message": "Desactivar"
+   },
+   "disabled": {
+      "message": "Desactivado"
+   },
+   "enable": {
+      "message": "Activar"
+   },
+   "enable_non_video_ads": {
+      "message": "Activado Normal Ads"
+   },
+   "enable_video_ads": {
+      "message": "Activado Video Ads"
+   },
+   "extension_description": {
+      "message": "Adblock: Bloquea la anuncios en v\u00EDdeos de YouTube\u2122."
+   },
+   "extension_name": {
+      "message": "Adblock de Youtube\u2122"
+   },
+   "extension_short_name": {
+      "message": "VideoAdblock"
+   },
+   "like_on_facebook": {
+      "message": "Coment\u00E1rio para Facebook"
+   },
+   "options": {
+      "message": "AdBlock for Youtube&trade; Configuraci\u00F3n"
+   },
+   "options_short": {
+      "message": "Configuraci\u00F3n"
+   },
+   "page_action_title": {
+      "message": "Los anuncios se saltan autom\u00E1ticamente."
+   },
+   "rate_this_extension": {
+      "message": "Coment\u00E1rio para Google"
+   }
+}

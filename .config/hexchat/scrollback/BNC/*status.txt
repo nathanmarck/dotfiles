@@ -1,0 +1,3 @@
+T 1393477304 18<*status>	Attempting to connect to [irc.freenode.net +7000] ...
+T 1393477304 18<*status>	Connected!
+T 1393494582 -18*status-	*** [GLOBAL] We have added a few rDNS records to Apple, enjoy them!

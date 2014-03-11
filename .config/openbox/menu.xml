@@ -1,0 +1,3 @@
+<openbox_menu xsi:schemaLocation="http://openbox.org/">
+	<menu id="root-menu" label="obmenu-generator" execute="/usr/bin/obmenu-generator -i -d"/>
+</openbox_menu>

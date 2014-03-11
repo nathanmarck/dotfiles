@@ -1,0 +1,515 @@
+T 1394474823 18*	Ari-Yang does some looking
+T 1394474836 18<Ari-Yang18>	haven't checked updates for over 3 months
+T 1394474888 18<Ari-Yang18>	AbortRetryFail: so it's in openmax right?
+T 1394474914 24*	Guest71294 has quit (Ping timeout: 264 seconds)
+T 1394474933 24*	peetaur has quit (Remote host closed the connection)
+T 1394474969 18<AbortRetryFail18>	I don't know what openmax is
+T 1394474992 18<AbortRetryFail18>	i was using mplayer's vdpau stuff and it worked.
+T 1394475036 23*	peetaur (~peter@x2f09eb6.dyn.telefonica.de23) has joined
+T 1394475041 18<Ari-Yang18>	It seems I failed to mention specifically 10bit
+T 1394475044 18<Ari-Yang18>	:F
+T 1394475051 18<Ari-Yang18>	10bit video decoding with vdpau uvd
+T 1394475056 18<AbortRetryFail18>	oh yeah, that. I don't think they've implemented it yet.
+T 1394475115 18<Ari-Yang18>	ah, K
+T 1394475117 18<Ari-Yang18>	:T
+T 1394475525 18<agd5f18>	Ari-Yang, vdpau doesn't have an interface to support 10 bit.  the API would need to be fixed first.  You can try it with openmax
+T 1394475534 23*	bu^ (~bla@2a01:e35:2ef5:3d10:a60:6eff:fe84:3b6923) has joined
+T 1394475571 18<Ari-Yang18>	agd5f: ah, kk
+T 1394475582 18<zgreg18>	rumor has it that 10-bit doesn't actually work correctly
+T 1394475590 18<zgreg18>	I have never tested this
+T 1394475607 18<AbortRetryFail18>	I've never even come across a 10-bit video file
+T 1394475618 18<aphirst18>	AbortRetryFail: you don't watch anime then?
+T 1394475624 18<zgreg18>	get basically any anime fansub
+T 1394475640 18<AbortRetryFail18>	I guess I don't
+T 1394475644 18<zgreg18>	they're all using 10-bit nowadays, as it can avoid some artefacts that are common with animated content
+T 1394475649 18<aphirst18>	^
+T 1394475654 18<zgreg18>	such as banding
+T 1394475666 18<aphirst18>	download basically anything from the most recent stuff on nyaa or something
+T 1394475673 18<AbortRetryFail18>	last one i watched was Puella Magi Madoka and it wasn't in 10-bit
+T 1394475712 18<aphirst18>	weird, that was one of the first hi10p things i ever stumbled across
+T 1394475726 18<aphirst18>	not sure which release group it was
+T 1394475728 23*	Akronym (mschmitt@unaffiliated/akronym23) has joined
+T 1394475771 18<Ari-Yang18>	more of my anime are 8bit.... I usually go for 8bit/8bit 720 instead of 10bit/10bit 720
+T 1394475814 18<Ari-Yang18>	I want to clean this laptop up, back everything up, and do a fresh ubuntu install
+T 1394475831 18<Ari-Yang18>	maybe 13.10, less stuff do deal with to get vdpau support
+T 1394475899 24*	peetaur has quit (Ping timeout: 240 seconds)
+T 1394476051 23*	SS3 (~SS3@82.Red-88-19-84.staticIP.rima-tde.net23) has joined
+T 1394476054 18<AbortRetryFail18>	i'm pretty happy with how easy it is on archlinux
+T 1394476080 18<Ari-Yang18>	on ubuntu 13.10 you just need the libg3dvl package I think
+T 1394476093 18<AbortRetryFail18>	most things are pretty up to date and for the things that aren't, there's things like the mesa-git repo and building your own packages is a piece of cake
+T 1394476176 18<Ari-Yang18>	mmhmm... oibaf's ppa for ubuntu
+T 1394476214 18<AbortRetryFail18>	i don't like doing "forklift" upgrades
+T 1394476231 18<AbortRetryFail18>	my girlfriend's Mint box is stuck on old versions b/c i don't want to deal with a reinstall :P
+T 1394476301 18<Ari-Yang18>	you mean oibaf's ppa? if things don't work out all you need to do is ppa purge
+T 1394476327 18<Ari-Yang18>	makes everything go back to da defaultz
+T 1394476347 18<AbortRetryFail18>	no, i mean Ubuntu's release cycle
+T 1394476404 18<Ari-Yang18>	so you wouldn't get 13.10 for e.g. but get 14.04 lts?
+T 1394476441 18<AbortRetryFail18>	which isn't out yet
+T 1394476454 18<Ari-Yang18>	*nod*
+T 1394476458 18<Ari-Yang18>	tbh
+T 1394476501 18<Ari-Yang18>	I think I'd install 12.04 instead of 13.10.... I like the idea of LTS. dunt care if it isn't advised to go for bleeding edge (uvd vdpau) stuff on LTS :I
+T 1394476514 18<AbortRetryFail18>	except that obiaf's ppa doesn't support 12.04
+T 1394476524 18<Ari-Yang18>	yeah, somebody else supports it though
+T 1394476539 18<AbortRetryFail18>	lol great
+T 1394476549 18<tstellar_18>	olesalscheider_: Your DMA upload patch introduced a segfault in OpenCL programs, which your " r600: compute memory pool size is given in dw" fixes.  However, even with this patch most of the opencv tests fail on evergreen.
+T 1394476553 18<Ari-Yang18>	I forget who
+T 1394476559 18*	AbortRetryFail shrugs 
+T 1394476568 18<AbortRetryFail18>	either way i don't want to have to do a whole system update every year or less
+T 1394476649 18<AbortRetryFail18>	smaller updates more often means there's less things to fix if something breaks. If all of a sudden some app doesn't work after i go from 12.04 -> 14.04, there's a mile long list of things that have changed to go through to find out how it broke
+T 1394476715 18<Ari-Yang18>	AbortRetryFail: https://launchpad.net/~pali/+archive/graphics-drivers
+T 1394476739 18<Ari-Yang18>	http://www.phoronix.com/forums/showthread.php?50038-Updated-and-Optimized-Ubuntu-Free-Graphics-Drivers&p=375149#post375149
+T 1394476743 18<Ari-Yang18>	him linking to it
+T 1394476782 18<Ari-Yang18>	not sure how update to date it is
+T 1394476798 18<Ari-Yang18>	like what latest commit uses
+T 1394476869 18<AbortRetryFail18>	I'll try that on her computer when i get home.
+T 1394476892 18<Ari-Yang18>	AbortRetryFail: nice, let me know how it works out~
+T 1394476904 18<Ari-Yang18>	ah, ubuntu 12.04.4 uses kernel 3.11, nice
+T 1394476920 18<Ari-Yang18>	though I think I'd still upgrade to 13.12 or .13 or whatever :b
+T 1394476920 18<AbortRetryFail18>	i've gotta figure out which version of mint it had and which version of ubuntu that uses packages from
+T 1394476939 18<AbortRetryFail18>	all in all i think its kind of a pain for being something that's supposed to be simple for less technical folks.
+T 1394476968 18<Ari-Yang18>	:I
+T 1394477126 23*	peetaur (~peter@x2f09eb6.dyn.telefonica.de23) has joined
+T 1394477784 24*	28peetaur is now known as 18Guest94364
+T 1394477784 24*	Guest94364 has quit (Killed (sendak.freenode.net (Nickname regained by services)))
+T 1394477785 23*	peetaur (~peter@x2f09eb6.dyn.telefonica.de23) has joined
+T 1394477969 24*	Xeno_PL has quit (Ping timeout: 240 seconds)
+T 1394478488 24*	ROKO__ has quit (Quit: Calculate Linux Desktop GNOME 11.12)
+T 1394478504 24*	skrock has quit (Ping timeout: 240 seconds)
+T 1394478575 24*	PsyMan` has quit ()
+T 1394478658 18<olesalscheider_18>	tstellar_: Did you also apply Marek's "r600g,radeonsi: fix broken buffer download"? This fixes a bug introduced by me
+T 1394478682 23*	ROKO__ (roko__@151.252.207.2323) has joined
+T 1394478682 24*	ROKO__ has quit (Changing host)
+T 1394478682 23*	ROKO__ (roko__@unaffiliated/roko--/x-755723323) has joined
+T 1394478720 18<tstellar_18>	olesalscheider_: No, I just have is 'use fallback in dma_copy' patch.
+T 1394478832 18<olesalscheider_18>	tstellar_: Ok, you should try the other one, too. But I can try to run the opencv tests myself if that does not help
+T 1394478978 18<tstellar_18>	olesalscheider_: They appear to be fixed now.  Your patch has my r-b, do you have commit access?
+T 1394478995 18<olesalscheider_18>	tstellar_: No, I don't.
+T 1394479003 18<tstellar_18>	olesalscheider_: Ok, I'll commit it.
+T 1394479010 18<olesalscheider_18>	tstellar_: Thanks
+T 1394479194 24*	Noxbru (~noxbru@2001:720:1814:d:725a:b6ff:fed6:6f4424) has left
+T 1394479273 23*	skrock (~martin@c-5a7170d5.024-74-736b7610.cust.bredbandsbolaget.se23) has joined
+T 1394479284 18<ArtForzZz18>	hmm.
+T 1394479290 24*	28ArtForzZz is now known as 18ArtForz
+T 1394479555 24*	peetaur has quit (Killed (dickson.freenode.net (Nickname regained by services)))
+T 1394479556 23*	peetaur (~peter@x2f09eb6.dyn.telefonica.de23) has joined
+T 1394479608 18<ArtForz18>	well, more things excluded. CG_DISPLAY_GAP_CNTL, SMC state tables and SMC message order are identical between the start-with-2-displays and start-with-1-display-switch-to-2-displays cases ... time to break out radeontool.
+T 1394479954 18<ArtForz18>	though I start to suspect there won't be anything useful there either.
+T 1394480274 18<ArtForz18>	(well, other than confirming that the smc is stuck and isn't setting sclk/mclk registers in the asic)
+T 1394480535 23*	Xeno_PL (~Xeno@159-205-131-140.adsl.inetia.pl23) has joined
+T 1394481277 24*	benh_ has quit (Quit: Ex-Chat)
+T 1394481371 23*	gedonist (~gedonist@62.122.73.12223) has joined
+T 1394481512 24*	jrmuizel has quit (Remote host closed the connection)
+T 1394481517 24*	SS3 has quit (Ping timeout: 265 seconds)
+T 1394481520 24*	arsson has quit (Remote host closed the connection)
+T 1394481552 23*	jrmuizel (~jrmuizel@66.207.208.10223) has joined
+T 1394481570 24*	maelcum has quit (Quit: Konversation terminated!)
+T 1394481653 23*	wsnipex (~wuff@xbmc/staff/wsnipex23) has joined
+T 1394481683 23*	arsson (~ari@cs181007051.pp.htv.fi23) has joined
+T 1394481717 24*	jackneill has quit (Remote host closed the connection)
+T 1394481809 24*	jrmuizel has quit (Read error: Connection reset by peer)
+T 1394481813 23*	jrmuizel_ (~jrmuizel@66.207.208.10223) has joined
+T 1394482362 18<mareko18>	there's a bug in my 'use fallback in dma_copy' patch, so don't freak out if some GL piglit tests start to fail :)
+T 1394482402 18<mareko18>	olesalscheider_: did you benchmark if there is any difference between dma_copy and resource_copy_region?
+T 1394482425 24*	diegoviola has quit (Quit: WeeChat 0.4.3)
+T 1394482480 23*	Daekdroom (~Daekdroom@unaffiliated/daekdroom23) has joined
+T 1394482589 23*	jrmuizel (~jrmuizel@66.207.208.10223) has joined
+T 1394482589 24*	jrmuizel_ has quit (Read error: Connection reset by peer)
+T 1394482608 18<tstellar_18>	mareko: What about the 'fix broken upload' ? Is that safe to push?
+T 1394482655 18<mareko18>	yeah, but it won't apply
+T 1394482660 18<mareko18>	without the dma_copy patch
+T 1394482877 18<nanonyme18>	mareko, is it a "I know it's broken and know how to fix it" or "I know it's broken and I'm really confused" kind of a bug? :)
+T 1394482956 24*	28iqualfragile is now known as 18Schwefel
+T 1394483213 24*	gedonist has quit (Remote host closed the connection)
+T 1394483314 24*	sylware has quit (Remote host closed the connection)
+T 1394483397 24*	28Schwefel is now known as 18Cholera
+T 1394483448 24*	28Cholera is now known as 18iqualfragile
+T 1394483454 24*	28iqualfragile is now known as 18Iqualfragile
+T 1394483831 24*	wsnipex has quit (Read error: No route to host)
+T 1394483967 24*	peetaur has quit (Quit: Konversation terminated!)
+T 1394484164 23*	lordheavy_ (~lordh@archlinux/developer/lordheavy23) has joined
+T 1394484168 24*	lordheavy has quit (Ping timeout: 240 seconds)
+T 1394484169 24*	28lordheavy_ is now known as 18lordheavy
+T 1394484186 23*	Obscene_CNN_ (~chatzilla@207-254-33-78.amerion.net23) has joined
+T 1394484210 24*	Obscene_CNN has quit (Read error: Connection reset by peer)
+T 1394484255 24*	28Obscene_CNN_ is now known as 18Obscene_CNN
+T 1394484293 23*	__prefect (~prefect@koln-4d0dde91.pool.mediaWays.net23) has joined
+T 1394484479 23*	jrmuizel_ (~jrmuizel@66.207.208.10223) has joined
+T 1394484567 23*	peetaur (~peter@x2f09eb6.dyn.telefonica.de23) has joined
+T 1394484620 24*	__prefect has quit (Ping timeout: 265 seconds)
+T 1394484670 24*	jrmuizel has quit (Ping timeout: 264 seconds)
+T 1394484681 24*	peetaur (~peter@x2f09eb6.dyn.telefonica.de24) has left
+T 1394485001 24*	lemonzest has quit (Quit: Leaving)
+T 1394485063 18<olesalscheider_18>	mareko: No, I did not but I can do if you want
+T 1394485259 24*	joedoe- has quit (Ping timeout: 240 seconds)
+T 1394485700 24*	olesalscheider_ has quit (Quit: Konversation terminated!)
+T 1394485781 23*	olesalscheider (~olesalsch@2001:4dd0:ff00:835c:94f3:e7a6:f7aa:681e23) has joined
+T 1394485866 24*	arsson has quit (Remote host closed the connection)
+T 1394485981 18<olesalscheider18>	mareko: It is maybe 50 MB/s slower on average with uCLbench...
+T 1394486081 18<olesalscheider18>	Interestingly, the download bandwidth drops to about 1400 MB/s after a suspend / resume cycle for both, the fallback and dma_copy
+T 1394486166 24*	bu^ has quit (Quit: Leaving)
+T 1394486181 23*	maelcum (~horst@p5DDC1254.dip0.t-ipconnect.de23) has joined
+T 1394486210 23*	polyzen (~poly@unaffiliated/polyzen23) has joined
+T 1394486328 18<spstarr18>	MrCooper: oh, the non-optimized Glamor in Rawhide vs the work being done in Xorg directly
+T 1394486491 24*	tholin_ has quit ()
+T 1394486533 24*	Obscene_CNN has quit (Read error: Connection reset by peer)
+T 1394486592 23*	tholin (~tholin@c-56cce455.04-302-6c6b701.cust.bredbandsbolaget.se23) has joined
+T 1394486766 23*	arsson (~ari@cs181007051.pp.htv.fi23) has joined
+T 1394486855 23*	Obscene_CNN (~chatzilla@207-254-33-78.amerion.net23) has joined
+T 1394487336 24*	mgottschlag has quit (Ping timeout: 240 seconds)
+T 1394487498 24*	Xeno_PL has quit (Ping timeout: 240 seconds)
+T 1394487605 24*	jrmuizel_ has quit (Remote host closed the connection)
+T 1394487943 23*	jrmuizel (~jrmuizel@66.207.208.10223) has joined
+T 1394488419 23*	benh (~benh@ibmaus65.lnk.telstra.net23) has joined
+T 1394489140 23*	Noxbru (~noxbru@46.27.199.2123) has joined
+T 1394489486 23*	boombatower (~boombatow@drupal.org/user/214218/view23) has joined
+T 1394489664 24*	boris64 has quit (Ping timeout: 240 seconds)
+T 1394489758 24*	n1s has quit (Quit: Ex-Chat)
+T 1394490127 24*	arsson has quit (Quit: Lähdössä)
+T 1394490278 23*	diegovio1 (~diego@unaffiliated/diegoviola23) has joined
+T 1394490391 24*	Archon_ has quit (Ping timeout: 244 seconds)
+T 1394490439 24*	28diegovio1 is now known as 18diegoviola
+T 1394490546 24*	olesalscheider has quit (Ping timeout: 244 seconds)
+T 1394490854 24*	G`Kar has quit (Remote host closed the connection)
+T 1394490880 23*	G`Kar (~gkar@c-71-193-11-115.hsd1.ca.comcast.net23) has joined
+T 1394491043 24*	bonbons has quit (Quit: Leaving)
+T 1394491580 24*	diegoviola has quit (Remote host closed the connection)
+T 1394491700 23*	diegoviola (~diego@unaffiliated/diegoviola23) has joined
+T 1394491866 18<mareko18>	nanonyme: what do you mean?
+T 1394492623 24*	soreau has quit (Ping timeout: 244 seconds)
+T 1394492900 24*	gsedej_work has quit (Read error: Operation timed out)
+T 1394493435 23*	soreau (~soreau@unaffiliated/soreau23) has joined
+T 1394493702 24*	Black_Prince has quit (Remote host closed the connection)
+T 1394493890 24*	Daekdroom has quit (Quit: Saindo)
+T 1394494039 24*	vadimg has quit (Quit: vadimg)
+T 1394494049 23*	gsedej_work (~gasper@seraph.uni-mb.si23) has joined
+T 1394494398 23*	Daekdroom (~Daekdroom@unaffiliated/daekdroom23) has joined
+T 1394494404 23*	SS3 (~SS3@82.Red-88-19-84.staticIP.rima-tde.net23) has joined
+T 1394494418 24*	Wagoo has quit (Ping timeout: 240 seconds)
+T 1394494481 24*	diegoviola has quit (Quit: WeeChat 0.4.3)
+T 1394494697 23*	Wagoo (~wagoo@171-100.203-62.cust.bluewin.ch23) has joined
+T 1394495027 24*	maelcum has quit (Quit: Konversation terminated!)
+T 1394495116 24*	Noxbru (~noxbru@46.27.199.2124) has left
+T 1394495765 23*	diegoviola (~diego@unaffiliated/diegoviola23) has joined
+T 1394496048 24*	darkbasic_ has quit (Ping timeout: 240 seconds)
+T 1394496151 23*	darkbasic (~quassel@niko.linuxsystems.it23) has joined
+T 1394496299 24*	jarkko_ has quit (Remote host closed the connection)
+T 1394496570 23*	maximi89 (~maximi89@unaffiliated/maximi8923) has joined
+T 1394497063 24*	SS3 has quit (Quit: "")
+T 1394497439 24*	tholin has quit (Ping timeout: 240 seconds)
+T 1394497765 24*	jrmuizel has quit (Remote host closed the connection)
+T 1394497798 23*	jrmuizel (~jrmuizel@66.207.208.10223) has joined
+T 1394497957 24*	polyzen has quit (Quit: polyzen)
+T 1394498076 24*	jrmuizel has quit (Ping timeout: 265 seconds)
+T 1394498451 24*	Iqualfragile has quit (Ping timeout: 244 seconds)
+T 1394498721 24*	fredrikh has quit (Quit: bbl)
+T 1394499106 24*	stringfellow has quit (Ping timeout: 264 seconds)
+T 1394499459 23*	jrmuizel (~jrmuizel@184.175.28.13723) has joined
+T 1394499822 24*	xming has quit (Ping timeout: 245 seconds)
+T 1394499919 23*	stringfellow (~stringfel@foghorn.codeweavers.com23) has joined
+T 1394500048 23*	xming (~xming@2001:6f8:395:1:216:3eff:fe00:80123) has joined
+T 1394500404 24*	danvet has quit (Ping timeout: 244 seconds)
+T 1394500688 24*	benh has quit (Quit: Ex-Chat)
+T 1394500711 23*	shadowbane (~dan@emcnair-225-177.resnet.mtu.edu23) has joined
+T 1394501167 24*	klondike has quit (Read error: Connection reset by peer)
+T 1394501202 23*	klondike (~klondike@gentoo/developer/klondike23) has joined
+T 1394501685 24*	rak_adam has quit (Quit: Konversation terminated!)
+T 1394501790 24*	jrmuizel has quit (Remote host closed the connection)
+T 1394501834 23*	jrmuizel (~jrmuizel@184.175.28.13723) has joined
+T 1394502181 24*	coolacid has quit (Remote host closed the connection)
+T 1394502912 23*	coolacid (~CoolAcid@unaffiliated/coolacid23) has joined
+T 1394503044 24*	Daekdroom has quit (Quit: Saindo)
+T 1394503442 24*	marcheu has quit (Ping timeout: 265 seconds)
+T 1394503449 23*	marcheu (~marcheu@annarchy.freedesktop.org23) has joined
+T 1394503599 24*	coolacid has quit (Remote host closed the connection)
+T 1394503786 24*	egbert has quit (Ping timeout: 264 seconds)
+T 1394503869 23*	egbert (~eich@p5DDCD6F9.dip0.t-ipconnect.de23) has joined
+T 1394503978 23*	coolacid (~CoolAcid@unaffiliated/coolacid23) has joined
+T 1394503992 24*	zanny has quit (Ping timeout: 240 seconds)
+T 1394504402 24*	rostam has quit (Remote host closed the connection)
+T 1394504646 23*	rostam (~zartoosh@nat/cisco/x-ovzlmofxscwxxazn23) has joined
+T 1394504877 24*	xsacha has quit (Remote host closed the connection)
+T 1394505092 23*	xsacha (~quassel@124-148-61-242.dyn.iinet.net.au23) has joined
+T 1394505264 24*	darkbasic has quit (Remote host closed the connection)
+T 1394505308 23*	darkbasic (~quassel@niko.linuxsystems.it23) has joined
+T 1394505898 24*	aphirst has quit (Remote host closed the connection)
+T 1394505962 24*	iive has quit (Quit: They came for me...)
+T 1394506097 23*	Black_Prince (~Krejzi@unaffiliated/blackprince23) has joined
+T 1394506458 24*	arsenm has quit (Quit: Leaving.)
+T 1394506974 24*	coolacid has quit (Remote host closed the connection)
+T 1394507009 24*	tilman has quit (Ping timeout: 240 seconds)
+T 1394507145 23*	tilman (~tilman@xmms2/developer/tilman23) has joined
+T 1394507270 23*	coolacid (~CoolAcid@unaffiliated/coolacid23) has joined
+T 1394508137 23*	fibred-dolio (~dolio@gw1.mcgraw-hill.com23) has joined
+T 1394508241 24*	pseudolio has quit (Ping timeout: 240 seconds)
+T 1394510737 24*	NuSuey has quit (Ping timeout: 240 seconds)
+T 1394510756 23*	NuSuey (uid3556@gateway/web/irccloud.com/x-nrtrmyunenbesvqv23) has joined
+T 1394510863 18<ArtForz18>	I think I figured out a decent part of why the evergreen dpm issues are iffy to reproduce
+T 1394510907 18<ArtForz18>	it not only depends on # of active displays, but also on resolution
+T 1394510921 24*	eki has quit (Ping timeout: 252 seconds)
+T 1394510935 23*	eki (~eki@cs165177.pp.htv.fi23) has joined
+T 1394511079 18<ArtForz18>	1280x960 is ok, 1680x1050 refuses to switch power levels
+T 1394511292 24*	mjevans (~mje@209.141.34.7924) has left
+T 1394511307 24*	darkwhite has quit (Quit: Lost terminal)
+T 1394511314 23*	darkwhite (~darkwhite@059148074080.ctinets.com23) has joined
+T 1394511315 24*	darkwhite has quit (Changing host)
+T 1394511315 23*	darkwhite (~darkwhite@fedora/darkwhite23) has joined
+T 1394511347 24*	darkwhite has quit (Read error: Connection reset by peer)
+T 1394511543 23*	JohnDoe_71Rus (~Miranda@unaffiliated/johndoe-71rus/x-417022723) has joined
+T 1394511609 23*	polyzen (~poly@unaffiliated/polyzen23) has joined
+T 1394511800 23*	darkwhite (~darkwhite@059148074080.ctinets.com23) has joined
+T 1394511812 24*	darkwhite has quit (Changing host)
+T 1394511812 23*	darkwhite (~darkwhite@fedora/darkwhite23) has joined
+T 1394511931 23*	ArtForzZz (foobar@p5DC775F1.dip0.t-ipconnect.de23) has joined
+T 1394512096 24*	Black_Prince has quit (Remote host closed the connection)
+T 1394512144 24*	ArtForz has quit (Ping timeout: 260 seconds)
+T 1394512217 24*	MichaelLong has quit (Remote host closed the connection)
+T 1394512281 23*	MichaelLong (~ML@p54907EF1.dip0.t-ipconnect.de23) has joined
+T 1394512450 24*	maximi89 has quit (Ping timeout: 252 seconds)
+T 1394512615 24*	Droste has quit (Ping timeout: 252 seconds)
+T 1394512997 23*	benh (~benh@121.127.210.18923) has joined
+T 1394513041 24*	Ari-Yang has quit (Ping timeout: 265 seconds)
+T 1394513654 23*	Droste (~droste@p4FE0EC08.dip0.t-ipconnect.de23) has joined
+T 1394514544 18<ArtForzZz18>	seems to be pixel clock or vblank interval
+T 1394514619 18<_|x|_18>	ArtForzZz, since youre up, can i pm?
+T 1394514629 18<ArtForzZz18>	sure
+T 1394514839 18<glisse18>	ArtForzZz: #display + resolution -> memory bandwidth requirement -> minimum memory/gpu clock which might imply lower power level are not accessible
+T 1394514843 18<glisse18>	so it is all logic
+T 1394514908 18<ArtForzZz18>	yeah, I'm also thinking memory bandwidth / memory idle time
+T 1394514998 18<glisse18>	you can easily approximate bandwidth requirement from #display and resolution and you can estimate bandwidth from memory clock and bus width
+T 1394515163 18<ArtForzZz18>	true. though I suspect that still is a very small fraction of available bandwidth
+T 1394516577 18<ArtForzZz18>	gut feeling says it'll be something quite trivial once found
+T 1394517784 24*	boombatower has quit (Quit: Konversation terminated!)
+T 1394517859 24*	jrmuizel has quit (Remote host closed the connection)
+T 1394517901 23*	boris64 (~boris64@2a02:8108:82c0:158:21f:c6ff:fe03:f0e123) has joined
+T 1394518093 23*	Xeno_PL (~Xeno@159-205-131-140.adsl.inetia.pl23) has joined
+T 1394518207 23*	jrmuizel (~jrmuizel@184.175.28.13723) has joined
+T 1394518579 24*	taiu has quit (Quit: Leaving.)
+T 1394518783 18<MrCooper18>	ArtForzZz: IIRC memory clocks aren't changed if the vertical blank interval is too short to do it without visual glitches
+T 1394518833 23*	jarkko_ (~quassel@85-76-33-242-nat.elisa-mobile.fi23) has joined
+T 1394518908 18<ArtForzZz18>	hmm
+T 1394518927 18<ArtForzZz18>	yeah, but this seems to be something different
+T 1394518957 18<ArtForzZz18>	108MHz pixel clock with 50 lines of vblank period works. 110MHz pixel clock with 100 lines of vblank period gets stuck.
+T 1394519030 18<ArtForzZz18>	still have to try 3 displays and check if the "trigger point" moves
+T 1394519263 24*	diegoviola has quit (Remote host closed the connection)
+T 1394519653 18<ArtForzZz18>	it does
+T 1394520852 24*	jrmuizel has quit (Remote host closed the connection)
+T 1394520855 24*	ROKO__ has quit (Quit: Calculate Linux Desktop GNOME 11.12)
+T 1394520858 24*	boris64 has quit ()
+T 1394520892 23*	jrmuizel (~jrmuizel@184-175-28-137.cable.teksavvy.com23) has joined
+T 1394521139 24*	jrmuizel has quit (Ping timeout: 240 seconds)
+T 1394521597 23*	sassmann_ (~sassmann@ppp-212-114-183-23.dynamic.mnet-online.de23) has joined
+T 1394521646 24*	J0k3r has quit (Ping timeout: 252 seconds)
+T 1394521711 23*	__prefect (~prefect@koln-5d817d12.pool.mediaWays.net23) has joined
+T 1394521871 23*	J0k3r (~sysrq@unaffiliated/proximacentauri123) has joined
+T 1394521891 23*	arsenm (~Matt@c-98-207-84-56.hsd1.ca.comcast.net23) has joined
+T 1394522495 23*	taiu (~andrem@88.196.5.8223) has joined
+T 1394522671 24*	__prefect has quit (Read error: Operation timed out)
+T 1394522678 23*	olesalscheider (~olesalsch@2001:4dd0:ff00:835c:94f3:e7a6:f7aa:681e23) has joined
+T 1394522683 24*	polyzen has quit (Quit: polyzen)
+T 1394522824 23*	joedoe- (~diesirae@oceanic.wsisiz.edu.pl23) has joined
+T 1394523134 24*	ssp_ has quit (Read error: Connection reset by peer)
+T 1394523160 23*	ssp_ (~ssp@c-50-177-28-37.hsd1.ma.comcast.net23) has joined
+T 1394523280 24*	bitlord has quit (Quit: bitlord)
+T 1394524022 23*	Archon_ (~archon@dsl-jklbrasgw2-50dcfe-140.dhcp.inet.fi23) has joined
+T 1394524883 19*	Now talking on 22#radeon
+T 1394524883 22*	Topic for 22#radeon is: [logged] Support and development for open-source ATI driver - for fglrx use #ati - http://wiki.x.org/wiki/radeonBuildHowTo
+T 1394524883 22*	Topic for 22#radeon set by 26airlied!airlied@fruit.freedesktop.org (24Sun Apr 29 12:27:57 2012)
+T 1394525324 24*	gsedej_work has quit (Ping timeout: 252 seconds)
+T 1394526228 24*	ArtForzZz has quit (Ping timeout: 260 seconds)
+T 1394526258 23*	olesalscheider (~nsalsche@192.55.54.4023) has joined
+T 1394526926 23*	wsnipex (~wuff@xbmc/staff/wsnipex23) has joined
+T 1394527483 23*	arsson (~ari@cs181007051.pp.htv.fi23) has joined
+T 1394527718 24*	jarkko_ has quit (Read error: Connection reset by peer)
+T 1394527758 23*	zwerg (~quassel@intern.meeva.de23) has joined
+T 1394528134 24*	newbie999 has quit (Read error: Connection reset by peer)
+T 1394528156 23*	newbie999 (~me@unaffiliated/newbie99923) has joined
+T 1394528900 23*	Noxbru (~noxbru@2001:720:1814:d:725a:b6ff:fed6:6f4423) has joined
+T 1394529049 24*	xming has quit (Changing host)
+T 1394529050 23*	xming (~xming@gentoo/user/xming23) has joined
+T 1394529682 23*	gsedej_work (~gasper@seraph.uni-mb.si23) has joined
+T 1394529725 23*	fredrikh (~fredrik@kde/fredrik23) has joined
+T 1394530352 23*	ArtForz (foobar@p5B09F677.dip0.t-ipconnect.de23) has joined
+T 1394530909 23*	danvet (~daniel@84-73-67-144.dclient.hispeed.ch23) has joined
+T 1394531498 24*	ssp_ has quit (Ping timeout: 240 seconds)
+T 1394531532 24*	darkbasic has quit (Quit: No Ping reply in 180 seconds.)
+T 1394531550 23*	darkbasic (~quassel@niko.linuxsystems.it23) has joined
+T 1394532032 24*	arsson has quit (Remote host closed the connection)
+T 1394532433 23*	lemonzest (~lemonzest@unaffiliated/lemonzest23) has joined
+T 1394532983 23*	jarkko_ (~quassel@85-76-160-74-nat.elisa-mobile.fi23) has joined
+T 1394533156 23*	tholin (~tholin@c-76c0e455.04-302-6c6b701.cust.bredbandsbolaget.se23) has joined
+T 1394533301 23*	SS3 (~SS3@82.Red-88-19-84.staticIP.rima-tde.net23) has joined
+T 1394533342 18<ArtForz18>	interesting, a barts exhibits pretty much identical behavior
+T 1394533752 18<ArtForz18>	time to try tahiti and bonaire
+T 1394533841 18<spreeuw18>	displayport 1.2 capability, is this also determined by the gpu?
+T 1394533847 24*	benh has quit (Quit: Ex-Chat)
+T 1394533850 18<spreeuw18>	or just the circuitry on the implementation?
+T 1394533874 18<spreeuw18>	because it looks like only the R2XX series has it
+T 1394533874 18<ArtForz18>	pretty sure gpu
+T 1394533877 18<nanonyme18>	mareko, never mind, was trying to make a joke
+T 1394533905 18<spreeuw18>	how is mesa progressing for R250 and up?
+T 1394533918 18<ArtForz18>	iirc older chips also can do dp1.2 (anything dce5 or newer?)
+T 1394533944 18<spreeuw18>	they dont really advertise with it
+T 1394533983 18<spreeuw18>	you know the brand XFX?
+T 1394533985 18<ArtForz18>	not sure about turks/barts/caicos, but cayman aka 69xx should theoretically have DP1.2 support
+T 1394533994 18<ArtForz18>	and pretty much naything after it
+T 1394533997 18<spreeuw18>	they have some cool industrial looking passivly cooled
+T 1394534022 18<ArtForz18>	one big gotcha: radeon doesn't support DP1.2 MST at all (yet)
+T 1394534032 18<spreeuw18>	what?
+T 1394534038 18<spreeuw18>	MST is the 4k thing?
+T 1394534061 18<ArtForz18>	yeah, 4k@60 or the neat MST 1-to-3 hubs
+T 1394534081 18<spreeuw18>	is this just for 3D @4k
+T 1394534085 18<spreeuw18>	or 4k at all?
+T 1394534095 18<spreeuw18>	because people said it should work now
+T 1394534111 18<spreeuw18>	or is just 30hz @4k working?
+T 1394534120 18<spreeuw18>	thats shite ;d
+T 1394534122 18<ArtForz18>	30hz should work
+T 1394534131 18<spreeuw18>	kernel got 4k support since 3.12
+T 1394534137 18<spreeuw18>	old news posts suggest
+T 1394534140 18<ArtForz18>	from what I read for 60Hz all current DP1.2 4k screens use MST and show up as 2 1920x2160 displays behind a MST hub
+T 1394534165 18<spreeuw18>	ah so mst is a new standard for hubbing displays
+T 1394534175 18<ArtForz18>	well, "new"
+T 1394534179 18<spreeuw18>	that will make things flexible eventually
+T 1394534190 18<spreeuw18>	I remmeebr these crazy Matrox USB cards too
+T 1394534226 18<spreeuw18>	USB videocards set them up on windows once
+T 1394534234 18<ArtForz18>	yeah, I think a big issue is how to shoehorn that into the drm CRTC/connector model
+T 1394534269 18<spreeuw18>	3D on multiple monitors works now right?
+T 1394534313 18<ArtForz18>	tbh, no idea
+T 1394534317 18<spreeuw18>	http://ic.tweakimg.net/ext/i/1383548875.jpeg
+T 1394534326 18<spreeuw18>	Radeon R7 250
+T 1394534337 18<spreeuw18>	no longer on their website now
+T 1394534338 18<ArtForz18>	I'm happy to have working UVD and be able to play KSP and MC without crashing...
+T 1394534359 18<spreeuw18>	yeah I'm goign to postpone 4K display for now
+T 1394534364 18<spreeuw18>	till my current one breaks
+T 1394534402 18<spreeuw18>	17759 hours in use
+T 1394534407 18<spreeuw18>	says osd :D
+T 1394534410 18<ArtForz18>	I've been tempted to get a 4k display, but... meh.
+T 1394534456 18<spreeuw18>	wait for second generation
+T 1394534462 18<ArtForz18>	aye
+T 1394534477 18<ArtForz18>	all the current cheap-ish ones appear to be 30Hz only
+T 1394534487 18<spreeuw18>	or TN
+T 1394534490 18<ArtForz18>	only exception is that $1k 24" dell
+T 1394534508 18<spreeuw18>	my favourite is the 32" dell
+T 1394534510 18<spreeuw18>	for now
+T 1394534520 18<ArtForz18>	yeah, but $2k is a bit too rich for my taste
+T 1394534522 18<spreeuw18>	but thats 2200 euro
+T 1394534551 18<ArtForz18>	and I don't need 10 bit nor adobergb color space
+T 1394534688 18<ArtForz18>	yeah, kinda steep
+T 1394534747 18<ArtForz18>	hmmm, I guess I could live with TN
+T 1394534800 18<ArtForz18>	reviews say the samsung 28" can do 3840x2160@60 over DP...
+T 1394534870 18<ArtForz18>	620-ish eur, only a TN panel but... meh.
+T 1394534921 18<ArtForz18>	and it's a paper relase, earliest availability looks like mid-april :/
+T 1394534930 18<ArtForz18>	*release
+T 1394535062 24*	sannes has quit (Ping timeout: 244 seconds)
+T 1394535699 18<ArtForz18>	tahiti appears to work properly (well, other than the complete lack of acceleration without glamor...)
+T 1394536013 24*	JohnDoe_71Rus has quit (Read error: Connection reset by peer)
+T 1394536034 23*	JohnDoe_71Rus (~Miranda@unaffiliated/johndoe-71rus/x-417022723) has joined
+T 1394536043 24*	JohnDoe_71Rus has quit (Read error: Connection reset by peer)
+T 1394536045 23*	vadimg (~vadimg@95.106.227.5323) has joined
+T 1394536100 23*	JohnDoe_71Rus (~Miranda@unaffiliated/johndoe-71rus/x-417022723) has joined
+T 1394536114 24*	JohnDoe_71Rus has quit (Client Quit)
+T 1394536127 23*	JohnDoe_71Rus (~Miranda@unaffiliated/johndoe-71rus/x-417022723) has joined
+T 1394536357 24*	amarsh04 has quit (Remote host closed the connection)
+T 1394536788 23*	jackneill (~jackneill@62-165-219-51.pool.digikabel.hu23) has joined
+T 1394536788 24*	jackneill has quit (Changing host)
+T 1394536788 23*	jackneill (~jackneill@unaffiliated/jackneill23) has joined
+T 1394536805 23*	amarsh04 (~amarsh04@2001:44b8:61::d23) has joined
+T 1394536859 23*	benh (~benh@121.127.210.18923) has joined
+T 1394537099 23*	zwerg_ (~quassel@intern.meeva.de23) has joined
+T 1394537145 23*	sylware (~sylware@spybox.legeek.net23) has joined
+T 1394537160 24*	zwerg has quit (Ping timeout: 240 seconds)
+T 1394537728 24*	Xeno_PL has quit (Ping timeout: 244 seconds)
+T 1394538739 23*	Xeno_PL (~Xeno@public-gprs514675.centertel.pl23) has joined
+T 1394538868 23*	polyzen (~poly@unaffiliated/polyzen23) has joined
+T 1394538912 24*	froggey has quit (Ping timeout: 260 seconds)
+T 1394539163 24*	polyzen has quit (Quit: polyzen)
+T 1394539284 24*	zwerg_ has quit (Read error: Connection reset by peer)
+T 1394539359 23*	sannes (~ace@2a02:fe0:c120:be90:224:1dff:fe14:d2423) has joined
+T 1394539373 23*	zwerg (~quassel@intern.meeva.de23) has joined
+T 1394539692 24*	ircuser-1 has quit (Ping timeout: 240 seconds)
+T 1394539769 23*	Ari-Yang (~GCT@c-50-152-69-68.hsd1.pa.comcast.net23) has joined
+T 1394539773 24*	Ari-Yang has quit (Changing host)
+T 1394539773 23*	Ari-Yang (~GCT@unaffiliated/bushido23) has joined
+T 1394539811 23*	zanny (~zanny@64.9.43.923) has joined
+T 1394540328 18<tstellar_18>	vadimg: I've been able to reproduce the problem with render-nodes.  After disconnecting the DVI on my verde, I can no longer open render nodes.  This is with the fedora 3.13.3 kernel.
+T 1394540383 18<tstellar_18>	vadimg: I can't open /dev/dri/card0 either.
+T 1394540387 23*	rak_adam (~rak_adam@46.246.47.15623) has joined
+T 1394540416 18<tstellar_18>	vadimg: I do have this in my dmesg:  pci_pm_runtime_suspend(): radeon_pmops_runtime_suspend+0x0/0xa0 [radeon] returns -22
+T 1394540513 24*	zwerg has quit (Read error: Connection reset by peer)
+T 1394540633 23*	zwerg (~quassel@intern.meeva.de23) has joined
+T 1394540949 23*	froggey (~froggey@unaffiliated/froggey23) has joined
+T 1394540986 18<vadimg18>	tstellar_: IIRC I had similar message in dmesg. I can't check it right now (second card is not plugged in currently), but let me know if you need any additional info, I'll test it then.
+T 1394541145 24*	JohnDoe_71Rus has quit (Quit: Miranda IM! Smaller, Faster, Easier. http://miranda-im.org)
+T 1394541258 24*	Xeno_PL has quit (Ping timeout: 265 seconds)
+T 1394541271 18<vadimg18>	tstellar_: btw, thanks for looking into this issue
+T 1394541338 18<tstellar_18>	vadimg: What kernel were you using?
+T 1394541416 18<spreeuw18>	hmm glamor is working now
+T 1394541428 18<tstellar_18>	vadimg: Also, it looks like I have the same problem if I boot without any monitors connected.
+T 1394541466 18<ArtForz18>	same error here if I disable all outputs...
+T 1394541519 18<tstellar_18>	ArtForz: What kernel?
+T 1394541540 18<ArtForz18>	3.14-rc5
+T 1394541612 18<vadimg18>	tstellar_: typically I'm using recent linus' kernel from git, I guess it was something like 3.14-rc2 (not sure which rc exactly)
+T 1394541737 24*	zwerg has quit (Read error: Connection reset by peer)
+T 1394541771 18<spreeuw18>	do I have to turn EXA off?
+T 1394541786 18<spreeuw18>	glamor-egl is succesfully loaded
+T 1394541803 18<spreeuw18>	[   550.227] (II) RADEON(0): EXA: Driver will allow EXA pixmaps in VRAM
+T 1394541880 18<spreeuw18>	oh wait
+T 1394541932 23*	zwerg (~quassel@intern.meeva.de23) has joined
+T 1394542051 18<spreeuw18>	nope glamor still segfaulting, think my glibc may have a bug or so
+T 1394542269 18<spreeuw18>	http://pastebin.com/037Agz0R
+T 1394542334 18<ArtForz18>	hmmm
+T 1394542360 18<ArtForz18>	looks like dri2 and glamor are loaded in the wrong order?
+T 1394542393 18<spreeuw18>	which one should come first?
+T 1394542417 18<ArtForz18>	I put the dri2 module first in xorg.conf
+T 1394542431 18<spreeuw18>	oh for your own issue you mean?
+T 1394542448 18<ArtForz18>	nope
+T 1394542472 23*	ircuser-1 (~ircuser-1@35.222-62-69.ftth.swbr.surewest.net23) has joined
+T 1394542479 18<ArtForz18>	see http://www.freedesktop.org/wiki/Software/Glamor/
+T 1394542509 18<ArtForz18>	especially "How to Enable Glamor" point 4
+T 1394542519 18<spreeuw18>	thanks
+T 1394542571 18<spreeuw18>	I had them in .d dir , will try to influence order
+T 1394542758 18<ArtForz18>	could be something different though
+T 1394542834 18<ArtForz18>	mesa flags come to mind, and that glamor on rv7xx is probably not very well tested
+T 1394542872 23*	Xeno_PL (~Xeno@ipl138.internetdsl.tpnet.pl23) has joined
+T 1394542909 23*	Black_Prince (~Krejzi@unaffiliated/blackprince23) has joined
+T 1394544177 24*	zwerg has quit (Read error: Connection reset by peer)
+T 1394544372 23*	zwerg (~quassel@intern.meeva.de23) has joined
+T 1394544610 24*	Noxbru (~noxbru@2001:720:1814:d:725a:b6ff:fed6:6f4424) has left
+T 1394544739 18<tstellar_18>	vadimg: If I disable dpm I can open /dev/dri/card0, but not the rendernode.
+T 1394544753 18<tstellar_18>	agd5f: ^ Do you have any ideas about what might be wrong here?
+T 1394544826 18<spreeuw18>	ArtForz: meh cant fidn what it is, sticking to exa again
+T 1394544973 18<agd5f18>	tstellar_, not sure.  Not sure why dpm would affect access to the device node.  about the runpm errors, make sure your kernel has this patch: http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=9babd35ad72af631547c7ca294bc2e931cc40e58
+T 1394544984 18<agd5f18>	or boot with radeon.runpm=0
+T 1394545293 18<tstellar_18>	agd5f: I'm not sure if it is necessarily a dpm issue, but booting without a connected monitor means I cannot open rendernodes or /dev/dri/card0
+T 1394545411 18<agd5f18>	tstellar_, does booting with radeon.runpm=0 on the kernel command line in grub fix it?
+T 1394545417 24*	zwerg has quit (Read error: Connection reset by peer)
+T 1394545484 23*	zwerg (~quassel@intern.meeva.de23) has joined
+T 1394545522 24*	darkbasic has quit (Ping timeout: 245 seconds)
+T 1394545533 18<tstellar_18>	Isn't it radeon.dpm=0 ?
+T 1394545554 18<agd5f18>	tstellar_, runpm is different
+T 1394545583 18<agd5f18>	it's for powerxpress laptops where we want to power down the dGPU when it's not in use
+T 1394545626 23*	darkbasic (~quassel@niko.linuxsystems.it23) has joined
+T 1394545716 18<tstellar_18>	vadimg, agd5f: So I was wrong before when I said booting with disabled dpm made it possible to open /dev/dri/card0.  I had acutally booted into an older kernel on accident.
+T 1394545724 18<tstellar_18>	Testing runpm=0 now.
+T 1394545778 23*	iive (~iive@87.119.101.204.client.entry.bg23) has joined
+T 1394545779 24*	iive has quit (Changing host)
+T 1394545779 23*	iive (~iive@unaffiliated/iive23) has joined
+T 1394545781 18<tstellar_18>	agd5f: runpm=0 does fix the bug.
+T 1394545899 18<agd5f18>	tstellar_, does your kernel have this patch?  http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=9babd35ad72af631547c7ca294bc2e931cc40e58
+T 1394545914 18<agd5f18>	that should fix it
+T 1394545965 18<agd5f18>	if not, let me know and I'll see if I can reproduce it
+T 1394546285 19*	Now talking on 22#radeon
+T 1394546285 22*	Topic for 22#radeon is: [logged] Support and development for open-source ATI driver - for fglrx use #ati - http://wiki.x.org/wiki/radeonBuildHowTo
+T 1394546285 22*	Topic for 22#radeon set by 26airlied!airlied@fruit.freedesktop.org (24Sun Apr 29 12:27:57 2012)
+T 1394546285 18<***18>	Starting Buffer Playback...
+T 1394546285 18<tstellar_18>	[13:55:47] agd5f: It looks like that patch got into 3.13.3, which is what the fedora kernel I'm using is based on, but I will build a vanilla kernel just to be sure.
+T 1394546285 18<tstellar_18>	[13:56:23] agd5f: Here is my test case: http://www.fpaste.org/84312/46174139/
+T 1394546285 18<***18>	Buffer Playback Complete.
+T 1394546624 24*	zwerg has quit (Read error: Connection reset by peer)
+T 1394546709 23*	zwerg (~quassel@intern.meeva.de23) has joined
+T 1394546794 23*	ssp_ (~ssp@c-50-177-28-37.hsd1.ma.comcast.net23) has joined
+T 1394546972 24*	_|x|_ has quit (Ping timeout: 265 seconds)
+T 1394547070 24*	28Ari-Yang is now known as 18bushido
+T 1394547084 24*	jackneill has quit (Quit: WeeChat 0.4.3)
+T 1394547102 24*	jarkko_ has quit (Remote host closed the connection)
+T 1394547111 23*	jackneill (~jackneill@unaffiliated/jackneill23) has joined
+T 1394547169 24*	28bushido is now known as 18Ari-Yang

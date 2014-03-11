@@ -1,0 +1,665 @@
+T 1393827034 18<[R]18>	what state do you want to get?
+T 1393827046 18<bhundven18>	if the project is active or not
+T 1393827057 18<[R]18>	look on github to see if its active :)
+T 1393827060 18<[R]18>	or chck the manifest
+T 1393827133 18<bhundven18>	ok. so I am automating mirroring projects that gerrit says are active. it works on every other gerrit server, except cyanogen.
+T 1393827169 24*	UberPinguin has quit (Ping timeout: 264 seconds)
+T 1393827172 18<bhundven18>	so, something as simple as reading a json file, now I have to scrap a github webpage?
+T 1393827185 18<bhundven18>	kinda defeats the purpose
+T 1393827210 18<[R]18>	so just mriror everythign
+T 1393827237 18<bhundven18>	that's the idea, but if it's in gerrit, but not on github, then it breaks the automation
+T 1393828074 24*	Hashcode has quit (Quit: Leaving)
+T 1393828583 24*	28chenxiaway is now known as 18chenxiaolong
+T 1393828793 24*	arrrghhh has quit (Quit: No quitters here...)
+T 1393828879 23*	arrrghhh (~arrrghhh@unaffiliated/arrrghhh23) has joined
+T 1393829271 23*	Quarx (~Quarx@46.233.213.8423) has joined
+T 1393829725 24*	[R] has quit (Quit: Leaving)
+T 1393830287 23*	tittiatcoke (~tittiatco@opensuse/member/tittiatcoke23) has joined
+T 1393830540 24*	tittiatcoke has quit (Client Quit)
+T 1393831144 23*	UberPinguin (~uber@cyanogenmod/maintainer/uberpinguin23) has joined
+T 1393831145 22*	26ChanServ gives channel operator status to 18UberPinguin
+T 1393832085 23*	timong (~pali@94-21-167-225.pool.digikabel.hu23) has joined
+T 1393832250 24*	Quarx has quit (Read error: Connection reset by peer)
+T 1393832337 24*	28Skrilax_CZ is now known as 18Skrilax_CZ|Away
+T 1393832429 24*	vravn has quit (Excess Flood)
+T 1393832537 23*	vravn (~vravn@syn.rook.sx23) has joined
+T 1393834121 24*	timong has quit (Quit: Leaving.)
+T 1393834152 24*	SyAchmed has quit (Ping timeout: 252 seconds)
+T 1393834218 24*	28karbowiak is now known as 18Karbowiak
+T 1393834251 23*	fikst (~fikst@2a02:1810:3813:2b00:354e:cc5a:4645:176823) has joined
+T 1393834319 24*	28Karbowiak is now known as 18karbowiak
+T 1393834602 24*	fikst has quit (Quit: Leaving)
+T 1393835038 24*	28cybojenix is now known as 18cybojenix-away
+T 1393835197 24*	28cybojenix-away is now known as 18cybojenix
+T 1393835314 24*	gu1dry has quit (Quit: Page closed)
+T 1393835800 23*	jakew02 (~jakew02@openfire-security.net23) has joined
+T 1393835960 24*	rchavik has quit (Quit: -)
+T 1393836037 23*	karab44 (~kvirc@host-91-192-90-101.elomza.pl23) has joined
+T 1393836132 24*	28cybojenix is now known as 18cybojenix-away
+T 1393836604 23*	Gspot (~G@46-218-218.adsl.cyta.gr23) has joined
+T 1393838424 24*	28jakew02 is now known as 18jakew02|away
+T 1393838794 24*	28jakew02|away is now known as 18jakew02
+T 1393838920 23*	utack (~utack@mnch-d9bde208.pool.mediaWays.net23) has joined
+T 1393840352 18<mcampbellsmith18>	invisiblek you here?
+T 1393841664 23*	leeetz (d95bea4f@gateway/web/freenode/ip.217.91.234.7923) has joined
+T 1393841717 18<leeetz18>	Hey Guys, i have a question regarding the newest nighlty build of cm11 for samsung galaxy nexus, i am searching the whole morning for the knock on feature, could anybody help me
+T 1393841720 18<leeetz18>	please
+T 1393841778 18<cdesai18>	bhundven: "state" was probably added in a newer version of gerrit
+T 1393841789 18<cdesai18>	google servers run almost bleeding edge
+T 1393842053 24*	leeetz has quit (Quit: Page closed)
+T 1393842553 24*	karab44 has quit (Ping timeout: 244 seconds)
+T 1393843016 23*	Lidenburg (c12c0152@gateway/web/freenode/ip.193.44.1.8223) has joined
+T 1393843280 24*	28cybojenix-away is now known as 18cybojenix
+T 1393843657 23*	fikst (~fikst@d5152ECFE.static.telenet.be23) has joined
+T 1393843835 24*	fikst has quit (Remote host closed the connection)
+T 1393843866 24*	Lidenburg (c12c0152@gateway/web/freenode/ip.193.44.1.8224) has left
+T 1393844212 24*	28RonG_away is now known as 18RonG_
+T 1393844796 23*	Johnnyslt (Johnny@gateway/shell/bnc4free/x-zqrurxnjptmozmkt23) has joined
+T 1393844972 24*	28RonG_ is now known as 18RonG_away
+T 1393845094 24*	28RonG_away is now known as 18RonG_
+T 1393845306 24*	28cybojenix is now known as 18cybojenix-away
+T 1393845642 24*	28zz_Redh3ad is now known as 18Redh3ad
+T 1393846139 23*	karab44 (~kvirc@host-91-192-90-101.elomza.pl23) has joined
+T 1393846917 23*	Quarx (~Quarx@46.233.213.8423) has joined
+T 1393847763 23*	FuZZ__ (~FuZZ_@opt-115-30-214-42.client.pikara.ne.jp23) has joined
+T 1393848119 24*	slick_rick has quit (Quit: Connection closed for inactivity)
+T 1393848758 23*	angelsl (~angelsl@pdpc/supporter/student/angelsl23) has joined
+T 1393848892 24*	angelsl has quit (Client Quit)
+T 1393849145 24*	fredy has quit (Excess Flood)
+T 1393849254 23*	fredy (~fredy@snf-8914.vm.okeanos.grnet.gr23) has joined
+T 1393849596 24*	28RonG_ is now known as 18RonG_away
+T 1393850080 24*	28awaycopter88 is now known as 18helicopter88
+T 1393850118 23*	Araemo (~quassel@cpe-76-190-164-184.neo.res.rr.com23) has joined
+T 1393850899 24*	bbelos has quit (Quit: leaving)
+T 1393850918 24*	28sbrissen_gone is now known as 18sbrissen
+T 1393851025 23*	bbelos (~bbelos@c-50-172-101-199.hsd1.in.comcast.net23) has joined
+T 1393851025 22*	26ChanServ gives voice to 18bbelos
+T 1393851643 24*	Gspot has quit (Remote host closed the connection)
+T 1393853522 24*	Jiangyi has quit (Ping timeout: 264 seconds)
+T 1393854028 24*	28chenxiaolong is now known as 18chenxiaway
+T 1393854330 23*	UnknownzD (~UnknownzD@unaffiliated/unknownzd23) has joined
+T 1393854443 24*	28chenxiaway is now known as 18chenxiaolong
+T 1393854710 24*	rordway has quit (Ping timeout: 264 seconds)
+T 1393854737 23*	rordway (~rordway@loki.library.oregonstate.edu23) has joined
+T 1393854754 24*	28jakew02 is now known as 18jakew02|away
+T 1393854947 23*	dasunsrule32 (~dasunsrul@uto-atechols-1.inre.asu.edu23) has joined
+T 1393854948 22*	26ChanServ gives voice to 18dasunsrule32
+T 1393855070 24*	Scepterr has quit (Ping timeout: 264 seconds)
+T 1393855579 23*	thoemy (~thoemy@HSI-KBW-109-192-049-152.hsi6.kabel-badenwuerttemberg.de23) has joined
+T 1393855579 22*	26ChanServ gives voice to 18thoemy
+T 1393855606 23*	herna (5322d42a@gateway/web/cgi-irc/kiwiirc.com/ip.83.34.212.4223) has joined
+T 1393855810 24*	28RonG_away is now known as 18RonG_
+T 1393855971 24*	28chenxiaolong is now known as 18chenxiaway
+T 1393857001 23*	white (~white@unaffiliated/white23) has joined
+T 1393857466 23*	manuelnaranjo (~manuel@189.241.145.12823) has joined
+T 1393857690 18<bhundven18>	cdesai: ok.
+T 1393857800 18<bhundven18>	cdesai: do you know if there is an easy way of telling if a project is active or not by looking at cm's gerrit? (not json)
+T 1393857815 18<cdesai18>	active as in?
+T 1393857822 18<bhundven18>	pushed to github
+T 1393857830 18<cdesai18>	all repos are AFAIK
+T 1393857840 18<cdesai18>	and github has json
+T 1393857867 18<bhundven18>	oh
+T 1393857887 18<bhundven18>	I was not aware of github's json. I'll look into that too
+T 1393857910 18<bhundven18>	you know my script, right now for cm, I have to set exceptions: https://github.com/bhundven/repo-mm/blob/master/gerrit-mirror.sh#L16
+T 1393857939 18<bhundven18>	I was just about to add the support for checking the "state" last night, but noticed cm still didn't have it.
+T 1393858496 23*	duboisj (~duboisj@75-146-153-89-minnesota.hfc.comcastbusiness.net23) has joined
+T 1393858578 18<cdesai18>	bhundven: why ignore a few repos when you can fetch them all?
+T 1393858605 18<cdesai18>	oh some projects may not be on GitHub
+T 1393858610 18<bhundven18>	^^
+T 1393858623 18<cdesai18>	so parse GitHub json for those projects which mirror to GitHub :)
+T 1393858626 18<bhundven18>	and, I was recommended to not use the repo link in gerrit
+T 1393858634 18<bhundven18>	yup
+T 1393858637 18<bhundven18>	I'll check that out!
+T 1393858652 18<bhundven18>	thanks again, cdesai! I hope all has been well!
+T 1393858870 24*	28RonG_ is now known as 18RonG_away
+T 1393859721 24*	karab44 has quit (Quit: KVIrc 4.1.3 Equilibrium http://www.kvirc.net/)
+T 1393859818 18<pragma-18>	the number of repos is too damn high!
+T 1393859928 23*	karab44 (~kvirc@host-91-192-90-101.elomza.pl23) has joined
+T 1393860053 24*	dasunsrule32 has quit (Quit: WeeChat 0.4.1)
+T 1393860106 23*	chaosblade (~chaosblad@37.19.117.1323) has joined
+T 1393860247 24*	karab44 has quit (Quit: KVIrc 4.1.3 Equilibrium http://www.kvirc.net/)
+T 1393860267 23*	dasunsrule32 (~dasunsrul@uto-atechols-1.inre.asu.edu23) has joined
+T 1393860267 22*	26ChanServ gives voice to 18dasunsrule32
+T 1393860510 24*	herna has quit (Quit: http://www.kiwiirc.com/ - A hand crafted IRC client)
+T 1393860664 23*	karab44 (~kvirc@host-91-192-90-101.elomza.pl23) has joined
+T 1393860863 24*	28RonG_away is now known as 18RonG_
+T 1393860914 18<kraut18>	could anybody tell me, what's wrong with this issue and why it won't be fixed nor anyone response to it? https://jira.cyanogenmod.org/browse/CYAN-1502
+T 1393861111 24*	28RonG_ is now known as 18RonG_away
+T 1393861319 23*	Zoey (~matada@unaffiliated/matada23) has joined
+T 1393861382 24*	childofthehorn has quit (Ping timeout: 252 seconds)
+T 1393861456 24*	white has quit (Remote host closed the connection)
+T 1393861711 23*	white (~white@unaffiliated/white23) has joined
+T 1393861841 18<Namidairo18>	if only this were an open source project in which I could write and submit a fix preferably to gerrit as github pull requests are ignored...]
+T 1393861914 24*	vravn has quit (Excess Flood)
+T 1393861951 18<bhundven18>	Namidairo: You can: http://wiki.cyanogenmod.org/w/Development
+T 1393861969 18<Namidairo18>	did you read the latter
+T 1393861978 18<Namidairo18>	*latter half
+T 1393861982 18<bhundven18>	specificly: http://wiki.cyanogenmod.org/w/Doc:_using_gerrit
+T 1393861994 18<bhundven18>	yes, github pull requests are disabled. use gerrit
+T 1393861999 18<Namidairo18>	note sarcasm
+T 1393862001 18<helicopter8818>	bhundven, I think it was meant for kraut
+T 1393862006 18<bhundven18>	:p
+T 1393862013 18*	bhundven is a sucker for sarcasm
+T 1393862015 18<helicopter8818>	to make him/her understand that "you can submit a fix"
+T 1393862043 18<bhundven18>	well then, the message is now for kraut
+T 1393862053 18<bhundven18>	:D
+T 1393862185 24*	jishnu7 has quit (Ping timeout: 240 seconds)
+T 1393862209 24*	28cybojenix-away is now known as 18cybojenix
+T 1393862238 23*	jishnu7 (~jishnu7@122.172.227.21123) has joined
+T 1393862365 24*	28RonG_away is now known as 18RonG_
+T 1393862392 24*	arrrghhh has quit (Quit: No quitters here...)
+T 1393862465 18<kraut18>	Namidairo: if i were able to fix it on my own, i had fixed it weeks ago. the problem is, that i'm not able to fix it, but i tried to put all the needed informations in that issue i was able to but didn't got any response at all.
+T 1393862479 23*	arrrghhh (~arrrghhh@unaffiliated/arrrghhh23) has joined
+T 1393862488 23*	gu1dry (4a803ca8@gateway/web/freenode/ip.74.128.60.16823) has joined
+T 1393862488 22*	26ChanServ gives voice to 18gu1dry
+T 1393862519 23*	Turtuga (~Turtuga@62.169.97.171.rev.optimus.pt23) has joined
+T 1393862528 18<kraut18>	Namidairo: and also i asked severall times for help without any success and i asked everytime kindly for help.
+T 1393862557 24*	28chenxiaway is now known as 18chenxiaolong
+T 1393862627 23*	vravn (~vravn@syn.rook.sx23) has joined
+T 1393862718 24*	snadge has quit (Ping timeout: 256 seconds)
+T 1393862802 24*	28RonG_ is now known as 18RonG_away
+T 1393863670 24*	28RonG_away is now known as 18RonG_
+T 1393863791 23*	liudas (~liudas@unaffiliated/liudas23) has joined
+T 1393863842 24*	Namidairo (realname@oyashoku.com24) has left ("Leaving")
+T 1393863896 23*	howtomen (~Howtomen@cpe-76-174-188-117.socal.res.rr.com23) has joined
+T 1393864083 24*	axisys has quit (Quit: leaving)
+T 1393864307 24*	manuelnaranjo has quit (Quit: Leaving.)
+T 1393864402 23*	redarrow_ (~redarrow@unaffiliated/redarrow23) has joined
+T 1393864589 24*	redarrow has quit (Ping timeout: 240 seconds)
+T 1393864607 23*	Gspot (~G@46-218-218.adsl.cyta.gr23) has joined
+T 1393864611 24*	28redarrow_ is now known as 18redarrow
+T 1393864684 24*	howtomen has quit (Quit: im away)
+T 1393864872 24*	karab44 has quit (Quit: KVIrc 4.1.3 Equilibrium http://www.kvirc.net/)
+T 1393864950 23*	manuelnaranjo (~manuel@189.241.145.12823) has joined
+T 1393864976 24*	Quarx has quit ()
+T 1393865489 24*	manuelnaranjo has quit (Quit: Leaving.)
+T 1393865840 23*	tittiatcoke (~tittiatco@opensuse/member/tittiatcoke23) has joined
+T 1393866106 23*	ciwrl (~ciwrl@cyanogenmod/pr/ciwrl23) has joined
+T 1393866106 22*	26ChanServ gives channel operator status to 18ciwrl
+T 1393866196 24*	28helicopter88 is now known as 18awaycopter88
+T 1393866241 23*	howtomen (~Howtomen@cpe-76-174-188-117.socal.res.rr.com23) has joined
+T 1393866537 24*	28awaycopter88 is now known as 18helicopter88
+T 1393867310 23*	MsVonSchweetz (~Vanellope@unaffiliated/sugarrush23) has joined
+T 1393867322 18<MsVonSchweetz18>	hullo
+T 1393867492 24*	28chenxiaolong is now known as 18chenxiaway
+T 1393868185 24*	jishnu7 has quit (Ping timeout: 240 seconds)
+T 1393868790 23*	Hashcode (~hashcode@unaffiliated/hashcode23) has joined
+T 1393868790 22*	26ChanServ gives voice to 18Hashcode
+T 1393868824 24*	28jakew02|away is now known as 18jakew02
+T 1393869105 18<MsVonSchweetz18>	Sigh... I'm having trouble building a recovery for my device... simple problem too... Lunch isn't liking the device codename as it has a dash in it :/
+T 1393869175 24*	Gspot has quit (Remote host closed the connection)
+T 1393869683 23*	dhacker29 (~dhacker29@114.sub-70-196-5.myvzw.com23) has joined
+T 1393869683 22*	26ChanServ gives voice to 18dhacker29
+T 1393869797 24*	fredy has quit (Excess Flood)
+T 1393869834 23*	fredy (~fredy@2001:648:2ffc:1225:a800:ff:fe12:113e23) has joined
+T 1393869856 24*	28RonG_ is now known as 18RonG_away
+T 1393870012 18<chaosblade18>	MsVonSchweetz, not to sound like an ass, but WHY does it have a dash in it :p
+T 1393870026 18<chaosblade18>	or rather, "remove the dash".
+T 1393870037 18<MsVonSchweetz18>	chaosblade ask huawei
+T 1393870040 18<MsVonSchweetz18>	:P
+T 1393870047 18<MsVonSchweetz18>	err
+T 1393870051 18<MsVonSchweetz18>	I'll try
+T 1393870070 24*	vravn has quit (Excess Flood)
+T 1393870080 18<chaosblade18>	the codename they use in the build.prop has a dash?
+T 1393870187 23*	timong (~pali@94-21-167-225.pool.digikabel.hu23) has joined
+T 1393870192 18<MsVonSchweetz18>	I believe so... here's the build.prop: http://pastebin.com/ZtNUA7mK
+T 1393870218 23*	vravn (~vravn@syn.rook.sx23) has joined
+T 1393870355 18<chaosblade18>	MsVonSchweetz, so it appears.
+T 1393870358 18<chaosblade18>	how silly of them.
+T 1393870478 18<MsVonSchweetz18>	indeed
+T 1393870587 23*	karab44 (~kvirc@host-91-192-90-101.elomza.pl23) has joined
+T 1393870756 23*	romann (~romann@70-90-190-81-WA.hfc.comcastbusiness.net23) has joined
+T 1393870916 24*	duboisj has quit (Quit: duboisj)
+T 1393871069 24*	dhacker29 has quit (Ping timeout: 240 seconds)
+T 1393871128 23*	dhacker29 (~dhacker29@32.141.193.16923) has joined
+T 1393871128 22*	26ChanServ gives voice to 18dhacker29
+T 1393871226 23*	zenadm1n (~wfpearson@indigo.dcsdk12.org23) has joined
+T 1393871318 23*	M_Kay (~mkay@dslb-084-063-044-163.pools.arcor-ip.net23) has joined
+T 1393871358 18<zenadm1n18>	Unfortunately, the process com.android.phone has stopped.  It's rendering 20140303 unusuable.
+T 1393871398 18<zenadm1n18>	It's been a while since I've built a nightly that didn't work.
+T 1393871433 24*	timong (~pali@94-21-167-225.pool.digikabel.hu24) has left
+T 1393871457 24*	28chenxiaway is now known as 18chenxiaolong
+T 1393871771 24*	howtomen has quit (Quit: im away)
+T 1393872952 24*	vravn has quit (Excess Flood)
+T 1393873128 23*	vravn (~vravn@syn.rook.sx23) has joined
+T 1393873292 18<gu1dry18>	chaosblade: Ya Huawei uses dashes for a lot of their codenames, ro.product.model & ro.product.device https://github.com/CunningLogic/Android-Device-ID-Project/blob/master/HUAWEI.xml
+T 1393873869 24*	Turtuga has quit (Read error: Connection reset by peer)
+T 1393873897 24*	28chenxiaolong is now known as 18chenxiaway
+T 1393873993 23*	Turtuga (~Turtuga@62.169.97.171.rev.optimus.pt23) has joined
+T 1393874016 24*	redarrow has quit (Remote host closed the connection)
+T 1393874594 18<MsVonSchweetz18>	well that's annoying
+T 1393874610 18<MsVonSchweetz18>	huawei lock their bootloaders
+T 1393874881 18<MsVonSchweetz18>	that puts a definite damper on things :S
+T 1393875304 24*	28RonG_away is now known as 18RonG_
+T 1393875531 23*	duboisj (~duboisj@75-146-153-89-minnesota.hfc.comcastbusiness.net23) has joined
+T 1393875545 24*	teknoprep has quit (Ping timeout: 265 seconds)
+T 1393875854 24*	liudas has quit (Quit: Konversation terminated!)
+T 1393876642 24*	dhacker29 has quit (Quit: Ex-Chat)
+T 1393876734 24*	28chenxiaway is now known as 18chenxiaolong
+T 1393877127 24*	fredy has quit (Excess Flood)
+T 1393877214 23*	fredy (~fredy@snf-8914.vm.okeanos.grnet.gr23) has joined
+T 1393877309 24*	vravn has quit (Excess Flood)
+T 1393877388 23*	vravn (~vravn@syn.rook.sx23) has joined
+T 1393877471 24*	M_Kay has quit (Quit: Nettalk6 - www.ntalk.de)
+T 1393877555 23*	fikst (~fikst@2a02:1810:3813:2b00:4981:8f33:aa1f:3d3123) has joined
+T 1393878996 23*	SleepyS40 (~SleepyS40@108.232.73.9323) has joined
+T 1393879575 24*	28chenxiaolong is now known as 18chenxiaway
+T 1393879760 24*	zenadm1n has quit (Quit: Ex-Chat)
+T 1393879848 24*	fikst has quit (Quit: Leaving)
+T 1393880462 23*	M_Kay (~mkay@dslb-084-063-044-163.pools.arcor-ip.net23) has joined
+T 1393880464 24*	M_Kay has quit (Read error: Connection reset by peer)
+T 1393881277 24*	SleepyS40 has quit (Ping timeout: 264 seconds)
+T 1393881907 24*	tittiatcoke has quit (Read error: Operation timed out)
+T 1393882149 24*	28helicopter88 is now known as 18awaycopter88
+T 1393882508 24*	vravn has quit (Excess Flood)
+T 1393882608 23*	vravn (~vravn@syn.rook.sx23) has joined
+T 1393882689 24*	28sbrissen is now known as 18sbrissen_gone
+T 1393883122 23*	Decad3nce (~quassel@cyanogenmod/maintainer/Decad3nce23) has joined
+T 1393883122 22*	26ChanServ gives voice to 18Decad3nce
+T 1393883141 23*	manuelnaranjo (~manuel@189.241.145.12823) has joined
+T 1393883609 24*	manuelnaranjo has quit (Ping timeout: 240 seconds)
+T 1393883671 23*	manuelnaranjo (~manuel@189.241.145.12823) has joined
+T 1393884025 24*	manuelnaranjo has quit (Quit: Leaving.)
+T 1393884050 23*	manuelnaranjo (~manuel@189.241.145.12823) has joined
+T 1393884318 24*	28cybojenix is now known as 18hiddencybo
+T 1393884328 24*	manuelnaranjo has quit (Ping timeout: 252 seconds)
+T 1393884544 23*	tiny4579 (~tiny4579@unaffiliated/tiny457923) has joined
+T 1393884571 23*	childofthehorn (~childofth@209-253-157-229.ip.mcleodusa.net23) has joined
+T 1393884683 24*	28hiddencybo is now known as 18cybojenix
+T 1393885220 24*	jznomoney has quit ()
+T 1393885402 24*	rich0 has quit (Quit: No Ping reply in 180 seconds.)
+T 1393885428 23*	rich0 (~quassel@gentoo/developer/rich023) has joined
+T 1393885618 23*	jznomoney (~jznomoney@unaffiliated/jznomoney23) has joined
+T 1393885618 22*	26ChanServ gives voice to 18jznomoney
+T 1393885654 23*	drgravy (~drgravy@c-75-73-26-132.hsd1.mn.comcast.net23) has joined
+T 1393886317 24*	28cybojenix is now known as 18cybojenix-away
+T 1393886463 23*	snadge (~snadge@unaffiliated/snadge23) has joined
+T 1393886737 24*	dasunsrule32 has quit (Ping timeout: 240 seconds)
+T 1393886794 24*	28cybojenix-away is now known as 18cybojenix
+T 1393887163 24*	FuZZ__ has quit (Quit: Ex-Chat)
+T 1393887823 24*	duboisj has quit (Quit: duboisj)
+T 1393888033 18<chaosblade18>	gu1dry, and they just hacked their build env to work with it, i suppose
+T 1393888035 18*	chaosblade shakes head
+T 1393888526 24*	chaosblade has quit (Quit: chaosblade)
+T 1393888861 24*	tiny4579 has quit (Quit: Leaving)
+T 1393888882 23*	tiny4579 (~tiny4579@unaffiliated/tiny457923) has joined
+T 1393890233 23*	howtomen (~Howtomen@cpe-76-174-188-117.socal.res.rr.com23) has joined
+T 1393890673 24*	karab44 has quit (Quit: KVIrc 4.1.3 Equilibrium http://www.kvirc.net/)
+T 1393890886 24*	utack has quit (Remote host closed the connection)
+T 1393890955 24*	28chenxiaway is now known as 18chenxiaolong
+T 1393891041 23*	karab44 (~kvirc@host-91-192-90-101.elomza.pl23) has joined
+T 1393891593 24*	28Redh3ad is now known as 18zz_Redh3ad
+T 1393892473 24*	xymox has quit (Ping timeout: 264 seconds)
+T 1393892487 24*	karab44 has quit (Quit: KVIrc 4.1.3 Equilibrium http://www.kvirc.net/)
+T 1393892707 24*	28jakew02 is now known as 18jakew02|away
+T 1393892775 23*	xymox (lechuck@unaffiliated/contempt23) has joined
+T 1393893059 24*	xymox has quit (Read error: Connection reset by peer)
+T 1393893491 23*	xymox (~xymox@unaffiliated/contempt23) has joined
+T 1393893702 24*	Turtuga has quit (Ping timeout: 252 seconds)
+T 1393893729 24*	xymox has quit (Remote host closed the connection)
+T 1393893954 23*	jishnu7 (~jishnu7@122.172.227.21123) has joined
+T 1393894104 24*	28jakew02|away is now known as 18jakew02
+T 1393894130 23*	xymox (lechuck@unaffiliated/contempt23) has joined
+T 1393894393 24*	xymox has quit (Ping timeout: 240 seconds)
+T 1393894699 23*	xymox (lechuck@unaffiliated/contempt23) has joined
+T 1393894916 24*	28ajrty33 is now known as 18RepoSynco
+T 1393895146 24*	28RepoSynco is now known as 18ajrty33
+T 1393895352 24*	xymox has quit (Ping timeout: 265 seconds)
+T 1393895570 23*	xymox (lechuck@unaffiliated/contempt23) has joined
+T 1393895705 23*	manuelnaranjo (~manuel@189.241.145.12823) has joined
+T 1393895728 23*	c727 (5413d712@gateway/web/freenode/ip.84.19.215.1823) has joined
+T 1393895990 24*	xymox has quit (Ping timeout: 265 seconds)
+T 1393896078 23*	xymox (lechuck@unaffiliated/contempt23) has joined
+T 1393896267 24*	manuelnaranjo has quit (Quit: Leaving.)
+T 1393896305 24*	c727 (5413d712@gateway/web/freenode/ip.84.19.215.1824) has left
+T 1393896504 24*	xymox has quit (Ping timeout: 264 seconds)
+T 1393896613 23*	xymox (lechuck@unaffiliated/contempt23) has joined
+T 1393896895 23*	Jiangyi (~quassel@zeus.shocksystems.net23) has joined
+T 1393897633 24*	howtomen has quit (Quit: im away)
+T 1393898072 23*	howtomen (~Howtomen@cpe-76-174-188-117.socal.res.rr.com23) has joined
+T 1393898653 24*	thoemy has quit (Read error: Operation timed out)
+T 1393898728 24*	28jakew02 is now known as 18jakew02|away
+T 1393899251 23*	[R] (~rbox@unaffiliated/rbox23) has joined
+T 1393899322 24*	28jakew02|away is now known as 18jakew02
+T 1393899489 23*	rchavik (~rchavik@unaffiliated/rchavik23) has joined
+T 1393899699 23*	duboisj (~duboisj@68.168.171.6023) has joined
+T 1393901460 24*	nullpuppy has quit (Quit: leaving)
+T 1393901767 23*	Scepterr (~root@cyanogenmod/maintainer/Scepterr23) has joined
+T 1393901767 22*	26ChanServ gives channel operator status to 18Scepterr
+T 1393902002 23*	nullpuppy (~dustin@freematrix/staff/nullpuppy23) has joined
+T 1393902963 24*	ajrty33 has quit (Quit: Leaving)
+T 1393903020 23*	ajrty33 (~ajrty33@unaffiliated/ajrty3323) has joined
+T 1393903413 24*	28jakew02 is now known as 18jakew02|away
+T 1393904452 23*	dhacker29 (~dhacker29@2600:100c:b208:f02:2e27:d7ff:fe28:2e4e23) has joined
+T 1393904452 22*	26ChanServ gives voice to 18dhacker29
+T 1393904738 24*	white has quit (Remote host closed the connection)
+T 1393904875 24*	howtomen has quit (Quit: i quit cuz i wanna)
+T 1393904972 24*	nemith has quit (Quit: WeeChat 0.4.2)
+T 1393905306 23*	asterismo (~asterismo@r186-52-237-22.dialup.adsl.anteldata.net.uy23) has joined
+T 1393906197 24*	28ciwrl is now known as 18ciwrl|afk
+T 1393907081 24*	28RonG_ is now known as 18RonG_away
+T 1393907183 24*	[R] has quit (Quit: Leaving)
+T 1393907273 24*	duboisj has quit (Quit: duboisj)
+T 1393907421 24*	asterismo has quit (Quit: Leaving)
+T 1393908833 23*	manuelnaranjo (~manuel@189.241.145.12823) has joined
+T 1393909177 24*	manuelnaranjo has quit (Ping timeout: 240 seconds)
+T 1393909745 23*	[R] (~rbox@unaffiliated/rbox23) has joined
+T 1393909981 24*	vravn has quit (Excess Flood)
+T 1393910030 23*	vravn (~vravn@syn.rook.sx23) has joined
+T 1393910085 24*	ajrty33 has quit (Ping timeout: 265 seconds)
+T 1393910184 18<gu1dry18>	dhacker29: Question about unified builds for devices. Could we still setup the init script for devices that there is only one build for model variants & just submit the correct build.prop info. For example, with the Sony Xperia M, there is the C1904 & C1905 models. The only difference is the GSM radio frequencies they use. They use the same build & all but in the stock build.prop they say the inidividual model number.
+T 1393910218 18<dhacker2918>	yeah you could do that pretty easy
+T 1393910289 18<gu1dry18>	Cool. It would be nice to have all the CMs build more close match the stock ro.product.* info. I may be submitting a bunch of patches soon :D
+T 1393910295 18<gu1dry18>	closely*
+T 1393910297 18<[R]18>	dhacker29: so for d2 we have to copy the libril stuff in the updater-script... i tried to figure out a way for the ril-daemon service to use LD_LIBRARY_PATH, and it was a major fail... i was very dissapointed
+T 1393910824 23*	dasunsrule32 (~dasunsrul@christiantechsaz.com23) has joined
+T 1393910834 22*	26ChanServ gives voice to 18dasunsrule32
+T 1393911007 23*	M_Kay (~mkay@dslb-084-063-044-163.pools.arcor-ip.net23) has joined
+T 1393911262 24*	gu1dry has quit (Quit: Page closed)
+T 1393912261 24*	28Skrilax_CZ|Away is now known as 18Skrilax_CZ
+T 1393912431 23*	manuelnaranjo (~manuel@200.76.82.19923) has joined
+T 1393912926 24*	28cybojenix is now known as 18cybojenix-away
+T 1393913014 24*	[R] has quit (Quit: Leaving)
+T 1393913136 24*	manuelnaranjo has quit (Ping timeout: 264 seconds)
+T 1393913970 24*	vravn has quit (Excess Flood)
+T 1393914200 23*	vravn (~vravn@syn.rook.sx23) has joined
+T 1393914662 23*	tittiatcoke (~tittiatco@opensuse/member/tittiatcoke23) has joined
+T 1393914941 24*	28jakew02|away is now known as 18jakew02
+T 1393915149 24*	28karbowiak is now known as 18Karbowiak
+T 1393915169 24*	28Karbowiak is now known as 18karbowiak
+T 1393915193 24*	arrrghhh has quit (Quit: No quitters here...)
+T 1393915278 23*	arrrghhh (~arrrghhh@unaffiliated/arrrghhh23) has joined
+T 1393915747 24*	vravn has quit (Excess Flood)
+T 1393915940 23*	vravn (~vravn@syn.rook.sx23) has joined
+T 1393916242 24*	dhacker29 has quit (Quit: Ex-Chat)
+T 1393916272 24*	vravn has quit (Excess Flood)
+T 1393916330 23*	vravn (~vravn@syn.rook.sx23) has joined
+T 1393916775 24*	28cybojenix-away is now known as 18cybojenix
+T 1393916834 24*	Hello71 has quit (Ping timeout: 245 seconds)
+T 1393917043 23*	Hello71 (~Hello71@wikipedia/Hello7123) has joined
+T 1393917668 24*	tittiatcoke has quit (Quit: Konversation terminated!)
+T 1393917990 23*	cff (~cff@unaffiliated/shiningthrough23) has joined
+T 1393918261 24*	Hashcode has quit (Quit: Leaving)
+T 1393918271 24*	28jishnu7 is now known as 18jishnu7_
+T 1393918279 24*	28jishnu7_ is now known as 18jishnu7
+T 1393918819 23*	ninjak (~ninjak@77.239.137.14223) has joined
+T 1393919649 23*	JC_Yang (~chatzilla@27.45.199.22623) has joined
+T 1393919712 24*	28cybojenix is now known as 18cybojenix-away
+T 1393920048 24*	m0viefreak has quit (Ping timeout: 264 seconds)
+T 1393920490 18<JC_Yang18>	I'm here to confirm that is an official support device a requirement as the first CM build that I can make before I try port it to a new device? I think only building the rom is ok without an official support device, am I right? or we really need the device to get some proprietary stuff such as drivers or whatever from it? I'm considering to port CM and don't own an official support device.
+T 1393920601 18<PlayfulGod18>	unless the device in mention is a clone of, or very close to a supported device
+T 1393920624 18<PlayfulGod18>	its'll be very difficult to port w/o the device
+T 1393920630 18<PlayfulGod18>	it'll*
+T 1393920864 18<JC_Yang18>	the only official support device that I can reach is moto defy, but I don't own it. is it ok to start off from building CM for defy and then port it to a very different(hardware wise) tablet?
+T 1393920889 23*	fikst (~fikst@2a02:1810:3813:2b00:cc93:1507:6b1:75eb23) has joined
+T 1393920905 18<PlayfulGod18>	that prolly wouldnt work at all
+T 1393920949 18<PlayfulGod18>	I usually suggest building for one of the nexus if its your first time building to verify the build environment works
+T 1393920966 18<PlayfulGod18>	once you know everything is working
+T 1393920985 18<PlayfulGod18>	you can start the port by porting cwm for the device
+T 1393920995 18<PlayfulGod18>	then work your way up from there
+T 1393921023 18<PlayfulGod18>	can also start with a device repo thats close to your intended devices specs
+T 1393921040 18<PlayfulGod18>	take it you own the tablet?
+T 1393921187 18<JC_Yang18>	yes, I'm planning to get the tablet, and I'm sure the offical rom is sh*t, so here... what do u mean the device repo? some repo of prebuilt roms for official support devices?
+T 1393921228 18<PlayfulGod18>	https://github.com/CyanogenMod/android_device_samsung_toroplus
+T 1393921233 18<PlayfulGod18>	thats a device repo
+T 1393921274 18<PlayfulGod18>	have a vendor & kernel repo too
+T 1393921305 18<PlayfulGod18>	vendor is the proprietary files from the device that you cant get source for
+T 1393921334 18<PlayfulGod18>	we dont deal with prebuilt roms in here
+T 1393921340 24*	28cybojenix-away is now known as 18cybojenix
+T 1393921344 18<PlayfulGod18>	we build CM from source
+T 1393921365 24*	28jakew02 is now known as 18jakew02|away
+T 1393921376 18<PlayfulGod18>	so if you are wanting advise on how to cook a rom, well you need to find another channe lto inquire in ;)
+T 1393921607 18<JC_Yang18>	get it, thank u. do u mean that I can built CM rom for one of these popular devices even without *that* device, just download proprietary stuffs from this sort of device repo? I mean to complete the build steps that need these stuffs in this way.
+T 1393921662 18<PlayfulGod18>	one can be used as a base, would require editing for your device
+T 1393921679 18<PlayfulGod18>	vendor blobs would need to be from your device
+T 1393921708 18<PlayfulGod18>	like I said, very difficult to do w/o the device, even for the most skilled dev
+T 1393921838 18<PlayfulGod18>	most devs wont work on devices they dont have in hand
+T 1393921845 18<PlayfulGod18>	esp bringup of one
+T 1393922123 24*	M_Kay has quit (Quit: Nettalk6 - www.ntalk.de)
+T 1393922175 18<JC_Yang18>	I can build CM for some nexus(or any of the popular ones) first(I don't own one, but I can grab the vendor blobs from device repo), after successful build for nexus, I can start try to port it to my own device(which I own), is this understanding correct?
+T 1393922257 18<PlayfulGod18>	if your intended device is close to the same specs
+T 1393922272 18<PlayfulGod18>	ie has same cpu/gpu etc
+T 1393922303 18<JC_Yang18>	not in any sense...
+T 1393922325 18<PlayfulGod18>	then no it wont work
+T 1393922373 18<PlayfulGod18>	you would need to find a working repo, support or not thats close
+T 1393922397 18<PlayfulGod18>	supported*
+T 1393922434 18<PlayfulGod18>	if its a mtk or rockchip device you're purdy much out of luck finding a working repo
+T 1393922443 18<PlayfulGod18>	no one wonts to work on mtk
+T 1393922454 18<PlayfulGod18>	and rockchip is a pofs SoC
+T 1393922513 18<JC_Yang18>	pofs?
+T 1393922523 18<PlayfulGod18>	piece of fucking shit
+T 1393922525 18<PlayfulGod18>	;)
+T 1393922605 18<JC_Yang18>	amlogic
+T 1393922625 18<PlayfulGod18>	I've never heard of that one
+T 1393922697 18<JC_Yang18>	after I get the tablet, should I extract vendor blobs from it?
+T 1393922725 18<PlayfulGod18>	there is a guide on the wiki on porting new devices
+T 1393922738 18<PlayfulGod18>	and yes along with other stuff
+T 1393922760 24*	lerc has quit (Quit: No Ping reply in 180 seconds.)
+T 1393922774 24*	28cybojenix is now known as 18cybojenix-away
+T 1393922780 23*	lerc (~quassel@121-74-1-14.telstraclear.net23) has joined
+T 1393922797 18<JC_Yang18>	thank u, PlayfulGod. I'll do further investigation
+T 1393922805 18<PlayfulGod18>	np
+T 1393922810 18<PlayfulGod18>	gl ;)
+T 1393922942 18<JC_Yang18>	they have official repo of source code... the porting seems possible
+T 1393922975 18<PlayfulGod18>	if you can find one close yea
+T 1393923804 24*	Decad3nce has quit (Read error: Connection reset by peer)
+T 1393924277 23*	karab44 (~kvirc@host-91-192-90-101.elomza.pl23) has joined
+T 1393924809 24*	28zz_Redh3ad is now known as 18Redh3ad
+T 1393925079 23*	utack (~utack@mnch-5d875f44.pool.mediaWays.net23) has joined
+T 1393925164 24*	28Skrilax_CZ is now known as 18Skrilax_CZ|Away
+T 1393925473 24*	lerc has quit (Quit: No Ping reply in 180 seconds.)
+T 1393925509 23*	lerc (~quassel@121-74-1-14.telstraclear.net23) has joined
+T 1393925996 24*	JC_Yang (~chatzilla@27.45.199.22624) has left
+T 1393926127 24*	fikst has quit (Quit: Leaving)
+T 1393926355 24*	28RonG_away is now known as 18RonG_
+T 1393926480 24*	28cybojenix-away is now known as 18cybojenix
+T 1393926763 24*	28jakew02|away is now known as 18jakew02
+T 1393927093 23*	FuZZ__ (~FuZZ_@opt-115-30-214-42.client.pikara.ne.jp23) has joined
+T 1393927224 23*	fikst (~fikst@2a02:1810:3813:2b00:7d42:8ff8:304e:e42e23) has joined
+T 1393927346 24*	fikst has quit (Remote host closed the connection)
+T 1393928354 24*	28RonG_ is now known as 18RonG_away
+T 1393929757 20*	You are now known as 18Osatia-Bot
+T 1393929774 20*	You are now known as 18Thonneve
+T 1393930095 24*	28jakew02 is now known as 18jakew02|away
+T 1393930276 24*	28cybojenix is now known as 18cybojenix-away
+T 1393931679 24*	28cybojenix-away is now known as 18cybojenix
+T 1393932786 24*	ciwrl|away has quit (Ping timeout: 252 seconds)
+T 1393933367 23*	chairman_meow (~gpmelende@unaffiliated/paulo/x-769966623) has joined
+T 1393933382 18<chairman_meow18>	I compiled for my device, one from a local brand,
+T 1393933389 18<chairman_meow18>	I get this when I try to flash:
+T 1393933405 18<chairman_meow18>	ApplyParsedPerms: removexattr of /system/addon.d/50-cm.sh to 0 failed: Operation not supported on transport endpoint
+T 1393933501 23*	fikst (~fikst@dD577BB32.access.telenet.be23) has joined
+T 1393933944 23*	wctliu (~quassel@182.139.94.12123) has joined
+T 1393933958 24*	fikst has quit (Ping timeout: 240 seconds)
+T 1393933972 18<wctliu18>	Hello, everyone,have a good night.
+T 1393933985 18<wctliu18>	I'm having a little trouble, who help me?
+T 1393934004 18<wctliu18>	i found a path about the cm soures,it can add the td-scdma support.But don't succeed.
+T 1393934028 18<wctliu18>	who can help me to check the path?
+T 1393934029 23*	mamarley (~mamarley@unaffiliated/mamarley23) has joined
+T 1393934569 24*	ninjak has quit (Ping timeout: 240 seconds)
+T 1393935214 24*	28cybojenix is now known as 18cybojenix-away
+T 1393935478 23*	ninjak (~ninjak@77.239.137.14223) has joined
+T 1393936484 24*	vravn has quit (*.net *.split)
+T 1393936998 24*	28sbrissen_gone is now known as 18sbrissen
+T 1393937007 23*	ajrty33 (~ajrty33@unaffiliated/ajrty3323) has joined
+T 1393937061 24*	mamarley has quit (Remote host closed the connection)
+T 1393937075 23*	mamarley (~mamarley@unaffiliated/mamarley23) has joined
+T 1393937568 23*	latenite (~latenite@p57BD6717.dip0.t-ipconnect.de23) has joined
+T 1393937930 24*	infernix has quit (Quit: ZNC - http://znc.sourceforge.net)
+T 1393938269 24*	UberPinguin has quit (Ping timeout: 240 seconds)
+T 1393938716 24*	zoktar has quit (Quit: -)
+T 1393938732 23*	UberPinguin (~uber@cyanogenmod/maintainer/uberpinguin23) has joined
+T 1393938732 22*	26ChanServ gives channel operator status to 18UberPinguin
+T 1393938863 23*	vravn (~vravn@syn.rook.sx23) has joined
+T 1393938891 23*	zoktar (~zoktar@unaffiliated/zoktar23) has joined
+T 1393939451 24*	28RonG_away is now known as 18RonG_
+T 1393939481 23*	thoemy (~thoemy@HSI-KBW-109-192-049-152.hsi6.kabel-badenwuerttemberg.de23) has joined
+T 1393939481 22*	26ChanServ gives voice to 18thoemy
+T 1393939878 24*	28RonG_ is now known as 18RonG_away
+T 1393940247 24*	UberPinguin has quit (Read error: Connection reset by peer)
+T 1393940263 23*	UberPinguin (~uber@cyanogenmod/maintainer/uberpinguin23) has joined
+T 1393940263 22*	26ChanServ gives channel operator status to 18UberPinguin
+T 1393942254 23*	XDS2010 (sid1218@gateway/web/irccloud.com/x-radbbksxlueowzex23) has joined
+T 1393942401 23*	duboisj (~duboisj@68.168.171.6023) has joined
+T 1393942406 24*	28chenxiaolong is now known as 18chenxiaway
+T 1393942421 24*	duboisj has quit (Client Quit)
+T 1393942434 24*	zoktar has quit (Ping timeout: 245 seconds)
+T 1393942493 23*	zoktar (~zoktar@unaffiliated/zoktar23) has joined
+T 1393942863 23*	manuelnaranjo (~manuel@189.241.145.12823) has joined
+T 1393943180 23*	utack_ (~utack@mnch-5d875f44.pool.mediaWays.net23) has joined
+T 1393943255 24*	utack has quit (Ping timeout: 252 seconds)
+T 1393943258 24*	manuelnaranjo has quit (Ping timeout: 240 seconds)
+T 1393943597 23*	manuelnaranjo (~manuel@187.237.39.2123) has joined
+T 1393944027 24*	manuelnaranjo has quit (Read error: Connection reset by peer)
+T 1393944297 23*	rich0_ (~quassel@gentoo/developer/rich023) has joined
+T 1393944357 24*	rich0 has quit (Ping timeout: 244 seconds)
+T 1393944357 24*	28rich0_ is now known as 18rich0
+T 1393944588 23*	SferaDev (~SferaDev@75.Red-79-150-83.dynamicIP.rima-tde.net23) has joined
+T 1393945041 24*	28RonG_away is now known as 18RonG_
+T 1393945066 23*	duboisj (~duboisj@75-146-153-89-minnesota.hfc.comcastbusiness.net23) has joined
+T 1393945240 23*	infernix (nix@unaffiliated/infernix23) has joined
+T 1393945503 24*	chairman_meow has quit (Quit: Leaving)
+T 1393946331 24*	karab44 has quit (Quit: KVIrc 4.1.3 Equilibrium http://www.kvirc.net/)
+T 1393946796 23*	Namidairo (realname@oyashoku.com23) has joined
+T 1393946881 24*	cucuy has quit (Ping timeout: 252 seconds)
+T 1393946985 23*	cucuy (~PiAreSqua@cpe-67-11-205-246.satx.res.rr.com23) has joined
+T 1393947030 24*	28cybojenix-away is now known as 18cybojenix
+T 1393947195 24*	rchavik has quit (Quit: -)
+T 1393948656 24*	latenite has quit (Ping timeout: 265 seconds)
+T 1393948683 24*	28cybojenix is now known as 18cybojenix-away
+T 1393948793 24*	arrrghhh has quit (Quit: No quitters here...)
+T 1393948884 23*	arrrghhh (~arrrghhh@unaffiliated/arrrghhh23) has joined
+T 1393949152 23*	Cizzle (S@unaffiliated/cizzle23) has joined
+T 1393950086 24*	ninjak has quit (Read error: Connection reset by peer)
+T 1393950089 23*	m0viefreak (~asdf@unaffiliated/m0viefreak23) has joined
+T 1393950157 24*	28RonG_ is now known as 18RonG_away
+T 1393950281 23*	karab44 (~kvirc@host-91-192-90-101.elomza.pl23) has joined
+T 1393950632 23*	white (~white@unaffiliated/white23) has joined
+T 1393950777 24*	28codeworkx_ is now known as 18codeworkx
+T 1393951166 24*	28awaycopter88 is now known as 18helicopter88
+T 1393951312 23*	gu1dry (4a803ca8@gateway/web/freenode/ip.74.128.60.16823) has joined
+T 1393951312 22*	26ChanServ gives voice to 18gu1dry
+T 1393952358 24*	cff has quit (Quit: Konversation terminated!)
+T 1393952468 23*	asterismo (~asterismo@r186-52-209-215.dialup.adsl.anteldata.net.uy23) has joined
+T 1393953847 24*	cucuy has quit (Ping timeout: 252 seconds)
+T 1393953941 23*	cucuy (~PiAreSqua@cpe-67-11-205-246.satx.res.rr.com23) has joined
+T 1393954262 24*	28helicopter88 is now known as 18awaycopter88
+T 1393954398 24*	28RonG_away is now known as 18RonG_
+T 1393954499 23*	Steevca (~Ivke@cable-178-149-7-90.dynamic.sbb.rs23) has joined
+T 1393954697 23*	ZarakiKenpachi1 (~Ivke@cable-178-149-7-90.dynamic.sbb.rs23) has joined
+T 1393954788 24*	28cybojenix-away is now known as 18cybojenix
+T 1393954867 24*	28cybojenix is now known as 18cybojenix-away
+T 1393954873 24*	Steevca has quit (Ping timeout: 240 seconds)
+T 1393954991 24*	28RonG_ is now known as 18RonG_away
+T 1393955044 24*	28cybojenix-away is now known as 18cybojenix
+T 1393955166 23*	toastcfh_ (~toastcfh@unaffiliated/toastcfh23) has joined
+T 1393955166 22*	26ChanServ gives channel operator status to 18toastcfh_
+T 1393955341 23*	tittiatcoke (~tittiatco@opensuse/member/tittiatcoke23) has joined
+T 1393955500 24*	wctliu has quit (Ping timeout: 265 seconds)
+T 1393955586 24*	montyr has quit (*.net *.split)
+T 1393955587 24*	XDS2010 has quit (*.net *.split)
+T 1393955587 24*	asturel has quit (*.net *.split)
+T 1393955587 24*	toastcfh has quit (*.net *.split)
+T 1393955587 23*	montyr (~montyr@static.88-198-107-105.clients.your-server.de23) has joined
+T 1393955619 23*	asturel (asturel@unaffiliated/asturel23) has joined
+T 1393955944 24*	28chenxiaway is now known as 18chenxiaolong
+T 1393956606 23*	liudas (~liudas@unaffiliated/liudas23) has joined
+T 1393956644 23*	Hashcode (~hashcode@unaffiliated/hashcode23) has joined
+T 1393956644 22*	26ChanServ gives voice to 18Hashcode
+T 1393957083 23*	chaosblade (~chaosblad@37.19.121.1223) has joined
+T 1393957588 24*	jishnu7 has quit (Quit: Leaving)
+T 1393957945 23*	M_Kay (~mkay@dslb-084-063-044-163.pools.arcor-ip.net23) has joined
+T 1393958354 24*	28ciwrl|afk is now known as 18ciwrl
+T 1393959077 24*	Fihlvein has quit ()
+T 1393959249 24*	romann has quit (Remote host closed the connection)
+T 1393959502 23*	romann (~romann@70-90-190-81-WA.hfc.comcastbusiness.net23) has joined
+T 1393959785 24*	SferaDev (~SferaDev@75.Red-79-150-83.dynamicIP.rima-tde.net24) has left ("Leaving")
+T 1393960109 24*	28awaycopter88 is now known as 18helicopter88
+T 1393960301 24*	mcsaucy_ (~mcsaucy@daedalus.csh.rit.edu24) has left
+T 1393960663 24*	ZarakiKenpachi1 has quit (Ping timeout: 244 seconds)
+T 1393960762 18<kraut18>	brunching seems to be the most boring part during building an own rom :/
+T 1393961084 23*	ZarakiKenpachi (~Ivke@cable-178-149-7-90.dynamic.sbb.rs23) has joined
+T 1393962149 23*	dhacker29 (~dhacker29@2600:100c:b208:f02:2e27:d7ff:fe28:2e4e23) has joined
+T 1393962158 22*	26ChanServ gives voice to 18dhacker29
+T 1393962866 24*	dhacker29 has quit (Ping timeout: 265 seconds)
+T 1393962963 24*	asterismo has quit (Quit: Leaving)
+T 1393962969 23*	dhacker29 (~dhacker29@2600:100c:b208:f02:2e27:d7ff:fe28:2e4e23) has joined
+T 1393962969 22*	26ChanServ gives voice to 18dhacker29
+T 1393965266 24*	Hashcode has quit (Excess Flood)
+T 1393965577 24*	wolrah_ has quit (Read error: Connection reset by peer)
+T 1393965664 23*	wolrah (~wolrah@24.239.210.14023) has joined
+T 1393965861 24*	28chenxiaolong is now known as 18chenxiaway
+T 1393965995 24*	karab44 has quit (Quit: KVIrc 4.1.3 Equilibrium http://www.kvirc.net/)
+T 1393966156 24*	klusark has quit (Remote host closed the connection)
+T 1393966184 23*	klusark (~klusark@198-217-117-133.dyn.novuscom.net23) has joined
+T 1393966184 22*	26ChanServ gives voice to 18klusark
+T 1393966246 24*	liudas has quit (Quit: Konversation terminated!)
+T 1393966332 24*	[Awaxx] has quit (Quit: ^^)
+T 1393966632 23*	wowthatisrandom (615bb7e8@gateway/web/freenode/ip.97.91.183.23223) has joined
+T 1393966691 18<wowthatisrandom18>	anyone around to maybe answer a quick q? i recently built cm11 for my gs4, and everything seems great outside of video the video comes thru all gray and scrambled. any ideas what might be causing this?
+T 1393967102 24*	EdGruberman has quit (Ping timeout: 264 seconds)
+T 1393967173 23*	slick_rick (uid6519@gateway/web/irccloud.com/x-brztsphfuyytuejw23) has joined
+T 1393967286 23*	EdGruberman (~EdGruberm@unaffiliated/edgruberman23) has joined
+T 1393967300 24*	28helicopter88 is now known as 18awaycopter88
+T 1393967335 24*	ZarakiKenpachi has quit (Quit: Leaving)
+T 1393967362 24*	chaosblade has quit (Quit: chaosblade)
+T 1393967382 18<kraut18>	wowthatisrandom: missing/corrupt vendor files while extracting them from your s4?
+T 1393967436 18<wowthatisrandom18>	kraut: hmmm, maybe i am using the same vendor from before and it was working just hadnt updated in a couple weeks
+T 1393967449 18<kraut18>	then i'm out
+T 1393967483 18<wowthatisrandom18>	kraut: fair enough thanks
+T 1393967514 18<wowthatisrandom18>	kraut: i was thinking maybe it was somethign related to stagefright not really sure tho
+T 1393967640 18<kraut18>	i just build my own rom the first time, so i think i can't really help :)
+T 1393967653 18<kraut18>	but i found the issue, why bluetooth doesn't work as a secondary user!
+T 1393967657 18<kraut18>	yay \o/
+T 1393967665 18<wowthatisrandom18>	haha nice
+T 1393967668 23*	timong (~pali@94-21-167-225.pool.digikabel.hu23) has joined
+T 1393967677 18<kraut18>	but now i'm not sure how to fix that permanent
+T 1393967696 18<kraut18>	it's just a permission problem with /sys/class/rfkill0/state and /dev/ttyO1
+T 1393967716 18<kraut18>	both belongs to bluetooth:bluetooth. a secondary user is not able to use those devices
+T 1393967735 18<kraut18>	maybe anyone else here could help me with this?
+T 1393967744 24*	wowthatisrandom has quit (Quit: Page closed)
+T 1393967758 23*	ZarakiKenpachi (~Ivke@cable-178-149-7-90.dynamic.sbb.rs23) has joined
+T 1393967777 24*	ZarakiKenpachi has quit (Read error: Connection reset by peer)
+T 1393968224 24*	tittiatcoke has quit (Read error: Operation timed out)
+T 1393968400 24*	28chenxiaway is now known as 18chenxiaolong
+T 1393968462 24*	M_Kay has quit (Quit: Nettalk6 - www.ntalk.de)
+T 1393968538 24*	amplified has quit (Remote host closed the connection)
+T 1393968689 24*	28sbrissen is now known as 18sbrissen_gone
+T 1393970595 23*	blsuffolk (~blsuffolk@204.62.51.223) has joined
+T 1393970783 23*	manuelnaranjo (~manuel@187.237.25.7723) has joined
+T 1393971057 23*	fikst (~fikst@2a02:1810:3813:2b00:5198:e71b:87ea:521823) has joined
+T 1393971423 23*	Gspot (~G@46-218-218.adsl.cyta.gr23) has joined
+T 1393971505 24*	vravn has quit (Excess Flood)
+T 1393971683 23*	vravn (~vravn@syn.rook.sx23) has joined
+T 1393971817 24*	blsuffolk has quit (Ping timeout: 240 seconds)
+T 1393971988 24*	fikst has quit (Quit: Leaving)
+T 1393972038 18<drmarble_18>	the new bionic commit (96f2d38e...) breaks the build on Encore. Double definition of memchr.
+T 1393972043 23*	blsuffolk (~blsuffolk@204.62.35.24723) has joined
+T 1393972458 24*	klusark has quit (Ping timeout: 240 seconds)
+T 1393972500 23*	s0be (~s0be@66-87-79-88.pools.spcsdns.net23) has joined
+T 1393972564 24*	utack_ has quit (Remote host closed the connection)
+T 1393972874 24*	28cybojenix is now known as 18cybojenix-away
+T 1393972885 24*	vravn has quit (Excess Flood)
+T 1393972972 23*	vravn (~vravn@syn.rook.sx23) has joined
+T 1393973913 24*	prash has quit (Read error: Connection reset by peer)
+T 1393973929 23*	prash (~phd@unaffiliated/prash23) has joined
+T 1393973929 22*	26ChanServ gives channel operator status to 18prash
+T 1393974283 24*	timong has quit (Quit: Leaving.)
+T 1393974303 24*	manuelnaranjo has quit (Ping timeout: 244 seconds)
+T 1393974369 24*	duboisj has quit (Quit: duboisj)
+T 1393974532 24*	28chenxiaolong is now known as 18chenxiaway
+T 1393974706 23*	manuelnaranjo (~manuel@187.237.231.423) has joined
+T 1393974951 24*	Zoey has quit (Disconnected by services)
+T 1393974978 23*	zoey_ (~matada@unaffiliated/matada23) has joined
+T 1393975144 23*	utack (~utack@mnch-5d875f44.pool.mediaWays.net23) has joined
+T 1393975170 24*	Gspot has quit (Remote host closed the connection)
+T 1393975232 24*	vravn has quit (Excess Flood)
+T 1393975312 23*	vravn (~vravn@syn.rook.sx23) has joined
+T 1393975336 24*	s0be has quit (Ping timeout: 252 seconds)
+T 1393975570 18<drmarble_18>	I confirmed that reverting that bionic commit fixes the build for Encore. I reported on gerrit.
+T 1393975846 24*	28Redh3ad is now known as 18zz_Redh3ad
+T 1393976257 24*	dhacker29 has quit (Quit: Ex-Chat)
+T 1393976304 23*	jishnu7 (~jishnu7@122.167.226.20423) has joined
+T 1393976516 23*	[Awaxx] (~while@unaffiliated/awaxx/x-092868223) has joined
+T 1393976822 23*	s0be (~s0be@66-87-79-76.pools.spcsdns.net23) has joined
+T 1393976835 24*	utack has quit (Remote host closed the connection)

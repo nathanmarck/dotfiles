@@ -1,0 +1,555 @@
+T 1394536950 18<Namarrgon18>	...
+T 1394537017 18<Namarrgon18>	1. you are using the intel driver 2. you have not commented out anything in 20-radeon.conf
+T 1394537075 18<Bursihido18>	Namarrgon: you #line like this
+T 1394537077 18<Bursihido18>	right
+T 1394537082 18<Bursihido18>	or other
+T 1394537089 18<Bursihido18>	no #
+T 1394537099 18<Namarrgon18>	right
+T 1394537105 18<Namarrgon18>	is that a notebook?
+T 1394537122 18<Bursihido18>	dell inspiron 15
+T 1394537138 18<Namarrgon18>	so the display is connected to the intel card
+T 1394537150 18<Bursihido18>	ohl
+T 1394537153 18<Bursihido18>	k
+T 1394537189 18<Bursihido18>	why you want to comment out config
+T 1394537205 18<Bursihido18>	i already send you comment out config
+T 1394537210 18<Namarrgon18>	nvm, it's not important anymore
+T 1394537216 18<Namarrgon18>	https://wiki.archlinux.org/index.php/Radeon#Hybrid_graphics.2FAMD_Dynamic_Switchable_Graphics
+T 1394537217 18<phrik18>	Title: ATI - ArchWiki (at wiki.archlinux.org)
+T 1394537264 18<Namarrgon18>	you cannot use the radeon card for X, just for single applications
+T 1394537293 18<Namarrgon18>	so specifying the 'radeon' driver in the config breaks X
+T 1394537307 18<Namarrgon18>	"breaks"
+T 1394537311 18<dblngr18>	i'm running a proprietary program that uses motif and mwn, and it defaults to fixed as the default font which looks horrid
+T 1394537327 18<wasamasa18>	dblngr: I can feel your pain
+T 1394537332 18<Bursihido18>	Namarrgon: Identifier  "My Graphics Card"
+T 1394537334 18<Bursihido18>	>
+T 1394537336 18<Bursihido18>	?
+T 1394537343 18<Namarrgon18>	Driver"radeon"
+T 1394537347 18<dblngr18>	fixed is like the only font on my system which has 8 10 12 14 available in pxlsz
+T 1394537386 18<dblngr18>	any chance someone could recommend a font that is available in a range of pxlszs, and would be available through xfontsel?
+T 1394537405 18<Namarrgon18>	Bursihido: read the wiki link and use prime/bumblebee or whatever is the rage right now for your radeon card. you have no choice but to use the intel card for x
+T 1394537416 18<zsandu18>	This is what version 6.3 does: http://bpaste.net/show/kVUkoA223RclHYA9r1GE/
+T 1394537418 18<phrik18>	Title: Paste #kVUkoA223RclHYA9r1GE at spacepaste (at bpaste.net)
+T 1394537442 18<zsandu18>	Any idea what NAK is?
+T 1394537488 18<wasamasa18>	dblngr: you can blacklist fixed with fontconfig
+T 1394537497 18<wasamasa18>	dblngr: but I have no idea whether that's honored
+T 1394537517 18<dblngr18>	sorry i should clarify
+T 1394537538 18<dblngr18>	the default is helvetica, which is the ONLY other font available in those sizes
+T 1394537549 18<dblngr18>	but helvetica looks horrible because it won't render it properlyu
+T 1394537562 18<dblngr18>	its ok i realise i need to get a font pack from aur and fiddle
+T 1394537675 18<qqqqqqqqq918>	How do I find out which desktop-file belongs to a specific entry in the kde-menu?
+T 1394537796 18<Namarrgon18>	zsandu: have you changed any of the dhcpcd configs?
+T 1394538161 18<Bursihido18>	Namarrgon: instaleld the PRIME .. but did not turned off GPU-hungry application,echo OFF > /sys/kernel/debug/vgaswitcheroo/switch <-- did really matter?
+T 1394538192 18<OldeGrumpy18>	t
+T 1394538266 18<Namarrgon18>	Bursihido: you followed the prime wiki page and set the radeon card as offlodsink?
+T 1394538305 18<Bursihido18>	offlodsink.. i don't know
+T 1394538306 18<Namarrgon18>	offloadsink
+T 1394538323 18<Bursihido18>	still don't know .. i folleed th wiki
+T 1394538333 18<Bursihido18>	gollowed the wiki
+T 1394538337 18<Namarrgon18>	then you didn't read it
+T 1394538373 18<Bursihido18>	yeah
+T 1394538376 18<Bursihido18>	offloadsink
+T 1394538378 18<Bursihido18>	i did
+T 1394538413 24*	28TheReverend403 is now known as 18Rev|SleepingFox
+T 1394538420 18<Bursihido18>	Namarrgon: im still can't add remove features of the card ?
+T 1394538437 18<Bursihido18>	or there is the way?
+T 1394538450 18<Namarrgon18>	i don't know how you would do that
+T 1394538486 18<Bursihido18>	but now im using the gpu.. but now im the gpu its not hanging around right?
+T 1394538514 18<Namarrgon18>	what do you mean?
+T 1394538525 18<MrElendig18>	Bursihido: no, it left for the bar instead. I was fed up with your bullshit
+T 1394538548 18<MrElendig18>	and it is never comming back, because it met a nice amd cpu with a huuuuuge pcie lane
+T 1394538561 18<Nikorasu18>	Anyone know why gnome compositing would be acting funny after switching from nvidia to nouveau and back?
+T 1394538586 18<Namarrgon18>	"funny"?
+T 1394538587 18<Nikorasu18>	Video is really sluggish. Fading/compositing appears to be either not working entirely or not working at all
+T 1394538592 18<MrElendig18>	depends on how you switched and what you mean by funny
+T 1394538594 18<Nikorasu18>	Framerate is abysmal
+T 1394538597 18<Nikorasu18>	I followed the archwiki
+T 1394538598 18<Bursihido18>	MrElendig: alright bullshit?
+T 1394538601 18<MrElendig18>	why did you use nouveau in the first place though?
+T 1394538611 18<Nikorasu18>	Because of all the nvidia upgrade issues
+T 1394538618 18<MrElendig18>	what upgrade issues
+T 1394538618 18<Nikorasu18>	The conflicts with mesa
+T 1394538622 18<Bursihido18>	MrElendig: or new bullshit
+T 1394538623 18<Nikorasu18>	and libgl
+T 1394538628 18<MrElendig18>	uhm that was fixed in less than a day
+T 1394538636 18<MrElendig18>	and nouveau is fucking useless
+T 1394538644 18<Bursihido18>	MrElendig: that bullshit did fixed
+T 1394538645 18<Nikorasu18>	Well, wait a sec, it's not totally fixed
+T 1394538649 18<MrElendig18>	it is
+T 1394538655 18<MrElendig18>	Nikorasu: read your xorg log
+T 1394538661 18<MrElendig18>	also pacman -Qs nviia
+T 1394538663 18<MrElendig18>	nvidia*
+T 1394538666 18<Bursihido18>	lol
+T 1394538667 18<MrElendig18>	also pacman -Qs mesa
+T 1394538671 18<MrElendig18>	also pacman -Qs xf86-video
+T 1394538675 18<Nikorasu18>	ahah
+T 1394538676 18<MrElendig18>	post out put of those 3
+T 1394538740 18<Bursihido18>	wait posting
+T 1394538764 18<Bursihido18>	wait..
+T 1394538768 18<Bursihido18>	..
+T 1394538782 18<Nikorasu18>	http://pastebin.com/nQ9cpSsX
+T 1394538783 18<phrik18>	Title: [ 85.678] Current Operating System: Linux Juniper 3.13.5-1-ARCH #1 SMP PREEMP - Pastebin.com (at pastebin.com)
+T 1394538785 18<MrElendig18>	if you use pastebin.com then I will kick youy
+T 1394538788 18<MrElendig18>	^_^
+T 1394538790 18<Nikorasu18>	...
+T 1394538792 18<Nikorasu18>	wat
+T 1394538792 18<MrElendig18>	!pastebin.com
+T 1394538794 18<phrik18>	Don't use it. Use some sane pastebin like bpaste.net gist.github.com, sprunge.us ix.io . Also see !badpastebin
+T 1394538807 18<Bursihido18>	nice
+T 1394538809 18<Nikorasu18>	......... : \
+T 1394538816 18<Nikorasu18>	ok would you like me to put it on bpaste or is this fine
+T 1394538822 18<Bursihido18>	use pastebun
+T 1394538824 18<MrElendig18>	Nikorasu: you have a partially updated system
+T 1394538828 18<MrElendig18>	don't do that
+T 1394538832 18<Nikorasu18>	"partially updated"
+T 1394538835 18<Nikorasu18>	"don't do that"
+T 1394538839 18<Nikorasu18>	*SHRUG*
+T 1394538848 18<Nikorasu18>	y rifle no shoot. i pacman -Syu and evryting
+T 1394538851 18<MrElendig18>	it will stop nvidia from working
+T 1394538859 18<Nikorasu18>	I don't understand "partial update"
+T 1394538860 18<MrElendig18>	3.13.5 is old
+T 1394538863 18<Nikorasu18>	...
+T 1394538866 18<MrElendig18>	current kernel is 3.13.6
+T 1394538869 18<Nikorasu18>	Then
+T 1394538873 18<Bursihido18>	so
+T 1394538873 18<Nikorasu18>	my repo is out of date
+T 1394538882 18<MrElendig18>	-Syu from a up to date mirror and reboot
+T 1394538886 18<MrElendig18>	!mirrorstatus
+T 1394538887 18<phrik18>	Check the status of the mirrors here: http://www.archlinux.org/mirrors/status/
+T 1394538888 18<Bursihido18>	reboot
+T 1394538909 18<MrElendig18>	note: I can't open pastebin.com so I only looked at the title
+T 1394538911 18<Nikorasu18>	Is there a command to get my mirrorlist up to date?
+T 1394538923 18<Bursihido18>	yesh update
+T 1394538925 18<MrElendig18>	see that link ^
+T 1394538932 18<MrElendig18>	also
+T 1394538934 18<MrElendig18>	!mirrorlist
+T 1394538935 18<phrik18>	Mirrorlist generator: http://www.archlinux.org/mirrorlist/
+T 1394538935 18<Nikorasu18>	http://bpaste.net/show/7y4mPLBC3alHM5v2A4K3/
+T 1394538936 18<phrik18>	Title: Paste #7y4mPLBC3alHM5v2A4K3 at spacepaste (at bpaste.net)
+T 1394538941 18<MrElendig18>	Nikorasu: pacman -Q linux
+T 1394538952 18<Nikorasu18>	yeah it's 3.13.5-1
+T 1394538967 18<Bursihido18>	mr cool
+T 1394539065 18<stretchman18>	Linux stretchman 3.13.6-1-ARCH #1 SMP PREEMPT Fri Mar 7 22:47:48 CET 2014 x86_64 GNU/Linux
+T 1394539082 18<stretchman18>	I just updated last night
+T 1394539093 18<wasamasa18>	cool
+T 1394539093 18<Nikorasu18>	Sigh. I guess I was on the wrong repo...
+T 1394539105 18<Nikorasu18>	So for future, how do I know when my repo just decides to stop being cool
+T 1394539109 18<Bursihido18>	mr cool not replying
+T 1394539120 18<Bursihido18>	maybe he got hot
+T 1394539137 18<Nikorasu18>	?
+T 1394539140 18<Nikorasu18>	"hot"
+T 1394539145 18<Nikorasu18>	(Was that response to me?)
+T 1394539154 18<Bursihido18>	he got hot O
+T 1394539174 18<Namarrgon18>	Nikorasu: mirror, not repo. look at 'reflector'
+T 1394539186 18<Bursihido18>	right
+T 1394539226 18<Bursihido18>	MrElendig: i think you forgot something
+T 1394539234 18<MrElendig18>	Namarrgon: install kittypack
+T 1394539241 18<MrElendig18>	Bursihido: like what?
+T 1394539256 18<Bursihido18>	jelly
+T 1394539279 18<MrElendig18>	he is probably at work
+T 1394539283 18<MrElendig18>	and havn't pinged me
+T 1394539291 18<MrElendig18>	so how am I forgetting him?
+T 1394539310 18<Bursihido18>	ping him .. he's busy
+T 1394539333 24*	28w00tc0d3 is now known as 18Guest57651
+T 1394539428 18<Bursihido18>	MrElendig: how to ping
+T 1394539435 18<MrElendig18>	man ping
+T 1394539452 18<Bursihido18>	i don't have manual
+T 1394539486 18<Bursihido18>	Namarrgon: you have manual for ping
+T 1394539491 18<MrElendig18>	fix your system then
+T 1394539504 18<d9k18>	reel men dont need manuals.
+T 1394539505 18<Bursihido18>	pacman -S MrElendig
+T 1394539516 18<Bursihido18>	for manuals?
+T 1394539519 18<Bursihido18>	right
+T 1394539555 18<kryl18>	can you see that ? http://sprunge.us/SMIc please
+T 1394539566 18<Bursihido18>	yes nice kryl
+T 1394539571 18<MrElendig18>	!wtf /usr/share/man/man8/ping.8.gz
+T 1394539572 18<Bursihido18>	have fin
+T 1394539573 18<phrik18>	MrElendig: core/iputils
+T 1394539578 18<MrElendig18>	there you go
+T 1394539599 18<Bursihido18>	MrElendig: hmm im playing with you man..
+T 1394539719 18<Namarrgon18>	kryl: prepend the command with "LC_ALL=C" so that us non-french speaking people can understand it
+T 1394539785 18<Namarrgon18>	i can't find the factoid for it but i'm sure we had one
+T 1394539814 18<MrElendig18>	kryl: no, you can't have a nap, fire ze missiles at once!
+T 1394539847 18<MrElendig18>	kryl: and you clearly have a outdated dep
+T 1394539898 18<MrElendig18>	kryl: update your perl-module-build-tiny package
+T 1394539921 18<MrElendig18>	when you use stuff from aur you have to update it yourself when needed
+T 1394539952 18<PreK18>	guys, I have asus p5e, how the usb power on shutdown can be turned off ?
+T 1394539963 18<Hwkiller18>	Is the nvidia-mesa conflict fixed?
+T 1394539967 18<Hwkiller18>	(I can't check)
+T 1394539991 18<MrElendig18>	Hwkiller: you can check
+T 1394540012 18<JohnDory18>	What does prepended the locale do?
+T 1394540020 18<MrElendig18>	you are obviously connected to the intertubes, so you can go and check bugs.archlinux.org
+T 1394540038 18<MrElendig18>	JohnDory: sets the locale to C, which is engrish
+T 1394540053 18<Namarrgon18>	nooo! docopt why not in repos‽
+T 1394540062 18<Hwkiller18>	MrElendig: not very easily, no. I'm ssh'd in, and at work where they are very willing to block sites.
+T 1394540101 18<MrElendig18>	Hwkiller: w3m in the same ssh session
+T 1394540104 18<MrElendig18>	!next
+T 1394540105 18<phrik18>	Another satisfied customer! NEXT!
+T 1394540107 18<JohnDory18>	ANSCI right. But can't do any possible conversion. So keys that would be french (eug?) or say TIS-620, wil be engrish
+T 1394540148 18<Hwkiller18>	MrElendig: ? would you really consider that easier than juts asking here in this case?
+T 1394540158 18<MrElendig18>	JohnDory: it won't convert, it will just grab the engrish text out of the locale db
+T 1394540186 18<JohnDory18>	MrElendig: Yeah of course, like a semi-locale change setting for a command. Nice
+T 1394540197 18<MrElendig18>	Hwkiller: will most likely give a more accurate answer :p
+T 1394540201 18<Bursihido18>	im good in english Namarrgon and MrElendig that's why it was looking like bullshit
+T 1394540204 18<the_2nd18>	how can I copy files into root-only folders with e.g. kde? I know I can use 'sudo cp' but is there a way to use the GUI for that?
+T 1394540221 18<MrElendig18>	the_2nd: why would you want to?
+T 1394540239 18<MrElendig18>	the_2nd: anyway, in the kde menu there usually is a option to run donphin with root powers
+T 1394540247 18<MrElendig18>	the_2nd: or you could just use a te
+T 1394540254 18<MrElendig18>	dolphin*
+T 1394540269 18<Namarrgon18>	"kdesu dolphin" is probably going to work too
+T 1394540318 18<Bursihido18>	good for you
+T 1394540341 18<Bursihido18>	enough for today next time you guys going to ban me
+T 1394540365 18<Bursihido18>	or ther will be no next time
+T 1394540509 18<Namarrgon18>	he's broken
+T 1394540548 18<jelle18>	ban ?
+T 1394540821 18<antihero18>	Argh, NetworkManager won't connect at all.
+T 1394540826 18<antihero18>	temporarily using netctl
+T 1394540851 18<antihero18>	here's dmesg/journal https://gist.github.com/radiosilence/1a00ffbe39864f5e9419
+T 1394540852 18<phrik18>	Title: dmesg (at gist.github.com)
+T 1394540867 18<jelle18>	keyring not running?
+T 1394540949 18<antihero18>	me?
+T 1394540959 18<jelle18>	antihero: yah
+T 1394540964 18<antihero18>	it seems to be
+T 1394540978 18<MrElendig18>	it seems to be running, or it seems to be not running?
+T 1394540982 18<antihero18>	how to test it's functional, it def has a process
+T 1394540985 18<MrElendig18>	seems to not be running*
+T 1394541012 18<antihero18>	My key is in my config file
+T 1394541050 18<antihero18>	so it shouldn't need keyring?
+T 1394541304 18<Namarrgon18>	MrElendig: who came up with the configfile format for kittypack?
+T 1394541309 18<the_2nd18>	how can I copy files into root-only folders with e.g. kde? I know I can use 'sudo cp' but is there a way to use the GUI for that? (had a disconnect, so no idea whether someone already responded. sorry for that)
+T 1394541338 18<jelle18>	antihero: pgrep keyring
+T 1394541342 18<Namarrgon18>	the_2nd: try "kdesu dolphin"
+T 1394541358 24*	28Rev|SleepingFox is now known as 18TheReverend403
+T 1394541365 18<MrElendig18>	Namarrgon: Clark Evans
+T 1394541393 18<MrElendig18>	Namarrgon: designed by him and Ingy döt Net and Ben-Kiki
+T 1394541399 18<MrElendig18>	Namarrgon: http://en.wikipedia.org/wiki/YAML
+T 1394541400 18<phrik18>	Title: YAML - Wikipedia, the free encyclopedia (at en.wikipedia.org)
+T 1394541403 18<the_2nd18>	Namarrgon, looks great, thanks
+T 1394541437 18<Namarrgon18>	MrElendig: so commenting out with '#' should work?
+T 1394541440 18<farn18>	the_2nd: technically, you had 8 disconnects
+T 1394541494 18<MrElendig18>	Namarrgon: why would you want to comment something out?
+T 1394541502 18<the_2nd18>	farn, having torrent run at 90% bandwith and streaming southpark seems to kill my internet :D
+T 1394541512 18<Namarrgon18>	MrElendig: e.g. if i don't care about i686
+T 1394541517 18<MrElendig18>	the config isn't really ment to be used by mortals btw, I just picked yaml just to see how shitty it was :p
+T 1394541523 18<MrElendig18>	Namarrgon: just use -a x86_64
+T 1394541533 18<MrElendig18>	:p
+T 1394541537 18<Namarrgon18>	MrElendig: ah, ok
+T 1394541547 18<MrElendig18>	well, commenting out would work too
+T 1394541597 18<MrElendig18>	btw, line 32 should be a big hint about how to comment something :p
+T 1394541637 18<Namarrgon18>	yeah, i saw that but adding an # on the i686 line didn't do much
+T 1394541749 18<MrElendig18>	when not using -a, then the return depends on what the arch server decides to do, kittypack doesn't do any filtering client side
+T 1394541758 18<MrElendig18>	it is really just a more convenient curl :p
+T 1394541775 18<kryl18>	MrElendig, ok
+T 1394541840 18<MrElendig18>	someone documented the api on the wiki but I can't remember the page name
+T 1394541859 18<MrElendig18>	ahh here it is https://wiki.archlinux.org/index.php/Official_Repositories_Web_Interface
+T 1394541860 18<phrik18>	Title: Official Repositories Web Interface - ArchWiki (at wiki.archlinux.org)
+T 1394541885 18<MrElendig18>	"It is possible to use this parameter more than once in order to search for more than one architecture (but note that omitting it altogether will search for all architectures). "
+T 1394541900 18<MrElendig18>	since I don't do client side filtering, when you are not using -a you get everything
+T 1394541915 18<Namarrgon18>	i see
+T 1394541918 18<MrElendig18>	I could change that though
+T 1394542202 18<Namarrgon18>	a persistent way of setting arch/repo would be nice imo
+T 1394542225 18<Namarrgon18>	though it might contradict the main goal of the tool :p
+T 1394542273 18<MrElendig18>	I just wrote it because I was too lazy to go to archlinux.org/packages everytime people claimed they had the "latest" package
+T 1394542304 18<Earnestly18>	https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html
+T 1394542305 18<phrik18>	Title: Is Parallel Programming Hard, And, If So, What Can You Do About It? (at www.kernel.org)
+T 1394542310 18<Earnestly18>	Free book
+T 1394542313 18<bu5hm4n18>	hey ho if I update my system, I get a 404 from hosteurope mirror ... :/ bad ...
+T 1394542352 18<ingamedeo18>	Hi everyone...I'm having as issue with Google Chrome...when I search something on Google it search page looks like this http://i.imgur.com/qV9ZEJp.png Any ideas?
+T 1394542353 18<Earnestly18>	Update your mirrors
+T 1394542366 18<MrElendig18>	ingamedeo: use chromium instead
+T 1394542375 18<ingamedeo18>	MrElendig, Same problem.
+T 1394542377 18<Earnestly18>	!chromeis
+T 1394542378 18<phrik18>	Chrome is the Google branded release of the open source project Chromium. The only difference is branding and a few extra proprietary extensions (which work just fine in Chromium). You want extra/chromium.
+T 1394542378 18<MrElendig18>	and addblock
+T 1394542393 18<MrElendig18>	the page looks fine, what is the problem?
+T 1394542395 18<Earnestly18>	ingamedeo: What exactly is the problem you see?
+T 1394542395 18<wasamasa18>	ingamedeo: what exactly is the problem?
+T 1394542398 18<Earnestly18>	:o
+T 1394542402 18<bu5hm4n18>	Earnestly: mhmm did that ! :/
+T 1394542417 18<MrElendig18>	except for all the silly italian
+T 1394542419 18<ingamedeo18>	Earnestly, Search results looks bigger than normal..I mean the text
+T 1394542419 18<Earnestly18>	bu5hm4n: So that mirror is still out of date
+T 1394542426 18<MrElendig18>	ingamedeo: ctrl--
+T 1394542443 18<wasamasa18>	ingamedeo: C-0
+T 1394542446 18<ingamedeo18>	MrElendig, Silly italians?
+T 1394542447 18<MrElendig18>	or write your own css
+T 1394542482 18<ingamedeo18>	MrElendig, It's not zoom related
+T 1394542485 18<Earnestly18>	ingamedeo: It's mostly normal; http://a.pomf.se/riuroz.png2
+T 1394542488 18*	wasamasa finds it sillier that google insists on redirecting you to the domain with the correct tld
+T 1394542511 18<wasamasa18>	Earnestly: zibeon, aha
+T 1394542534 18<Earnestly18>	wasamasa: Google is now also taking away "Actually search for what you typed instead of our auto-corrected changes"
+T 1394542539 18<Earnestly18>	wasamasa: See AUR PKGBUILDs
+T 1394542571 18<keenerd18>	Earnestly: Google is so much nicer without JS.
+T 1394542574 18<ingamedeo18>	Earnestly, It's not..look at the text...Seems liek mine is bold
+T 1394542578 18<wasamasa18>	Earnestly: I've just grumbled and use quoting
+T 1394542607 18<Absolute018>	Do I need to reboot after running locale-gen?
+T 1394542609 18<Earnestly18>	ingamedeo: That's just how it gets rendered
+T 1394542612 18<Earnestly18>	Absolute0: No
+T 1394542621 18<Earnestly18>	keenerd: Example?
+T 1394542621 18<Absolute018>	Or logout/login?
+T 1394542628 18<bu5hm4n18>	Earnestly: ehm it does not matter which mirror I use, I get 404 Not found or 403 Forbidden ...
+T 1394542635 18<wasamasa18>	bu5hm4n: pacman -Syy
+T 1394542642 18<ingamedeo18>	Earnestly, Okay..Yeasterday it was working "as usual" ..How can I revert back?
+T 1394542642 18<Earnestly18>	u
+T 1394542649 18<forgottenarcher18>	whats a way to get my gps location ?
+T 1394542654 18<Earnestly18>	ingamedeo: No idea, chrome is weird
+T 1394542654 24*	28Sargath is now known as 18Sargath_off
+T 1394542663 18<ingamedeo18>	Earnestly, *looking
+T 1394542664 18<Earnestly18>	wasamasa: why you no u?
+T 1394542674 18<wasamasa18>	Earnestly: because I don't install yet
+T 1394542683 18<ingamedeo18>	Earnestly, Okay :/ I'm using chromium now btw
+T 1394542685 18<Earnestly18>	Absolute0: Just running locale-gen? No you don't need to reboot
+T 1394542688 18<keenerd18>	Earnestly: What?  Turn off JS and try using google services.  (Except plus, that does not count.)
+T 1394542720 18<keenerd18>	Earnestly: Search and mail are so much nicer.
+T 1394542752 18<Lehthanis18>	morning all
+T 1394542756 18<Absolute018>	Earnestly: what must you do for it to take effect?
+T 1394542780 18<Earnestly18>	keenerd: Ah, so it is
+T 1394542803 18<bu5hm4n18>	wasamasa: yeah still meanwhile at 7 mirrors ...
+T 1394542857 18<Earnestly18>	Absolute0: Just running locale-gen requires nothing.  Changing your locale will require you to relog.  Or you can set the environment variables for the current shell, but those will be lost if it dies.
+T 1394542879 18<wasamasa18>	Earnestly: "Figure 2.6: CPU Meets a Memory Barrier"
+T 1394542898 18<wasamasa18>	bu5hm4n: try adding: "Server = http://mirror.de.leaseweb.net/archlinux/$repo/os/$arch"
+T 1394542901 18<Earnestly18>	wasamasa: Yes, even "The Fish" talks about how the Cache Line works
+T 1394542918 18<Earnestly18>	And that book is old, Solaris old.  Still C99 and useful though.
+T 1394542958 18<bu5hm4n18>	wasamasa: thx ! :) I thought allthe mirrors where up to date all the time ... :o
+T 1394542984 18<wasamasa18>	bu5hm4n: try that one mirror script
+T 1394542987 18<Earnestly18>	bu5hm4n: Not always, and of course they need to sync themselves so there is a timeframe when they are updating themselves
+T 1394542993 18<wasamasa18>	!give bu5hm4n reflector
+T 1394542994 18<phrik18>	bu5hm4n: reflector -p http -c <country> --threads <number> -a 12 -f 5 --sort rate --save /etc/pacman.d/mirrorlist
+T 1394543007 18<Lehthanis18>	so I got windows installed...now on MBR and I don't care ;)  but I'm going to go reinstall syslinux...do I need to make my linux partition bootable and make the windows partition not bootable or should they both be marked bootable?
+T 1394543011 18<wasamasa18>	bu5hm4n: what country are you from?
+T 1394543011 18<bu5hm4n18>	wasamasa: thx ! :) will do that :)
+T 1394543071 18<wasamasa18>	Earnestly: I really dig the illustrations
+T 1394543091 18<bu5hm4n18>	wasamasa: germanny
+T 1394543104 18<wasamasa18>	bu5hm4n: germany and the us have like, the most mirrors
+T 1394543120 18<wasamasa18>	bu5hm4n: anyways, the leaseweb one is quite good
+T 1394543121 18<Nikorasu18>	MrElendig: hey. I had some things to do around the house but that was the fix.
+T 1394543138 18<bu5hm4n18>	wasamasa: yeah saw that at allmost all the mirrors from germany ar not in sync ... :o
+T 1394543138 18<Nikorasu18>	Now I"m on an up-to-date mirror, I updated, and GLX is loaded and now performance is good
+T 1394543181 18<Nikorasu18>	thanks MrElendig. And thanks Namarrgon for the point out to reflector
+T 1394543480 18<safeith18>	Hello, I need to convert this "https://gist.github.com/anonymous/9485270" htaccess rules to nginx rules, can any body help me about this
+T 1394543488 18<Lehthanis18>	for an MBR dual boot setup, does the linux partition AND the windows partition have to be marked bootable?
+T 1394543503 18<Lehthanis18>	or just the one with syslinux and /boot on it?
+T 1394543504 18<wasamasa18>	safeith: read the wonderful docs :3
+T 1394543530 18<MrElendig18>	Lehthanis: mbr is not what you think it is
+T 1394543538 18<Lehthanis18>	OMG
+T 1394543543 18<wasamasa18>	safeith: this is #archlinux, not #webdevelopercentral
+T 1394543548 18<MrElendig18>	Lehthanis: and no, only one can be marked as bootable, and it doesn't really matter which
+T 1394543583 18<tb0111010018>	!gm
+T 1394543583 18<Nikorasu18>	Lehthanis: ALso note that newer versions of Windows like to have their partitions set to active.
+T 1394543585 18<phrik18>	Good morning to all from tb01110100!
+T 1394543592 18<Lehthanis18>	because when I reinstall syslinux its going to update the bootloader anyways
+T 1394543635 18<Lehthanis18>	for win7 on /dev/sda3 and arch on /sda1 which one would you recommend marking bootable?
+T 1394543665 18<Nikorasu18>	Lehthanis: I guess, if /boot is on /dev/sda1 then mark that.
+T 1394543675 18<Lehthanis18>	thats what I thought...
+T 1394543682 18<Nikorasu18>	Ok, if boot is there then yeah, do that
+T 1394543695 18<Nikorasu18>	(I have a separate boot is why I mention)
+T 1394543719 18<Lehthanis18>	so from here I can mount sda1 and arch-chroot into it and install syslinux just as before right?
+T 1394543736 18<Nikorasu18>	"from here" == ?
+T 1394543742 18<Nikorasu18>	But yeah, probably.
+T 1394543783 18<Lehthanis18>	from here being, my next step...I've installed windows, it overwrote the bootloader...so now I'm in irssi on the arch cd...
+T 1394543788 18<Nikorasu18>	Oh ok
+T 1394543792 18<Nikorasu18>	Yes that should work
+T 1394543803 18<Nikorasu18>	What windows, may I ask?
+T 1394543805 18<Lehthanis18>	I just need to mark sda1 bootable, chroot in, and reinstall syslinux
+T 1394543806 18<Lehthanis18>	win7
+T 1394543815 18<Nikorasu18>	Ok. You have an install CD for that I presuem
+T 1394543819 18<Nikorasu18>	^presuem^presume
+T 1394543822 18<Lehthanis18>	usb
+T 1394543829 18<Lehthanis18>	usb stick to be exact
+T 1394543849 18<Nikorasu18>	if all goes pear-shaped, you can run that, go to the advanced setup options and run bootrec.exe /fixBoot and then the same command with /fixMBR if things don't work out
+T 1394543857 18<Nikorasu18>	that'll at least get you windows back, if it's useful
+T 1394543874 18<Nikorasu18>	Your plan sounds fine though.
+T 1394543875 18<Nikorasu18>	Shoudl work
+T 1394543905 18<MrElendig18>	ls
+T 1394543907 18<smokex18>	imo getting rid of windows forever is a much petter option
+T 1394543911 18<MrElendig18>	bha wrong channel
+T 1394543944 18<Nikorasu18>	haha very true smokex. For me Windows is my gaming machine,
+T 1394543962 18<Nikorasu18>	Arch all the way, except when I want to play specific non-linux games, I'll then boot into windows for a few hours.
+T 1394543964 18<Lehthanis18>	Nikorasu: you're saying when I install syslinux it may break window's ability to boot from syslinux?
+T 1394543978 18<Nikorasu18>	Window shouldn't be able to boot from syslinux at all Lehthanis. Not as much as I know
+T 1394544011 18<Nikorasu18>	Lehthanis: Windows doesn't like to play nice with Linux. You'll be using your mobo bios or uefi to boot from mbr to boot into syslinux your new install, which will then run arch. iirc
+T 1394544027 18<Nikorasu18>	gracing over the nuances here. lots of "booting"
+T 1394544037 18<MrElendig18>	syslinux can chainload windows
+T 1394544037 18<Nikorasu18>	But, my point is, windows wasn't part of it
+T 1394544043 18<Nikorasu18>	Yes. MrElendig is very correct.
+T 1394544059 18<MrElendig18>	operating system doesn't "boot from" bootloaders
+T 1394544062 18<Nikorasu18>	Lehthanis: That's what you'll be trying to do. You're replacing Windows bootloader entirely... well at least the low level part.
+T 1394544068 18<Lehthanis18>	yeah, thats what I was thinking...chainloading
+T 1394544094 18<Lehthanis18>	my default will be linux, but from the syslinux bootmenu I can switch to windows right?
+T 1394544101 18<Nikorasu18>	You can change your default if you like, Lehthanis
+T 1394544103 18<Lehthanis18>	or am I misinterpreting chainloading
+T 1394544119 18<Nikorasu18>	Your default will be whatever you like. But syslinux will load first and give you the choice to load either OS.
+T 1394544128 18<Lehthanis18>	right, thats what I was hoping for
+T 1394544134 18<Nikorasu18>	So you can set it to proceed after a quick stop to check if you want to boot into linux, if you set Windows as default
+T 1394544160 18<Nikorasu18>	Basically, think of it as adding a screen to choose windows or linux between you and your chosen operating system. Not too much is changed for an end-user otherwise.
+T 1394544163 18<Lehthanis18>	or vice versa if I want linux default
+T 1394544166 18<Nikorasu18>	Right
+T 1394544168 18<MrElendig18>	!wiki syslinux
+T 1394544169 18<phrik18>	MrElendig: https://wiki.archlinux.org/index.php/syslinux
+T 1394544169 18<MrElendig18>	read that
+T 1394544177 18<Lehthanis18>	I did...
+T 1394544183 18<Nikorasu18>	Lehthanis: So it'll boot into linux by default, but you can of course just use the menu to say "windows please"
+T 1394544192 18<Nikorasu18>	Lehthanis: but again. YOU set the default. If not at first, then later.
+T 1394544201 18<Lehthanis18>	right, got it...
+T 1394544202 18<Nikorasu18>	Lehthanis: : 3
+T 1394544215 18<Lehthanis18>	well, here goes something...I'll probably be back later.  Thanks for all the helps!
+T 1394544219 18<Nikorasu18>	Lehthanis: K. Good luck
+T 1394544262 18<Lehthanis18>	thanks!
+T 1394544311 18<tb0111010018>	speaking of syslinux, I want that btrfs bug fixed pronto! I'm sick of grub.
+T 1394544312 18<tb0111010018>	:/
+T 1394544335 18<Nikorasu18>	What's the Idon'twanttoGoogleit benefit of syslinux?
+T 1394544336 18<jelle18>	fixit
+T 1394544373 18<MrElendig18>	grub is superiour anyway
+T 1394544379 18<jelle18>	o.O
+T 1394544384 18<jelle18>	gummiboot?
+T 1394544391 18<Nikorasu18>	I boot manually. With my bare hands.
+T 1394544394 18<Nikorasu18>	...and grub
+T 1394544406 18*	MrElendig asumes tb01110100 has a potato pc from the dark ages that doesn't do uefi
+T 1394544421 18<tb0111010018>	MrElendig: dell dimension 4600
+T 1394544423 18*	Nikorasu has a potato pc that doesn't do uefi and he LIKES it that way
+T 1394544425 18<wasamasa18>	MrElendig: hey, the dark ages weren't that bad!
+T 1394544436 18<Nikorasu18>	UEFI is just DRM on top of BIOS. No thaaaaanks.
+T 1394544442 18<MrElendig18>	Nikorasu: wrong
+T 1394544444 18*	tb01110100 does have a potato pc from the dark ages that doesn't do uefi
+T 1394544445 18<MrElendig18>	totallly wrong
+T 1394544456 18<Nikorasu18>	It's not wrong as much as it is obtuse lol
+T 1394544460 18<jelle18>	lol
+T 1394544460 18<MrElendig18>	1. uefi has NOTHING to do with drm
+T 1394544464 18*	wasamasa has a potato thinkpad from the dark ages that doesn't do uefi
+T 1394544466 18<Nikorasu18>	Wellllllll
+T 1394544469 18<MrElendig18>	2. uefi does NOT sit on top of bios
+T 1394544471 18<xuser18>	is fluxbox from the dark ages? :)
+T 1394544472 18<Nikorasu18>	Welll.
+T 1394544476 18*	jelle has UEFI, doesn't use it :P
+T 1394544479 18<jelle18>	xuser: yes!
+T 1394544484 18*	MrElendig has uefi and uses it
+T 1394544489 18<MrElendig18>	so much nicer
+T 1394544495 18<d9k18>	well
+T 1394544497 18<d9k18>	less horrible.
+T 1394544500 18<MrElendig18>	reinstalling windows doesn't nuke the bootloader
+T 1394544503 18<MrElendig18>	boots faster
+T 1394544518 18<MrElendig18>	and now I can see just how much time is wasted in the firmware at boot!
+T 1394544521 18<tb0111010018>	I should be building a brand new pc for my birthday late april, though. That WILL be uefi.
+T 1394544529 18<jelle18>	hah
+T 1394544529 18<Nikorasu18>	UEFI sketches me out because it was basically an attempt to control low level. [Citation: https://en.wikipedia.org/wiki/Uefi#Criticism]
+T 1394544531 18<phrik18>	Title: Unified Extensible Firmware Interface - Wikipedia, the free encyclopedia (at en.wikipedia.org)
+T 1394544550 18<JohnDory18>	what fs is best for SSD?
+T 1394544560 18<jelle18>	ssdfs
+T 1394544561 18<MrElendig18>	Nikorasu: a lot of the ranting against uefi is fud
+T 1394544561 18<wasamasa18>	ssdfs obviously
+T 1394544565 18<tb0111010018>	!flamewar
+T 1394544567 18<phrik18>	Sadly, the point of this discussion has shifted from discussion about archlinux to discussion about how right you are. Take it to #flood, you sissies.
+T 1394544568 18<jelle18>	wasamasa: wat did you just do :O
+T 1394544576 18<wasamasa18>	jelle: great minds think alike
+T 1394544579 18<MrElendig18>	Nikorasu: and/or written by people who havn't actually read what uefi really is :p
+T 1394544582 18<jelle18>	wasamasa: <#
+T 1394544584 18<wasamasa18>	jelle: though no, I don't want to be a TU
+T 1394544588 18<MrElendig18>	uefi sucks, but it sucks less than old school bios
+T 1394544588 18<jelle18>	:(
+T 1394544603 18<MrElendig18>	the main problem is that people think that uefi == secureboot
+T 1394544607 18<tb0111010018>	I guess I'm old school then. :(
+T 1394544612 18<wasamasa18>	jelle: couldn't invest enough time for that
+T 1394544613 18<jelle18>	it's not secureboot????
+T 1394544617 18*	jelle runs
+T 1394544623 18<Nikorasu18>	+ 1
+T 1394544636 18*	tb01110100 catches jelle and slaps him with a stuffed tux
+T 1394544642 18<jelle18>	wasamasa: ok but you have time to prosticanite on irc :o
+T 1394544648 18<wasamasa18>	jelle: I'm at work, ok
+T 1394544675 18<Nikorasu18>	wasamasa I NEED THOSE REPORTS ON MY OFFICE DESK YESTERDAY
+T 1394544676 18<jelle18>	I'm at work, trolling on ircs
+T 1394544678 18<wasamasa18>	!grab jelle
+T 1394544678 18<phrik18>	wasamasa: Tada!
+T 1394544699 18<jelle18>	you mean that code
+T 1394544713 18<wasamasa18>	yeah, that code
+T 1394544731 18<wasamasa18>	I do work at web agency after all
+T 1394544736 18<r00tine18>	ssdfs is a joke, isnt it?
+T 1394544740 18<Nikorasu18>	lol ...
+T 1394544744 18<wasamasa18>	!give r00tine zing
+T 1394544744 18<phrik18>	r00tine: OH SNAP!
+T 1394544747 18<jelle18>	r00tine: it is
+T 1394544764 18<tb0111010018>	btrfsftw!
+T 1394544775 18<r00tine18>	hehe ok
+T 1394544797 18<wasamasa18>	jelle: if I get accepted at that next internship, I won't have time for irc for about six months
+T 1394544807 18<jelle18>	:o
+T 1394544817 18<wasamasa18>	but that's ok
+T 1394544825 18<wasamasa18>	I'll be churning out business software instead
+T 1394544829 18<jelle18>	no it isn't!
+T 1394545889 18<Toxmi18>	Hi, I've just installed Win8.1 and I'm trying to install Fedora 20 and then Archlinux (each on separate partition). I'm a home user and I prefer single root partition scheme (no LVM) what I want to ask is whether I need to create a separate /boot partition or not.
+T 1394545902 18<Toxmi18>	I want Fedora to handle the boot management
+T 1394545916 18<MrElendig18>	Toxmi: uefi capable hardware?
+T 1394545928 18<Toxmi18>	and from GRUB installed with foedora I boot Arch which is installed on another partition (single root)
+T 1394545934 18<Toxmi18>	MrElendig, MBR
+T 1394545938 18<Toxmi18>	No
+T 1394545939 18<MrElendig18>	Toxmi: ...
+T 1394545946 18<MrElendig18>	mbr is NOT what you think it is
+T 1394545957 18<MrElendig18>	mbr has nothing to do with uefi or not
+T 1394545975 18<Toxmi18>	MrElendig, Ow, how can i found it?
+T 1394545975 18<st0ne2thedge18>	MrElendig: It has something to do with it though :P
+T 1394545981 18<MrElendig18>	st0ne2thedge: no
+T 1394545989 18<Toxmi18>	I've a laptop wich amde arond 2009 I think
+T 1394545999 18<MrElendig18>	probably not uefi capabe
+T 1394546016 18<MrElendig18>	I suggest a shared /boot with a folder for each distro
+T 1394546023 18<Toxmi18>	Yeah, It's not I didn't see any special in the bios (If count :D)
+T 1394546030 18<MrElendig18>	just mount it to whatever and ln the /boot to that folder on each distro
+T 1394546057 18<st0ne2thedge18>	MrElendig: some UEFI firmwares dont even allow UEFI-MBR boot
+T 1394546057 18<Toxmi18>	MrElendig, Great but does the / partition for each distro need to be bootable?
+T 1394546059 18<MrElendig18>	eg mount it to /realboot and then ln -s /realboot/distro /boot
+T 1394546071 18<smokex18>	identifying partitions using uuid should simplify booting and eliminate some possible errors
+T 1394546090 18<MrElendig18>	and then just write an entry for each os in your grub config
+T 1394546108 18<MrElendig18>	doesn't really matter which of the gnu/linux distroes you install grub from
+T 1394546116 18<Toxmi18>	MrElendig, This is a thing which I prefer (simpler management)
+T 1394546284 19*	Now talking on 22#archlinux
+T 1394546284 22*	Topic for 22#archlinux is: Welcome to Arch Linux World Domination, Inc. <☃ > Remember, Arch doesn't like being neglected <+> Linux 3.13 with modular keyboard support in [core], read the news http://goo.gl/OeKKHx <+> Upgrade GnuTLS to 3.2.12 or later due to critical crypto bug http://goo.gl/EcMdWc <+> Apache 2.4 is now in [extra] http://bit.ly/1fd0JSw
+T 1394546284 22*	Topic for 22#archlinux set by 26demize (24Sat Mar  8 20:32:44 2014)
+T 1394546284 18<***18>	Starting Buffer Playback...
+T 1394546284 18<Toxmi18>	[13:55:57] Do I have to make root partitions bootable?
+T 1394546284 18<MrElendig18>	[13:56:03] no
+T 1394546284 18<Toxmi18>	[13:56:08] I mean just addressing the kernel ...
+T 1394546284 18<Toxmi18>	[13:56:16] Ok, I get it
+T 1394546284 18<MrElendig18>	[13:56:17] install grub to mbr and just tell your bios to boot that
+T 1394546284 18<Toxmi18>	[13:56:19] Thanks
+T 1394546284 18<MrElendig18>	[13:56:29] instead of installing grub to a partition
+T 1394546284 18<oskude18>	[13:56:32] does grub even care about boot flags?
+T 1394546284 18<Toxmi18>	[13:56:33] MrElendig, yeah thanks dude
+T 1394546284 18<MrElendig18>	[13:56:41] oskude: your bios does
+T 1394546284 18<oskude18>	[13:56:54] MrElendig: like when?
+T 1394546284 18<MrElendig18>	[13:57:14] oskude: like if you have your bootloader installed to a partition instead of the mbr
+T 1394546284 18<MrElendig18>	[13:57:30] oskude: then the bios will look at the boot flag to figure out which partition to load it from
+T 1394546284 18<ciurkut18>	[13:57:34] hiho i have problem with fonts... they are so sharp that my eyes hurt :c i mean so skinny and small
+T 1394546284 18<ciurkut18>	[13:57:37] any idea?
+T 1394546284 18<oskude18>	[13:57:48] MrElendig: i wonder how many BIOS actually does that
+T 1394546284 18<MrElendig18>	[13:57:54] ciurkut: enable hinting?
+T 1394546284 18<MrElendig18>	[13:57:57] oskude: all
+T 1394546284 18<***18>	Buffer Playback Complete.
+T 1394546289 18<MrElendig18>	oskude: but most people just install the bootloader to the mbr instead
+T 1394546292 18<oskude18>	MrElendig: interesting
+T 1394546301 18<MrElendig18>	because it is way more reliable and saner
+T 1394546307 18<ciurkut18>	MrElendig, hinting in gnome tweak tool is set on full
+T 1394546329 18<MrElendig18>	ciurkut: buy a lower dpi screen then :p
+T 1394546566 18<Toxmi18>	Do you recommend Encryption for a /home partition. I mean is it fast enough and robust? ( I'm contemplating about shared /home partition among Fedora and Arch)
+T 1394546584 18<ciurkut18>	http://i.imgur.com/N3psWtj.png any idea? are fonts supposed to look like this?
+T 1394546659 18<Earnestly18>	!give ciurkut monofonts
+T 1394546661 18<phrik18>	ciurkut: A short guide and list for setting up and using good monospace fonts: https://gist.github.com/Earnestly/7024056
+T 1394546688 18<Earnestly18>	Applies to most
+T 1394546699 18<Earnestly18>	But yes, that is what fonts look like without configuration
+T 1394546712 18<oskude18>	Toxmi: please note that different versions of software might have different config file syntax, and if they live in your $HOME...
+T 1394546712 18<Earnestly18>	!give ciurkut freetype
+T 1394546720 18<phrik18>	ciurkut: Get freetype2-git from the AUR or heftig's repository <https://bbs.archlinux.org/viewtopic.php?id=117157>. The official package doesn't support ClearType subpixel hinting <https://bugs.archlinux.org/task/35274>
+T 1394546766 18<Toxmi18>	oskude, OK thanks.... again more simpler approach seems better :D
+T 1394546869 18<ciurkut18>	phrik, freetype2 conflicts with freetype2-git
+T 1394546879 18<ciurkut18>	should i change?
+T 1394546887 18<oskude18>	!think
+T 1394546954 18<Earnestly18>	ciurkut: ಠ_ಠ, ^
+T 1394546959 18<MrElendig18>	when you use stuff from aur you have to keep it up to date yourself
+T 1394547011 18<oskude18>	Earnestly: hmm, would cleartype be useful for ttf-dejavu?
+T 1394547040 18<wasamasa18>	oskude: cff is more useful
+T 1394547048 18<oskude18>	cff?
+T 1394547060 18<wasamasa18>	the magic freetyp2-git includes :P
+T 1394547070 18<Earnestly18>	oskude: See the comparison screenshots in the bug report.  To me, the cleartype hinter (instead of freetypes own SPH) produces more correct looking glyphs when compared to the actual design of the font
+T 1394547078 18<Earnestly18>	wasamasa: freetype2 includes the CFF hinter as well
+T 1394547085 18<wasamasa18>	Earnestly: oh right
+T 1394547102 18<wasamasa18>	maybe I should switch to freetype2 now and test
+T 1394547124 18<Earnestly18>	oskude: CFF, Compact Font Format (Hinter) is a hinter donated by Adobe to the freetype project.  It is used for hinting Type1 fonts, such as OpenType.
+T 1394547144 18<Earnestly18>	oskude: The ClearType hinter is an implementation of the Microsoft ClearType hinter they use for their TrueType fonts.
+T 1394547164 18<Earnestly18>	The reason the cleartype hinter is enabled by default is concerns over patents or some nonsense
+T 1394547194 18<oskude18>	roger
+T 1394547224 18<Earnestly18>	oskude: Generally I consider the CFF hinter to be superior anyway, so I try to use opentype where I can.  It just tends to produce more consistently good looking fonts without me having to endless tweak.

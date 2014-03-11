@@ -1,0 +1,169 @@
+T 1393836987 19*	Now talking on 22#bnc4free
+T 1393836987 22*	Topic for 22#bnc4free is: 2Welcome to BNC4FREE - Free IRC Bouncers on Demand - 7Site: http://bnc4free.com/ - 4We provide Free IRC Bouncers to networks other than those listed at http://bnc4free.com/?page_id=11 - 12TOS: http://bnc4free.com/tos - 101 BNC / Person  - 6Use !request to request a BNC. 
+T 1393836987 22*	Topic for 22#bnc4free set by 26BNC4FREE!services@bnc4free.services (24Fri Feb 28 19:18:47 2014)
+T 1393836988 -18BNC4FREE-	Hi There! Welcome to BNC4FREE. In order to request your Free Bouncer, use !request in this channel and fill in the required fields. If you need any support or have any questions, Please mention them in the channel and a member of staff will be with you as soon as possible. Don't forget to follow us at http://bnc4free.com/facebook and http://bnc4free.com/twitter - Have a Nice Day!
+T 1393837007 20<Thonneve>30	!request 
+T 1393837008 18<BNC4FREE18>	Not enough parameters.
+T 1393837008 18<BNC4FREE18>	Syntax: !REQUEST [USERNAME] [IRC SERVER OR NETWORK NAME] [IRC PORT] [EMAIL]
+T 1393837008 18<BNC4FREE18>	If no 12IRC SERVER and 12IRC PORT are given, the server you are making this request from will be used.
+T 1393837008 18<BNC4FREE18>	If you would like to use SSL to connect to the IRC network, please add a + in front of the port and make sure the port you request for allows SSL connections.
+T 1393837008 18<BNC4FREE18>	Please ensure you have read our 12Terms of Service before requesting which can be found at 12http://bnc4free.com/tos
+T 1393837029 20<Thonneve>30	!request thoneve
+T 1393837029 18<BNC4FREE18>	Not enough parameters.
+T 1393837029 18<BNC4FREE18>	Syntax: !REQUEST [USERNAME] [IRC SERVER OR NETWORK NAME] [IRC PORT] [EMAIL]
+T 1393837029 18<BNC4FREE18>	If no 12IRC SERVER and 12IRC PORT are given, the server you are making this request from will be used.
+T 1393837029 18<BNC4FREE18>	If you would like to use SSL to connect to the IRC network, please add a + in front of the port and make sure the port you request for allows SSL connections.
+T 1393837029 18<BNC4FREE18>	Please ensure you have read our 12Terms of Service before requesting which can be found at 12http://bnc4free.com/tos
+T 1393837073 20<Thonneve>30	!request thoneve irc.rizon.net 6667 nathanmarck@live.com
+T 1393837073 18<BNC4FREE18>	04Error: The email address 12nathanmarck@live.com has already been used.
+T 1393842903 24*	28WhiteX is now known as 18WhiteX_FloatingAwayyyyy
+T 1393843051 24*	28WhiteX_FloatingAwayyyyy is now known as 18WhiteX
+T 1393844126 24*	rison has quit (Remote host closed the connection)
+T 1393844126 24*	Guest5959 has quit (Remote host closed the connection)
+T 1393844126 24*	wolfe has quit (Remote host closed the connection)
+T 1393844126 24*	thecoins[Away] has quit (Remote host closed the connection)
+T 1393844585 24*	28WhiteX is now known as 18FliggleDuck
+T 1393844616 24*	28FliggleDuck is now known as 18WhiteX
+T 1393844967 24*	28WhiteX is now known as 18FliggleDuck
+T 1393844974 24*	28FliggleDuck is now known as 18FliggleDuck_Flapping
+T 1393845471 23*	Yin (Yin@Rizon-F565FECD.idiot.stole-my.pw23) has joined
+T 1393845472 24*	28Yin is now known as 18Guest5900
+T 1393845986 23*	rison (rison@40DA6790:194FEEA0:2038ACDB:IP23) has joined
+T 1393846076 23*	thecoins[Away] (thecoins@600069C2:194FEEA0:2038ACDB:IP23) has joined
+T 1393847440 24*	28FliggleDuck_Flapping is now known as 18WhiteX
+T 1393848735 24*	28WhiteX is now known as 18WhiteX_Bouncing
+T 1393850732 23*	Noctisx (noctisx@son.of.gondor23) has joined
+T 1393850740 24*	Noctisx (noctisx@son.of.gondor24) has left (Leaving)
+T 1393852557 23*	KongouOTP (noctisx@son.of.gondor23) has joined
+T 1393854759 24*	Francokarl has quit (Excess Flood)
+T 1393854815 23*	Francokarl (o@hi.im.frank23) has joined
+T 1393855139 18<Francokarl18>	.commands
+T 1393855148 18<Francokarl18>	!report
+T 1393855153 18<Francokarl18>	.help
+T 1393855154 18<Francokarl18>	!help
+T 1393855165 18<Francokarl18>	!remove
+T 1393855165 18<BNC4FREE18>	Not enough parameters.
+T 1393855165 18<BNC4FREE18>	Syntax: !REMOVE [REQUEST ID/USERNAME].
+T 1393855182 18<[nas]peter18>	hi
+T 1393855188 18<Francokarl18>	!remove Francokarl
+T 1393855192 18<BNC4FREE18>	12Francokarl, Information on how to remove your account has been sent to the email address you used to request.
+T 1393855195 18<Francokarl18>	hi
+T 1393855202 18<[nas]peter18>	Why do yu want to get rid of your BNC if I may know ^_^?
+T 1393855210 18<Francokarl18>	!verify remove d9725b6f149dce1b4adb89c0823001f2
+T 1393855214 18<BNC4FREE18>	12Francokarl: Your Bouncer has been succesfully removed.
+T 1393855238 18<Francokarl18>	because i have many bncs
+T 1393855241 18<[nas]peter18>	oh ok
+T 1393857041 24*	Duja has quit (Killed (NickServ (GHOST command used by Mikimiki)))
+T 1393857106 23*	SlyFourEyes (Duja@Rizon-2B9A5E71.not.leav.in23) has joined
+T 1393860687 24*	28Feriipe is now known as 18Yoshi_Amarelo
+T 1393862248 24*	Francokarl has quit (Excess Flood)
+T 1393862327 23*	Francokarl (o@D29422C0.F5683B6.3CED19D4.IP23) has joined
+T 1393863154 24*	Joey has quit (Ping timeout: 240 seconds)
+T 1393863202 23*	Joey (~joe@91A86707.D693C69A.20FF9D7C.IP23) has joined
+T 1393866079 24*	Francokarl has quit (Excess Flood)
+T 1393866257 23*	Francokarl (o@D29422C0.F5683B6.3CED19D4.IP23) has joined
+T 1393867565 22*	26ChanServ gives channel operator status to 18Tarmac
+T 1393868150 23*	Bulunmayan (~mIRC@4357A275.86BB3C14.10862213.IP23) has joined
+T 1393868168 24*	Bulunmayan (~mIRC@4357A275.86BB3C14.10862213.IP24) has left
+T 1393868505 24*	neurotic- has quit (Quit: -)
+T 1393868522 24*	cholan[off] has quit (Ping timeout: 240 seconds)
+T 1393868552 24*	[BNC]jemiee has quit (Quit: fBNC - http://bnc4free.com/)
+T 1393868602 24*	george105948 has quit (Ping timeout: 240 seconds)
+T 1393868659 24*	zz_coubertas has quit (Remote host closed the connection)
+T 1393868675 24*	KongouOTP has quit (Remote host closed the connection)
+T 1393868687 23*	neurotic- (~neurotic@AD38DAF4:BCF464E2:AD8C6C98:IP23) has joined
+T 1393868717 23*	Noctisx (Noctisx@Rizon-DFB7FA76.only.the-best.xxx23) has joined
+T 1393869677 23*	cholan[off] (~cholan@AD38DAF4:BCF464E2:AD8C6C98:IP23) has joined
+T 1393869817 23*	george105948 (~george105@AD38DAF4:BCF464E2:AD8C6C98:IP23) has joined
+T 1393869887 23*	jemiee (~jemiee@Rizon-3C5AEFBA.shagged.us23) has joined
+T 1393870187 23*	zz_coubertas (~coubertas@AD38DAF4:BCF464E2:AD8C6C98:IP23) has joined
+T 1393870694 24*	Joey has quit (Ping timeout: 240 seconds)
+T 1393870755 23*	Joey (~joe@D095B034.289F82A4.3E5B9291.IP23) has joined
+T 1393871965 23*	wolfe (~wolfe@teotwawki.irc23) has joined
+T 1393877865 24*	Francokarl has quit (Quit: potatoes for you)
+T 1393878167 23*	Francokarl (o@D29422C0.F5683B6.3CED19D4.IP23) has joined
+T 1393881462 24*	Francokarl has quit (Excess Flood)
+T 1393881537 23*	Francokarl (o@hi.im.frank23) has joined
+T 1393893405 23*	Succeed (~Succeed@687D22CC.7C9C7512.807366BF.IP23) has joined
+T 1393893421 18<Succeed18>	!request 
+T 1393893421 18<BNC4FREE18>	Not enough parameters.
+T 1393893421 18<BNC4FREE18>	Syntax: !REQUEST [USERNAME] [IRC SERVER OR NETWORK NAME] [IRC PORT] [EMAIL]
+T 1393893421 18<BNC4FREE18>	If no 12IRC SERVER and 12IRC PORT are given, the server you are making this request from will be used.
+T 1393893421 18<BNC4FREE18>	If you would like to use SSL to connect to the IRC network, please add a + in front of the port and make sure the port you request for allows SSL connections.
+T 1393893421 18<BNC4FREE18>	Please ensure you have read our 12Terms of Service before requesting which can be found at 12http://bnc4free.com/tos
+T 1393893459 18<Succeed18>	!request dell irc.icq.com 6667 laxusdreyar1@yahoo.com
+T 1393893459 18<BNC4FREE18>	04Error: We have currently suspended requests for the network you have requested. Please try again later.
+T 1393893947 24*	Succeed (~Succeed@687D22CC.7C9C7512.807366BF.IP24) has left
+T 1393897027 22*	26Robby sets ban on 18*!*@41.130.*
+T 1393897102 22*	26Robby has kicked 18Ahlawy from 22#bnc4free (24bye)
+T 1393897310 23*	Ahlawy (Ahlawy@Ahlawy.masry23) has joined
+T 1393900246 22*	26Robby sets ban on 18*!*@Ahlawy.masry
+T 1393900246 22*	26Robby has kicked 18Ahlawy from 22#bnc4free (24i said bye)
+T 1393901870 24*	Noctisx (Noctisx@son.of.gondor24) has left (Leaving)
+T 1393909139 23*	Noctisx (Noctisx@son.of.gondor23) has joined
+T 1393922884 24*	28Neptune_ is now known as 18Neptune|Away
+T 1393923216 24*	28Neptune|Away is now known as 18Neptune_
+T 1393944829 22*	26BNC4FREE sets ban on 18*!*@78.191.30.29
+T 1393949268 23*	PackardBell (Pack@rd.bell23) has joined
+T 1393949536 24*	[BNC]Menno has quit (Remote host closed the connection)
+T 1393949536 24*	Altayrl has quit (Remote host closed the connection)
+T 1393949536 24*	SlyFourEyes has quit (Remote host closed the connection)
+T 1393949536 24*	alfie has quit (Remote host closed the connection)
+T 1393949536 24*	arcunhacked has quit (Remote host closed the connection)
+T 1393949536 24*	eeender|away has quit (Remote host closed the connection)
+T 1393949536 24*	^Rey^ has quit (Remote host closed the connection)
+T 1393949536 24*	uwii has quit (Remote host closed the connection)
+T 1393949536 24*	Lisya[OFF] has quit (Remote host closed the connection)
+T 1393949536 24*	WhiteX_Bouncing has quit (Remote host closed the connection)
+T 1393949732 23*	Altayrl (Altayrl@Rizon-2B9A5E71.not.leav.in23) has joined
+T 1393949794 23*	Duja (Duja@Rizon-2B9A5E71.not.leav.in23) has joined
+T 1393949855 23*	[BNC]Menno (Menno@Rizon-2B9A5E71.not.leav.in23) has joined
+T 1393949945 23*	WhiteX_Bouncing (~WhiteX@Rizon-318ECEA.some.sex.so.they.shagged.us23) has joined
+T 1393950005 23*	alfie (alfie@Rizon-3240996E.shagged.us23) has joined
+T 1393950035 23*	arcunhacked (arcunhacke@Rizon-E85890CF.bnc4free.com23) has joined
+T 1393950096 23*	eeender|away (eeender@Rizon-338FE056.just.investigat.in23) has joined
+T 1393950367 23*	uwii (uwii@Rizon-E85890CF.bnc4free.com23) has joined
+T 1393950425 23*	Rey (Rey@Rizon-3240996E.shagged.us23) has joined
+T 1393952440 24*	Negrito has quit (Quit: 12EliteBNC - http://elitebnc.org 4(Auto-Removal: idle account/not being used))
+T 1393955949 24*	Noctisx has quit (Quit: Fliptable)
+T 1393957127 23*	Noctisx (Noctisx@Rizon-DFB7FA76.only.the-best.xxx23) has joined
+T 1393966291 23*	Owien (~AlyaNatas@E14ED719.C566CEA9.30C23796.IP23) has joined
+T 1393966405 18<Owien18>	!request
+T 1393966406 18<BNC4FREE18>	Not enough parameters.
+T 1393966406 18<BNC4FREE18>	Syntax: !REQUEST [USERNAME] [IRC SERVER OR NETWORK NAME] [IRC PORT] [EMAIL]
+T 1393966406 18<BNC4FREE18>	If no 12IRC SERVER and 12IRC PORT are given, the server you are making this request from will be used.
+T 1393966406 18<BNC4FREE18>	If you would like to use SSL to connect to the IRC network, please add a + in front of the port and make sure the port you request for allows SSL connections.
+T 1393966406 18<BNC4FREE18>	Please ensure you have read our 12Terms of Service before requesting which can be found at 12http://bnc4free.com/tos
+T 1393966427 18<Owien18>	!request Owien irc.dal.net 6667 kaitodaumoto@hotmail.com
+T 1393966428 18<BNC4FREE18>	04Error: The Network you have requested is currently Blacklisted. See http://bnc4free.com/?page_id=11 for the full blacklist.
+T 1393966564 18<Owien18>	!request Owien irc.kampungchat.org 6667 kaitodaumoto@hotmail.com
+T 1393966567 18<BNC4FREE18>	12You're almost there! We have sent you an email to confirm your email address. Follow the instructions in the email in order for your request to be processed.
+T 1393966567 18<BNC4FREE18>	Please ensure you have read our 12Terms of Service which can be found at 12http://bnc4free.com/tos
+T 1393966620 18<Owien18>	!verify e7f95be492b20eb25c7e578dde37be9f
+T 1393966620 18<BNC4FREE18>	12Congratulations Owien: Your email has been verified and your request is now marked as pending. Requests are usually processed within 24/48 hours by staff and you will be notified by email when it has been processed.
+T 1393966620 18<BNC4FREE18>	You can check the status by using: 12!check 6677
+T 1393966626 18<Owien18>	!check 6677
+T 1393966626 18<BNC4FREE18>	12Owien Request Status: 15Pending
+T 1393967050 23*	BELONNI (~vcccccccc@77314580.E154D3D4.91691DCD.IP23) has joined
+T 1393967082 18<BELONNI18>	!request belonni trebnjesamir@gmail.com
+T 1393967085 18<BNC4FREE18>	12You're almost there! We have sent you an email to confirm your email address. Follow the instructions in the email in order for your request to be processed.
+T 1393967085 18<BNC4FREE18>	Please ensure you have read our 12Terms of Service which can be found at 12http://bnc4free.com/tos
+T 1393967202 24*	BELONNI (~vcccccccc@77314580.E154D3D4.91691DCD.IP24) has left
+T 1393967754 23*	BELONNI (~vcccccccc@77314580.E154D3D4.91691DCD.IP23) has joined
+T 1393967757 18<BELONNI18>	!request belonni undernet.org trebnjesamir@gmail.com
+T 1393967757 18<BNC4FREE18>	Not enough or too many parameters.
+T 1393967757 18<BNC4FREE18>	Syntax: !REQUEST [USERNAME] [IRC SERVER OR NETWORK NAME] [IRC PORT] [EMAIL]
+T 1393967757 18<BNC4FREE18>	If no 12IRC SERVER and 12IRC PORT are given, the server you are making this request from will be used.
+T 1393967757 18<BNC4FREE18>	If you would like to use SSL to connect to the IRC network, please add a + in front of the port and make sure the port you request for allows SSL connections.
+T 1393967757 18<BNC4FREE18>	Please ensure you have read our 12Terms of Service before requesting which can be found at 12http://bnc4free.com/tos
+T 1393967785 24*	BELONNI (~vcccccccc@77314580.E154D3D4.91691DCD.IP24) has left
+T 1393968817 24*	Owien has quit ()
+T 1393969856 18<BNC4FREE18>	12[Owien] Your request has been accepted. Check your email for more information.
+T 1393973333 24*	WhiteX_Bouncing has quit (Ping timeout: 240 seconds)
+T 1393973589 23*	WhiteX_Bouncing (WhiteX@Rizon-318ECEA.some.sex.so.they.shagged.us23) has joined
+T 1393973833 24*	WhiteX_Bouncing has quit (Ping timeout: 240 seconds)
+T 1393974279 23*	WhiteX_Bouncing (~WhiteX@Rizon-318ECEA.some.sex.so.they.shagged.us23) has joined
+T 1393974408 24*	zz_coubertas has quit (Remote host closed the connection)
+T 1393974432 24*	cholan[off] has quit (Ping timeout: 240 seconds)
+T 1393975277 23*	cholan[off] (~cholan@AD38DAF4:BCF464E2:AD8C6C98:IP23) has joined
+T 1393975427 23*	zz_coubertas (~coubertas@AD38DAF4:BCF464E2:AD8C6C98:IP23) has joined

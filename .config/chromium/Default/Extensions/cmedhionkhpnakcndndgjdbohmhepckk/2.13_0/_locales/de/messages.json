@@ -1,0 +1,44 @@
+{
+   "branding": {
+      "message": "cleaned by Adblock for Youtube"
+   },
+   "disable": {
+      "message": "Pausieren"
+   },
+   "disabled": {
+      "message": "Adblock for Youtube ist Pausiert"
+   },
+   "enable": {
+      "message": "Aktivieren"
+   },
+   "enable_non_video_ads": {
+      "message": "Aktiviere normale Werbung"
+   },
+   "enable_video_ads": {
+      "message": "Aktiviere Werbung in Videos"
+   },
+   "extension_description": {
+      "message": "Beliebte Adblock Extension f\u00FCr Youtube\u2122: Entfernt Videowerbung & andere Werbebanner auf Youtube."
+   },
+   "extension_name": {
+      "message": "Adblock for Youtube\u2122"
+   },
+   "extension_short_name": {
+      "message": "VideoAdblock"
+   },
+   "like_on_facebook": {
+      "message": "Bewerte uns auf Facebook"
+   },
+   "options": {
+      "message": "AdBlock for Youtube&trade; Optionen"
+   },
+   "options_short": {
+      "message": "Optionen"
+   },
+   "page_action_title": {
+      "message": "Die Videowerbespots werden automatisch \u00FCbersprungen."
+   },
+   "rate_this_extension": {
+      "message": "Bewerte uns im Webstore"
+   }
+}

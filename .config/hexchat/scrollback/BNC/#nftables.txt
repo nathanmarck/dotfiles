@@ -1,0 +1,5 @@
+T 1393789030 19*	Now talking on 22#nftables
+T 1393789030 22*	26morgan.freenode.net sets mode 24+n on 22#nftables
+T 1393789030 22*	26morgan.freenode.net sets mode 24+s on 22#nftables
+T 1393789030 22*	Channel 22#nftables modes: 24+ns
+T 1393789030 22*	Channel 22#nftables created on 24Sun Mar  2 19:35:38 2014

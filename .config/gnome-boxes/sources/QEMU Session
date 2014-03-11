@@ -1,0 +1,10 @@
+[source]
+name=QEMU Session
+type=libvirt
+uri=qemu+unix:///session
+save-on-quit=true
+
+[display 4d794e1d-1c60-42f7-9531-79fd234fc7b0]
+last-seen-name=FreeBSD-10
+uuid=4d794e1d-1c60-42f7-9531-79fd234fc7b0
+access-last-time=1394182345769122

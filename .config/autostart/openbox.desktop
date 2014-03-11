@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=openbox --replace
+Hidden=false
+X-MATE-Autostart-enabled=true
+Name[en_US]=OpenBox
+Name=OpenBox
+Comment[en_US]=
+Comment=
+X-GNOME-Autostart-enabled=false

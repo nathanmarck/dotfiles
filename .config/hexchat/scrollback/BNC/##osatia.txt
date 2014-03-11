@@ -1,0 +1,199 @@
+T 1393922484 19*	Now talking on 22##osatia
+T 1393922484 22*	26morgan.freenode.net sets mode 24+n on 22##osatia
+T 1393922484 22*	26morgan.freenode.net sets mode 24+s on 22##osatia
+T 1393922484 22*	Channel 22##osatia modes: 24+ns
+T 1393922484 22*	Channel 22##osatia created on 24Tue Mar  4 08:39:47 2014
+T 1393923436 22*	26ChanServ sets mode 24-s on 22##osatia
+T 1393923436 22*	26ChanServ sets mode 24+t on 22##osatia
+T 1393923436 22*	26ChanServ sets mode 24+c on 22##osatia
+T 1393923495 23*	ChanServ (ChanServ@services.23) has joined
+T 1393923495 22*	26services. gives channel operator status to 18ChanServ
+T 1393923495 -18ChanServ-	The GUARD flag has been set for channel ##osatia.
+T 1393923506 22*	26Thonneve removes channel operator status from 18Thonneve
+T 1393924971 23*	Osatia-Bot (~root@host81-155-176-22.range81-155.btcentralplus.com23) has joined
+T 1393925250 24*	Osatia-Bot has quit (Remote host closed the connection)
+T 1393925265 23*	Osatia-Bot (~nathan@host81-155-176-22.range81-155.btcentralplus.com23) has joined
+T 1393925446 24*	Osatia-Bot has quit (Remote host closed the connection)
+T 1393925523 23*	Osatia-Bot (~nathan@host81-155-176-22.range81-155.btcentralplus.com23) has joined
+T 1393925580 18<Osatia-Bot18>	<herp>derp
+T 1393925955 18<Osatia-Bot18>	<nathan marck> asd
+T 1393925966 20<Thonneve>30	test
+T 1393926062 23*	velus (~velus@unaffiliated/velus23) has joined
+T 1393926067 18<velus18>	ok im here
+T 1393926070 18<Osatia-Bot18>	<nathan marck> IRC RELAY
+T 1393926084 18<Osatia-Bot18>	<nathan marck> I'm currently in-world :P
+T 1393926100 18<velus18>	cool cool
+T 1393926116 18<velus18>	im not sure if i eould use that just yet lol
+T 1393926160 24*	velus (~velus@unaffiliated/velus24) has left ("so loong suckers")
+T 1393926185 29*	##osatia :You're not a channel operator
+T 1393926193 22*	26ChanServ gives channel operator status to 18Thonneve
+T 1393926201 22*	26Thonneve has changed the topic to: Osatia Region channel.
+T 1393926205 22*	26ChanServ gives channel operator status to 18Thonneve
+T 1393926273 24*	Osatia-Bot has quit (Remote host closed the connection)
+T 1393926318 23*	Osatia-Bot (~nathan@host81-155-176-22.range81-155.btcentralplus.com23) has joined
+T 1393926361 24*	Osatia-Bot has quit (Remote host closed the connection)
+T 1393926693 23*	Osatia-Bot (~nathan@host81-155-176-22.range81-155.btcentralplus.com23) has joined
+T 1393926726 24*	Osatia-Bot has quit (Remote host closed the connection)
+T 1393928225 23*	Osatia-Bot (~nathan@host81-155-176-22.range81-155.btcentralplus.com23) has joined
+T 1393928229 20<Thonneve>30	join
+T 1393928244 20<Thonneve>30	join #oldosx86hardware
+T 1393928268 20<Thonneve>30	!join
+T 1393928280 20<Thonneve>30	!join #oldx86hardware
+T 1393928285 20<Thonneve>30	join #oldx86hardware
+T 1393928348 24*	Osatia-Bot has quit (Remote host closed the connection)
+T 1393928367 23*	Osatia-Bot (~nathan@host81-155-176-22.range81-155.btcentralplus.com23) has joined
+T 1393928369 20<Thonneve>30	!join #oldx86hardware
+T 1393928377 20<Thonneve>30	join #oldx86hardware
+T 1393928383 20<Thonneve>30	_join #oldx86hardware
+T 1393928431 20<Thonneve>30	help
+T 1393928433 20<Thonneve>30	!help
+T 1393928621 24*	Osatia-Bot has quit (Remote host closed the connection)
+T 1393928690 23*	Osatia (~Osatia@host81-155-176-22.range81-155.btcentralplus.com23) has joined
+T 1393928703 20<Thonneve>30	!help
+T 1393928703 -18Osatia-	7(mootyhelp) plugins: triggers, kirby_dance, help, infobot, give_stuff, goauld, bash
+T 1393928704 -18Osatia-	For single plugin usage information, type !help pluginname.
+T 1393928704 -18Osatia-	i wish to be the little girl
+T 1393929095 23*	Osatia_ (~Osatia@host81-155-176-22.range81-155.btcentralplus.com23) has joined
+T 1393929108 20<Thonneve>30	!help
+T 1393929109 -18Osatia-	7(mootyhelp) plugins: triggers, kirby_dance, help, infobot, give_stuff, goauld, bash
+T 1393929110 -18Osatia_-	7(mootyhelp) plugins: triggers, kirby_dance, help, infobot, give_stuff, goauld, bash
+T 1393929110 -18Osatia-	For single plugin usage information, type !help pluginname.
+T 1393929110 -18Osatia-	i wish to be the little girl
+T 1393929110 -18Osatia_-	For single plugin usage information, type !help pluginname.
+T 1393929110 -18Osatia_-	i wish to be the little girl
+T 1393929120 24*	Osatia has quit (Remote host closed the connection)
+T 1393929120 24*	Osatia_ has quit (Remote host closed the connection)
+T 1393929131 23*	Osatia (~Osatia@host81-155-176-22.range81-155.btcentralplus.com23) has joined
+T 1393929132 20<Thonneve>30	!help
+T 1393929134 -18Osatia-	7(mootyhelp) plugins: triggers, kirby_dance, help, infobot, give_stuff, goauld, bash
+T 1393929137 -18Osatia-	For single plugin usage information, type !help pluginname.
+T 1393929139 -18Osatia-	i wish to be the little girl
+T 1393929144 24*	Osatia has quit (Remote host closed the connection)
+T 1393929189 23*	Osatia (~Osatia@host81-155-176-22.range81-155.btcentralplus.com23) has joined
+T 1393929193 20<Thonneve>30	!help
+T 1393929193 -18Osatia-	7(mootyhelp) plugins: triggers, kirby_dance, help, infobot, give_stuff, goauld, bash
+T 1393929196 -18Osatia-	For single plugin usage information, type !help pluginname.
+T 1393929198 -18Osatia-	i wish to be the little girl
+T 1393929238 20<Thonneve>30	!quit
+T 1393929240 20<Thonneve>30	!kill
+T 1393929245 24*	Osatia has quit (Remote host closed the connection)
+T 1393929259 23*	Osatia (~Osatia@host81-155-176-22.range81-155.btcentralplus.com23) has joined
+T 1393929268 20<Thonneve>30	!join #oldx86hardware
+T 1393929279 20<Thonneve>30	!goauld
+T 1393929282 20<Thonneve>30	!goauld test
+T 1393929291 20<Thonneve>30	!help goauld
+T 1393929292 -18Osatia-	7(osatiahelp) goauld: I speak Goa'uld! Behold the glowy eyes! (Hit up wikipedia for some Goa'uld sentences to try :).
+T 1393929320 20<Thonneve>30	kree
+T 1393929325 20<Thonneve>30	!goauld kree
+T 1393929340 20<Thonneve>30	arik
+T 1393929352 20<Thonneve>30	!help triggers
+T 1393929352 -18Osatia-	7(osatiahelp) triggers: I react to different simple triggers. (!bots, !rules, !do_something)
+T 1393929356 20<Thonneve>30	!bots
+T 1393929356 18<Osatia18>	<dalek> Ex-ter-minate! Ex-ter-minate! </dalek>
+T 1393929356 18<Osatia18>	For real: Type !help for bot help.
+T 1393929363 20<Thonneve>30	!rules
+T 1393929363 -18Osatia-	<gpgarrettboast> Rules: Don't use the !rules trigger
+T 1393929364 -18Osatia-	<gpgarrettboast> <end of rules>
+T 1393929382 20<Thonneve>30	!bash
+T 1393929383 18<Osatia18>	Permalink to quote: http://bash.org/?356 | Score: 806
+T 1393929383 18<Osatia18>	<Rapture> Tsk, it's [new processors] as bad as penis comparisons, really.
+T 1393929383 18<Osatia18>	<rejs> but penises don't double in performance every 18 months...
+T 1393929393 20<Thonneve>30	!bash
+T 1393929393 18<Osatia18>	Permalink to quote: http://bash.org/?18 | Score: 4549
+T 1393929394 18<Osatia18>	<TOZTWO> I was kinda shy, and still am, so right after sex, I started getting dressed before she could turn on the lights......
+T 1393929394 18<Osatia18>	<TOZTWO> Well, she turns the light on, and I have my clothes on already, and she can't find her undies.......
+T 1393929395 18<Osatia18>	<TOZTWO> But she finds my undies next to the bed.
+T 1393929397 18<Osatia18>	<TOZTWO> Guess whose undies I'm wearing?
+T 1393929416 20<Thonneve>30	!help do_something
+T 1393929427 20<Thonneve>30	!infobot
+T 1393929449 20<Thonneve>30	!kirby_dance
+T 1393929449 18<Osatia18>	ATTN: Invalid kirby option - '_dance'!
+T 1393929456 20<Thonneve>30	!kirby
+T 1393929456 18<Osatia18>	<('_'v) (^_^)/ (>o_o)> (>'_')> ~(-_-)~ (^_^) ~(-_-)~ <('_'<) ~('_')~ < IT IS THE POWER OF LOVE!
+T 1393929503 20<Thonneve>30	Tek'ma'tae
+T 1393929504 19<Osatia>	Ba'ja'kakma'te, Thonneve!
+T 1393929504 18<Osatia18>	Ju'iu! Tau'ri!
+T 1393929546 24*	Osatia has quit (Remote host closed the connection)
+T 1393929559 23*	Osatia-Bot (~nathan@host81-155-176-22.range81-155.btcentralplus.com23) has joined
+T 1393929583 20<Thonneve>30	testa
+T 1393929632 18<Osatia-Bot18>	<nathan marck> asd
+T 1393929750 24*	Osatia-Bot has quit (Remote host closed the connection)
+T 1393929757 20*	You are now known as 18Osatia-Bot
+T 1393929774 20*	You are now known as 18Thonneve
+T 1393929785 23*	Osatia-Bot (~nathan@host81-155-176-22.range81-155.btcentralplus.com23) has joined
+T 1393929794 24*	Osatia-Bot has quit (Remote host closed the connection)
+T 1393929839 23*	Osatia-Bot (~nathan@host81-155-176-22.range81-155.btcentralplus.com23) has joined
+T 1393929850 24*	Osatia-Bot has quit (Remote host closed the connection)
+T 1393929889 23*	Osatia-Bot (~nathan@host81-155-176-22.range81-155.btcentralplus.com23) has joined
+T 1393929944 24*	Osatia-Bot has quit (Remote host closed the connection)
+T 1393930146 23*	RubberDuck (bd0e0b6e@gateway/web/freenode/ip.189.14.11.11023) has joined
+T 1393930150 18<RubberDuck18>	:P
+T 1393930158 24*	RubberDuck (bd0e0b6e@gateway/web/freenode/ip.189.14.11.11024) has left
+T 1393930679 23*	Osatia-Bot (~nathan@host81-155-176-22.range81-155.btcentralplus.com23) has joined
+T 1393930689 20<Thonneve>30	This is where I work on my bot
+T 1393930706 18<Osatia-Bot18>	<nathan marck> Including one that relays chat to IRC
+T 1393930742 20<Thonneve>30	!join #opensim
+T 1393930779 24*	Osatia-Bot has quit (Remote host closed the connection)
+T 1393930788 23*	Osatia-Bot (~nathan@host81-155-176-22.range81-155.btcentralplus.com23) has joined
+T 1393930798 24*	Osatia-Bot has quit (Remote host closed the connection)
+T 1393930821 23*	Osatia-Bot (~nathan@host81-155-176-22.range81-155.btcentralplus.com23) has joined
+T 1393930861 24*	Osatia-Bot has quit (Remote host closed the connection)
+T 1393930872 23*	Osatia-Bot (~nathan@host81-155-176-22.range81-155.btcentralplus.com23) has joined
+T 1393930929 24*	Osatia-Bot has quit (Remote host closed the connection)
+T 1393930937 23*	Osatia-Bot (~nathan@host81-155-176-22.range81-155.btcentralplus.com23) has joined
+T 1393930957 24*	Osatia-Bot has quit (Remote host closed the connection)
+T 1393931815 23*	Osatia-Bot (~nathan@host81-155-176-22.range81-155.btcentralplus.com23) has joined
+T 1393932341 24*	Osatia-Bot has quit (Remote host closed the connection)
+T 1393970138 23*	Osatia-Bot (~nathan@host81-155-176-22.range81-155.btcentralplus.com23) has joined
+T 1393976585 24*	Osatia-Bot has quit (Remote host closed the connection)
+T 1394123453 19*	Now talking on 22##osatia
+T 1394123453 22*	Topic for 22##osatia is: Osatia Region channel.
+T 1394123453 22*	Topic for 22##osatia set by 26Thonneve!Thonneve@gateway/shell/bnc4free/x-drxitrfvvkhtvvjy (24Tue Mar  4 09:43:22 2014)
+T 1394123453 -18ChanServ-	[11:52:47] [#WineHQ] Welcome to #winehq, a channel for wine end user support. Crossover users please go to #crossover, Cedega users please go to #cedega. If you are going to ask a question, rather than asking to ask the question or asking if someone is around: just ask it; if someone is around and they know the answer, they will answer it. If you ask to ask, chances are no one will respond.
+T 1394123453 -18ChanServ-	[11:52:47] [#Netfilter] "Did ya read the topic, did ya? DID YA?"
+T 1394123453 -18ChanServ-	[11:52:47] [#linuxonandroid-help] If you need help and nobody's around (we do have personal lives after all :) ) email support@linuxonandroid.org. If it's urgent, and please keep it urgent, you can reach France-Is-Bacon on Google Hangouts at therealscottcarlow@gmail.com. Thank you.
+T 1394123453 -18ChanServ-	[11:53:09] [#weechat] Welcome to WeeChat english support channel. IMPORTANT: you *MUST* have read docs and FAQ before asking something on this channel! Read them at: http://weechat.org/doc/
+T 1394123453 -18ChanServ-	[11:54:09] [#archbang] Welcome to #archbang. Url: http://www.archbang.org
+T 1394123453 -18ChanServ-	[11:54:09] [#defocus] Hello! By joining this channel you agree to having read and understood the channel guidelines - http://freenode.net/pounddefocus.shtml. Thank you for your understanding. If you have questions ask in #defocus-ops. Enjoy your stay!
+T 1394123453 -18ChanServ-	[11:54:09] [#radeon] this channel is publically logged and searchable via google
+T 1394123453 -18ChanServ-	[11:55:09] [##linux] Welcome to ##Linux! Can't speak? Please see http://www.linuxassist.net/how-to-connect/ on how to register or identify your nick. By joining this channel you agree to abide by the channel rules and guidelines stated on the official ##Linux website http://www.linuxassist.net/channel-rules/
+T 1394123453 -18ChanServ-	[11:55:09] [#android] Welcome to #android! No bots, no publicly-accessible logging, and no bridging Android apps to this channel, please. Please show good IRC etiquette: don't send private messages without asking first.
+T 1394123453 -18ChanServ-	[11:55:09] [#freenode] Welcome to #freenode. All network staff are voiced in here, but may not always be around - type /stats p to get a list of on call staff. Others may be hiding so do feel free to ping and /msg us at will! Also please read the channel guidelines at http://freenode.net/poundfreenode.shtml - thanks.
+T 1394123453 -18ChanServ-	[11:55:39] [#osgrid] *** grid is ONLINE ***  Forums login is fixed.  Stay up to date via [ http://twitter.com/osgrid | http://news.osgrid.org ]
+T 1394123453 -18ChanServ-	[11:55:39] [#opensim-dev] If you're looking for Stable, please use the last tagged stable release. If you're looking to report a bug, please visit http://opensimulator.org/mantis/. This is a development channel. Development topics are discussed here. For General chat, please visit #opensim
+T 1394123517 20*	You are now known as 18Thonneve
+T 1394159728 24*	ChanServ has quit (*.net *.split)
+T 1394170669 19*	Now talking on 22##osatia
+T 1394170669 22*	Topic for 22##osatia is: Osatia Region channel.
+T 1394170669 22*	Topic for 22##osatia set by 26Thonneve!Thonneve@gateway/shell/bnc4free/x-drxitrfvvkhtvvjy (24Tue Mar  4 09:43:22 2014)
+T 1394178782 23*	ChanServ (ChanServ@services.23) has joined
+T 1394178783 22*	26dickson.freenode.net gives channel operator status to 18ChanServ
+T 1394185222 20*	Disconnected (20Invalid argument)
+T 1394185235 19*	Now talking on 22##osatia
+T 1394185235 22*	Topic for 22##osatia is: Osatia Region channel.
+T 1394185235 22*	Topic for 22##osatia set by 26Thonneve!Thonneve@gateway/shell/bnc4free/x-drxitrfvvkhtvvjy (24Tue Mar  4 09:43:22 2014)
+T 1394239792 19*	Now talking on 22##osatia
+T 1394239792 22*	Topic for 22##osatia is: Osatia Region channel.
+T 1394239792 22*	Topic for 22##osatia set by 26Thonneve!Thonneve@gateway/shell/bnc4free/x-drxitrfvvkhtvvjy (24Tue Mar  4 09:43:22 2014)
+T 1394241078 19*	Now talking on 22##osatia
+T 1394241078 22*	Topic for 22##osatia is: Osatia Region channel.
+T 1394241078 22*	Topic for 22##osatia set by 26Thonneve!Thonneve@gateway/shell/bnc4free/x-drxitrfvvkhtvvjy (24Tue Mar  4 09:43:22 2014)
+T 1394356558 19*	Now talking on 22##osatia
+T 1394356558 22*	Topic for 22##osatia is: Osatia Region channel.
+T 1394356558 22*	Topic for 22##osatia set by 26Thonneve!Thonneve@gateway/shell/bnc4free/x-drxitrfvvkhtvvjy (24Tue Mar  4 09:43:22 2014)
+T 1394383564 19*	Now talking on 22##osatia
+T 1394383564 22*	Topic for 22##osatia is: Osatia Region channel.
+T 1394383564 22*	Topic for 22##osatia set by 26Thonneve!Thonneve@gateway/shell/bnc4free/x-drxitrfvvkhtvvjy (24Tue Mar  4 09:43:22 2014)
+T 1394402546 19*	Now talking on 22##osatia
+T 1394402546 22*	Topic for 22##osatia is: Osatia Region channel.
+T 1394402546 22*	Topic for 22##osatia set by 26Thonneve!Thonneve@gateway/shell/bnc4free/x-drxitrfvvkhtvvjy (24Tue Mar  4 09:43:22 2014)
+T 1394447773 20*	Disconnected (20Invalid argument)
+T 1394447785 19*	Now talking on 22##osatia
+T 1394447785 22*	Topic for 22##osatia is: Osatia Region channel.
+T 1394447785 22*	Topic for 22##osatia set by 26Thonneve!Thonneve@gateway/shell/bnc4free/x-drxitrfvvkhtvvjy (24Tue Mar  4 09:43:22 2014)
+T 1394524882 19*	Now talking on 22##osatia
+T 1394524882 22*	Topic for 22##osatia is: Osatia Region channel.
+T 1394524882 22*	Topic for 22##osatia set by 26Thonneve!Thonneve@gateway/shell/bnc4free/x-drxitrfvvkhtvvjy (24Tue Mar  4 09:43:22 2014)
+T 1394546284 19*	Now talking on 22##osatia
+T 1394546284 22*	Topic for 22##osatia is: Osatia Region channel.
+T 1394546284 22*	Topic for 22##osatia set by 26Thonneve!Thonneve@gateway/shell/bnc4free/x-drxitrfvvkhtvvjy (24Tue Mar  4 09:43:22 2014)

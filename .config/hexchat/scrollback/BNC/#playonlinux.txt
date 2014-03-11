@@ -1,0 +1,510 @@
+T 1394444767 23*	mbuszkiewicz-pol (~PlayOnLin@77-253-69-117.adsl.inetia.pl23) has joined
+T 1394444768 22*	26PlayOnLinux gives voice to 18mbuszkiewicz-pol
+T 1394444806 24*	mbuszkiewicz-pol has quit (Client Quit)
+T 1394446287 23*	poll (~PlayOnLin@home.htlbraunau.asn-linz.ac.at23) has joined
+T 1394446287 22*	26PlayOnLinux gives voice to 18poll
+T 1394446330 18<poll18>	Hello there! How to change install directory? I want app to be installed anywhere else, because home part.   has not enough space
+T 1394446449 24*	poll has quit (Client Quit)
+T 1394447773 20*	Disconnected (20Invalid argument)
+T 1394447785 19*	Now talking on 22#playonlinux
+T 1394447785 22*	Topic for 22#playonlinux is: PlayOnLinux and PlayOnMac Official IRC | http://www.playonlinux.com/ http://www.playonmac.com/ | Latest version: 4.2.2 | Please speak English or French | We do not support piracy. | Don't ask if you may ask, just ask. | We do not respond always immediately, please be patient.
+T 1394447785 22*	Topic for 22#playonlinux set by 26pango!~pango@79.141.172.23 (24Thu Jan 16 06:07:59 2014)
+T 1394448003 18<yami-pol18>	Someones have Guild Wars 2 installed and working?
+T 1394448474 24*	Robik has quit (Read error: Connection reset by peer)
+T 1394448484 23*	Robik (nazriel@uzywa.nginx.pl23) has joined
+T 1394448872 23*	prayoga-pol (~PlayOnLin@180.250.147.17023) has joined
+T 1394448873 24*	prayoga-pol has quit (Client Quit)
+T 1394449132 23*	adx-pol (~PlayOnLin@180.250.147.17023) has joined
+T 1394449132 24*	adx-pol has quit (Client Quit)
+T 1394449440 23*	patoch52-pol (~PlayOnLin@sjc44-1-88-183-136-188.fbx.proxad.net23) has joined
+T 1394449440 22*	26PlayOnLinux gives voice to 18patoch52-pol
+T 1394449467 24*	patoch52-pol has quit (Client Quit)
+T 1394449968 23*	rom1504 (~rom1504@ns3098913.ip-94-23-58.eu23) has joined
+T 1394451444 24*	yami-pol has quit (Remote host closed the connection)
+T 1394452723 23*	carlos-pol (~PlayOnLin@61.Red-81-44-38.dynamicIP.rima-tde.net23) has joined
+T 1394452723 22*	26PlayOnLinux gives voice to 18carlos-pol
+T 1394452837 24*	carlos-pol has quit (Client Quit)
+T 1394455457 23*	FTC56 (~quassel@ARennes-651-1-270-71.w2-2.abo.wanadoo.fr23) has joined
+T 1394456421 23*	antonioflavio (~antonio@static-108-27-36-18.nycmny.fios.verizon.net23) has joined
+T 1394458026 23*	marta-pol (~PlayOnLin@host86-240-static.24-87-b.business.telecomitalia.it23) has joined
+T 1394458026 22*	26PlayOnLinux gives voice to 18marta-pol
+T 1394458036 24*	marta-pol has quit (Client Quit)
+T 1394459120 23*	Dougie187 (~douglasj@y-130-55-120-61.lanl.gov23) has joined
+T 1394459317 23*	fuorviatos (~quassel@77-254-200-244.adsl.inetia.pl23) has joined
+T 1394459398 23*	user-pol (~PlayOnLin@119.226.153.2223) has joined
+T 1394459398 22*	26PlayOnLinux gives voice to 18user-pol
+T 1394459420 18<fuorviatos18>	hello
+T 1394459432 18<fuorviatos18>	I'm trying to run gothic 2 bu the game start and crash after the intro. Anyone willing to take a look on the logs? http://paste.ubuntu.com/7067685/
+T 1394460166 23*	dannio-pol (~PlayOnLin@87-205-253-92.adsl.inetia.pl23) has joined
+T 1394460166 22*	26PlayOnLinux gives voice to 18dannio-pol
+T 1394460201 24*	dannio-pol has quit (Client Quit)
+T 1394460241 24*	fuorviatos has quit (Remote host closed the connection)
+T 1394460350 23*	ant-pol (~PlayOnLin@cpc15-basl10-2-0-cust13.basl.cable.virginm.net23) has joined
+T 1394460350 22*	26PlayOnLinux gives voice to 18ant-pol
+T 1394460364 18<ant-pol18>	Is there anyone here that can help me?
+T 1394460443 23*	Rochvellon (~user@p4FC6300B.dip0.t-ipconnect.de23) has joined
+T 1394460628 23*	romaniv-pol (~PlayOnLin@ip-195-182-193-53.opensvit.ua23) has joined
+T 1394460628 24*	romaniv-pol has quit (Client Quit)
+T 1394460693 24*	user-pol has quit (Ping timeout: 244 seconds)
+T 1394461114 23*	medved-pol (~PlayOnLin@95.153.187.10223) has joined
+T 1394461114 22*	26PlayOnLinux gives voice to 18medved-pol
+T 1394461138 23*	fuorviatos (~quassel@77-254-200-244.adsl.inetia.pl23) has joined
+T 1394461142 24*	medved-pol has quit (Client Quit)
+T 1394462223 24*	ant-pol has quit (Quit: www.playonlinux.com)
+T 1394462567 23*	wiegraf-pol (~PlayOnLin@p76ed70f2.kyotnt01.ap.so-net.ne.jp23) has joined
+T 1394462648 24*	wiegraf-pol has quit (Client Quit)
+T 1394462937 24*	pinage404 has quit (Ping timeout: 265 seconds)
+T 1394463159 23*	pinpin404 (~pinage404@mau78-1-88-184-110-51.fbx.proxad.net23) has joined
+T 1394463425 24*	FTC56 has quit (Remote host closed the connection)
+T 1394464318 24*	Rochvellon has quit (Quit: Leaving)
+T 1394464895 23*	mike-pol (~PlayOnLin@p5DC058FB.dip0.t-ipconnect.de23) has joined
+T 1394464895 22*	26PlayOnLinux gives voice to 18mike-pol
+T 1394465027 18<mike-pol18>	Hi, i have a problem with playonlinux on my arch installation. After I installed mesa 10.1 yesterday, all my games which using directx stop working. I don't know how to fix it. I could downgrade, but I would rather know why it stoped working. Thanks for your help.
+T 1394465084 23*	Rochvellon (~user@p4FC6300B.dip0.t-ipconnect.de23) has joined
+T 1394465180 24*	mike-pol has quit (Remote host closed the connection)
+T 1394465953 23*	canaima-pol (~PlayOnLin@190.78.25.3623) has joined
+T 1394465953 22*	26PlayOnLinux gives voice to 18canaima-pol
+T 1394466765 18<canaima-pol18>	ZZ7
+T 1394466774 18<canaima-pol18>	ZZ7
+T 1394467030 18<canaima-pol18>	epa menores todo fino XD :)
+T 1394467048 24*	Cultist has quit (Ping timeout: 244 seconds)
+T 1394467438 24*	canaima-pol has quit (Ping timeout: 240 seconds)
+T 1394468482 23*	fidel-pol (~PlayOnLin@41.82.90.17923) has joined
+T 1394468482 22*	26PlayOnLinux gives voice to 18fidel-pol
+T 1394468484 18<fidel-pol18>	oi
+T 1394468509 24*	28fidel-pol is now known as 18delfi-pol
+T 1394468525 18<delfi-pol18>	hi guy I need help
+T 1394468549 18<delfi-pol18>	how can i install devil may cry 4 on my systeme
+T 1394468687 23*	murray (~murray@p5DC4C7A4.dip0.t-ipconnect.de23) has joined
+T 1394468768 18<delfi-pol18>	hi
+T 1394469192 23*	Yugo (~Yugo@AAubervilliers-651-1-342-30.w83-114.abo.wanadoo.fr23) has joined
+T 1394469232 24*	delfi-pol has quit (Quit: www.playonlinux.com)
+T 1394469367 23*	marcovergani-pom (~PlayOnLin@host223-157-dynamic.54-82-r.retail.telecomitalia.it23) has joined
+T 1394469368 22*	26PlayOnLinux gives voice to 18marcovergani-pom
+T 1394469371 24*	marcovergani-pom has quit (Client Quit)
+T 1394469654 23*	iulian-pol (~PlayOnLin@188.208.135.1223) has joined
+T 1394469654 24*	iulian-pol has quit (Client Quit)
+T 1394469685 23*	apm1 (~apm@unaffiliated/apm123) has joined
+T 1394471395 23*	panda__ (~IMO@AMontsouris-653-1-225-113.w83-202.abo.wanadoo.fr23) has joined
+T 1394472184 23*	efthimis-pol (~PlayOnLin@ppp-94-69-153-60.home.otenet.gr23) has joined
+T 1394472185 22*	26PlayOnLinux gives voice to 18efthimis-pol
+T 1394472195 18<efthimis-pol18>	How to add swat 4
+T 1394472208 24*	efthimis-pol has quit (Client Quit)
+T 1394472602 23*	antoine-pol (~PlayOnLin@5-12-67-78.residential.rdsnet.ro23) has joined
+T 1394472603 24*	antoine-pol has quit (Client Quit)
+T 1394472896 23*	geek-pol (~PlayOnLin@190.173.126.423) has joined
+T 1394472896 22*	26PlayOnLinux gives voice to 18geek-pol
+T 1394472919 24*	fuorviatos has quit ()
+T 1394472927 24*	geek-pol has quit (Client Quit)
+T 1394472944 23*	fuorviatos (~quassel@77-254-200-244.adsl.inetia.pl23) has joined
+T 1394473825 23*	linux-pol (~PlayOnLin@HSI-KBW-046-005-064-117.hsi8.kabel-badenwuerttemberg.de23) has joined
+T 1394473825 24*	linux-pol has quit (Client Quit)
+T 1394475416 24*	salamanderrake has quit (Read error: Connection reset by peer)
+T 1394475459 23*	smer4-pol (~PlayOnLin@46.47.56.18323) has joined
+T 1394475459 24*	smer4-pol has quit (Client Quit)
+T 1394475786 23*	salamanderrake (~salamande@cpe-71-74-247-103.neo.res.rr.com23) has joined
+T 1394475829 23*	steff-pol (~PlayOnLin@p5-065.pptp.ggew-net.de23) has joined
+T 1394475829 24*	steff-pol has quit (Client Quit)
+T 1394476164 23*	root-pol (~PlayOnLin@177.19.217.3223) has joined
+T 1394476164 24*	root-pol has quit (Client Quit)
+T 1394476164 18<PlayOnLinux18>	Hi root-pol, it's strongly recommended not to run PlayOnLinux as root or with sudo
+T 1394476786 23*	julien-pol (~PlayOnLin@154.67.72.823) has joined
+T 1394476786 24*	julien-pol has quit (Client Quit)
+T 1394476848 24*	apm1 has quit (Quit: UNIX or DIE)
+T 1394478484 23*	nikolay-pol (~PlayOnLin@2.94.214.4623) has joined
+T 1394478485 22*	26PlayOnLinux gives voice to 18nikolay-pol
+T 1394478496 24*	nikolay-pol has quit (Client Quit)
+T 1394478691 23*	brad-pol (~PlayOnLin@72.90.72.22623) has joined
+T 1394478692 22*	26PlayOnLinux gives voice to 18brad-pol
+T 1394478703 24*	28brad-pol is now known as 18newtoLinux
+T 1394478710 24*	newtoLinux has quit (Client Quit)
+T 1394478735 23*	newtoLinux (~PlayOnLin@72.90.72.22623) has joined
+T 1394478736 22*	26PlayOnLinux gives voice to 18newtoLinux
+T 1394478808 18<newtoLinux18>	Hello, I am trying to install Microsoft Office Professional 2010 on a workstation and for some reason when I search for it on PlayOnLinux, I get no results. Am I doing something wrong?
+T 1394478819 24*	28newtoLinux is now known as 18UbuntuNewbie315
+T 1394478887 18<pango18>	unless you unchecked "Commercial" it should show up
+T 1394478918 18<pango18>	have you tried clicking on "Refresh" button and retry?
+T 1394478945 18<UbuntuNewbie31518>	I have commercial checked, I've tried the following terms: "Office 2010" "Microsoft Office" "Office" and a few others
+T 1394478970 18<UbuntuNewbie31518>	I have tried clicking on refresh, if i click the tabs at the top, i see results for other applications
+T 1394478974 18<UbuntuNewbie31518>	but not microsoft office
+T 1394479065 18<pango18>	I have no reasonable explanation
+T 1394479080 18<pango18>	if you start playonlinux from within a terminal, do you get error messages?
+T 1394479090 18<UbuntuNewbie31518>	No I do not.
+T 1394479103 18<UbuntuNewbie31518>	Sorry to waste your time, it just randomly appeared on my screen, perhaps the list just hasn't refreshed yet, or it needed to go online to update the list.
+T 1394479123 18<pango18>	it does, the list come from the web server
+T 1394479124 18<UbuntuNewbie31518>	Thank you for your help pango, greatly appreciated!
+T 1394479143 18<pango18>	actually installing software without a working connection is unlikely to succeed
+T 1394479156 18<pango18>	as components are dynamically downloaded
+T 1394479191 18<UbuntuNewbie31518>	The network connection was working, we just hadn't launched PoL yet, so I don't think it can download if the program is not open, or has not been opened yet...correct?
+T 1394479224 18<pango18>	correct, the lists are refreshed when PoL starts, or if you click on the refresh button
+T 1394479244 18<UbuntuNewbie31518>	Ok, that explains why it happened. Again thanks for your help!
+T 1394479249 18<pango18>	np
+T 1394479251 24*	UbuntuNewbie315 has quit (Quit: www.playonlinux.com)
+T 1394480405 23*	collins-pol (~PlayOnLin@g230219235.adsl.alicedsl.de23) has joined
+T 1394480405 24*	collins-pol has quit (Client Quit)
+T 1394481220 23*	certain (~PlayOnLin@p4FD57925.dip0.t-ipconnect.de23) has joined
+T 1394481220 22*	26PlayOnLinux gives voice to 18certain
+T 1394481238 18<certain18>	Hi there!
+T 1394481324 18<pango18>	hi
+T 1394481403 18<certain18>	I am desperately trying to get the "GOG.com" versions of Space quest 4, 5, 6 to run, with not so much success. :-( Does anybody have experience on how to get the mouse to work?
+T 1394481458 18<pango18>	that's an MS-DOS game, PoL uses its integrated DOSBox support
+T 1394481467 18<pango18>	I don't remember anything being necessary for mouse
+T 1394481528 18<pango18>	maybe try switching to windowed (Alt-Enter)
+T 1394481535 18<pango18>	All DOSBox shortcuts apply
+T 1394481541 18<certain18>	Strange... in those games, the mouse cursor just stays in the lower right corner, and I cannot move it. Other dosbox games like Master of Orion work perfectly for me, right "out of the box".
+T 1394481555 18<certain18>	Oh, yes, I already switched to window mode, without any luck
+T 1394481630 18<pango18>	DOSBox compatibility page does not report anything special
+T 1394481635 18<pango18>	http://www.dosbox.com/comp_list.php?showID=3107&letter=S
+T 1394481649 18<pango18>	full green since DOSBox 0.65
+T 1394481766 18<certain18>	Hmm... very strange. And I only have the effect for Space Quest, but there, I have it for all three games. :-(
+T 1394481894 23*	nick-pom (~PlayOnLin@85.26.165.22523) has joined
+T 1394481894 22*	26PlayOnLinux gives voice to 18nick-pom
+T 1394481895 24*	nick-pom has quit (Client Quit)
+T 1394481924 18<pango18>	http://www.vogons.org/viewtopic.php?t=4860 ?
+T 1394481981 18<Crendgrim18>	pango: is there someone I can nicely bother regarding the custom wine build request you linked?
+T 1394481990 18<pango18>	http://ubuntuforums.org/showthread.php?t=475139
+T 1394482034 18<pango18>	Crendgrim: I wonder if there's anyone else around, the messages I post in the staff channel get no answer
+T 1394482081 18<Crendgrim18>	oh right, I remember that place. Well.. doesn't sound too promising, then :/ Thanks anyway.
+T 1394482140 18<pango18>	Crendgrim: with the rights I have, I can have one try per day: I can configure patches in a git repository, that gets examined every day at 21:30 CET (I think)
+T 1394482200 18<Crendgrim18>	That sounds like complicated manual automation, lol.
+T 1394482221 18<certain18>	Thanks pango! I will try the proposed solution of the second link!
+T 1394482247 18<pango18>	certain: np
+T 1394482273 18<Crendgrim18>	pango: Well, if you don't mind, I would really appreciate if you tried that.
+T 1394482425 24*	certain has quit (Quit: www.playonlinux.com)
+T 1394482491 23*	certain (~PlayOnLin@p4FD57925.dip0.t-ipconnect.de23) has joined
+T 1394482491 22*	26PlayOnLinux gives voice to 18certain
+T 1394482578 18<certain18>	@pango The solution "export SDL_VIDEO_X11_DGAMOUSE=0" worked! Thanks again, you saved my gaming evening! :-D
+T 1394482636 18<pango18>	cool
+T 1394482655 23*	nicolle-pol (~PlayOnLin@173-16-138-145.client.mchsi.com23) has joined
+T 1394482656 22*	26PlayOnLinux gives voice to 18nicolle-pol
+T 1394482777 18<nicolle-pol18>	I try to install the Sims 3 on Play On Linux but it won't let me it just says game not installed and closes out. What do I do?
+T 1394482822 24*	nicolle-pol has quit (Remote host closed the connection)
+T 1394482845 23*	nicolle-pol (~PlayOnLin@173-16-138-145.client.mchsi.com23) has joined
+T 1394482845 22*	26PlayOnLinux gives voice to 18nicolle-pol
+T 1394482845 24*	certain has quit (Quit: www.playonlinux.com)
+T 1394482868 18<pango18>	Crendgrim: https://github.com/PlayOnLinux/wine-patches/commit/6302fa2551a0af3a4a537a7078dafa0ba0ee52f5 let's hope I didn't forget anything ;)
+T 1394482885 18<nicolle-pol18>	It won't let me download Sims 3
+T 1394482919 18<pango18>	Crendgrim: looking at previous days logs, it's actually starting at 21:45 CET, so in about 25 mins
+T 1394482928 18<pango18>	nicolle-pol: do you own the game?
+T 1394482955 18<Crendgrim18>	pango: thanks! Guess I asked just in time then :)
+T 1394482965 18<Crendgrim18>	looks fine to me.
+T 1394482993 18<Crendgrim18>	assuming the todo.lst is not used anymore?
+T 1394482996 18<pango18>	Crendgrim: the problem is more about how winebuild works, I'm not doing that often enough to be sure for one time to the next :p
+T 1394483014 18<pango18>	Crendgrim: yup, from what I remember it's no longer used
+T 1394483314 18<nicolle-pol18>	Play On Linux won't let me download Sims 3
+T 1394483333 18<nicolle-pol18>	yes i own the game
+T 1394483525 18<pango18>	the scripts has no support for download, only local (file) or dvd
+T 1394483632 18<pango18>	script*
+T 1394483643 18<nicolle-pol18>	so then i can't play it?
+T 1394483663 18<pango18>	maybe by first downloading it as a file, I don't know
+T 1394483673 23*	zenon-pol (~PlayOnLin@c-67-189-26-131.hsd1.or.comcast.net23) has joined
+T 1394483674 22*	26PlayOnLinux gives voice to 18zenon-pol
+T 1394483675 18<zenon-pol18>	hi
+T 1394483677 18<pango18>	hi
+T 1394483699 18<nicolle-pol18>	i tryed downloading the file and it wouldn't let me
+T 1394483714 18<zenon-pol18>	installing civ5 hope it works well.
+T 1394483751 18<pango18>	nicolle-pol: could be why it's not supported by the script either, I don't know
+T 1394483807 24*	zenon-pol has quit (Client Quit)
+T 1394484094 24*	nicolle-pol has quit (Ping timeout: 264 seconds)
+T 1394484176 23*	lekare_ (~tobias@c-2737e555.013-342-6b73641.cust.bredbandsbolaget.se23) has joined
+T 1394484178 23*	kiosisjim-pol (~PlayOnLin@athedsl-113164.home.otenet.gr23) has joined
+T 1394484179 22*	26PlayOnLinux gives voice to 18kiosisjim-pol
+T 1394484368 18<kiosisjim-pol18>	nekre
+T 1394484371 18<kiosisjim-pol18>	akous
+T 1394484425 23*	apm1 (~apm@unaffiliated/apm123) has joined
+T 1394484492 24*	lekare_ (~tobias@c-2737e555.013-342-6b73641.cust.bredbandsbolaget.se24) has left ("Lämnar")
+T 1394484523 18<apm118>	ok so i have a complete prefix which contains the witcher 2 which i installed on 1.7.8 from my distro's repos
+T 1394484541 18<apm118>	and the game didn't run on it
+T 1394484546 24*	kiosisjim-pol has quit (Quit: www.playonlinux.com)
+T 1394484564 18<apm118>	so i then installed wine 1.3.34 from play on linux
+T 1394484612 18<apm118>	and i've no copied the .wine_witcher2 prefix into the prefixes folder of playonlinux's virtual drive
+T 1394484625 18<apm118>	actually its copying atm
+T 1394484641 18<apm118>	abt 4 mins ETA
+T 1394484663 18<apm118>	i'd appreciate if someone would guide me further
+T 1394484719 18<Crendgrim18>	apm1: Do you have a non-Steam version of The Witcher 2? (if that even exists)
+T 1394484734 18<apm118>	yes mine is a non steam on dvd version
+T 1394484745 18<apm118>	which came with a GOG key as well
+T 1394484761 18<apm118>	but i'm looking for installing from the dvds
+T 1394484772 18<apm118>	actually its already installed
+T 1394484776 18<Crendgrim18>	Good. I was asking because older versions of wine don't run Steam since December, but you should be fine then.
+T 1394484781 18<apm118>	it just didn't launch under 1.7.8
+T 1394484878 18<Crendgrim18>	according to the appdb, you need wine patched with CSMT, although I must admit I don't know what that exactly is :p
+T 1394484892 18<apm118>	Crendgrim, its a 3d voodoo lib
+T 1394484902 18<apm118>	its a patched 3d lib
+T 1394484909 18<apm118>	i read abt it
+T 1394484924 18<apm118>	depends on which version you are talking abt the entry of
+T 1394484931 18<apm118>	look for that gentoo user's entry
+T 1394484939 18<apm118>	for the PC-DVD version
+T 1394484942 18<apm118>	which i have
+T 1394485008 18<Crendgrim18>	Apparently you know more than I do, so I'm afraid I can't really help you.
+T 1394485060 18<Crendgrim18>	I would try installing the game with the script.
+T 1394485173 18<apm118>	i tried that
+T 1394485181 18<apm118>	it got stuck on installing mono
+T 1394485183 18<pango18>	csmt is an experimental wine patch that makes OpenGL calls asynchronous
+T 1394485188 18<apm118>	like for hrs
+T 1394485193 23*	claudepauze-pom (~PlayOnLin@bas1-legardeur06-1178050628.dsl.bell.ca23) has joined
+T 1394485193 22*	26PlayOnLinux gives voice to 18claudepauze-pom
+T 1394485196 18<pango18>	it's a performance patch (benefit varies)
+T 1394485230 24*	claudepauze-pom has quit (Client Quit)
+T 1394485347 18<apm118>	how do i check if the script that'd install the game would use what variables ?
+T 1394485365 18<apm118>	basically where are the scripts located
+T 1394485371 18<pango18>	on the web server
+T 1394485377 18<pango18>	http://www.playonlinux.com/en/supported_apps-1-0.html
+T 1394485382 18<apm118>	oh so it pulls it
+T 1394485396 18<pango18>	yup, just before installation
+T 1394485457 18<pango18>	maybe I should try this game again (got the GOG version, never worked on my laptop)
+T 1394485504 18<pango18>	intro video plays at 50% speed, then the game loads forever
+T 1394485548 18<apm118>	my game's manual says "redeem <cd key> backup version on GOG , no matter where you bought the game from"
+T 1394485576 18<Crendgrim18>	I'm still stuck on Witcher 1, with a lovely invisible textures bug.
+T 1394485576 18<pango18>	yup, but since the game doesn't work for me, I never released a GOG script
+T 1394485597 18<apm118>	pango, what are your specs on that machine ?
+T 1394485614 18<apm118>	intersted in the gpu mainly
+T 1394485628 18<pango18>	NVIDIA Corporation C79 [GeForce G102M] (rev b1)   (512MB)
+T 1394485636 23*	niamien-pol (~PlayOnLin@host154-172-dynamic.54-82-r.retail.telecomitalia.it23) has joined
+T 1394485636 22*	26PlayOnLinux gives voice to 18niamien-pol
+T 1394485673 18<pango18>	plain nvidia, no hybrid video subsystem
+T 1394485686 18<apm118>	umm thats actually in par to the minimum requirements for the game
+T 1394485695 18<apm118>	just in par
+T 1394485700 18<pango18>	yup, that's by no mean a high end card
+T 1394485715 18<pango18>	the laptop is 2 years old too, I think
+T 1394485731 24*	niamien-pol has quit (Client Quit)
+T 1394485738 18<apm118>	nope its def from 2008-09
+T 1394485745 18<apm118>	the card is atleast
+T 1394485766 18<pango18>	didn't say the card was brand new when I bought the laptop
+T 1394485775 18<apm118>	oh yeah my bad
+T 1394485821 18<pango18>	but yes I suppose the hardware doesn't give much slack for running such game
+T 1394485837 18<apm118>	pango, do i need mono for this game ?
+T 1394485837 18<pango18>	the Witcher 1 is just playable with recent Wine versions
+T 1394485839 23*	jaime-pol (~PlayOnLin@181.140.90.22223) has joined
+T 1394485839 22*	26PlayOnLinux gives voice to 18jaime-pol
+T 1394485846 18<pango18>	I don't think so
+T 1394485856 18<apm118>	ok then imma skip it
+T 1394485871 24*	jaime-pol has quit (Client Quit)
+T 1394485893 18<pango18>	in script attempts only d3dcompiler_43 component was used
+T 1394485920 18<pango18>	https://github.com/petchema/playonlinux/blob/master/broken/thewitcher2-gog
+T 1394485965 18<pango18>	https://github.com/petchema/playonlinux/blob/master/thewitcher2%28libgradev%29-gog   (another contributed version)
+T 1394485974 18<apm118>	any chance i can use this prefix i have already pango ?
+T 1394485988 18<apm118>	it installed perfectly no errors
+T 1394486043 18<pango18>	I don't know, I never do such things
+T 1394486064 18<pango18>	you could try installing this d3dcompiler_43 component
+T 1394486098 18<apm118>	ok
+T 1394486112 18<pango18>	and then create a shortcut to witcher2.exe
+T 1394486149 18<apm118>	can't i just launch it from my wineprefix
+T 1394486159 18<pango18>	how?
+T 1394486178 18<apm118>	i am installing d3dcompiler_43 in the witcher2 prefix
+T 1394486194 18<apm118>	via winetricks
+T 1394486195 24*	salamanderrake has quit (Remote host closed the connection)
+T 1394486202 23*	roman-pol (~PlayOnLin@80.237.22.13423) has joined
+T 1394486203 22*	26PlayOnLinux gives voice to 18roman-pol
+T 1394486218 18<pango18>	maybe, I don't remember the last time I used Wine directly
+T 1394486236 18<apm118>	wow :p
+T 1394486252 18<pango18>	there's hardly any need
+T 1394486323 18<apm118>	wow there is already d3dcompiler_43 installed in the prefix
+T 1394486330 18<apm118>	just wow
+T 1394486359 18<apm118>	i am gonna try your script
+T 1394486372 18<roman-pol18>	hello. help please! When you install any program displays the following:
+T 1394486390 18<roman-pol18>	Error in POL_Download
+T 1394486393 18<roman-pol18>	Not enough free space to download
+T 1394486397 18<pango18>	apm1: Wine 1.5.8, that says something about the time I wrote it ;)
+T 1394486403 18<roman-pol18>	http://www.playonlinux.com/wine/gecko/x86/wine_gecko-2.24-x86.msi (21849 KБ)
+T 1394486424 18<pango18>	roman-pol: then you don't have enough space in your home partition I assume
+T 1394486441 18<roman-pol18>	17 Gb free space
+T 1394486441 18<apm118>	pango, late 2011 i guess
+T 1394486481 18<pango18>	apm1: git says July 2013
+T 1394486492 18<apm118>	ok
+T 1394486502 18<apm118>	thats not too far back
+T 1394486507 18<apm118>	wth i'll try
+T 1394486524 18<pango18>	roman-pol: downloads usually happen in ~/.PlayOnLinux/tmp
+T 1394486590 18<pango18>	roman-pol: unless there's something stupid happening (again) with parsing df output...
+T 1394486721 18<pango18>	roman-pol: open PoL console (Tools > PlayOnLinux console) and run POL_System_UserRootSpaceLeft
+T 1394486870 23*	salamanderrake (~salamande@cpe-71-74-247-103.neo.res.rr.com23) has joined
+T 1394487003 18<roman-pol18>	writes: usr/bin/awk denied access. and it's weird. thanks - go deal with /usr/bin/awk
+T 1394487036 18<roman-pol18>	 /dev/mapper/system-root   51475068     23692136 25438740           49% /
+T 1394487049 18<roman-pol18>	 /dev/mapper/system-home   82438832     20239748 59393560           26% /home
+T 1394487094 18<pango18>	yup something broken with your installation of awk
+T 1394487167 18<roman-pol18>	awk is present
+T 1394487185 18<roman-pol18>	reinstall awk - all right
+T 1394487219 18<pango18>	what POL_System_UserRootSpaceLeft does is df -P -k "$POL_USER_ROOT" | tail -n1 | awk '{print $4}'
+T 1394487239 18<roman-pol18>	POL_System_UserRootSpaceLeft 59393628
+T 1394487247 18<pango18>	should be better now
+T 1394487270 18<roman-pol18>	yes
+T 1394487300 18<roman-pol18>	thanks
+T 1394487304 18<pango18>	np
+T 1394487846 24*	roman-pol has quit (Quit: www.playonlinux.com)
+T 1394488208 24*	Dougie187 (~douglasj@y-130-55-120-61.lanl.gov24) has left
+T 1394488340 18<Crendgrim18>	pango: it worked! :D
+T 1394488345 18<Crendgrim18>	thank you :)
+T 1394488363 18<pango18>	great, will update the feature request then
+T 1394488659 23*	Cultist (~CultOfThe@67.186.111.3323) has joined
+T 1394488865 24*	Yugo has quit (Quit: ++)
+T 1394489057 24*	antonioflavio has quit (Ping timeout: 265 seconds)
+T 1394489288 24*	murray has quit (Quit: Leaving)
+T 1394489307 24*	panda__ has quit (Remote host closed the connection)
+T 1394489377 23*	alfredo-pol (~PlayOnLin@corp-190-57-140-85-uio.puntonet.ec23) has joined
+T 1394489377 24*	alfredo-pol has quit (Client Quit)
+T 1394489673 24*	fuorviatos has quit (Remote host closed the connection)
+T 1394490535 23*	hicham-pol (~PlayOnLin@41.140.179.24723) has joined
+T 1394490536 22*	26PlayOnLinux gives voice to 18hicham-pol
+T 1394490570 24*	hicham-pol has quit (Client Quit)
+T 1394490820 24*	apm1 has quit (Quit: UNIX or DIE)
+T 1394491696 23*	pjose-pol (~PlayOnLin@179.223.28.21823) has joined
+T 1394491696 22*	26PlayOnLinux gives voice to 18pjose-pol
+T 1394491706 24*	pjose-pol has quit (Client Quit)
+T 1394491734 23*	pjose-pol (~PlayOnLin@179.223.28.21823) has joined
+T 1394491735 22*	26PlayOnLinux gives voice to 18pjose-pol
+T 1394491767 24*	pjose-pol has quit (Client Quit)
+T 1394491921 23*	ejaz-pol (~PlayOnLin@238.204.208.46.dyn.plus.net23) has joined
+T 1394491923 22*	26PlayOnLinux gives voice to 18ejaz-pol
+T 1394491933 18<ejaz-pol18>	hello
+T 1394492002 24*	ejaz-pol has quit (Client Quit)
+T 1394492242 23*	jamie-pol (~PlayOnLin@host109-157-174-40.range109-157.btcentralplus.com23) has joined
+T 1394492242 24*	jamie-pol has quit (Client Quit)
+T 1394492497 23*	canaima-pol (~PlayOnLin@186.89.240.7823) has joined
+T 1394492497 22*	26PlayOnLinux gives voice to 18canaima-pol
+T 1394492538 24*	canaima-pol has quit (Client Quit)
+T 1394493022 23*	haru-pol (~PlayOnLin@KD106170123217.au-net.ne.jp23) has joined
+T 1394493022 24*	haru-pol has quit (Client Quit)
+T 1394493711 18<zoktar18>	any tips getting joystick support?
+T 1394494310 23*	Lothenon (~user@p4FC6300B.dip0.t-ipconnect.de23) has joined
+T 1394495266 23*	johnb-pol (~PlayOnLin@99-14-250-145.lightspeed.chrlnc.sbcglobal.net23) has joined
+T 1394495267 22*	26PlayOnLinux gives voice to 18johnb-pol
+T 1394495321 24*	johnb-pol has quit (Client Quit)
+T 1394495537 24*	pinpin404 has quit (Ping timeout: 244 seconds)
+T 1394495872 23*	volkan-pol (~PlayOnLin@78.176.234.25423) has joined
+T 1394495872 22*	26PlayOnLinux gives voice to 18volkan-pol
+T 1394495886 18<volkan-pol18>	net engine error
+T 1394495899 18<volkan-pol18>	How can i fix ieframe
+T 1394495951 24*	volkan-pol has quit (Client Quit)
+T 1394497348 23*	pinage404 (~pinage404@mau78-1-88-184-110-51.fbx.proxad.net23) has joined
+T 1394498264 23*	antonioflavio (~antonio@ool-4a59146f.dyn.optonline.net23) has joined
+T 1394498420 24*	pinage404 has quit (Ping timeout: 244 seconds)
+T 1394498556 24*	salamanderrake has quit (Read error: Connection reset by peer)
+T 1394498620 24*	rom1504 has quit (Quit: Lost terminal)
+T 1394498642 23*	rom1504 (rom1504@rom1504.fr23) has joined
+T 1394498691 23*	salamanderrake (~salamande@cpe-71-74-247-103.neo.res.rr.com23) has joined
+T 1394498969 24*	Lothenon has quit (Quit: Leaving)
+T 1394499935 23*	UbuntuNewbie315 (~PlayOnLin@72.90.72.22623) has joined
+T 1394499936 22*	26PlayOnLinux gives voice to 18UbuntuNewbie315
+T 1394500053 18<UbuntuNewbie31518>	Quick question, I've having problems getting Microsoft Office, and Microsoft Expression installed with PlayOnLinux, Office keeps coming back with an error saying Wine crashed, I assumed it was because I got an error before that stating that "mono" was not installed, after installing it. I'm no longer getting the mono error, but am still getting the error saying that Wine has crashed, is there any software or libraries that need to be installed
+T 1394500146 23*	canaima-pol (~PlayOnLin@190.78.25.3623) has joined
+T 1394500146 22*	26PlayOnLinux gives voice to 18canaima-pol
+T 1394500425 24*	canaima-pol has quit (Ping timeout: 265 seconds)
+T 1394500922 24*	RagingMind has quit (Ping timeout: 245 seconds)
+T 1394501091 23*	Dougie187 (~douglasj@c-174-56-101-93.hsd1.nm.comcast.net23) has joined
+T 1394501154 23*	djjbjoseurbina-p (~PlayOnLin@181.64.202.5023) has joined
+T 1394501154 22*	26PlayOnLinux gives voice to 18djjbjoseurbina-p
+T 1394501179 18<djjbjoseurbina-p18>	ola
+T 1394501188 18<djjbjoseurbina-p18>	atodos
+T 1394501199 18<djjbjoseurbina-p18>	hello eveybody
+T 1394501309 23*	pinage404 (~pinage404@mau78-1-88-184-110-51.fbx.proxad.net23) has joined
+T 1394501321 18<djjbjoseurbina-p18>	hello
+T 1394501325 18<djjbjoseurbina-p18>	how r u
+T 1394501453 24*	djjbjoseurbina-p has quit (Quit: www.playonlinux.com)
+T 1394501511 23*	canaima-pol (~PlayOnLin@200.93.115.25123) has joined
+T 1394501511 22*	26PlayOnLinux gives voice to 18canaima-pol
+T 1394501553 24*	canaima-pol has quit (Client Quit)
+T 1394501589 23*	RagingMind (~RagingMin@2001:470:1f11:fef:64fc:1331:3c3d:cf6b23) has joined
+T 1394501693 24*	UbuntuNewbie315 has quit (Quit: www.playonlinux.com)
+T 1394501922 24*	wakou2 has quit (Read error: Operation timed out)
+T 1394503366 24*	PlayOnLinux has quit (Ping timeout: 265 seconds)
+T 1394507125 23*	QBall_ (~QBall@cpc9-nrte21-2-0-cust189.8-4.cable.virginm.net23) has joined
+T 1394507298 24*	QBall has quit (Ping timeout: 265 seconds)
+T 1394507304 24*	28QBall_ is now known as 18QBall
+T 1394508946 24*	Dougie187 (~douglasj@c-174-56-101-93.hsd1.nm.comcast.net24) has left
+T 1394510238 24*	Walzmyn has quit (Ping timeout: 240 seconds)
+T 1394511263 23*	mario-pol (~PlayOnLin@187.252.98.4523) has joined
+T 1394511263 24*	mario-pol has quit (Client Quit)
+T 1394511669 23*	juannunez-pom (~PlayOnLin@189.182.170.14123) has joined
+T 1394511670 24*	juannunez-pom has quit (Client Quit)
+T 1394512704 24*	antonioflavio has quit (Ping timeout: 240 seconds)
+T 1394513225 23*	hackoff-pol (~PlayOnLin@cont.ethernet.ilimnet.ru23) has joined
+T 1394513226 24*	hackoff-pol has quit (Client Quit)
+T 1394515514 24*	RagingMind has quit (Quit: ZNC - http://znc.in)
+T 1394515599 23*	RagingMind (~RagingMin@2001:470:1f11:fef:5604:a6ff:fe04:f8c523) has joined
+T 1394515920 23*	bno-pol (~PlayOnLin@125.161.188.15523) has joined
+T 1394515921 24*	bno-pol has quit (Client Quit)
+T 1394516098 24*	QBall has quit (Ping timeout: 240 seconds)
+T 1394516152 23*	antonioflavio (~antonio@ool-4a59146f.dyn.optonline.net23) has joined
+T 1394516358 24*	Rochvellon has quit (Ping timeout: 240 seconds)
+T 1394516582 24*	kneekoo has quit (Quit: Leaving)
+T 1394516957 23*	DjFelixLeiter-po (~PlayOnLin@97e19339.skybroadband.com23) has joined
+T 1394516958 24*	DjFelixLeiter-po has quit (Client Quit)
+T 1394517406 23*	DjFelixLeiter-po (~PlayOnLin@97e19339.skybroadband.com23) has joined
+T 1394517406 24*	DjFelixLeiter-po has quit (Client Quit)
+T 1394517424 23*	DjFelixLeiter-po (~PlayOnLin@97e19339.skybroadband.com23) has joined
+T 1394517425 24*	DjFelixLeiter-po has quit (Client Quit)
+T 1394517450 23*	DjFelixLeiter-po (~PlayOnLin@97e19339.skybroadband.com23) has joined
+T 1394517450 24*	DjFelixLeiter-po has quit (Client Quit)
+T 1394517574 24*	antonioflavio has quit (Ping timeout: 264 seconds)
+T 1394517637 23*	kneekoo (~kneekoo@188.27.100.14823) has joined
+T 1394522797 23*	josedomingo-pol (~PlayOnLin@cpe-76-167-95-38.san.res.rr.com23) has joined
+T 1394522797 24*	josedomingo-pol has quit (Client Quit)
+T 1394523824 23*	nishi-pol (~PlayOnLin@115.240.42.9523) has joined
+T 1394523825 24*	nishi-pol has quit (Client Quit)
+T 1394524431 23*	wakou2 (~stephen@host86-166-173-232.range86-166.btcentralplus.com23) has joined
+T 1394524881 19*	Now talking on 22#playonlinux
+T 1394524881 22*	Topic for 22#playonlinux is: PlayOnLinux and PlayOnMac Official IRC | http://www.playonlinux.com/ http://www.playonmac.com/ | Latest version: 4.2.2 | Please speak English or French | We do not support piracy. | Don't ask if you may ask, just ask. | We do not respond always immediately, please be patient.
+T 1394524881 22*	Topic for 22#playonlinux set by 26pango!~pango@79.141.172.23 (24Thu Jan 16 06:07:59 2014)
+T 1394525351 23*	pathfinder-pol (~PlayOnLin@61.183.148.13123) has joined
+T 1394525352 24*	pathfinder-pol has quit (Client Quit)
+T 1394525691 23*	fuorviatos (~quassel@77-254-199-80.adsl.inetia.pl23) has joined
+T 1394527420 23*	live-pol (~PlayOnLin@dslb-092-072-254-242.pools.arcor-ip.net23) has joined
+T 1394527420 24*	live-pol has quit (Client Quit)
+T 1394529073 23*	renato-pol (~PlayOnLin@ip-36-66.sn3.eutelia.it23) has joined
+T 1394529078 24*	renato-pol has quit (Client Quit)
+T 1394531462 23*	dhruv-pol (~PlayOnLin@49.15.54.12123) has joined
+T 1394531464 24*	dhruv-pol has quit (Client Quit)
+T 1394531652 23*	BlooAlien (~bloo@75-162-184-29.slkc.qwest.net23) has joined
+T 1394531652 24*	BlooAlien has quit (Changing host)
+T 1394531652 23*	BlooAlien (~bloo@unaffiliated/TSK23) has joined
+T 1394531682 24*	BlooAlien has quit (Client Quit)
+T 1394531780 23*	BlooAlien (~bloo@unaffiliated/TSK23) has joined
+T 1394531869 23*	Walzmyn (~quassel@h147.143.29.71.dynamic.ip.windstream.net23) has joined
+T 1394533023 23*	jacquelinebutty- (~PlayOnLin@AMontpellier-257-1-1-113.w86-202.abo.wanadoo.fr23) has joined
+T 1394533023 24*	jacquelinebutty- has quit (Client Quit)
+T 1394533162 24*	Infiltrator has quit (Ping timeout: 264 seconds)
+T 1394533243 23*	Infiltrator (~Infiltrat@unaffiliated/infiltrator23) has joined
+T 1394533388 23*	david-pol (~PlayOnLin@host-92-16-147-21.as13285.net23) has joined
+T 1394533388 24*	david-pol has quit (Client Quit)
+T 1394533431 23*	bda-pol (~PlayOnLin@mx.vtormetall.org23) has joined
+T 1394533431 24*	bda-pol has quit (Client Quit)
+T 1394533816 23*	user-pol (~PlayOnLin@121.96.56.223) has joined
+T 1394533816 24*	user-pol has quit (Client Quit)
+T 1394535478 23*	mirosnicenko-pol (~PlayOnLin@ip56520bd8.speed.planet.nl23) has joined
+T 1394535478 24*	mirosnicenko-pol has quit (Client Quit)
+T 1394536068 23*	dotnes-pom (~PlayOnLin@d54C1C6F7.access.telenet.be23) has joined
+T 1394536068 24*	dotnes-pom has quit (Client Quit)
+T 1394536828 23*	plj-pol (~PlayOnLin@183.159.50.7523) has joined
+T 1394536829 24*	plj-pol has quit (Client Quit)
+T 1394537793 23*	eljenso-pol (~PlayOnLin@144-134.eduroam.rwth-aachen.de23) has joined
+T 1394537794 24*	eljenso-pol has quit (Client Quit)
+T 1394538981 23*	mluintel-pol (~PlayOnLin@110.44.114.17023) has joined
+T 1394538981 24*	mluintel-pol has quit (Client Quit)
+T 1394540290 23*	mpieters-pol (~PlayOnLin@dD5E0101A.access.telenet.be23) has joined
+T 1394540291 24*	mpieters-pol has quit (Client Quit)
+T 1394540544 23*	tim-pol (~PlayOnLin@178.234.70.20823) has joined
+T 1394540545 24*	tim-pol has quit (Client Quit)
+T 1394540564 23*	tim-pol (~PlayOnLin@178.234.70.20823) has joined
+T 1394540565 24*	tim-pol has quit (Client Quit)
+T 1394540995 23*	vaio-pol (~PlayOnLin@i114-191-85-168.s41.a033.ap.plala.or.jp23) has joined
+T 1394540996 24*	vaio-pol has quit (Client Quit)
+T 1394542825 24*	pango has quit (Ping timeout: 265 seconds)
+T 1394543350 24*	Walzmyn has quit (Ping timeout: 264 seconds)
+T 1394543575 23*	giolly-pol (~PlayOnLin@host28-142-dynamic.13-79-r.retail.telecomitalia.it23) has joined
+T 1394543575 24*	giolly-pol has quit (Client Quit)
+T 1394544829 23*	Dougie187 (~douglasj@y-130-55-120-61.lanl.gov23) has joined
+T 1394545200 23*	mike-pol (~PlayOnLin@p5DC058FB.dip0.t-ipconnect.de23) has joined
+T 1394545200 24*	mike-pol has quit (Client Quit)
+T 1394545225 23*	mike-pol (~PlayOnLin@p5DC058FB.dip0.t-ipconnect.de23) has joined
+T 1394545225 24*	mike-pol has quit (Client Quit)
+T 1394546283 19*	Now talking on 22#playonlinux
+T 1394546283 22*	Topic for 22#playonlinux is: PlayOnLinux and PlayOnMac Official IRC | http://www.playonlinux.com/ http://www.playonmac.com/ | Latest version: 4.2.2 | Please speak English or French | We do not support piracy. | Don't ask if you may ask, just ask. | We do not respond always immediately, please be patient.
+T 1394546283 22*	Topic for 22#playonlinux set by 26pango!~pango@79.141.172.23 (24Thu Jan 16 06:07:59 2014)
+T 1394546807 23*	myphuong-pol (~PlayOnLin@pool-71-170-123-43.dllstx.fios.verizon.net23) has joined
+T 1394546807 24*	myphuong-pol has quit (Client Quit)
+T 1394546931 23*	QBall (~QBall@cpc9-nrte21-2-0-cust189.8-4.cable.virginm.net23) has joined
+T 1394546946 23*	enrique-pol (~PlayOnLin@ip4-46-210-87.adsl2.static.versatel.nl23) has joined
+T 1394546946 24*	enrique-pol has quit (Client Quit)
+T 1394546980 23*	enrique-pol (~PlayOnLin@ip4-46-210-87.adsl2.static.versatel.nl23) has joined
+T 1394546980 24*	enrique-pol has quit (Client Quit)
+T 1394547023 23*	Rochvellon (~user@p4FC61F2B.dip0.t-ipconnect.de23) has joined

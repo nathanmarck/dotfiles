@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+	<Shortcut>w</Shortcut>
+	<ShortName>Wikipedia (EN)</ShortName>
+	<Description>Wikipedia, the free encyclopedia</Description>
+	<InputEncoding>UTF-8</InputEncoding>
+	<Image width="16" height="16" type="image/png">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAACXBIWXMAAA7EAAAOxAGVKw4bAAABxklEQVQokZ2SMWvbQBTH/3HBlEBxEgLN0kznYihGHULxYGyJM7G2yCStPBtncD5BUCDuR/DHaIYKTQlOJZrBSwlFUUNBLgJZQ2iorNryIDqcoMMVJ/VS0scN9+7+P967978lljI8JDIPUv8PgP55X22qcl3un/dZyk7ench1WTvS3KHLUqYdaWpTdYeuO3Q7Bx21qWYopcUXxVEw4vzu610A+nsdQBRGy4+XJVEihKzmVgFIopQBsPdmL57GhmFEYQRAaSjxNHZsx/f9m+837f32vJ32fjsDgBBSESuGbvi+D0CUREEQum+7pmmKFZFLr75c8f2fR7daLQCmaXJeaSjeN+/66zXvMAqjy0+XK2srdwClVBCEwWDgeR4vUiqV4knMbyfxJPmVUEr/Gmu5XDY/mI7tzE9GwciyLAAXHy82n20u+nCoHZLnRDf0KIwc2ym+LK6vrRuGAWAcjhtKg8seHXeP58wsntmf7dsftxtPN3aUnelsenZ6ls1mkyTZlrcXKwDI5/Pjn2NuAiGkWq0C6PV6tVrtTsRSdn/JdVmuy9xmlrLOQadQKNwXLC38Vsuyck9yW6+2eOp5XhAEfD48FoF/xm88DOALbxAC2AAAAABJRU5ErkJggg==</Image>
+	<Url rel="results" type="text/html" method="GET" enctype="" template="http://en.wikipedia.org/wiki/Special:Search?search={searchTerms}"/>
+	<Url rel="suggestions" type="application/x-suggestions+json" method="GET" enctype="" template="http://en.wikipedia.org/w/api.php?action=opensearch&amp;search={searchTerms}"/>
+</OpenSearchDescription>

@@ -1,0 +1,504 @@
+T 1394282592 23*	twitch (~twitch@70-139-152-245.lightspeed.hstntx.sbcglobal.net23) has joined
+T 1394282603 24*	twitch has quit (Client Quit)
+T 1394282933 23*	randomhuman (~kevin@host39-208.statics.netsource.ie23) has joined
+T 1394282967 24*	scubarab has quit (Quit: Page closed)
+T 1394283174 23*	Taoki (~MirceaKit@93.113.162.3723) has joined
+T 1394283691 24*	jakdaniels has quit (Read error: Connection reset by peer)
+T 1394284033 24*	djable has quit (Remote host closed the connection)
+T 1394284251 23*	MealeaYing (~chatzilla@195.sub-70-193-200.myvzw.com23) has joined
+T 1394286400 23*	greenvadus (~greenvadu@82.146.61.3123) has joined
+T 1394287037 24*	Monday has quit (Read error: Connection reset by peer)
+T 1394287050 23*	Monday (~Thursday@static-72-67-52-110.lsanca.fios.verizon.net23) has joined
+T 1394287531 23*	jakdaniels (~jakdaniel@hengwm2.ateb.co.uk23) has joined
+T 1394288147 24*	MealeaYing has quit (Ping timeout: 244 seconds)
+T 1394288414 24*	Monday has quit (Read error: Connection reset by peer)
+T 1394288431 23*	Monday (~Thursday@static-72-67-52-110.lsanca.fios.verizon.net23) has joined
+T 1394288864 23*	nebadon_ (~nebadon@c-50-166-84-181.hsd1.nj.comcast.net23) has joined
+T 1394289022 24*	nebadon has quit (Ping timeout: 245 seconds)
+T 1394290156 23*	ArthurNumba2 (~Arty@92-108-8-16.dynamic.upc.nl23) has joined
+T 1394290378 24*	OtakuMegane has quit (Quit: Leaving)
+T 1394290395 23*	OtakuMegane (~OtakuMega@adsl-74-176-78-156.asm.bellsouth.net23) has joined
+T 1394292479 23*	Claudius (~chatzilla@ADijon-258-1-109-120.w90-13.abo.wanadoo.fr23) has joined
+T 1394292738 24*	randomhuman has quit (Ping timeout: 240 seconds)
+T 1394292853 24*	Monday has quit (Read error: Connection reset by peer)
+T 1394292863 23*	Monday (~Thursday@static-72-67-52-110.lsanca.fios.verizon.net23) has joined
+T 1394295415 23*	Tuesday (~Thursday@static-72-67-52-110.lsanca.fios.verizon.net23) has joined
+T 1394295527 24*	Monday has quit (Ping timeout: 264 seconds)
+T 1394295557 24*	greenvadus has quit (Remote host closed the connection)
+T 1394297030 23*	directoru (~directoru@188.120.231.4923) has joined
+T 1394297199 24*	Taoki has quit (Quit: KVIrc KVIrc Equilibrium 4.2.0, revision: 6190, sources date: 20120701, built on: 2013-09-28 13:42:48 UTC http://www.kvirc.net/)
+T 1394298372 23*	dubrovna (~dubrovna@50-81-51-31.client.mchsi.com23) has joined
+T 1394298913 24*	directoru has quit (Remote host closed the connection)
+T 1394298929 24*	Tuesday has quit (Read error: Connection reset by peer)
+T 1394298944 23*	Monday (~Thursday@static-72-67-52-110.lsanca.fios.verizon.net23) has joined
+T 1394299284 23*	Tuesday (~Thursday@static-72-67-52-110.lsanca.fios.verizon.net23) has joined
+T 1394299284 24*	Monday has quit (Read error: Connection reset by peer)
+T 1394300665 24*	Tuesday has quit (Read error: Connection reset by peer)
+T 1394300676 23*	Monday (~Thursday@static-72-67-52-110.lsanca.fios.verizon.net23) has joined
+T 1394300823 24*	paulie_flomar has quit (Ping timeout: 252 seconds)
+T 1394303194 23*	Taoki (~MirceaKit@93.113.162.3723) has joined
+T 1394303951 24*	Monday has quit (Ping timeout: 264 seconds)
+T 1394304977 23*	Monday (~Thursday@static-72-67-52-110.lsanca.fios.verizon.net23) has joined
+T 1394305926 23*	simstick (~Chris@50.8.0.20423) has joined
+T 1394305926 24*	simstick has quit (Changing host)
+T 1394305926 23*	simstick (~Chris@unaffiliated/simstick23) has joined
+T 1394307169 24*	JoeRadik has quit (Remote host closed the connection)
+T 1394308407 23*	paulieflomar (~paulieflo@216.240.181.20923) has joined
+T 1394309508 24*	28nebadon_ is now known as 18nebadon
+T 1394309993 23*	NomadOfNorad (~Nomad@99-59-216-138.lightspeed.jcvlfl.sbcglobal.net23) has joined
+T 1394310799 24*	Monday has quit (Read error: Connection reset by peer)
+T 1394310809 23*	Monday (~Thursday@static-72-67-52-110.lsanca.fios.verizon.net23) has joined
+T 1394311481 23*	randomhuman (~kevin@host39-208.statics.netsource.ie23) has joined
+T 1394312711 23*	bercan (~bercan@188.190.127.6323) has joined
+T 1394312972 23*	Wanderer_42 (~kvirc@dslb-084-060-147-023.pools.arcor-ip.net23) has joined
+T 1394313314 24*	bercan has quit (Remote host closed the connection)
+T 1394313398 24*	randomhuman has quit (Ping timeout: 240 seconds)
+T 1394314845 23*	Shez (~chatzilla@ip72-207-125-34.sd.sd.cox.net23) has joined
+T 1394315067 24*	28ssm2017[Away] is now known as 18ssm2017
+T 1394315851 23*	spanishfly (~spanishfl@62.109.9.9323) has joined
+T 1394316473 24*	Monday has quit (Read error: Connection reset by peer)
+T 1394316559 24*	Yez has quit (Read error: Connection reset by peer)
+T 1394316689 23*	Yez (~Yez@ip72-207-125-34.sd.sd.cox.net23) has joined
+T 1394316944 23*	randomhuman (~kevin@host39-208.statics.netsource.ie23) has joined
+T 1394318499 23*	[SLB]` (~slabua@unaffiliated/slabua23) has joined
+T 1394318619 24*	[SLB] has quit (Ping timeout: 265 seconds)
+T 1394318620 24*	28[SLB]` is now known as 18[SLB]
+T 1394319288 23*	JoeRadik (~chatzilla@108.238.231.2723) has joined
+T 1394320720 23*	[SLB]` (~slabua@host163-164-dynamic.7-87-r.retail.telecomitalia.it23) has joined
+T 1394320720 24*	[SLB]` has quit (Changing host)
+T 1394320720 23*	[SLB]` (~slabua@unaffiliated/slabua23) has joined
+T 1394320858 24*	[SLB] has quit (Ping timeout: 240 seconds)
+T 1394320858 24*	28[SLB]` is now known as 18[SLB]
+T 1394321048 24*	spanishfly has quit (Remote host closed the connection)
+T 1394322037 24*	JoeRadik has quit (Read error: Connection reset by peer)
+T 1394323325 18<Wanderer_4218>	Hi. Is there a console-command (or other possibility), to send a message on a certain channel to all regions in the server-instance ?
+T 1394323753 18<Dev_Random18>	alert?
+T 1394323818 18<Wanderer_4218>	as far as i understand, alert sends to avatars. I want to receive that message with a script
+T 1394323827 18<Dev_Random18>	ah
+T 1394323854 18<Wanderer_4218>	thats the reason, why i asked for a certain channel
+T 1394324880 23*	Claudius_ (~chatzilla@ADijon-258-1-60-93.w90-6.abo.wanadoo.fr23) has joined
+T 1394325083 24*	Claudius has quit (Ping timeout: 264 seconds)
+T 1394325095 24*	28Claudius_ is now known as 18Claudius
+T 1394326433 23*	m|core (~core@172.245.21.5123) has joined
+T 1394326511 23*	JoeRadik (~chatzilla@108.238.231.2723) has joined
+T 1394326514 24*	28m|core is now known as 18mcore
+T 1394326798 24*	randomhuman has quit (Ping timeout: 240 seconds)
+T 1394329015 23*	Vivkdroid (~Vivkusing@164.sub-174-233-2.myvzw.com23) has joined
+T 1394329159 24*	Vivkdroid has quit (Client Quit)
+T 1394329633 24*	Wanderer_42 (~kvirc@dslb-084-060-147-023.pools.arcor-ip.net24) has left ("Bye")
+T 1394330688 24*	[SLB] has quit (Ping timeout: 240 seconds)
+T 1394330862 23*	[SLB] (~slabua@unaffiliated/slabua23) has joined
+T 1394331457 24*	[SLB] has quit (Ping timeout: 240 seconds)
+T 1394331612 23*	[SLB] (~slabua@unaffiliated/slabua23) has joined
+T 1394332243 23*	lavy (32979c93@gateway/web/freenode/ip.50.151.156.14723) has joined
+T 1394332273 23*	Lance (c000a886@gateway/web/freenode/ip.192.0.168.13423) has joined
+T 1394332297 24*	28Lance is now known as 18Guest68379
+T 1394332321 23*	Megaf__ (~Megaf@unaffiliated/megaf23) has joined
+T 1394332328 18<Guest6837918>	Hi! If I want to run TWO regions, one on each PC, let's call it Computer A & Computer B. Both A & B are behind the same router.
+T 1394332357 18<Guest6837918>	PC A is able to go online using the default port 9000
+T 1394332397 18<Guest6837918>	PC B is not able to get the OSgrid region up ....... on PC B, I setup port forwarding to port 9010 and I changed the region.ini file to internal port = 9010
+T 1394332418 18<Guest6837918>	and I changed the opensim.ini file http_listener_port = 9000 to http_listener_port = 9010
+T 1394332437 18<Guest6837918>	but I when I try to run the OSgrid server on B, the server crashes right way
+T 1394332453 18<Guest6837918>	On the router, I set port forwarding from 9010 external port to 9010 internal port
+T 1394332700 18<danbanner18>	Guest68379: setup a second forward pointed at computer B
+T 1394332716 18<Guest6837918>	Dan - how do I get a second forward pointed at computer B?
+T 1394332734 18<danbanner18>	two separate forwards in the router
+T 1394332744 18<danbanner18>	one for computer A
+T 1394332745 18<Guest6837918>	yes, the router has two forward configs
+T 1394332747 18<danbanner18>	one for computer B
+T 1394332752 18<Guest6837918>	Port 9000 - computer A
+T 1394332757 18<Guest6837918>	port 9010 - computer B
+T 1394332761 18<Guest6837918>	that is setup in the router
+T 1394332768 18<Guest6837918>	but only computer A's region is able to go online
+T 1394332785 18<danbanner18>	you will need to double check any firewalls running on the PC to make sure its not blocking opensim too
+T 1394332855 18<danbanner18>	did you uncomment http_listener_port = 9010
+T 1394332862 18<danbanner18>	i.e. remove the ;
+T 1394332903 18<lavy18>	yes he did that..guest had to step away from the pc for amoment :)..
+T 1394333055 18<danbanner18>	what region name?
+T 1394333089 18<lavy18>	the region we cant get up on port 9010 is Ivy Island
+T 1394333143 18<danbanner18>	ivy island shows it is trying to use port 9000
+T 1394333185 18<lavy18>	we orginally did have it log in on port 9000 but i was unable to tp there.. i have another region that uses that port..
+T 1394333196 18<Guest6837918>	ah
+T 1394333204 18<Guest6837918>	how can we tell what port Ivy Island is trying to use?
+T 1394333206 18<lavy18>	after that happne we  tried to change the rgion to port 9010
+T 1394333213 24*	28Guest68379 is now known as 18Lance___
+T 1394333220 18<danbanner18>	you'll need to restart it
+T 1394333261 18<Lance___18>	as Ivy island Starts up .... it tells us what port it is trying to use?
+T 1394333288 18<Lance___18>	is it just OpenSim.ini and Regions.ini that I need to add port 9010 into as well as in router port forwarding?
+T 1394333298 18<danbanner18>	yes
+T 1394333338 18<Lance___18>	iin OpenSim.ini, the only thing we need to change is
+T 1394333342 18<Lance___18>	http_listener_port = 9010
+T 1394333344 18<Lance___18>	correct?
+T 1394333349 18<Lance___18>	if we want to use port 9010?
+T 1394333353 18<danbanner18>	you can use 'show regions' to see what ports it is using for the region
+T 1394333364 18<danbanner18>	yes that looks correct
+T 1394333375 18<Lance___18>	ah, thank you
+T 1394333395 18<danbanner18>	opensim.ini and regions.ini are where tcp port and udp port are set
+T 1394333432 18<Lance___18>	the only two changes I made are
+T 1394333439 18<Lance___18>	in opensim.ini
+T 1394333442 18<Lance___18>	http_listener_port = 9010
+T 1394333444 18<Lance___18>	and in regions.ini
+T 1394333453 18<danbanner18>	and removed the ; too correct
+T 1394333455 18<danbanner18>	?
+T 1394333464 18<Lance___18>	InternalPort = 9010
+T 1394333468 18<Lance___18>	oh yes, removed the ;
+T 1394333472 18<Lance___18>	in front of http
+T 1394333483 18<danbanner18>	its still registered on the grid with port 9000 tcp and udp
+T 1394333513 18<Lance___18>	hmmmm
+T 1394333515 18<danbanner18>	have you restarted it?
+T 1394333519 18<Lance___18>	yes, we restarted it
+T 1394333525 18<Lance___18>	but it now crashes on startup
+T 1394333551 18<danbanner18>	you probably need to make sure you didnt edit the opensim.ini.example and regions.ini.example
+T 1394333563 18<danbanner18>	as those files will not affect anything
+T 1394333571 18<Lance___18>	I'm pretty sure that didn't get edited ..... perhaps I will try a clean reinstall of the server
+T 1394333574 18<Lance___18>	and see if that helps
+T 1394333584 18<danbanner18>	look at the filetype for the files you edited
+T 1394333599 18<Lance___18>	opensim.ini
+T 1394333602 18<Lance___18>	and regions.ini
+T 1394333616 18<danbanner18>	they show as type "settings"
+T 1394333617 18<danbanner18>	?
+T 1394333621 18<danbanner18>	or example
+T 1394333638 18<Lance___18>	how can I tell the difference?
+T 1394333645 18<Lance___18>	oh
+T 1394333647 18<Lance___18>	in file type
+T 1394333650 18<Lance___18>	it shows as "settings"
+T 1394333669 18<danbanner18>	ok
+T 1394333684 18<danbanner18>	its not registering with your changes
+T 1394333699 18<Lance___18>	ah
+T 1394333703 18<danbanner18>	http://i.imgur.com/FzTekBy.png
+T 1394333728 18<danbanner18>	if file extensions are hidden opensim.ini.example looks like opensim.ini
+T 1394333737 18<Lance___18>	ah
+T 1394333745 18<Lance___18>	let me check if file types are hidden
+T 1394333748 18<Lance___18>	thanks for the tip
+T 1394333751 18<danbanner18>	yw
+T 1394334333 18<Lance___18>	file extensions are shown
+T 1394334342 18<Lance___18>	hmmm, I'm going to try to reinstall the server
+T 1394334346 24*	Claudius has quit (Quit: ChatZilla 0.9.90.1 [Firefox 27.0.1/20140212131424])
+T 1394334347 18<Lance___18>	and see if that works
+T 1394334571 18<danbanner18>	k
+T 1394335050 18<Lance___18>	I reinstalled it
+T 1394335063 18<Lance___18>	and I configured the opensim.ini file and regions.ini file
+T 1394335067 18<Lance___18>	and made sure port forwarding is up
+T 1394335078 18<Lance___18>	turned off firewall to make sure nothing is blocking it
+T 1394335091 18<Lance___18>	I loaded up
+T 1394335096 18<Lance___18>	and I got asked about name
+T 1394335103 18<Lance___18>	whether to join estate or not
+T 1394335105 18<Lance___18>	I said "no"
+T 1394335118 18<Lance___18>	then a block of red text came up very FAST and the server closed down on me
+T 1394335134 18<Lance___18>	this is on port 9010 with router port forward enabled
+T 1394335250 18<danbanner18>	you'll need to create an estate on first run
+T 1394335264 18<lavy18>	orignally i did that
+T 1394335273 18<danbanner18>	but you reinstalled it
+T 1394335279 18<danbanner18>	and it asked for that
+T 1394335291 18<lavy18>	ahh so that is why its shutting down on me?
+T 1394335297 18<danbanner18>	could be
+T 1394335306 18<lavy18>	so.. uninstall again
+T 1394335308 18<danbanner18>	most likely thats why
+T 1394335316 18<danbanner18>	just answer the questions
+T 1394335332 18<lavy18>	so..unilstall the server again..
+T 1394335342 18<lavy18>	and answer yes to estate
+T 1394335348 18<lavy18>	?
+T 1394335360 18<danbanner18>	you should just be able to run it again
+T 1394335494 18<danbanner18>	were you trying to use the same location with a new uuid?
+T 1394335514 18<danbanner18>	you might need to remove the old region from your profile
+T 1394335517 18<lavy18>	i was using the same UID.. but I move location
+T 1394335538 18<danbanner18>	try again
+T 1394335548 18<lavy18>	try what loging in
+T 1394335563 18<danbanner18>	try running opensim again
+T 1394335661 18<lavy18>	oh wow it loaded
+T 1394335677 18<lavy18>	it kept crashing all the other times
+T 1394335699 18<danbanner18>	shows 9010 now
+T 1394335719 18<lavy18>	WOOOT.. how that happen ? i
+T 1394335721 18<lavy18>	lol
+T 1394336259 24*	lavy has quit (Quit: Page closed)
+T 1394337782 18<Lance___18>	thanks soooooooooo much Dan!!!!!!!!!!
+T 1394338101 18<danbanner18>	yw
+T 1394339020 23*	SammyG3 (~sammyg3@host-251-24-2-96.midco.net23) has joined
+T 1394339228 24*	Megaf__ has quit (Excess Flood)
+T 1394339305 23*	Megaf__ (~Megaf@unaffiliated/megaf23) has joined
+T 1394342251 24*	dubrovna has quit ()
+T 1394342284 24*	[SLB] has quit (Ping timeout: 265 seconds)
+T 1394342356 23*	[SLB] (~slabua@unaffiliated/slabua23) has joined
+T 1394342377 23*	sanz (~Sanz_w7@unaffiliated/c-sanz23) has joined
+T 1394342662 24*	ArthurNumba2 has quit (Excess Flood)
+T 1394342702 23*	ArthurNumba2 (~Arty@92-108-8-16.dynamic.upc.nl23) has joined
+T 1394342702 24*	Lance___ has quit (Quit: Page closed)
+T 1394342719 24*	Megaf__ has quit (Quit: Konversation terminated!)
+T 1394343932 24*	mcore has quit (Read error: Connection reset by peer)
+T 1394344066 23*	AlexRime_ (~alexrime@dcs.cpms.ru23) has joined
+T 1394344066 24*	AlexRime has quit (Read error: Connection reset by peer)
+T 1394344498 24*	28ssm2017 is now known as 18ssm2017[Away]
+T 1394344758 24*	NomadOfNorad has quit (Quit: Leaving)
+T 1394348555 24*	smxy has quit (Ping timeout: 252 seconds)
+T 1394349882 23*	smxy (~smxy@65.78.40.16723) has joined
+T 1394354770 24*	[SLB] has quit (Quit: Close the world, Open the nExt)
+T 1394356272 24*	simstick has quit (Ping timeout: 245 seconds)
+T 1394356555 19*	Now talking on 22#osgrid
+T 1394356555 22*	Topic for 22#osgrid is: *** GRID IS ONLINE ***  - Stay up to date via [ http://twitter.com/osgrid | http://news.osgrid.org ]
+T 1394356555 22*	Topic for 22#osgrid set by 26nebadon!~nebadon@c-174-57-169-64.hsd1.pa.comcast.net (24Mon Jul 29 18:06:22 2013)
+T 1394356864 23*	simstick (~Chris@50.8.0.20423) has joined
+T 1394356864 24*	simstick has quit (Changing host)
+T 1394356864 23*	simstick (~Chris@unaffiliated/simstick23) has joined
+T 1394359617 23*	[SLB] (~slabua@unaffiliated/slabua23) has joined
+T 1394360283 23*	Monday (~Thursday@static-72-67-52-110.lsanca.fios.verizon.net23) has joined
+T 1394362444 24*	Shez has quit (Remote host closed the connection)
+T 1394364189 23*	randomhuman (~kevin@host39-208.statics.netsource.ie23) has joined
+T 1394366697 23*	[SLB]` (~slabua@unaffiliated/slabua23) has joined
+T 1394366760 24*	[SLB] has quit (Ping timeout: 240 seconds)
+T 1394366761 24*	28[SLB]` is now known as 18[SLB]
+T 1394366834 23*	Tuesday (~Thursday@static-72-67-52-110.lsanca.fios.verizon.net23) has joined
+T 1394366834 24*	Monday has quit (Read error: Connection reset by peer)
+T 1394367278 23*	Wanderer_42 (~kvirc@dslb-084-060-147-023.pools.arcor-ip.net23) has joined
+T 1394367423 23*	nebadon_ (~nebadon@c-50-166-84-181.hsd1.nj.comcast.net23) has joined
+T 1394367622 24*	nebadon has quit (Ping timeout: 245 seconds)
+T 1394368297 24*	ArthurNumba2 has quit (Remote host closed the connection)
+T 1394368452 23*	ArthurNumba2 (~Arty@92-108-8-16.dynamic.upc.nl23) has joined
+T 1394369055 24*	Taoki has quit (Ping timeout: 252 seconds)
+T 1394369945 23*	Taoki (~MirceaKit@93.113.162.3723) has joined
+T 1394374073 23*	H-H-H (H-H-H@80-44-109-30.dynamic.dsl.as9105.com23) has joined
+T 1394374801 24*	[SLB] has quit (Quit: Close the world, Open the nExt)
+T 1394375532 23*	[SLB] (~slabua@unaffiliated/slabua23) has joined
+T 1394378163 23*	Monday (~Thursday@static-72-67-52-110.lsanca.fios.verizon.net23) has joined
+T 1394378362 24*	Tuesday has quit (Ping timeout: 264 seconds)
+T 1394378578 23*	dubrovna (~dubrovna@50-81-51-31.client.mchsi.com23) has joined
+T 1394379540 24*	frnic has quit (Remote host closed the connection)
+T 1394379778 24*	Lucashayes has quit (Ping timeout: 240 seconds)
+T 1394380496 24*	H-H-H has quit (Ping timeout: 244 seconds)
+T 1394381271 24*	28nebadon_ is now known as 18nebadon
+T 1394382247 24*	[SLB] has quit (Quit: Close the world, Open the nExt)
+T 1394383563 19*	Now talking on 22#osgrid
+T 1394383563 22*	Topic for 22#osgrid is: *** GRID IS ONLINE ***  - Stay up to date via [ http://twitter.com/osgrid | http://news.osgrid.org ]
+T 1394383563 22*	Topic for 22#osgrid set by 26nebadon!~nebadon@c-174-57-169-64.hsd1.pa.comcast.net (24Mon Jul 29 18:06:22 2013)
+T 1394383657 24*	Monday has quit (Read error: Connection reset by peer)
+T 1394383675 23*	Monday (~Thursday@static-72-67-52-110.lsanca.fios.verizon.net23) has joined
+T 1394384225 23*	NomadOfNorad (~Nomad@99-59-216-138.lightspeed.jcvlfl.sbcglobal.net23) has joined
+T 1394384549 18<Wanderer_4218>	Hi. Is there a console-command (or other possibility), to send a message on a certain channel to all regions in the server-instance ?  I want a script on every region, that can receive that massage.
+T 1394384734 18<nebadon18>	I dont think so Wanderer_42
+T 1394384742 18<nebadon18>	you need to explore using HTTP stuff for that
+T 1394384792 18<Wanderer_4218>	ok, Is it possible, to letb scripts chat from one region to the next one ?
+T 1394384792 18<nebadon18>	http://wiki.secondlife.com/wiki/Category:LSL_HTTP
+T 1394384797 23*	Lucashayes (~Lucashaye@ipv4.host.stabbyspazzout.net23) has joined
+T 1394384802 24*	Lucashayes has quit (Changing host)
+T 1394384802 23*	Lucashayes (~Lucashaye@unaffiliated/giod23) has joined
+T 1394384805 18<nebadon18>	you can using the HTTP stuff yes
+T 1394384813 18<nebadon18>	cant do it exactly like you can in SL
+T 1394384822 18<nebadon18>	because in SL you would generally use the llEmail stuff
+T 1394384846 18<Wanderer_4218>	ok, thank you for the informations
+T 1394384854 18<nebadon18>	but you could theoreticly create a PHP or HTML backend running in apache
+T 1394384858 18<nebadon18>	that all your scripts connect to
+T 1394384867 18<nebadon18>	and push and pull info
+T 1394384869 18<Wanderer_4218>	i have a lot to test :-)
+T 1394384882 20<Thonneve>30	nebadon: Isn't there a osMessageObject function?
+T 1394384885 20<Thonneve>30	Or am I mistaken?
+T 1394384949 20<Thonneve>30	Wanderer_42: http://opensimulator.org/wiki/OsMessageObject
+T 1394384958 20<Thonneve>30	Thought I had seen it before
+T 1394384972 18<Wanderer_4218>	Thank you. I have a look :-)
+T 1394384998 18<nebadon18>	im not sure that works across multiple simulators though
+T 1394385009 20<Thonneve>30	It may not, but it's worth a look
+T 1394385032 18<nebadon18>	doing http methods
+T 1394385046 18<nebadon18>	one could theoreticly develop a system that works across multiple grids
+T 1394385047 18<nebadon18>	and even SL
+T 1394385057 18<nebadon18>	I remember someone made a communicator hud
+T 1394385062 18<nebadon18>	where you could chat from OSgrid to SL
+T 1394385093 20<Thonneve>30	Does opensim still intergrate local email?
+T 1394385103 18<nebadon18>	yes but its out only
+T 1394385110 20<Thonneve>30	Oh right
+T 1394385116 18<nebadon18>	its smtp only there is no pop3 functionality
+T 1394385124 18<nebadon18>	using email is inherintly dangerous
+T 1394385132 18<nebadon18>	could turn your simulator into a spambot
+T 1394385141 20<Thonneve>30	I have it disabled personally
+T 1394385142 18<nebadon18>	and end up getting your ip address blacklisted forever
+T 1394385167 20<Thonneve>30	Remote communications will be throughout the sim, not cross sim
+T 1394385181 23*	[SLB] (~slabua@host154-165-dynamic.3-87-r.retail.telecomitalia.it23) has joined
+T 1394385187 24*	[SLB] has quit (Changing host)
+T 1394385187 23*	[SLB] (~slabua@unaffiliated/slabua23) has joined
+T 1394385191 20<Thonneve>30	Esspecially with var regions, makes everything so easy
+T 1394385328 24*	R323T has quit (Ping timeout: 252 seconds)
+T 1394385365 23*	R323T (~roltel@roltel.net23) has joined
+T 1394385440 23*	Misterblue (~Misterblu@c-71-237-139-48.hsd1.or.comcast.net23) has joined
+T 1394386259 18<Hiro_Protagonist18>	I've made a few such systems
+T 1394386278 18<Hiro_Protagonist18>	using http
+T 1394386317 18<Hiro_Protagonist18>	both clients and servers in world, and also with external servers
+T 1394386324 18<Hiro_Protagonist18>	external servers are much more reliable
+T 1394391125 24*	28ssm2017[Away] is now known as 18ssm2017
+T 1394391575 23*	Baco_ (1f9769cf@gateway/web/freenode/ip.31.151.105.20723) has joined
+T 1394391641 24*	Baco_ has quit (Client Quit)
+T 1394392631 24*	Dev_Random has quit (Quit: llDie();)
+T 1394393524 23*	Dev_Random (~cyberdong@dhcp-108-168-7-146.cable.user.start.ca23) has joined
+T 1394393720 23*	Guest56852 (~Sanz_w7@cpe-142-255-112-74.nyc.res.rr.com23) has joined
+T 1394393812 24*	sanz has quit (Ping timeout: 252 seconds)
+T 1394393976 24*	nebadon has quit (Quit: Leaving)
+T 1394393997 23*	nebadon_laptop (~nebadon@c-50-166-84-181.hsd1.nj.comcast.net23) has joined
+T 1394394753 23*	m|core (~core@172.245.21.5123) has joined
+T 1394394789 24*	28m|core is now known as 18mcore
+T 1394395245 24*	Wanderer_42 (~kvirc@dslb-084-060-147-023.pools.arcor-ip.net24) has left ("Bye")
+T 1394395435 23*	vashpanov (~vashpanov@62.122.73.23723) has joined
+T 1394398099 24*	JoeRadik has quit (Remote host closed the connection)
+T 1394398996 23*	Claudius (~chatzilla@ADijon-258-1-60-93.w90-6.abo.wanadoo.fr23) has joined
+T 1394399158 23*	RobinC_ (~Robin@host86-130-31-185.range86-130.btcentralplus.com23) has joined
+T 1394399358 24*	robin__ has quit (Ping timeout: 252 seconds)
+T 1394399826 23*	Shez (~chatzilla@ip72-207-125-34.sd.sd.cox.net23) has joined
+T 1394399933 24*	Guest56852 has quit (Ping timeout: 244 seconds)
+T 1394400019 23*	sanz (~Sanz_w7@unaffiliated/c-sanz23) has joined
+T 1394400734 23*	H-H-H (~H-H-H@80-44-109-30.dynamic.dsl.as9105.com23) has joined
+T 1394401478 24*	randomhuman has quit (Ping timeout: 240 seconds)
+T 1394402545 19*	Now talking on 22#osgrid
+T 1394402545 22*	Topic for 22#osgrid is: *** GRID IS ONLINE ***  - Stay up to date via [ http://twitter.com/osgrid | http://news.osgrid.org ]
+T 1394402545 22*	Topic for 22#osgrid set by 26nebadon!~nebadon@c-174-57-169-64.hsd1.pa.comcast.net (24Mon Jul 29 18:06:22 2013)
+T 1394404060 23*	Jalen_O (~Jalen@pdpc/supporter/active/jalen-o23) has joined
+T 1394404112 23*	Claudius_ (~chatzilla@ADijon-258-1-116-217.w90-13.abo.wanadoo.fr23) has joined
+T 1394404211 24*	Claudius has quit (Ping timeout: 244 seconds)
+T 1394404222 24*	28Claudius_ is now known as 18Claudius
+T 1394405532 24*	Jalen_O has quit (Quit: ttfn)
+T 1394407806 24*	28ssm2017 is now known as 18ssm2017[Away]
+T 1394408463 24*	Claudius has quit (Quit: ChatZilla 0.9.90.1 [Firefox 27.0.1/20140212131424])
+T 1394408489 24*	sanz has quit (Ping timeout: 244 seconds)
+T 1394408696 23*	sanz (~Sanz_w7@unaffiliated/c-sanz23) has joined
+T 1394410442 24*	sanz has quit (Ping timeout: 244 seconds)
+T 1394410521 23*	sanz (~Sanz_w7@unaffiliated/c-sanz23) has joined
+T 1394413079 24*	H-H-H has quit (Ping timeout: 240 seconds)
+T 1394413296 24*	[SLB] has quit (Ping timeout: 240 seconds)
+T 1394414151 23*	rs^ (~rs@c-24-20-194-219.hsd1.or.comcast.net23) has joined
+T 1394414579 23*	Guest56852 (~Sanz_w7@cpe-142-255-112-74.nyc.res.rr.com23) has joined
+T 1394414678 24*	sanz has quit (Ping timeout: 240 seconds)
+T 1394415521 23*	frnic (~chatzilla@h193.226.18.98.dynamic.ip.windstream.net23) has joined
+T 1394416083 23*	[SLB] (~slabua@unaffiliated/slabua23) has joined
+T 1394417712 24*	Monday has quit (Read error: Connection reset by peer)
+T 1394417733 23*	Monday (~Thursday@static-72-67-52-110.lsanca.fios.verizon.net23) has joined
+T 1394418861 24*	dubrovna has quit ()
+T 1394420026 23*	shamus (~shmaus@ip-206-192-193-180.marylandheights.ip.cablemo.net23) has joined
+T 1394421634 24*	ArthurNumba2 has quit (Ping timeout: 264 seconds)
+T 1394422409 23*	ArthurNumba2 (~Arty@92-108-8-16.dynamic.upc.nl23) has joined
+T 1394422535 24*	Monday has quit (Read error: Connection reset by peer)
+T 1394422538 23*	Tuesday (~Thursday@static-72-67-52-110.lsanca.fios.verizon.net23) has joined
+T 1394422971 24*	Tuesday has quit (Read error: Connection reset by peer)
+T 1394422988 23*	Monday (~Thursday@static-72-67-52-110.lsanca.fios.verizon.net23) has joined
+T 1394424660 24*	friti has quit (Read error: Connection reset by peer)
+T 1394424735 23*	friti (~quassel@2601:8:a900:824:99a5:6dc1:95a8:ff2d23) has joined
+T 1394425942 24*	rs^ has quit (Ping timeout: 244 seconds)
+T 1394428992 24*	Shez has quit (Remote host closed the connection)
+T 1394431714 24*	vashpanov has quit (Ping timeout: 264 seconds)
+T 1394433124 24*	Guest56852 has quit ()
+T 1394433388 23*	Sanz_ (~sanzirc@93.sub-70-208-82.myvzw.com23) has joined
+T 1394433388 24*	Sanz_ has quit (Changing host)
+T 1394433388 23*	Sanz_ (~sanzirc@unaffiliated/c-sanz23) has joined
+T 1394434398 23*	oldsilver (~oldsilver@91.217.91.8823) has joined
+T 1394434940 23*	robin__ (~Robin@hirst-magnetics.demon.co.uk23) has joined
+T 1394435054 24*	oldsilver has quit (Remote host closed the connection)
+T 1394435116 24*	RobinC_ has quit (Ping timeout: 265 seconds)
+T 1394437000 24*	friti has quit (Ping timeout: 265 seconds)
+T 1394437957 24*	[SLB] has quit (Ping timeout: 265 seconds)
+T 1394438083 23*	[SLB] (~slabua@unaffiliated/slabua23) has joined
+T 1394439261 23*	friti (~quassel@2601:8:a900:824:99a5:6dc1:95a8:ff2d23) has joined
+T 1394441398 24*	[SLB] has quit (Quit: Close the world, Open the nExt)
+T 1394441466 23*	[SLB] (~slabua@unaffiliated/slabua23) has joined
+T 1394441638 24*	[SLB] has quit (Client Quit)
+T 1394441701 23*	[SLB] (~slabua@unaffiliated/slabua23) has joined
+T 1394442195 23*	randomhuman (~kevin@host39-208.statics.netsource.ie23) has joined
+T 1394444055 24*	NomadOfNorad has quit (Quit: Leaving)
+T 1394447773 20*	Disconnected (20Invalid argument)
+T 1394447785 19*	Now talking on 22#osgrid
+T 1394447785 22*	Topic for 22#osgrid is: *** GRID IS ONLINE ***  - Stay up to date via [ http://twitter.com/osgrid | http://news.osgrid.org ]
+T 1394447785 22*	Topic for 22#osgrid set by 26nebadon!~nebadon@c-174-57-169-64.hsd1.pa.comcast.net (24Mon Jul 29 18:06:22 2013)
+T 1394450196 24*	frnic has quit (Remote host closed the connection)
+T 1394453127 24*	28ssm2017[Away] is now known as 18ssm2017
+T 1394453477 23*	nebadon_ (~nebadon@c-50-166-84-181.hsd1.nj.comcast.net23) has joined
+T 1394453622 24*	nebadon_laptop has quit (Ping timeout: 245 seconds)
+T 1394454218 23*	Sanz_w7 (~Sanz_w7@unaffiliated/c-sanz23) has joined
+T 1394455379 23*	DasScoot (~IceChat77@static-71-168-11-210.clppva.east.verizon.net23) has joined
+T 1394455671 24*	Sanz_ has quit (Quit: AndroIRC - Android IRC Client ( http://www.androirc.com ))
+T 1394456443 23*	Monday (~Thursday@static-72-67-52-110.lsanca.fios.verizon.net23) has joined
+T 1394456470 24*	Tuesday has quit (Read error: Connection reset by peer)
+T 1394457380 23*	Spiralmatrix (~Spiralmat@host-79-77-2-250.static.as9105.com23) has joined
+T 1394458408 23*	H-H-H (~H-H-H@host-92-20-232-99.as13285.net23) has joined
+T 1394459799 24*	shamus has quit (Quit: Leaving)
+T 1394460976 24*	28ssm2017 is now known as 18ssm2017[Away]
+T 1394462274 23*	Tuesday (~Thursday@static-72-67-52-110.lsanca.fios.verizon.net23) has joined
+T 1394462330 24*	Monday has quit (Read error: Connection reset by peer)
+T 1394462595 23*	Wanderer_42 (~kvirc@dslb-084-060-147-023.pools.arcor-ip.net23) has joined
+T 1394462948 24*	friti has quit (Quit: No Ping reply in 180 seconds.)
+T 1394463043 23*	friti (~quassel@2601:8:a900:824:99a5:6dc1:95a8:ff2d23) has joined
+T 1394464507 24*	Tuesday has quit (Read error: Connection reset by peer)
+T 1394465121 24*	28ssm2017[Away] is now known as 18ssm2017
+T 1394466509 24*	H-H-H has quit (Ping timeout: 240 seconds)
+T 1394467199 23*	cmickeyb (~cmickeyb@134.134.139.7223) has joined
+T 1394467727 24*	fredhamster_ has quit (Remote host closed the connection)
+T 1394469892 24*	Spiralmatrix has quit ()
+T 1394471123 24*	28ssm2017 is now known as 18ssm2017[Away]
+T 1394474638 23*	Claudius (~chatzilla@ADijon-258-1-116-217.w90-13.abo.wanadoo.fr23) has joined
+T 1394475444 24*	Claudius has quit (Quit: ChatZilla 0.9.90.1 [Firefox 27.0.1/20140212131424])
+T 1394475473 23*	Claudius (~chatzilla@ADijon-258-1-116-217.w90-13.abo.wanadoo.fr23) has joined
+T 1394476704 23*	Monday (~Thursday@static-72-67-52-110.lsanca.fios.verizon.net23) has joined
+T 1394476999 24*	paulieflomar has quit (Ping timeout: 244 seconds)
+T 1394477002 23*	paulie_flomar (~paulieflo@97-125-47-69.eugn.qwest.net23) has joined
+T 1394477076 24*	paulie_flomar has quit (Read error: Connection reset by peer)
+T 1394477207 23*	paulieflomar (~paulieflo@216.240.181.20923) has joined
+T 1394477866 24*	paulieflomar has quit (Ping timeout: 264 seconds)
+T 1394477952 23*	paulieflomar (~paulieflo@216.240.181.20923) has joined
+T 1394479451 24*	cmickeyb has quit (Remote host closed the connection)
+T 1394481538 23*	moxhatoe (~moxhatoe@194.242.2.7323) has joined
+T 1394483215 24*	moxhatoe has quit (Remote host closed the connection)
+T 1394483371 23*	Claudius_ (~chatzilla@ADijon-258-1-191-192.w90-33.abo.wanadoo.fr23) has joined
+T 1394483554 24*	Claudius has quit (Ping timeout: 264 seconds)
+T 1394483559 24*	28Claudius_ is now known as 18Claudius
+T 1394484422 24*	DasScoot has quit (Quit: ...)
+T 1394486264 23*	NomadOfNorad (~Nomad@99.59.216.13823) has joined
+T 1394487335 23*	jakdaniels_ (~jakdaniel@hengwm2.ateb.co.uk23) has joined
+T 1394487508 24*	jakdaniels has quit (Ping timeout: 244 seconds)
+T 1394487852 23*	paulie_flomar (~paulieflo@216.240.181.20923) has joined
+T 1394487936 24*	paulieflomar has quit (Ping timeout: 240 seconds)
+T 1394488438 24*	28ssm2017[Away] is now known as 18ssm2017
+T 1394489037 23*	newdog (~newdog@wsip-70-168-129-203.dc.dc.cox.net23) has joined
+T 1394489998 24*	randomhuman has quit (Ping timeout: 240 seconds)
+T 1394491428 24*	Wanderer_42 (~kvirc@dslb-084-060-147-023.pools.arcor-ip.net24) has left ("Bye")
+T 1394491474 24*	Abitar has quit (Ping timeout: 264 seconds)
+T 1394492759 23*	dubrovna (~dubrovna@50-81-51-31.client.mchsi.com23) has joined
+T 1394498133 24*	danbanner has quit (Read error: Connection reset by peer)
+T 1394499521 24*	Claudius has quit (Quit: ChatZilla 0.9.90.1 [Firefox 27.0.1/20140212131424])
+T 1394499790 24*	Monday has quit (Ping timeout: 264 seconds)
+T 1394500742 23*	Shez (~chatzilla@ip72-207-125-34.sd.sd.cox.net23) has joined
+T 1394501117 24*	Sanz_w7 has quit (Ping timeout: 244 seconds)
+T 1394501149 23*	Sanz_w7 (~Sanz_w7@unaffiliated/c-sanz23) has joined
+T 1394501485 24*	dubrovna has quit ()
+T 1394501516 24*	28ssm2017 is now known as 18ssm2017[Away]
+T 1394502626 24*	Ken_S has quit (Read error: Connection reset by peer)
+T 1394503359 24*	mcore has quit (Remote host closed the connection)
+T 1394503973 18<KeyGruin18>	http://www.youtube.com/watch?v=j6LmH8Yv2C4
+T 1394506240 18<Dev_Random18>	Too bad Arielle isn't here to see it.
+T 1394509723 23*	Ken_S (~IceChat77@c50-26-173-43.abilcmtk01.tx.dh.suddenlink.net23) has joined
+T 1394510761 24*	[SLB] has quit (Ping timeout: 240 seconds)
+T 1394510914 23*	[SLB] (~slabua@unaffiliated/slabua23) has joined
+T 1394515944 24*	Sanz_w7 has quit ()
+T 1394516013 24*	Ken_S has quit (Read error: Connection reset by peer)
+T 1394516297 23*	Ken_S (~IceChat77@c50-26-173-43.abilcmtk01.tx.dh.suddenlink.net23) has joined
+T 1394523243 24*	Shez has quit (Remote host closed the connection)
+T 1394524522 24*	jakdaniels_ has quit (Ping timeout: 264 seconds)
+T 1394524881 19*	Now talking on 22#osgrid
+T 1394524881 22*	Topic for 22#osgrid is: *** GRID IS ONLINE ***  - Stay up to date via [ http://twitter.com/osgrid | http://news.osgrid.org ]
+T 1394524881 22*	Topic for 22#osgrid set by 26nebadon!~nebadon@c-174-57-169-64.hsd1.pa.comcast.net (24Mon Jul 29 18:06:22 2013)
+T 1394525281 23*	Monday (~Thursday@static-72-67-52-110.lsanca.fios.verizon.net23) has joined
+T 1394525739 23*	danbanner (~60115a87@unaffiliated/danbanner23) has joined
+T 1394525739 22*	26ChanServ gives channel operator status to 18danbanner
+T 1394526367 23*	jakdaniels (~jakdaniel@hengwm2.ateb.co.uk23) has joined
+T 1394527847 23*	randomhuman (~kevin@host39-208.statics.netsource.ie23) has joined
+T 1394529996 24*	NomadOfNorad has quit (Quit: Leaving)
+T 1394530616 23*	nebadon2 (~nebadon@c-50-166-84-181.hsd1.nj.comcast.net23) has joined
+T 1394530772 24*	nebadon_ has quit (Ping timeout: 245 seconds)
+T 1394532822 24*	simstick has quit (Read error: Connection reset by peer)
+T 1394534028 23*	H-H-H (~H-H-H@host-92-20-231-214.as13285.net23) has joined
+T 1394535039 23*	simstick (~Chris@50.8.0.20423) has joined
+T 1394535039 24*	simstick has quit (Changing host)
+T 1394535039 23*	simstick (~Chris@unaffiliated/simstick23) has joined
+T 1394537042 24*	Monday has quit (Quit: Bye)
+T 1394537789 24*	H-H-H has quit (Ping timeout: 240 seconds)
+T 1394539583 23*	Sanz_w7 (~Sanz_w7@unaffiliated/c-sanz23) has joined
+T 1394541138 24*	AlexRime_ has quit (Ping timeout: 244 seconds)
+T 1394542178 24*	Yez has quit (Ping timeout: 240 seconds)
+T 1394542397 23*	DasScoot (~IceChat77@static-71-168-11-210.clppva.east.verizon.net23) has joined
+T 1394544110 23*	CaptainCrazy (c3f09329@gateway/web/freenode/ip.195.240.147.4123) has joined
+T 1394544159 24*	CaptainCrazy has quit (Client Quit)
+T 1394546283 19*	Now talking on 22#osgrid
+T 1394546283 22*	Topic for 22#osgrid is: *** GRID IS ONLINE ***  - Stay up to date via [ http://twitter.com/osgrid | http://news.osgrid.org ]
+T 1394546283 22*	Topic for 22#osgrid set by 26nebadon!~nebadon@c-174-57-169-64.hsd1.pa.comcast.net (24Mon Jul 29 18:06:22 2013)
+T 1394546964 23*	Yez (~Yez@ip72-207-125-34.sd.sd.cox.net23) has joined
+T 1394547209 24*	28ssm2017[Away] is now known as 18ssm2017

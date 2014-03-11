@@ -1,0 +1,129 @@
+Handbrake Version: rev5474 (2013110399)
+
+** (ghb:1448): WARNING **: Inhibit failed: The name org.freedesktop.PowerManagement was not provided by any .service files
+[21:13:02] hb_scan: path=/home/nathan/Videos/Movies/You're.Next.2011.1080p.BluRay.x264.YIFY.mp4, title_index=1
+libbluray/bdnav/index_parse.c:162: indx_parse(): error opening /home/nathan/Videos/Movies/You're.Next.2011.1080p.BluRay.x264.YIFY.mp4/BDMV/index.bdmv
+libbluray/bdnav/index_parse.c:162: indx_parse(): error opening /home/nathan/Videos/Movies/You're.Next.2011.1080p.BluRay.x264.YIFY.mp4/BDMV/BACKUP/index.bdmv
+libbluray/bluray.c:2182: nav_get_title_list(/home/nathan/Videos/Movies/You're.Next.2011.1080p.BluRay.x264.YIFY.mp4) failed
+[21:13:02] bd: not a bd - trying as a stream/file instead
+libdvdnav: Using dvdnav version 4.1.3
+libdvdread: Encrypted DVD support unavailable.
+libdvdnav:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+libdvdnav:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.BUP failed
+libdvdread: Can't open file VIDEO_TS.IFO.
+libdvdnav: vm: failed to read VIDEO_TS.IFO
+[21:13:02] dvd: not a dvd - trying as a stream/file instead
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home/nathan/Videos/Movies/You're.Next.2011.1080p.BluRay.x264.YIFY.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 1
+    compatible_brands: isomavc1
+    creation_time   : 2014-01-03 22:27:30
+  Duration: 01:36:34.12, start: 0.000000, bitrate: 2136 kb/s
+    Stream #0.0(und): Video: h264 (High), yuv420p, 1920x800 [PAR 1:1 DAR 12:5], 2038 kb/s, 23.98 fps, 23.98 tbr, 24k tbn, 47.95 tbc
+    Metadata:
+      creation_time   : 2014-01-03 22:27:30
+    Stream #0.1(eng): Audio: aac, 48000 Hz, stereo, fltp, 93 kb/s
+    Metadata:
+      creation_time   : 2014-01-03 22:27:37
+[21:13:02] scan: decoding previews for title 1
+[21:13:02] scan: audio 0x1: aac, rate=48000Hz, bitrate=93791 English (aac) (2.0 ch)
+[21:13:03] scan: 10 previews, 1920x800, 23.976 fps, autocrop = 0/0/2/72, aspect 2.40:1, PAR 1:1
+[21:13:03] libhb: scan thread found 1 valid title(s)
+[21:13:05] gtkgui: Modified Preset: Regular->High Profile
+[21:13:05] 1 job(s) to process
+[21:13:05] starting job
+[21:13:05] sync: expecting 138920 video frames
+[21:13:05] job configuration:
+[21:13:05]  * source
+[21:13:05]    + /home/nathan/Videos/Movies/You're.Next.2011.1080p.BluRay.x264.YIFY.mp4
+[21:13:05]    + title 1, chapter(s) 1 to 1
+[21:13:05]    + container: mov,mp4,m4a,3gp,3g2,mj2
+[21:13:05]    + data rate: 2136 kbps
+[21:13:05]  * destination
+[21:13:05]    + /home/nathan/Videos/You're.Next.2011.1080p.BluRay.x264.YIFY.m4v
+[21:13:05]    + container: MPEG-4 (.mp4 and .m4v)
+[21:13:05]      + 64-bit formatting
+[21:13:05]  * video track
+[21:13:05]    + decoder: h264
+[21:13:05]      + bitrate 2038 kbps
+[21:13:05]    + frame rate: same as source (around 23.976 fps)
+[21:13:05]    + filters
+[21:13:05]      + Decomb (default settings)
+[21:13:05]      + Framerate Shaper (0:27000000:1126125)
+[21:13:05]        + frame rate: same as source (around 23.976 fps)
+[21:13:05]      + Crop and Scale (1846:1038:0:80:568:72)
+[21:13:05]        + source: 1920 * 800, crop (0/80/568/72): 1280 * 720, scale: 1846 * 1038
+[21:13:05]    + loose anamorphic
+[21:13:05]      + storage dimensions: 1846 * 1038, mod 2
+[21:13:05]      + pixel aspect ratio: 2768 / 2769
+[21:13:05]      + display dimensions: 1845 * 1038
+[21:13:05]    + encoder: H.264 (x264)
+[21:13:05]      + options: level=4.1:deblock=-1,-1:psy-rd=1.00,0.15:vbv-bufsize=78125:vbv-maxrate=62500
+[21:13:05]      + quality: 18.00 (RF)
+[21:13:05]  * audio track 1
+[21:13:05]    + decoder: English (aac) (2.0 ch) (track 1, id 0x1)
+[21:13:05]      + bitrate: 93 kbps, samplerate: 48000 Hz
+[21:13:05]    + mixdown: Stereo
+[21:13:05]    + encoder: AAC (faac)
+[21:13:05]      + bitrate: 160 kbps, samplerate: 48000 Hz
+[21:13:05]  * audio track 2
+[21:13:05]    + decoder: English (aac) (2.0 ch) (track 1, id 0x1)
+[21:13:05]      + bitrate: 93 kbps, samplerate: 48000 Hz
+[21:13:05]    + mixdown: Stereo
+[21:13:05]    + encoder: AC3 (ffmpeg)
+[21:13:05]      + bitrate: 160 kbps, samplerate: 48000 Hz
+[21:13:05] yadif thread started for segment 1
+[21:13:05] decomb filter thread started for segment 0
+[21:13:05] decomb filter thread started for segment 1
+[21:13:05] decomb check thread started for segment 0
+[21:13:05] decomb check thread started for segment 1
+[21:13:05] mask filter thread started for segment 0
+[21:13:05] mask filter thread started for segment 1
+[21:13:05] mask erode thread started for segment 0
+[21:13:05] mask erode thread started for segment 1
+[21:13:05] mask dilate thread started for segment 0
+[21:13:05] mask dilate thread started for segment 1
+[21:13:05] yadif thread started for segment 0
+[21:13:05] reader: first SCR 7507 id 0x0 DTS 0
+[21:13:05] encx264: min-keyint: 24, keyint: 240
+[21:13:05] encx264: encoding with stored aspect 2768/2769
+[21:13:05] encx264: Encoding at constant RF 18.000000
+x264 [warning]: --psnr used with psy on: results will be invalid!
+x264 [warning]: --tune psnr should be used if attempting to benchmark psnr!
+x264 [info]: using SAR=2768/2769
+x264 [info]: using cpu capabilities: MMX2 SSE2Fast LZCNT
+x264 [info]: profile High, level 4.1
+[21:13:05] sync: first pts is 7507
+[23:34:34] work: average encoding speed for job is 2.754160 fps
+[23:34:34] reader: done. 1 scr changes
+[23:34:34] sync: got 23379 frames, 138920 expected
+[23:34:34] decomb: deinterlaced 0 | blended 0 | unfiltered 23361 | total 23361
+[23:34:34] render: lost time: 0 (0 frames)
+[23:34:34] render: gained time: 0 (0 frames) (0 not accounted for)
+[23:34:35] h264-decoder done: 23405 frames, 0 decoder errors, 0 drops
+x264 [info]: frame I:396   Avg QP:12.69  size: 71292  PSNR Mean Y:54.22 U:58.23 V:58.93 Avg:55.19 Global:54.29
+x264 [info]: frame P:15776 Avg QP:15.68  size: 32249  PSNR Mean Y:52.24 U:55.50 V:56.25 Avg:53.08 Global:52.17
+x264 [info]: frame B:7124  Avg QP:16.88  size: 12511  PSNR Mean Y:51.88 U:56.52 V:57.24 Avg:52.79 Global:50.71
+x264 [info]: consecutive B-frames: 46.8% 35.9%  4.1% 13.2%
+x264 [info]: mb I  I16..4: 13.2% 71.6% 15.1%
+x264 [info]: mb P  I16..4:  7.0% 15.6%  1.6%  P16..4: 39.9% 13.4%  4.9%  0.0%  0.0%    skip:17.5%
+x264 [info]: mb B  I16..4:  0.4%  0.5%  0.0%  B16..8: 34.8%  5.6%  0.9%  direct: 5.7%  skip:52.0%  L0:42.1% L1:49.8% BI: 8.1%
+x264 [info]: 8x8 transform intra:65.1% inter:84.5%
+x264 [info]: coded y,uvDC,uvAC intra: 37.1% 58.4% 33.7% inter: 20.2% 28.3% 1.2%
+x264 [info]: i16 v,h,dc,p: 45% 15%  7% 32%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 23% 13% 40%  3%  5%  5%  4%  4%  3%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 30% 18% 31%  3%  6%  4%  3%  2%  2%
+x264 [info]: i8c dc,h,v,p: 60% 15% 20%  4%
+x264 [info]: Weighted P-Frames: Y:1.6% UV:0.8%
+x264 [info]: ref P L0: 65.1%  5.0% 20.2%  9.7%  0.1%
+x264 [info]: ref B L0: 84.6% 14.5%  0.9%
+x264 [info]: ref B L1: 98.0%  2.0%
+x264 [info]: SSIM Mean Y:0.9936528 (21.974db)
+x264 [info]: PSNR Mean Y:52.163 U:55.857 V:56.596 Avg:53.025 Global:51.694 kb/s:5154.74
+[23:34:35] aac-decoder done: 0 frames, 0 decoder errors, 0 drops
+[23:34:36] aac-decoder done: 0 frames, 0 decoder errors, 0 drops
+[23:34:36] mux: track 0, 22974 frames, 616366451 bytes, 5145.55 kbps, fifo 1024
+[23:34:36] mux: track 1, 44918 frames, 19119552 bytes, 159.61 kbps, fifo 4096
+[23:34:36] mux: track 2, 29946 frames, 19165440 bytes, 160.00 kbps, fifo 2048
+[23:34:36] libhb: work result = 0

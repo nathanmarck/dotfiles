@@ -1,0 +1,46 @@
+{
+  "quick_start_guide_added": true, 
+  "library_usage_stats": {
+    "/home/nathan/Calibre Library": 4
+  }, 
+  "book_details_splitter_horizontal_state": [
+    true, 
+    200
+  ], 
+  "jobs view column layout2": {
+    "__class__": "bytearray", 
+    "__value__": "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAfQAAAAFAQEBAAAAAAAAAAAAAAAAAGT/////AAAAhAAAAAAAAAABAAAB9AAAAAUAAAAA"
+  }, 
+  "grid view visible": false, 
+  "jobs_dialog_geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywABAAAAAAG6AAAATgAABDQAAAKEAAABuwAAAGIAAAQzAAACfwAAAAAAAA=="
+  }, 
+  "convert_single_dialog_geom": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywABAAAAAAFEAAAADQAABUUAAALhAAABRQAAACEAAAVEAAAC3AAAAAAAAA=="
+  }, 
+  "replace_scene_breaks_history": [
+    "", 
+    "<hr />", 
+    "\u2217 \u2217 \u2217", 
+    "\u2022 \u2022 \u2022", 
+    "\u2666 \u2666 \u2666", 
+    "\u2020 \u2020", 
+    "\u2021 \u2021 \u2021", 
+    "\u221e \u221e \u221e", 
+    "\u00a4 \u00a4 \u00a4"
+  ], 
+  "convert_bulk_dialog_geom": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywABAAAAAAD3AAAAAQAABPgAAALVAAAA+AAAABUAAAT3AAAC0AAAAAAAAA=="
+  }, 
+  "cover_browser_splitter_vertical_state": [
+    false, 
+    300
+  ], 
+  "tag_browser_splitter_horizontal_state": [
+    true, 
+    200
+  ]
+}

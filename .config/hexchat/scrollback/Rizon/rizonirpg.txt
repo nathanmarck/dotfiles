@@ -1,0 +1,52 @@
+T 1393836815 18<RizonIRPG>	Success! Account thonneve created. You have 600 seconds idleness until you reach level 1. 
+T 1393836815 18<RizonIRPG>	NOTE: The point of the game is to see who can idle the longest. As such, talking in the channel, parting, quitting, and changing nicks all penalize you.
+T 1393837418 -18RizonIRPG-	You found a level 1 set of leggings! Your current set of leggings is only level 0, so it seems Luck is with you!
+T 1393837622 -18RizonIRPG-	You found a level 55 amulet! Your current amulet is only level 0, so it seems Luck is with you!
+T 1393837945 -18RizonIRPG-	You found a level 3 amulet. Your current amulet is level 55, so it seems Luck is against you. You toss the amulet.
+T 1393838357 -18RizonIRPG-	You found a level 40 helm! Your current helm is only level 0, so it seems Luck is with you!
+T 1393838703 -18RizonIRPG-	You found a level 4 weapon! Your current weapon is only level 0, so it seems Luck is with you!
+T 1393838706 -18RizonIRPG-	You have found an item in the Constrictor Snake's treasure hord!
+T 1393838710 -18RizonIRPG-	You found a level 4 pair of gloves! Your current pair of gloves is only level 0, so it seems Luck is with you!
+T 1393839332 -18RizonIRPG-	You found a level 3 shield! Your current shield is only level 0, so it seems Luck is with you!
+T 1393840344 -18RizonIRPG-	You found a level 3 weapon. Your current weapon is level 4, so it seems Luck is against you. You toss the weapon.
+T 1393841094 -18RizonIRPG-	You found a level 38 shield! Your current shield is only level 3, so it seems Luck is with you!
+T 1393841493 -18RizonIRPG-	You found a level 9 charm! Your current charm is only level 0, so it seems Luck is with you!
+T 1393842592 -18RizonIRPG-	You found a level 10 set of leggings! Your current set of leggings is only level 0, so it seems Luck is with you!
+T 1393843950 -18RizonIRPG-	You found a level 11 pair of gloves! Your current pair of gloves is only level 4, so it seems Luck is with you!
+T 1393844830 -18RizonIRPG-	You found a level 34 tunic! Your current tunic is only level 0, so it seems Luck is with you!
+T 1393845092 -18RizonIRPG-	You found a level 31 set of leggings! Your current set of leggings is only level 10, so it seems Luck is with you!
+T 1393845444 -18RizonIRPG-	You found a level 10 set of leggings. Your current set of leggings is level 31, so it seems Luck is against you. You toss the set of leggings.
+T 1393845444 -18RizonIRPG-	You have found an item in the Chimera Skeleton's treasure hord!
+T 1393845444 -18RizonIRPG-	You found a level 9 set of leggings. Your current set of leggings is level 31, so it seems Luck is against you. You toss the set of leggings.
+T 1393846978 -18RizonIRPG-	You found a level 14 charm! Your current charm is only level 9, so it seems Luck is with you!
+T 1393846978 -18RizonIRPG-	You have found an item in the Chimera Skeleton's treasure hord!
+T 1393846978 -18RizonIRPG-	You found a level 14 pair of boots! Your current pair of boots is only level 0, so it seems Luck is with you!
+T 1393848565 -18RizonIRPG-	You found a level 13 helm. Your current helm is level 40, so it seems Luck is against you. You toss the helm.
+T 1393848851 -18RizonIRPG-	You found a level 32 pair of boots! Your current pair of boots is only level 14, so it seems Luck is with you!
+T 1393850815 -18RizonIRPG-	You found a level 12 set of leggings. Your current set of leggings is level 31, so it seems Luck is against you. You toss the set of leggings.
+T 1393851953 -18RizonIRPG-	You have found an item in the Janni's treasure hord!
+T 1393851956 -18RizonIRPG-	You found a level 17 ring! Your current ring is only level 0, so it seems Luck is with you!
+T 1393852028 -18RizonIRPG-	You found a level 42 pair of boots! Your current pair of boots is only level 32, so it seems Luck is with you!
+T 1393853382 -18RizonIRPG-	You found a level 15 charm! Your current charm is only level 14, so it seems Luck is with you!
+T 1393856698 -18RizonIRPG-	You found a level 8 set of leggings. Your current set of leggings is level 31, so it seems Luck is against you. You toss the set of leggings.
+T 1393861029 -18RizonIRPG-	You found a level 21 pair of gloves! Your current pair of gloves is only level 11, so it seems Luck is with you!
+T 1393865161 -18RizonIRPG-	You found a level 58 tunic! Your current tunic is only level 34, so it seems Luck is with you!
+T 1393866255 -18RizonIRPG-	You found a level 14 tunic. Your current tunic is level 58, so it seems Luck is against you. You toss the tunic.
+T 1393870131 -18RizonIRPG-	You found a level 42 helm! Your current helm is only level 40, so it seems Luck is with you!
+T 1393872090 -18RizonIRPG-	You found a level 19 ring! Your current ring is only level 17, so it seems Luck is with you!
+T 1393874570 -18RizonIRPG-	You found a level 57 ring! Your current ring is only level 19, so it seems Luck is with you!
+T 1393877451 -18RizonIRPG-	You found a level 23 shield. Your current shield is level 38, so it seems Luck is against you. You toss the shield.
+T 1393881693 -18RizonIRPG-	You found a level 32 weapon! Your current weapon is only level 4, so it seems Luck is with you!
+T 1393886160 -18RizonIRPG-	You found a level 24 tunic. Your current tunic is level 58, so it seems Luck is against you. You toss the tunic.
+T 1393890595 -18RizonIRPG-	You found a level 20 charm! Your current charm is only level 15, so it seems Luck is with you!
+T 1393894052 -18RizonIRPG-	You found a level 47 weapon! Your current weapon is only level 32, so it seems Luck is with you!
+T 1393895793 -18RizonIRPG-	You found a level 22 shield. Your current shield is level 38, so it seems Luck is against you. You toss the shield.
+T 1393903220 -18RizonIRPG-	You found a level 12 shield. Your current shield is level 38, so it seems Luck is against you. You toss the shield.
+T 1393915945 -18RizonIRPG-	You found a level 24 ring. Your current ring is level 57, so it seems Luck is against you. You toss the ring.
+T 1393925670 -18RizonIRPG-	You found a level 51 pair of boots! Your current pair of boots is only level 42, so it seems Luck is with you!
+T 1393929283 -18RizonIRPG-	You found a level 29 helm. Your current helm is level 42, so it seems Luck is against you. You toss the helm.
+T 1393939031 -18RizonIRPG-	You found a level 49 weapon! Your current weapon is only level 47, so it seems Luck is with you!
+T 1393943934 -18RizonIRPG-	You have found an item in the Chain Devil's treasure hord!
+T 1393943934 -18RizonIRPG-	You found a level 21 weapon. Your current weapon is level 49, so it seems Luck is against you. You toss the weapon.
+T 1393944301 -18RizonIRPG-	You found a level 26 tunic. Your current tunic is level 58, so it seems Luck is against you. You toss the tunic.
+T 1393960339 -18RizonIRPG-	You found a level 33 tunic. Your current tunic is level 58, so it seems Luck is against you. You toss the tunic.

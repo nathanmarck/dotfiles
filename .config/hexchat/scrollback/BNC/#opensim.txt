@@ -1,0 +1,503 @@
+T 1394297836 24*	|-fInE-| has quit (Read error: Connection reset by peer)
+T 1394298929 24*	Tuesday has quit (Read error: Connection reset by peer)
+T 1394298944 23*	Monday (~Thursday@static-72-67-52-110.lsanca.fios.verizon.net23) has joined
+T 1394299284 23*	Tuesday (~Thursday@static-72-67-52-110.lsanca.fios.verizon.net23) has joined
+T 1394299284 24*	Monday has quit (Read error: Connection reset by peer)
+T 1394299472 24*	forserg has quit (Remote host closed the connection)
+T 1394300665 24*	Tuesday has quit (Read error: Connection reset by peer)
+T 1394300676 23*	Monday (~Thursday@static-72-67-52-110.lsanca.fios.verizon.net23) has joined
+T 1394300823 24*	paulie_flomar has quit (Ping timeout: 252 seconds)
+T 1394301438 24*	H-H-H has quit (Ping timeout: 240 seconds)
+T 1394301477 23*	H-H-H (H-H-H@80-44-106-168.dynamic.dsl.as9105.com23) has joined
+T 1394301601 24*	osmantis has quit (Remote host closed the connection)
+T 1394301615 23*	osmantis (~sdague@216.245.194.4223) has joined
+T 1394301725 24*	H-H-H has quit (Ping timeout: 244 seconds)
+T 1394303194 23*	Taoki (~MirceaKit@93.113.162.3723) has joined
+T 1394303951 24*	Monday has quit (Ping timeout: 264 seconds)
+T 1394304977 23*	Monday (~Thursday@static-72-67-52-110.lsanca.fios.verizon.net23) has joined
+T 1394305604 23*	Arielle_ (~IceChat9@unaffiliated/arielle/x-882937423) has joined
+T 1394307169 24*	JoeRadik has quit (Remote host closed the connection)
+T 1394307966 23*	greg0254 (~quassel@c-69-245-131-148.hsd1.in.comcast.net23) has joined
+T 1394308407 23*	paulieflomar (~paulieflo@216.240.181.20923) has joined
+T 1394309508 24*	28nebadon_ is now known as 18nebadon
+T 1394309993 23*	NomadOfNorad (~Nomad@99-59-216-138.lightspeed.jcvlfl.sbcglobal.net23) has joined
+T 1394310799 24*	Monday has quit (Read error: Connection reset by peer)
+T 1394310809 23*	Monday (~Thursday@static-72-67-52-110.lsanca.fios.verizon.net23) has joined
+T 1394311481 23*	randomhuman (~kevin@host39-208.statics.netsource.ie23) has joined
+T 1394311905 23*	vladin (~vladin@46.148.30.10823) has joined
+T 1394311921 23*	cia-opensim (~cia-opens@opensimulator.org23) has joined
+T 1394311925 18<cia-opensim18>	5opensim: 3nebadon2025 * r12f2648a578a bin/config-include (3Grid.ini GridHypergrid.ini)5:
+T 1394311926 18<cia-opensim18>	  set RefreshTime = 0 in [MapImageService] in Grid.ini and GridHypergrid.ini to eliminate memory leaking for Warp3D map tiler, these variables should be erased needs more discussion!
+T 1394311927 18<cia-opensim18>	  2http://opensimulator.org/viewgit/?a=commit&p=opensim&h=12f2648a578afa59b01d3fe1ae54faf90cc62e61
+T 1394311930 18<osjenkins18>	Starting build #3343 for job opensim » mono-2.10.8.1 (previous build: SUCCESS)
+T 1394312156 18<osjenkins18>	Project opensim » mono-2.10.8.1 build #3343: SUCCESS in 3 min 51 sec: http://jenkins.opensimulator.org/job/opensim/./MONO_VERSION=mono-2.10.8.1/3343/
+T 1394312157 18<osjenkins18>	nebadon2025: set RefreshTime = 0 in [MapImageService] in Grid.ini and GridHypergrid.ini to eliminate memory leaking for Warp3D map tiler, these variables should be erased needs more discussion!
+T 1394312864 18<cia-opensim18>	5opensim: 3nebadon2025 * rda990d01f258 bin/config-include (3Standalone.ini StandaloneHypergrid.ini)5:
+T 1394312865 18<cia-opensim18>	  set RefreshTime = 0 in [MapImageService] in Standalone.ini and StandaloneHypergrid.ini to eliminate memory leaking for Warp3D map tiler, these variables should be erased needs more discussion!
+T 1394312866 18<cia-opensim18>	  2http://opensimulator.org/viewgit/?a=commit&p=opensim&h=da990d01f258892ccd5702eaac654547badd409a
+T 1394312870 18<osjenkins18>	Starting build #3344 for job opensim » mono-2.10.8.1 (previous build: SUCCESS)
+T 1394313096 18<osjenkins18>	Project opensim » mono-2.10.8.1 build #3344: SUCCESS in 3 min 51 sec: http://jenkins.opensimulator.org/job/opensim/./MONO_VERSION=mono-2.10.8.1/3344/
+T 1394313097 18<osjenkins18>	nebadon2025: set RefreshTime = 0 in [MapImageService] in Standalone.ini and StandaloneHypergrid.ini to eliminate memory leaking for Warp3D map tiler, these variables should be erased needs more discussion!
+T 1394313313 24*	vladin has quit (Remote host closed the connection)
+T 1394313398 24*	randomhuman has quit (Ping timeout: 240 seconds)
+T 1394314761 18<cia-opensim18>	5opensim: 3nebadon2025 * re3c4936deabf bin/config-include (34 files)5:
+T 1394314762 18<cia-opensim18>	  remove RefreshTime = 0 from [MapImageService] in Standalone.ini, StandaloneHypergrid.ini, Grid.ini, GridHypergrid.ini they were redundant and would not allow variables in OpenSim.ini to be set to anything.
+T 1394314763 18<cia-opensim18>	  2http://opensimulator.org/viewgit/?a=commit&p=opensim&h=e3c4936deabf76156c789a816ea3779e9b9afdc4
+T 1394314766 18<osjenkins18>	Starting build #3345 for job opensim » mono-2.10.8.1 (previous build: SUCCESS)
+T 1394314994 18<osjenkins18>	Project opensim » mono-2.10.8.1 build #3345: SUCCESS in 3 min 52 sec: http://jenkins.opensimulator.org/job/opensim/./MONO_VERSION=mono-2.10.8.1/3345/
+T 1394314994 18<osjenkins18>	nebadon2025: remove RefreshTime = 0 from [MapImageService] in Standalone.ini, StandaloneHypergrid.ini, Grid.ini, GridHypergrid.ini they were redundant and would not allow variables in OpenSim.ini to be set to anything.
+T 1394315067 24*	28ssm2017[Away] is now known as 18ssm2017
+T 1394315795 24*	Blaksmith has quit (Ping timeout: 264 seconds)
+T 1394315924 23*	Blaksmith (~blak@unaffiliated/blaksmith23) has joined
+T 1394316473 24*	Monday has quit (Read error: Connection reset by peer)
+T 1394316944 23*	randomhuman (~kevin@host39-208.statics.netsource.ie23) has joined
+T 1394317250 23*	ckanep (~ckanep@193.106.31.18223) has joined
+T 1394319116 23*	BrucePatton (~BrucePatt@sv010.fidesco.net23) has joined
+T 1394319288 23*	JoeRadik (~chatzilla@108.238.231.2723) has joined
+T 1394320836 24*	BrucePatton has quit ()
+T 1394322037 24*	JoeRadik has quit (Read error: Connection reset by peer)
+T 1394322328 23*	velus (~velus@unaffiliated/velus23) has joined
+T 1394323202 24*	osmantis has quit (Remote host closed the connection)
+T 1394323217 23*	osmantis (~sdague@opensimulator.org23) has joined
+T 1394324345 23*	BrucePatton (~BrucePatt@sv010.fidesco.net23) has joined
+T 1394325987 24*	BrucePatton has quit ()
+T 1394326433 23*	m|core (~core@172.245.21.5123) has joined
+T 1394326511 23*	JoeRadik (~chatzilla@108.238.231.2723) has joined
+T 1394326514 24*	28m|core is now known as 18mcore
+T 1394326798 24*	randomhuman has quit (Ping timeout: 240 seconds)
+T 1394329470 24*	ftcodes has quit (Read error: Connection reset by peer)
+T 1394329708 23*	mareta (54395b1c@gateway/web/freenode/ip.84.57.91.2823) has joined
+T 1394330627 24*	mareta has quit (Quit: Page closed)
+T 1394332321 23*	Megaf__ (~Megaf@unaffiliated/megaf23) has joined
+T 1394333938 18<cia-opensim18>	5opensim: 3nebadon2025 * ra96601478c17 bin (3Robust.HG.ini.example)5:
+T 1394333939 18<cia-opensim18>	  add [BakedTextureService] section to Robust.HG.ini.example file same as Robust.ini.example.
+T 1394333940 18<cia-opensim18>	  2http://opensimulator.org/viewgit/?a=commit&p=opensim&h=a96601478c17bfcdce0d13d7ba9608caa2551e14
+T 1394333944 18<osjenkins18>	Starting build #3346 for job opensim » mono-2.10.8.1 (previous build: SUCCESS)
+T 1394334064 18<cia-opensim18>	5opensim: 3nebadon2025 * rabcb2cdb364b bin (3Robust.HG.ini.example)5:
+T 1394334065 18<cia-opensim18>	  add XBakes connector to Robust.HG.ini.example
+T 1394334066 18<cia-opensim18>	  2http://opensimulator.org/viewgit/?a=commit&p=opensim&h=abcb2cdb364bb00d6c0f77c3de23bc7364d063a7
+T 1394334170 18<osjenkins18>	Project opensim » mono-2.10.8.1 build #3346: SUCCESS in 3 min 51 sec: http://jenkins.opensimulator.org/job/opensim/./MONO_VERSION=mono-2.10.8.1/3346/
+T 1394334171 18<osjenkins18>	nebadon2025: add [BakedTextureService] section to Robust.HG.ini.example file same as Robust.ini.example.
+T 1394334179 18<osjenkins18>	Starting build #3347 for job opensim » mono-2.10.8.1 (previous build: SUCCESS)
+T 1394334405 18<osjenkins18>	Project opensim » mono-2.10.8.1 build #3347: SUCCESS in 3 min 51 sec: http://jenkins.opensimulator.org/job/opensim/./MONO_VERSION=mono-2.10.8.1/3347/
+T 1394334406 18<osjenkins18>	nebadon2025: add XBakes connector to Robust.HG.ini.example
+T 1394336720 24*	velus has quit (Quit: bye bye im outta irc)
+T 1394339020 23*	SammyG3 (~sammyg3@host-251-24-2-96.midco.net23) has joined
+T 1394339228 24*	Megaf__ has quit (Excess Flood)
+T 1394339305 23*	Megaf__ (~Megaf@unaffiliated/megaf23) has joined
+T 1394339731 24*	Bryanstein has quit (Excess Flood)
+T 1394340217 23*	Bryanstein (~Bryanstei@68.67.76.7123) has joined
+T 1394342311 23*	tanjja (~tanjja@188.190.124.3223) has joined
+T 1394342359 23*	GeekHash (~blak@173.254.235.5823) has joined
+T 1394342377 23*	sanz (~Sanz_w7@unaffiliated/c-sanz23) has joined
+T 1394342404 24*	Blaksmith has quit (Disconnected by services)
+T 1394342404 24*	28GeekHash is now known as 18Blaksmith
+T 1394342408 24*	Blaksmith has quit (Changing host)
+T 1394342409 23*	Blaksmith (~blak@unaffiliated/blaksmith23) has joined
+T 1394342523 24*	dmiles has quit (Read error: Connection reset by peer)
+T 1394342662 24*	ArthurNumba2 has quit (Excess Flood)
+T 1394342676 24*	djphil has quit (Excess Flood)
+T 1394342676 24*	ckanep has quit (Write error: Broken pipe)
+T 1394342683 23*	djphil_ (~djphil@109.128.152.14323) has joined
+T 1394342702 23*	ArthurNumba2 (~Arty@92-108-8-16.dynamic.upc.nl23) has joined
+T 1394342719 24*	Megaf__ has quit (Quit: Konversation terminated!)
+T 1394342741 24*	Bryanstein has quit (Changing host)
+T 1394342741 23*	Bryanstein (~Bryanstei@shellium/admin/bryanstein23) has joined
+T 1394343932 24*	mcore has quit (Read error: Connection reset by peer)
+T 1394344455 24*	Bryanstein has quit (Excess Flood)
+T 1394344498 24*	28ssm2017 is now known as 18ssm2017[Away]
+T 1394344758 24*	NomadOfNorad has quit (Quit: Leaving)
+T 1394344801 24*	osmantis has quit (Remote host closed the connection)
+T 1394344817 23*	osmantis (~sdague@opensimulator.org23) has joined
+T 1394345003 24*	28djphil_ is now known as 18djphil
+T 1394345137 23*	Bryanstein (~Bryanstei@shellium/admin/bryanstein23) has joined
+T 1394345917 24*	Arielle_ has quit (Quit: I couldn't repair your brakes, so I made your horn louder.)
+T 1394346250 24*	tanjja has quit (Remote host closed the connection)
+T 1394348555 24*	smxy has quit (Ping timeout: 252 seconds)
+T 1394349882 23*	smxy (~smxy@65.78.40.16723) has joined
+T 1394356555 19*	Now talking on 22#opensim
+T 1394356555 22*	Topic for 22#opensim is: **NOTICE - Before moving on to OpenSimulator 0.7 Please Read the following release information : http://opensimulator.org/wiki/0.7_Release - Problems searching the wiki? Use google's site-targeted search facility to search it externally, ie type in google: site:opensimulator.org <search criteria>
+T 1394356555 22*	Topic for 22#opensim set by 26simonrvn!simon@211.59-ppp.3menatwork.com (24Mon Nov 29 04:42:26 2010)
+T 1394360283 23*	Monday (~Thursday@static-72-67-52-110.lsanca.fios.verizon.net23) has joined
+T 1394360542 23*	ftcodes (~ftcodes@p57A34BF9.dip0.t-ipconnect.de23) has joined
+T 1394364189 23*	randomhuman (~kevin@host39-208.statics.netsource.ie23) has joined
+T 1394365011 23*	|-fInE-| (~marcus@ppp-93-104-72-151.dynamic.mnet-online.de23) has joined
+T 1394366401 24*	osmantis has quit (Remote host closed the connection)
+T 1394366418 23*	osmantis (~sdague@opensimulator.org23) has joined
+T 1394366834 23*	Tuesday (~Thursday@static-72-67-52-110.lsanca.fios.verizon.net23) has joined
+T 1394366834 24*	Monday has quit (Read error: Connection reset by peer)
+T 1394367423 23*	nebadon_ (~nebadon@c-50-166-84-181.hsd1.nj.comcast.net23) has joined
+T 1394367622 24*	nebadon has quit (Ping timeout: 245 seconds)
+T 1394367771 23*	velus (~velus@unaffiliated/velus23) has joined
+T 1394367790 18<velus18>	anyone about that can help with setting of the avatrs db?
+T 1394367970 18<Taoki18>	Hi. Anyone know why after updating Opensim to latest GIT, I get this? http://pastebin.com/raw.php?i=ZxsDr67c
+T 1394368297 24*	ArthurNumba2 has quit (Remote host closed the connection)
+T 1394368425 18<velus18>	its ok i found it now
+T 1394368452 23*	ArthurNumba2 (~Arty@92-108-8-16.dynamic.upc.nl23) has joined
+T 1394368477 18<Taoki18>	Tried with the latest OSGrid config, same. Latest GIT seems to be clearly broken :/
+T 1394368568 18<velus18>	what version number is it?
+T 1394368758 18<Taoki18>	Latest GIT master
+T 1394368835 23*	slk (~oyk@devnull.drwxr-xr-x.eu23) has joined
+T 1394368853 18<velus18>	send us the link?
+T 1394368927 18<Dev_Random18>	Taoki: I can't say for sure, but since it looks like it's trying to open a UDP socket in CreateRegion, I'd suspect the port setting in Regions.ini.
+T 1394369055 24*	Taoki has quit (Ping timeout: 252 seconds)
+T 1394369945 23*	Taoki (~MirceaKit@93.113.162.3723) has joined
+T 1394370276 18<Taoki18>	Ok... actually it seems there was a problem with the internal IP address, because my new router was assigning it differently. Seems to work now.
+T 1394370391 18<velus18>	ok
+T 1394370422 18<velus18>	Dev_Random: 
+T 1394370433 24*	velus has quit (Read error: Connection reset by peer)
+T 1394370458 18<Dev_Random18>	it's like he knocked on my door and ran away....
+T 1394370469 23*	velus (~velus@unaffiliated/velus23) has joined
+T 1394370475 18<velus18>	sorry crashed
+T 1394370477 18<Dev_Random18>	yes
+T 1394370511 18<velus18>	do you know much about well 2 things 1 the avatars db table and two about permsissions
+T 1394370527 18<Dev_Random18>	not really.  
+T 1394370539 18<velus18>	permsissions on items not the atually system
+T 1394370596 18<velus18>	ok
+T 1394371297 20<Thonneve>30	velus: Doxygen comes to mind when it comes to what opensim does
+T 1394371330 18<velus18>	how do i work the dogxygen in windows
+T 1394371340 20<Thonneve>30	Not a clue
+T 1394371344 20<Thonneve>30	Only ever used it on linux
+T 1394371348 20<Thonneve>30	I'll host them for you though
+T 1394371354 18<velus18>	ok thank you
+T 1394371540 20<Thonneve>30	velus: http://osatia.cu.cc/opensimdocs/
+T 1394371596 18<velus18>	thank you 
+T 1394372436 23*	H-H-H (H-H-H@80-44-109-30.dynamic.dsl.as9105.com23) has joined
+T 1394374283 23*	Arielle_ (~IceChat9@unaffiliated/arielle/x-882937423) has joined
+T 1394377103 24*	velus has quit (Quit: bye bye im outta irc)
+T 1394378163 23*	Monday (~Thursday@static-72-67-52-110.lsanca.fios.verizon.net23) has joined
+T 1394378362 24*	Tuesday has quit (Ping timeout: 264 seconds)
+T 1394379540 24*	frnic has quit (Remote host closed the connection)
+T 1394380496 24*	H-H-H has quit (Ping timeout: 244 seconds)
+T 1394380639 18<cia-opensim18>	5opensim: 3nebadon2025 * rcfd3e8f0ea2e bin (3Robust.HG.ini.example Robust.ini.example)5:
+T 1394380640 18<cia-opensim18>	  minor spelling mistake fix.
+T 1394380641 18<cia-opensim18>	  2http://opensimulator.org/viewgit/?a=commit&p=opensim&h=cfd3e8f0ea2ef90a94eac5065e1a2f17d384b298
+T 1394380649 18<osjenkins18>	Starting build #3348 for job opensim » mono-2.10.8.1 (previous build: SUCCESS)
+T 1394380876 18<osjenkins18>	Project opensim » mono-2.10.8.1 build #3348: SUCCESS in 3 min 56 sec: http://jenkins.opensimulator.org/job/opensim/./MONO_VERSION=mono-2.10.8.1/3348/
+T 1394380876 18<osjenkins18>	nebadon2025: minor spelling mistake fix.
+T 1394381271 24*	28nebadon_ is now known as 18nebadon
+T 1394383563 19*	Now talking on 22#opensim
+T 1394383563 22*	Topic for 22#opensim is: **NOTICE - Before moving on to OpenSimulator 0.7 Please Read the following release information : http://opensimulator.org/wiki/0.7_Release - Problems searching the wiki? Use google's site-targeted search facility to search it externally, ie type in google: site:opensimulator.org <search criteria>
+T 1394383563 22*	Topic for 22#opensim set by 26simonrvn!simon@211.59-ppp.3menatwork.com (24Mon Nov 29 04:42:26 2010)
+T 1394383657 24*	Monday has quit (Read error: Connection reset by peer)
+T 1394383675 23*	Monday (~Thursday@static-72-67-52-110.lsanca.fios.verizon.net23) has joined
+T 1394384225 23*	NomadOfNorad (~Nomad@99-59-216-138.lightspeed.jcvlfl.sbcglobal.net23) has joined
+T 1394385440 23*	Misterblue (~Misterblu@c-71-237-139-48.hsd1.or.comcast.net23) has joined
+T 1394385470 24*	|-fInE-| has quit (Read error: Connection reset by peer)
+T 1394388003 24*	osmantis has quit (Remote host closed the connection)
+T 1394388014 23*	osmantis (~sdague@opensimulator.org23) has joined
+T 1394391125 24*	28ssm2017[Away] is now known as 18ssm2017
+T 1394391377 23*	|-fInE-| (~marcus@ppp-93-104-72-151.dynamic.mnet-online.de23) has joined
+T 1394392631 24*	Dev_Random has quit (Quit: llDie();)
+T 1394393524 23*	Dev_Random (~cyberdong@dhcp-108-168-7-146.cable.user.start.ca23) has joined
+T 1394393535 23*	sbach (~sbach@sbach.fr23) has joined
+T 1394393540 23*	antont (U2FsdGVkX1@pallas.utanet.fi23) has joined
+T 1394393560 24*	antont has quit (*.net *.split)
+T 1394393560 24*	sbach has quit (*.net *.split)
+T 1394393720 23*	Guest56852 (~Sanz_w7@cpe-142-255-112-74.nyc.res.rr.com23) has joined
+T 1394393812 24*	sanz has quit (Ping timeout: 252 seconds)
+T 1394393976 24*	nebadon has quit (Quit: Leaving)
+T 1394393997 23*	nebadon_laptop (~nebadon@c-50-166-84-181.hsd1.nj.comcast.net23) has joined
+T 1394394753 23*	m|core (~core@172.245.21.5123) has joined
+T 1394394789 24*	28m|core is now known as 18mcore
+T 1394395034 23*	sbach (~sbach@sbach.fr23) has joined
+T 1394395040 23*	antont (U2FsdGVkX1@pallas.utanet.fi23) has joined
+T 1394395186 23*	canmow (~canmow@62.122.72.8223) has joined
+T 1394395969 24*	Bryanstein has quit (Excess Flood)
+T 1394396650 23*	Bryanstein (~Bryanstei@shellium/admin/bryanstein23) has joined
+T 1394396662 24*	canmow has quit (Remote host closed the connection)
+T 1394398099 24*	JoeRadik has quit (Remote host closed the connection)
+T 1394398125 24*	|-fInE-| has quit (Read error: Connection reset by peer)
+T 1394399163 23*	RobinC_ (~Robin@host86-130-31-185.range86-130.btcentralplus.com23) has joined
+T 1394399358 24*	robin__ has quit (Ping timeout: 252 seconds)
+T 1394399933 24*	Guest56852 has quit (Ping timeout: 244 seconds)
+T 1394400019 23*	sanz (~Sanz_w7@unaffiliated/c-sanz23) has joined
+T 1394400734 23*	H-H-H (~H-H-H@80-44-109-30.dynamic.dsl.as9105.com23) has joined
+T 1394401478 24*	randomhuman has quit (Ping timeout: 240 seconds)
+T 1394402545 19*	Now talking on 22#opensim
+T 1394402545 22*	Topic for 22#opensim is: **NOTICE - Before moving on to OpenSimulator 0.7 Please Read the following release information : http://opensimulator.org/wiki/0.7_Release - Problems searching the wiki? Use google's site-targeted search facility to search it externally, ie type in google: site:opensimulator.org <search criteria>
+T 1394402545 22*	Topic for 22#opensim set by 26simonrvn!simon@211.59-ppp.3menatwork.com (24Mon Nov 29 04:42:26 2010)
+T 1394405645 18<Taoki18>	Hi. Is there a command to replace an asset (via key) from the inventories of all objects present on the region? I want to change a script in a lot of objects at once... which all have the same script.
+T 1394406289 23*	wdtnbr (~wdtnbr@195.78.109.11223) has joined
+T 1394406496 23*	dmiles_afk (~dmiles@c-50-137-36-57.hsd1.or.comcast.net23) has joined
+T 1394407205 18<cia-opensim18>	5opensim: 3nebadon2025 * r4f6728604405 bin (3Robust.HG.ini.example Robust.ini.example)5:
+T 1394407206 18<cia-opensim18>	  fix missing quote for xBakes connector in Robust example ini files
+T 1394407207 18<cia-opensim18>	  2http://opensimulator.org/viewgit/?a=commit&p=opensim&h=4f67286044058edbf6660f2be49b0fc5532d3d30
+T 1394407213 18<osjenkins18>	Starting build #3349 for job opensim » mono-2.10.8.1 (previous build: SUCCESS)
+T 1394407443 18<osjenkins18>	Project opensim » mono-2.10.8.1 build #3349: SUCCESS in 3 min 58 sec: http://jenkins.opensimulator.org/job/opensim/./MONO_VERSION=mono-2.10.8.1/3349/
+T 1394407444 18<osjenkins18>	nebadon2025: fix missing quote for xBakes connector in Robust example ini files
+T 1394407746 18<Taoki18>	Anyone know?
+T 1394407806 24*	28ssm2017 is now known as 18ssm2017[Away]
+T 1394408489 24*	sanz has quit (Ping timeout: 244 seconds)
+T 1394408696 23*	sanz (~Sanz_w7@unaffiliated/c-sanz23) has joined
+T 1394408786 18*	Taoki pokes
+T 1394409602 24*	osmantis has quit (Remote host closed the connection)
+T 1394409618 23*	osmantis (~sdague@opensimulator.org23) has joined
+T 1394410442 24*	sanz has quit (Ping timeout: 244 seconds)
+T 1394410521 23*	sanz (~Sanz_w7@unaffiliated/c-sanz23) has joined
+T 1394412165 18<osmantis18>	Bug #7051:04 [VAR] osNpcMoveToTarget fails outside of 256 on varregions 14( http://opensimulator.org/mantis/view.php?id=7051 ): has been SUBMITTED.
+T 1394413079 24*	H-H-H has quit (Ping timeout: 240 seconds)
+T 1394413384 18<ArthurNumba218>	Taoki, if i am not mistaking all assets (scripts too) can be manipulated via the database... but don't ask me how since I am no mysql db jock (yet)... but I assume one could change the content of objects
+T 1394413411 18<Taoki18>	Ok. Was hoping there's a way from Opensim directly. Also, I use sqlite storage
+T 1394413471 18<ArthurNumba218>	:-) ... mysql or sqlite... still structured queries... same same (?)... :-)
+T 1394413939 24*	ftcodes has quit (Read error: Connection reset by peer)
+T 1394414066 23*	renderedsoul (~rs@c-24-20-194-219.hsd1.or.comcast.net23) has joined
+T 1394414125 24*	28renderedsoul is now known as 18rs^
+T 1394414579 23*	Guest56852 (~Sanz_w7@cpe-142-255-112-74.nyc.res.rr.com23) has joined
+T 1394414678 24*	sanz has quit (Ping timeout: 240 seconds)
+T 1394414912 18<osmantis18>	Bug #6990:04 OpenSim.Region.Framework.Scenes.SceneGraph [SCENEGRAPH]: Problem processing action in ForEachSOG 14( http://opensimulator.org/mantis/view.php?id=6990 ): A NOTE has been added to this issue.
+T 1394415521 23*	frnic (~chatzilla@h193.226.18.98.dynamic.ip.windstream.net23) has joined
+T 1394417516 18<Taoki18>	Hi. Is it possible to find out the UUID of a script? My viewer doesn't let me copy the UID of scripts, although for other items it works
+T 1394417712 24*	Monday has quit (Read error: Connection reset by peer)
+T 1394417733 23*	Monday (~Thursday@static-72-67-52-110.lsanca.fios.verizon.net23) has joined
+T 1394420408 18<nebadon_laptop18>	Taoki no its designed that way on purpose
+T 1394420420 18<nebadon_laptop18>	so you cant steal other peoples scripts
+T 1394420482 24*	greg0254 has quit (Read error: Connection reset by peer)
+T 1394421634 24*	ArthurNumba2 has quit (Ping timeout: 264 seconds)
+T 1394422409 23*	ArthurNumba2 (~Arty@92-108-8-16.dynamic.upc.nl23) has joined
+T 1394422535 24*	Monday has quit (Read error: Connection reset by peer)
+T 1394422538 23*	Tuesday (~Thursday@static-72-67-52-110.lsanca.fios.verizon.net23) has joined
+T 1394422971 24*	Tuesday has quit (Read error: Connection reset by peer)
+T 1394422988 23*	Monday (~Thursday@static-72-67-52-110.lsanca.fios.verizon.net23) has joined
+T 1394424660 24*	friti has quit (Read error: Connection reset by peer)
+T 1394424735 23*	friti (~quassel@2601:8:a900:824:99a5:6dc1:95a8:ff2d23) has joined
+T 1394425795 18<osmantis18>	Bug #7035:04 Land Settings change 14( http://opensimulator.org/mantis/view.php?id=7035 ): A NOTE has been added to this issue.
+T 1394425942 24*	rs^ has quit (Ping timeout: 244 seconds)
+T 1394426195 24*	DeadReply has quit (Read error: Operation timed out)
+T 1394426217 23*	DeadReply (~DeadReply@virtualcoins.ca23) has joined
+T 1394426561 18<osmantis18>	Bug #7008:04 Varregion Terrain very slow to load when teleporting in. Much slower than same exact oars loaded on a mega region 14( http://opensimulator.org/mantis/view.php?id=7008 ): A NOTE has been added to this issue.
+T 1394428336 18<osmantis18>	Bug #7051:04 [VAR] osNpcMoveToTarget fails outside of 256 on varregions 14( http://opensimulator.org/mantis/view.php?id=7051 ): has been ASSIGNED.
+T 1394431053 24*	Arielle_ has quit (Quit: Do fish get thirsty?)
+T 1394431201 24*	osmantis has quit (Remote host closed the connection)
+T 1394431214 23*	osmantis (~sdague@opensimulator.org23) has joined
+T 1394431752 24*	wdtnbr has quit (Ping timeout: 240 seconds)
+T 1394433065 23*	irisaf (~irisaf@91.229.77.10223) has joined
+T 1394433124 24*	Guest56852 has quit ()
+T 1394433388 23*	Sanz_ (~sanzirc@93.sub-70-208-82.myvzw.com23) has joined
+T 1394433388 24*	Sanz_ has quit (Changing host)
+T 1394433388 23*	Sanz_ (~sanzirc@unaffiliated/c-sanz23) has joined
+T 1394434442 18<osmantis18>	Bug #7004:04 Accessing texture from inventory or attempting to upload new one sometimes fails 14( http://opensimulator.org/mantis/view.php?id=7004 ): A NOTE has been added to this issue.
+T 1394434947 23*	robin__ (~Robin@hirst-magnetics.demon.co.uk23) has joined
+T 1394435055 24*	irisaf has quit (Remote host closed the connection)
+T 1394435116 24*	RobinC_ has quit (Ping timeout: 265 seconds)
+T 1394437000 24*	friti has quit (Ping timeout: 265 seconds)
+T 1394439261 23*	friti (~quassel@2601:8:a900:824:99a5:6dc1:95a8:ff2d23) has joined
+T 1394442195 23*	randomhuman (~kevin@host39-208.statics.netsource.ie23) has joined
+T 1394444055 24*	NomadOfNorad has quit (Quit: Leaving)
+T 1394447773 20*	Disconnected (20Invalid argument)
+T 1394447785 19*	Now talking on 22#opensim
+T 1394447785 22*	Topic for 22#opensim is: **NOTICE - Before moving on to OpenSimulator 0.7 Please Read the following release information : http://opensimulator.org/wiki/0.7_Release - Problems searching the wiki? Use google's site-targeted search facility to search it externally, ie type in google: site:opensimulator.org <search criteria>
+T 1394447785 22*	Topic for 22#opensim set by 26simonrvn!simon@211.59-ppp.3menatwork.com (24Mon Nov 29 04:42:26 2010)
+T 1394450196 24*	frnic has quit (Remote host closed the connection)
+T 1394451096 23*	|-fInE-| (~marcus@ppp-93-104-89-230.dynamic.mnet-online.de23) has joined
+T 1394451671 18<Taoki18>	nebadon_laptop: Ok. I need to replace one of my own scripts in multiple objects on my sim however (too many to do it manually comfortably). Is there anything I can do at all?
+T 1394452347 18<Taoki18>	Anyway, if someone else is on and knows: I need to replace a single script which is placed in numerous objects on my region. The script is mine... I just need to change something in it without having to select all hundreds of objects to manually replace it.
+T 1394452378 18*	Taoki always hated that SL doesn't support referencing single inventory items... which the artist could edit in one object and the change would happen in all
+T 1394452802 24*	osmantis has quit (Remote host closed the connection)
+T 1394452816 23*	osmantis (~sdague@opensimulator.org23) has joined
+T 1394453127 24*	28ssm2017[Away] is now known as 18ssm2017
+T 1394453477 23*	nebadon_ (~nebadon@c-50-166-84-181.hsd1.nj.comcast.net23) has joined
+T 1394453567 18<Taoki18>	Never mind. llGetInventoryKey seems to work thankfully. I can put the script in a prim, add another script with this function that echoes its key, and I get the key of the script in cause :)
+T 1394453622 24*	nebadon_laptop has quit (Ping timeout: 245 seconds)
+T 1394453740 18<Taoki18>	nebadon_: Asked this last night, but no one knew the answer... if it's ok to poke you as well: Is there an Opensim command to replace an UID in the inventories of all primitives on a region? So I can specify the old UID of the item, the new one, and when I issue the command the inventory item is replaced inside all prims
+T 1394453776 18<Taoki18>	I assume one might not have been added in concern of stealing being possible. And I might need to edit the sqlite database manually for this, although that's trickier so I preferred a way in Opensim directly
+T 1394454218 23*	Sanz_w7 (~Sanz_w7@unaffiliated/c-sanz23) has joined
+T 1394455379 23*	DasScoot (~IceChat77@static-71-168-11-210.clppva.east.verizon.net23) has joined
+T 1394455671 24*	Sanz_ has quit (Quit: AndroIRC - Android IRC Client ( http://www.androirc.com ))
+T 1394456443 23*	Monday (~Thursday@static-72-67-52-110.lsanca.fios.verizon.net23) has joined
+T 1394456470 24*	Tuesday has quit (Read error: Connection reset by peer)
+T 1394457380 23*	Spiralmatrix (~Spiralmat@host-79-77-2-250.static.as9105.com23) has joined
+T 1394458408 23*	H-H-H (~H-H-H@host-92-20-232-99.as13285.net23) has joined
+T 1394458685 23*	Arielle_ (~IceChat9@bas1-bowmanville96-2925229475.dsl.bell.ca23) has joined
+T 1394458692 24*	Arielle_ has quit (Changing host)
+T 1394458692 23*	Arielle_ (~IceChat9@unaffiliated/arielle/x-882937423) has joined
+T 1394459568 18<H-H-H18>	anyone alive that can poke mantis lol
+T 1394459751 24*	sbach has quit (Quit: leaving)
+T 1394459774 23*	sbach (~sbach@sbach.fr23) has joined
+T 1394460247 18<H-H-H18>	this xbakes is actually rather cool , it makes my av pop into view fairly quickly instead of the usual swirling gas cloud for a minute or so
+T 1394460976 24*	28ssm2017 is now known as 18ssm2017[Away]
+T 1394461583 18<|-fInE-|18>	i've changed my php project now to epesi engine .. its great
+T 1394462273 23*	Tuesday (~Thursday@static-72-67-52-110.lsanca.fios.verizon.net23) has joined
+T 1394462330 24*	Monday has quit (Read error: Connection reset by peer)
+T 1394462948 24*	friti has quit (Quit: No Ping reply in 180 seconds.)
+T 1394463043 23*	friti (~quassel@2601:8:a900:824:99a5:6dc1:95a8:ff2d23) has joined
+T 1394463584 24*	28Arielle_ is now known as 18Arielle_afk
+T 1394464507 24*	Tuesday has quit (Read error: Connection reset by peer)
+T 1394465121 24*	28ssm2017[Away] is now known as 18ssm2017
+T 1394465175 18<osmantis18>	Bug #7052:04 Map tiles no longer show in Map Tool in Viewer 14( http://opensimulator.org/mantis/view.php?id=7052 ): has been SUBMITTED.
+T 1394465234 18<osmantis18>	Bug #7052:04 Map tiles no longer show in Map Tool in Viewer 14( http://opensimulator.org/mantis/view.php?id=7052 ): has been UPDATED.
+T 1394465623 18<osmantis18>	Bug #7052:04 Map tiles no longer show in Map Tool in Viewer 14( http://opensimulator.org/mantis/view.php?id=7052 ): has been UPDATED.
+T 1394466509 24*	H-H-H has quit (Ping timeout: 240 seconds)
+T 1394467199 23*	cmickeyb (~cmickeyb@134.134.139.7223) has joined
+T 1394467727 24*	fredhamster_ has quit (Remote host closed the connection)
+T 1394469892 24*	Spiralmatrix has quit ()
+T 1394471123 24*	28ssm2017 is now known as 18ssm2017[Away]
+T 1394471729 18<osmantis18>	Bug #7053:04 Terrain editing causes high cpu usage for several minutes on minor editing. 14( http://opensimulator.org/mantis/view.php?id=7053 ): has been SUBMITTED.
+T 1394471940 24*	28Arielle_afk is now known as 18Arielle_
+T 1394472369 23*	ftcodes (~ftcodes@p57A35852.dip0.t-ipconnect.de23) has joined
+T 1394473366 23*	H-H-H (~H-H-H@host-92-20-232-99.as13285.net23) has joined
+T 1394474098 24*	H-H-H has quit (Ping timeout: 240 seconds)
+T 1394474401 24*	osmantis has quit (Remote host closed the connection)
+T 1394474415 23*	osmantis (~sdague@opensimulator.org23) has joined
+T 1394476704 23*	Monday (~Thursday@static-72-67-52-110.lsanca.fios.verizon.net23) has joined
+T 1394476999 24*	paulieflomar has quit (Ping timeout: 244 seconds)
+T 1394477001 23*	paulie_flomar (~paulieflo@97-125-47-69.eugn.qwest.net23) has joined
+T 1394477076 24*	paulie_flomar has quit (Read error: Connection reset by peer)
+T 1394477207 23*	paulieflomar (~paulieflo@216.240.181.20923) has joined
+T 1394477866 24*	paulieflomar has quit (Ping timeout: 264 seconds)
+T 1394477951 23*	paulieflomar (~paulieflo@216.240.181.20923) has joined
+T 1394479451 24*	cmickeyb has quit (Remote host closed the connection)
+T 1394479609 18<osmantis18>	Bug #7052:04 Map tiles no longer show in Map Tool in Viewer 14( http://opensimulator.org/mantis/view.php?id=7052 ): A NOTE has been added to this issue.
+T 1394481711 24*	|-fInE-| has quit (Read error: Connection reset by peer)
+T 1394483476 18<osmantis18>	Bug #7052:04 Map tiles no longer show in Map Tool in Viewer 14( http://opensimulator.org/mantis/view.php?id=7052 ): A NOTE has been added to this issue.
+T 1394483478 23*	H-H-H (~H-H-H@host-92-20-231-214.as13285.net23) has joined
+T 1394483520 18<H-H-H18>	hey guys does anyone use the datasnapshot and search modules?
+T 1394484422 24*	DasScoot has quit (Quit: ...)
+T 1394484482 24*	sbach has quit (Read error: Connection reset by peer)
+T 1394484771 23*	sbach (~sbach@sbach.fr23) has joined
+T 1394485517 18<osmantis18>	Bug #7052:04 Map tiles no longer show in Map Tool in Viewer 14( http://opensimulator.org/mantis/view.php?id=7052 ): A NOTE has been added to this issue.
+T 1394486264 23*	NomadOfNorad (~Nomad@99.59.216.13823) has joined
+T 1394486748 23*	|-fInE-| (~marcus@ppp-93-104-89-230.dynamic.mnet-online.de23) has joined
+T 1394487335 23*	jakdaniels_ (~jakdaniel@hengwm2.ateb.co.uk23) has joined
+T 1394487508 24*	jakdaniels has quit (Ping timeout: 244 seconds)
+T 1394487852 23*	paulie_flomar (~paulieflo@216.240.181.20923) has joined
+T 1394487936 24*	paulieflomar has quit (Ping timeout: 240 seconds)
+T 1394488198 24*	dmiles_afk has quit (Ping timeout: 264 seconds)
+T 1394488438 24*	28ssm2017[Away] is now known as 18ssm2017
+T 1394489036 23*	newdog (~newdog@wsip-70-168-129-203.dc.dc.cox.net23) has joined
+T 1394489998 24*	randomhuman has quit (Ping timeout: 240 seconds)
+T 1394491474 24*	Abitar has quit (Ping timeout: 264 seconds)
+T 1394492595 24*	|-fInE-| has quit (Read error: Connection reset by peer)
+T 1394495484 24*	ftcodes has quit (Read error: Connection reset by peer)
+T 1394496002 24*	osmantis has quit (Remote host closed the connection)
+T 1394496019 23*	osmantis (~sdague@opensimulator.org23) has joined
+T 1394496598 23*	justincc (~justincc@cpc22-bour5-2-0-cust130.15-1.cable.virginm.net23) has joined
+T 1394496843 24*	H-H-H has quit (Quit: Leaving)
+T 1394497009 18<cia-opensim18>	5opensim: 3jjustincc * r77e7bbcbf753 OpenSim (36 files in 4 dirs)5:
+T 1394497010 18<cia-opensim18>	  Send group notices through the same messaging module mechanism used to send group chat to avoid timeout issues when sending messages to large groups.
+T 1394497011 18<cia-opensim18>	  
+T 1394497012 18<cia-opensim18>	  Only implementing for XmlRpcGroups initially to test.
+T 1394497013 18<cia-opensim18>	  May require MessageOnlineUsersOnly = true in [Groups] to be effective.
+T 1394497014 18<cia-opensim18>	  In relation to http://opensimulator.org/mantis/view.php?id=7037
+T 1394497015 18<cia-opensim18>	  2http://opensimulator.org/viewgit/?a=commit&p=opensim&h=77e7bbcbf753018074211ca8358c642dd7204f42
+T 1394497021 18<cia-opensim18>	5opensim: 3jjustincc * r932c9e757b1e / (37 files in 3 dirs)5:
+T 1394497022 18<cia-opensim18>	  Merge branch 'master' of ssh://opensimulator.org/var/git/opensim
+T 1394497023 18<cia-opensim18>	  2http://opensimulator.org/viewgit/?a=commit&p=opensim&h=932c9e757b1e4ba519ba9d486e9773290c5b3719
+T 1394497176 18<osjenkins18>	Starting build #3350 for job opensim » mono-2.10.8.1 (previous build: SUCCESS)
+T 1394497363 23*	dmiles_afk (~dmiles@c-50-137-36-57.hsd1.or.comcast.net23) has joined
+T 1394497413 18<osjenkins18>	Project opensim » mono-2.10.8.1 build #3350: SUCCESS in 6 min 47 sec: http://jenkins.opensimulator.org/job/opensim/./MONO_VERSION=mono-2.10.8.1/3350/
+T 1394497413 18<osjenkins18>	jjustincc: Send group notices through the same messaging module mechanism used to send group chat to avoid timeout issues when sending messages to large groups.
+T 1394498133 24*	danbanner has quit (Read error: Connection reset by peer)
+T 1394498136 18<osmantis18>	Bug #7035:04 Land Settings change 14( http://opensimulator.org/mantis/view.php?id=7035 ): A NOTE has been added to this issue.
+T 1394498173 18<osmantis18>	Bug #7035:04 Land Settings change 14( http://opensimulator.org/mantis/view.php?id=7035 ): A NOTE has been added to this issue.
+T 1394498364 18<osmantis18>	Bug #7037:04 Group Notices Cause Time Outs (Both V2 and Flostream) 14( http://opensimulator.org/mantis/view.php?id=7037 ): A NOTE has been added to this issue.
+T 1394498373 18<osmantis18>	Bug #7037:04 Group Notices Cause Time Outs (Both V2 and Flostream) 14( http://opensimulator.org/mantis/view.php?id=7037 ): requires your FEEDBACK.
+T 1394498940 18<cia-opensim18>	5opensim: 3orenh * r120f872d2b2f OpenSim/Region/CoreModules/Framework/InventoryAccess (3InventoryAccessModule.cs)5:
+T 1394498941 18<cia-opensim18>	  After an object with KeyframeMotion is copied into inventory, resume the motion (previously it remained stopped)
+T 1394498942 18<cia-opensim18>	  2http://opensimulator.org/viewgit/?a=commit&p=opensim&h=120f872d2b2f58560ab026f35a9f523e8540d2c6
+T 1394498945 18<osjenkins18>	Starting build #3351 for job opensim » mono-2.10.8.1 (previous build: SUCCESS)
+T 1394499173 18<osjenkins18>	Project opensim » mono-2.10.8.1 build #3351: SUCCESS in 3 min 53 sec: http://jenkins.opensimulator.org/job/opensim/./MONO_VERSION=mono-2.10.8.1/3351/
+T 1394499174 18<osjenkins18>	jjustincc: After an object with KeyframeMotion is copied into inventory, resume the motion (previously it remained stopped)
+T 1394499180 18<osmantis18>	Bug #6948:04 [PATCH] Resume motion of objects with KeyframeMotion  after they were copied into inventory 14( http://opensimulator.org/mantis/view.php?id=6948 ): has been RESOLVED.
+T 1394499673 18<osmantis18>	Bug #7037:04 Group Notices Cause Time Outs (Both V2 and Flostream) 14( http://opensimulator.org/mantis/view.php?id=7037 ): A NOTE has been added to this issue.
+T 1394499790 24*	Monday has quit (Ping timeout: 264 seconds)
+T 1394499866 18<cia-opensim18>	5opensim: 3orenh * r0237d9113d3c OpenSim/Region/Framework/Scenes (3KeyframeMotion.cs)5:
+T 1394499867 18<cia-opensim18>	  Don't start KeyframeMotion timers until all the regions are ready. This prevents problems in megaregions (prims that think they've crossed over to other regions).
+T 1394499868 18<cia-opensim18>	  2http://opensimulator.org/viewgit/?a=commit&p=opensim&h=0237d9113d3cc510fcd9f94d53631c254b8a0351
+T 1394499871 18<osjenkins18>	Starting build #3352 for job opensim » mono-2.10.8.1 (previous build: SUCCESS)
+T 1394500097 18<osjenkins18>	Project opensim » mono-2.10.8.1 build #3352: SUCCESS in 3 min 51 sec: http://jenkins.opensimulator.org/job/opensim/./MONO_VERSION=mono-2.10.8.1/3352/
+T 1394500097 18<osjenkins18>	jjustincc: Don't start KeyframeMotion timers until all the regions are ready. This prevents problems in megaregions (prims that think they've crossed over to other regions).
+T 1394500396 18<osmantis18>	Bug #6947:04 [PATCH] Fixed disappearing prims that use KeyframeMotion, with megaregions 14( http://opensimulator.org/mantis/view.php?id=6947 ): has been RESOLVED.
+T 1394500508 23*	Luca_Peck (~Luca_Peck@194.230.155.6923) has joined
+T 1394500638 24*	justincc has quit (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+T 1394500776 24*	Luca_Peck has quit (Ping timeout: 244 seconds)
+T 1394501117 24*	Sanz_w7 has quit (Ping timeout: 244 seconds)
+T 1394501149 23*	Sanz_w7 (~Sanz_w7@unaffiliated/c-sanz23) has joined
+T 1394501516 24*	28ssm2017 is now known as 18ssm2017[Away]
+T 1394502626 24*	Ken_S has quit (Read error: Connection reset by peer)
+T 1394503359 24*	mcore has quit (Remote host closed the connection)
+T 1394506080 24*	SinSeer has quit (Ping timeout: 240 seconds)
+T 1394506101 23*	SinSeer (~sinseer@69.165.165.8023) has joined
+T 1394506102 24*	SinSeer has quit (Changing host)
+T 1394506102 23*	SinSeer (~sinseer@unaffiliated/erisdiscordia23) has joined
+T 1394507688 24*	RubberDuck has quit (Ping timeout: 245 seconds)
+T 1394508138 23*	dmiles (~dmiles@c-50-137-36-57.hsd1.or.comcast.net23) has joined
+T 1394508143 24*	dmiles_afk has quit (Read error: Connection reset by peer)
+T 1394508714 24*	Arielle_ has quit (Quit: Life without danger is a waste of oxygen)
+T 1394509723 23*	Ken_S (~IceChat77@c50-26-173-43.abilcmtk01.tx.dh.suddenlink.net23) has joined
+T 1394509865 18<osmantis18>	Bug #7053:04 Terrain editing causes high cpu usage for several minutes on minor editing. 14( http://opensimulator.org/mantis/view.php?id=7053 ): has been ASSIGNED.
+T 1394510049 18<osmantis18>	Bug #7008:04 Varregion Terrain very slow to load when teleporting in. Much slower than same exact oars loaded on a mega region 14( http://opensimulator.org/mantis/view.php?id=7008 ): has been UPDATED.
+T 1394510752 23*	djphil_ (~djphil@109.128.152.14323) has joined
+T 1394510904 24*	djphil has quit (Ping timeout: 240 seconds)
+T 1394511799 18<osmantis18>	Bug #7052:04 Map tiles no longer show in Map Tool in Viewer 14( http://opensimulator.org/mantis/view.php?id=7052 ): has a PATCH to be looked at.
+T 1394511889 18<osmantis18>	Bug #7052:04 [PATCH] Map tiles no longer show in Map Tool in Viewer 14( http://opensimulator.org/mantis/view.php?id=7052 ): has been UPDATED.
+T 1394514406 18<cia-opensim18>	5opensim: 3misterblue * r742f5054408b OpenSim (33 files in 3 dirs)5:
+T 1394514407 18<cia-opensim18>	  Change terrain update sending to be triggered by frame tick rather
+T 1394514407 18<osjenkins18>	Starting build #3353 for job opensim » mono-2.10.8.1 (previous build: SUCCESS)
+T 1394514408 18<cia-opensim18>	  than everytime terrain is changed.
+T 1394514409 18<cia-opensim18>	  
+T 1394514410 18<cia-opensim18>	  The TerrainModule now hooks the frame event and, if terrain has changed,
+T 1394514411 18<cia-opensim18>	  sends terrain updates to the clients. This polling pattern replaces
+T 1394514412 18<cia-opensim18>	  2http://opensimulator.org/viewgit/?a=commit&p=opensim&h=742f5054408bbd928ea2422dd9abc04ee57c80dc
+T 1394514634 18<osjenkins18>	Project opensim » mono-2.10.8.1 build #3353: SUCCESS in 3 min 51 sec: http://jenkins.opensimulator.org/job/opensim/./MONO_VERSION=mono-2.10.8.1/3353/
+T 1394514635 18<osjenkins18>	misterblue: Change terrain update sending to be triggered by frame tick rather
+T 1394514825 18<cia-opensim18>	5opensim: 3amy88smith * r3e8f593bf2ed / (32 files in 2 dirs)5:
+T 1394514826 18<cia-opensim18>	  PhysicalPrimMax to 64m for ini Default files to enable standard size prims and mesh to be used with vehicles.
+T 1394514827 18<cia-opensim18>	  
+T 1394514828 18<cia-opensim18>	  Signed-off-by: Robert Adams <misterblue@misterblue.com>
+T 1394514828 18<osjenkins18>	Starting build #3354 for job opensim » mono-2.10.8.1 (previous build: SUCCESS)
+T 1394514829 18<cia-opensim18>	  2http://opensimulator.org/viewgit/?a=commit&p=opensim&h=3e8f593bf2ed525dbd53ef9807382e9dc2a64c6d
+T 1394514837 18<cia-opensim18>	5opensim: 3amy88smith * r71c808cd32f6 bin (3OpenSim.ini.example)5:
+T 1394514838 18<cia-opensim18>	  PhysicalPrimMax 64m for OpenSim_ini_example standard size prim
+T 1394514839 18<cia-opensim18>	  
+T 1394514840 18<cia-opensim18>	  Signed-off-by: Robert Adams <misterblue@misterblue.com>
+T 1394514841 18<cia-opensim18>	  2http://opensimulator.org/viewgit/?a=commit&p=opensim&h=71c808cd32f6049d99b8d802d24ab1d07011fb48
+T 1394514847 18<cia-opensim18>	5opensim: 3misterblue * r6b17c9bd9875 / (3CONTRIBUTORS.txt)5:
+T 1394514848 18<cia-opensim18>	  Add Lani Global to CONTRIBUTORS.txt
+T 1394514849 18<cia-opensim18>	  2http://opensimulator.org/viewgit/?a=commit&p=opensim&h=6b17c9bd98751aae47e0f5e521ffba1f70e9980a
+T 1394514869 18<osmantis18>	Bug #7028:04 [PATCH] PhysicalPrimMax to 64m for ini Default files to enable standard size prims and mesh to be used with vehicles. 14( http://opensimulator.org/mantis/view.php?id=7028 ): A NOTE has been added to this issue.
+T 1394515054 18<osjenkins18>	Project opensim » mono-2.10.8.1 build #3354: SUCCESS in 3 min 51 sec: http://jenkins.opensimulator.org/job/opensim/./MONO_VERSION=mono-2.10.8.1/3354/
+T 1394515054 18<osjenkins18>	* misterblue: PhysicalPrimMax to 64m for ini Default files to enable standard size prims and mesh to be used with vehicles.
+T 1394515055 18<osjenkins18>	* misterblue: PhysicalPrimMax 64m for OpenSim_ini_example standard size prim
+T 1394515086 18<osjenkins18>	* misterblue: Add Lani Global to CONTRIBUTORS.txt
+T 1394515944 24*	Sanz_w7 has quit ()
+T 1394516013 24*	Ken_S has quit (Read error: Connection reset by peer)
+T 1394516297 23*	Ken_S (~IceChat77@c50-26-173-43.abilcmtk01.tx.dh.suddenlink.net23) has joined
+T 1394517601 24*	osmantis has quit (Remote host closed the connection)
+T 1394517614 23*	osmantis (~sdague@216.245.194.4223) has joined
+T 1394524522 24*	jakdaniels_ has quit (Ping timeout: 264 seconds)
+T 1394524881 19*	Now talking on 22#opensim
+T 1394524881 22*	Topic for 22#opensim is: **NOTICE - Before moving on to OpenSimulator 0.7 Please Read the following release information : http://opensimulator.org/wiki/0.7_Release - Problems searching the wiki? Use google's site-targeted search facility to search it externally, ie type in google: site:opensimulator.org <search criteria>
+T 1394524881 22*	Topic for 22#opensim set by 26simonrvn!simon@211.59-ppp.3menatwork.com (24Mon Nov 29 04:42:26 2010)
+T 1394525280 23*	Monday (~Thursday@static-72-67-52-110.lsanca.fios.verizon.net23) has joined
+T 1394525739 23*	danbanner (~60115a87@unaffiliated/danbanner23) has joined
+T 1394526367 23*	jakdaniels (~jakdaniel@hengwm2.ateb.co.uk23) has joined
+T 1394527847 23*	randomhuman (~kevin@host39-208.statics.netsource.ie23) has joined
+T 1394529996 24*	NomadOfNorad has quit (Quit: Leaving)
+T 1394530616 23*	nebadon2 (~nebadon@c-50-166-84-181.hsd1.nj.comcast.net23) has joined
+T 1394530772 24*	nebadon_ has quit (Ping timeout: 245 seconds)
+T 1394530773 23*	|-fInE-| (~marcus@ppp-93-104-77-13.dynamic.mnet-online.de23) has joined
+T 1394531851 18<osmantis18>	Bug #7052:04 [PATCH] Map tiles no longer show in Map Tool in Viewer 14( http://opensimulator.org/mantis/view.php?id=7052 ): A NOTE has been added to this issue.
+T 1394532587 18<osmantis18>	Bug #7028:04 [PATCH] PhysicalPrimMax to 64m for ini Default files to enable standard size prims and mesh to be used with vehicles. 14( http://opensimulator.org/mantis/view.php?id=7028 ): A NOTE has been added to this issue.
+T 1394534028 23*	H-H-H (~H-H-H@host-92-20-231-214.as13285.net23) has joined
+T 1394537042 24*	Monday has quit (Quit: Bye)
+T 1394537268 23*	RubberDuck (bd0e0aa2@gateway/web/freenode/ip.189.14.10.16223) has joined
+T 1394537319 24*	|-fInE-| (~marcus@ppp-93-104-77-13.dynamic.mnet-online.de24) has left
+T 1394537325 23*	|-fInE-| (~marcus@ppp-93-104-77-13.dynamic.mnet-online.de23) has joined
+T 1394537329 24*	|-fInE-| (~marcus@ppp-93-104-77-13.dynamic.mnet-online.de24) has left
+T 1394537789 24*	H-H-H has quit (Ping timeout: 240 seconds)
+T 1394538441 23*	|-fInE-| (~marcus@ppp-93-104-77-13.dynamic.mnet-online.de23) has joined
+T 1394539203 24*	osmantis has quit (Remote host closed the connection)
+T 1394539218 23*	osmantis (~sdague@opensimulator.org23) has joined
+T 1394539583 23*	Sanz_w7 (~Sanz_w7@unaffiliated/c-sanz23) has joined
+T 1394541349 18<osmantis18>	Bug #7052:04 [PATCH] Map tiles no longer show in Map Tool in Viewer 14( http://opensimulator.org/mantis/view.php?id=7052 ): A NOTE has been added to this issue.
+T 1394541857 18<osmantis18>	Bug #7052:04 [PATCH] Map tiles no longer show in Map Tool in Viewer 14( http://opensimulator.org/mantis/view.php?id=7052 ): A NOTE has been added to this issue.
+T 1394542397 23*	DasScoot (~IceChat77@static-71-168-11-210.clppva.east.verizon.net23) has joined
+T 1394545725 24*	SinSeer has quit (Ping timeout: 265 seconds)
+T 1394546106 23*	SinSeer (~sinseer@69-165-165-80.dsl.teksavvy.com23) has joined
+T 1394546106 24*	SinSeer has quit (Changing host)
+T 1394546106 23*	SinSeer (~sinseer@unaffiliated/erisdiscordia23) has joined
+T 1394546283 19*	Now talking on 22#opensim
+T 1394546283 22*	Topic for 22#opensim is: **NOTICE - Before moving on to OpenSimulator 0.7 Please Read the following release information : http://opensimulator.org/wiki/0.7_Release - Problems searching the wiki? Use google's site-targeted search facility to search it externally, ie type in google: site:opensimulator.org <search criteria>
+T 1394546283 22*	Topic for 22#opensim set by 26simonrvn!simon@211.59-ppp.3menatwork.com (24Mon Nov 29 04:42:26 2010)
+T 1394547209 24*	28ssm2017[Away] is now known as 18ssm2017

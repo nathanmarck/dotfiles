@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[state ${1:name}
+{
+	$2
+}
+$0]]></content>
+    <tabTrigger>state</tabTrigger>
+    <scope>source.lsl - meta.state.lsl, source.ossl - meta.state.ossl</scope>
+    <description>user-defined state</description>
+</snippet>

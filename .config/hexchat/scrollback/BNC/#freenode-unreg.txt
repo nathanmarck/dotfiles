@@ -1,0 +1,511 @@
+T 1394447773 20*	Disconnected (20Invalid argument)
+T 1394447785 19*	Now talking on 22#freenode-unreg
+T 1394447785 22*	Topic for 22#freenode-unreg is: This is #freenode-unreg, not #freenode | Information on setting up a nick is available at http://is.gd/gnzok | Staff are voiced, some may also be on /stats p -- feel free to /msg staff at any time | Channel guidelines: http://freenode.net/poundfreenode.shtml | We blog http://blog.freenode.net
+T 1394447785 22*	Topic for 22#freenode-unreg set by 26mquin!~mquin@freenode/staff/mquin (24Thu Feb  6 00:44:08 2014)
+T 1394448448 23*	apoplexy__ (~heyman@dyn216-8-170-85.ADSL.mnsi.net23) has joined
+T 1394448454 23*	Mashirit1 (~sembei@unaffiliated/sembei23) has joined
+T 1394448481 23*	gheraint_ (~gheraint@freenode/staff/gheraint23) has joined
+T 1394448500 22*	26ChanServ gives voice to 18gheraint_
+T 1394448508 23*	TroyB (~quassel@12.22.22.1123) has joined
+T 1394448597 24*	28gheraint is now known as 18Guest93489
+T 1394448597 24*	28gheraint_ is now known as 18gheraint
+T 1394448670 24*	Mashirito has quit (Ping timeout: 264 seconds)
+T 1394448671 24*	kPa has quit (Ping timeout: 264 seconds)
+T 1394448672 24*	troybattey has quit (Ping timeout: 264 seconds)
+T 1394448683 23*	kPa (~kPa@adsl-76-199-121-170.dsl.rcsntx.sbcglobal.net23) has joined
+T 1394448683 24*	kPa has quit (Changing host)
+T 1394448683 23*	kPa (~kPa@unaffiliated/kpa23) has joined
+T 1394449030 24*	Guest93489 has quit (Ping timeout: 624 seconds)
+T 1394449962 24*	malinbe has quit (Ping timeout: 252 seconds)
+T 1394451516 24*	arikb has quit (Quit: No Ping reply in 180 seconds.)
+T 1394451535 23*	arikb (~arikb@sydvps.secauth.net23) has joined
+T 1394453037 24*	gm152 has quit (Quit: WeeChat 0.4.1)
+T 1394453440 24*	iMast777 has quit (Quit: Connection closed for inactivity)
+T 1394453804 24*	Sgeo has quit (Read error: Connection reset by peer)
+T 1394454632 24*	sunitkna- has quit (Quit: EliteBNC - http://elitebnc.org (Auto-Removal: idle account/not being used))
+T 1394454769 23*	Xethron (~Xethron@unaffiliated/xethron23) has joined
+T 1394454780 24*	Novus has quit (Quit: Nettalk6 - www.ntalk.de)
+T 1394455062 23*	iMast777 (uid11287@gateway/web/irccloud.com/x-dclcsinwruafndar23) has joined
+T 1394455238 24*	gholmlund_ has quit (Ping timeout: 240 seconds)
+T 1394455375 23*	gholmlund (~quassel@76-191-210-107.dsl.dynamic.sonic.net23) has joined
+T 1394456239 23*	Aristide (~quassel@2a01:e35:2eb9:64b0:1e4b:d6ff:feca:6b6923) has joined
+T 1394456667 23*	Johannes13_ (~Johannes@unaffiliated/johannes1323) has joined
+T 1394456740 23*	deathride58 (~deathride@c-98-250-166-83.hsd1.mi.comcast.net23) has joined
+T 1394458882 24*	Guest41699 (~ozymandia@2607:5300:60:814::124) has left ("Leaving")
+T 1394459949 23*	Lizio_PC (~123@178.42.246.14123) has joined
+T 1394460019 24*	luckre has quit (Quit: ._.)
+T 1394460262 24*	erry has quit (Changing host)
+T 1394460263 23*	erry (erry@happy-birthday/erry23) has joined
+T 1394460263 22*	26dickson.freenode.net gives voice to 18erry
+T 1394460852 23*	ashih (~ashih@cpe-67-255-1-226.twcny.res.rr.com23) has joined
+T 1394461720 24*	nyuszika7h has quit (Remote host closed the connection)
+T 1394461819 23*	nyuszika7h (nyuszika7h@pdpc/supporter/active/nyuszika7h23) has joined
+T 1394462021 24*	ashih has quit (Quit: My MacBook has gone to sleep. ZZZzzz…)
+T 1394462046 23*	genii (~quassel@ubuntu/member/genii23) has joined
+T 1394462440 24*	iMast777 has quit (Quit: Connection closed for inactivity)
+T 1394462875 23*	Sove (~sove@dsl-kvlbrasgw2-50df12-186.dhcp.inet.fi23) has joined
+T 1394462925 24*	tmart has quit (Quit: No Ping reply in 150 seconds.)
+T 1394462929 24*	Rarity has quit (Ping timeout: 265 seconds)
+T 1394462933 24*	joshwambua has quit (Quit: No Ping reply in 180 seconds.)
+T 1394462935 24*	wilfredh has quit (Ping timeout: 265 seconds)
+T 1394462935 24*	Rudench has quit (Remote host closed the connection)
+T 1394462945 24*	GaelanAintAround has quit (Ping timeout: 265 seconds)
+T 1394462945 24*	neal__ has quit (Ping timeout: 265 seconds)
+T 1394462945 24*	ohhmaar has quit (Ping timeout: 265 seconds)
+T 1394462945 24*	zenix` has quit (Ping timeout: 265 seconds)
+T 1394462946 24*	offbyone has quit (Ping timeout: 265 seconds)
+T 1394462949 24*	highasdick has quit (Quit: No Ping reply in 180 seconds.)
+T 1394462950 24*	relipse has quit (Ping timeout: 265 seconds)
+T 1394462951 24*	DrRen has quit (Ping timeout: 265 seconds)
+T 1394462952 24*	CatCoin has quit (Remote host closed the connection)
+T 1394462955 24*	dogegod has quit (Ping timeout: 265 seconds)
+T 1394462956 24*	UltrA1 has quit (Ping timeout: 265 seconds)
+T 1394462956 24*	Pixels has quit (Ping timeout: 265 seconds)
+T 1394462965 23*	wilfredh (sid159@gateway/web/irccloud.com/session23) has joined
+T 1394462994 23*	Dawn_ (~rarity@unaffiliated/rarity23) has joined
+T 1394462995 23*	fpke (~quassel@197.254.15.12223) has joined
+T 1394463004 23*	ohhmaar (ohhmaar@irc.louis6321.com23) has joined
+T 1394463018 23*	adeclerk (~adeclerk@irc.highasdick.biz23) has joined
+T 1394463039 24*	Jade-G has quit (Ping timeout: 265 seconds)
+T 1394463041 23*	relipse (sid16131@gateway/web/irccloud.com/session23) has joined
+T 1394463052 24*	28Dawn_ is now known as 18Rarity
+T 1394463053 24*	relipse has quit (Changing host)
+T 1394463053 23*	relipse (sid16131@gateway/web/irccloud.com/x-cxjvgnbjatbihwri23) has joined
+T 1394463056 23*	DrRen (Des@2001:470:4b:d3:0:abba:ca:daba23) has joined
+T 1394463058 23*	CatCoin (~doge@192.3.142.3323) has joined
+T 1394463060 23*	ivanf (~ivan@74.73.249.13323) has joined
+T 1394463060 24*	ivanf has quit (Changing host)
+T 1394463060 23*	ivanf (~ivan@unaffiliated/kferdous23) has joined
+T 1394463061 23*	Catie (~WLC@wikiHow/KernelPone23) has joined
+T 1394463062 23*	hkr (~hkr@59.89.218.1123) has joined
+T 1394463066 23*	neal__ (neal@felix.ineal.me23) has joined
+T 1394463068 23*	zenix` (~edwinfree@fiber-087-195-243-119.solcon.nl23) has joined
+T 1394463069 23*	Jade-G (sid23832@gateway/web/irccloud.com/x-qacwkfverhqjtyfq23) has joined
+T 1394463071 23*	dogegod (dogegod@why.is.irc.so-srs.biz23) has joined
+T 1394463072 23*	Nicmavr (~Nicmavr@storey.peadippin.com23) has joined
+T 1394463073 24*	28Nicmavr is now known as 18Guest24676
+T 1394463083 23*	offbyone (~offbyone@spf.ip6.is-is.ca23) has joined
+T 1394463110 23*	GaelanAintAround (~Gaelan@98.125.178.2623) has joined
+T 1394463112 23*	LjL-Tablet (~ljl@93-32-49-69.ip32.fastwebnet.it23) has joined
+T 1394463166 24*	Sove has quit (Changing host)
+T 1394463166 23*	Sove (~sove@seiwa/admin/sove23) has joined
+T 1394463167 24*	wilfredh has quit (Changing host)
+T 1394463167 23*	wilfredh (sid159@gateway/web/irccloud.com/x-asxlxtgbujxxojul23) has joined
+T 1394463169 23*	UltrA1 (ultra@2607:f5a0:0:162:225:90ff:fe57:5e0523) has joined
+T 1394463172 24*	28hkr is now known as 18Guest75494
+T 1394463172 23*	Pixels (Mibbutt@unaffiliated/pixels23) has joined
+T 1394463252 23*	tmart (~quassel@unaffiliated/t-mart23) has joined
+T 1394463497 24*	b0rsti has quit (Ping timeout: 245 seconds)
+T 1394463507 24*	Guest75494 has quit (Quit: Probably dead, asleep or netsplit)
+T 1394463583 23*	epochwolf (root@unaffiliated/epochwolf23) has joined
+T 1394463970 24*	kPa has quit (Ping timeout: 264 seconds)
+T 1394464232 23*	zz_b0rsti (~b0rsti@anon-40-203.vpn.ipredator.se23) has joined
+T 1394464232 24*	28zz_b0rsti is now known as 18b0rsti
+T 1394464489 24*	Aristide has quit (Read error: Connection reset by peer)
+T 1394464497 24*	b0rsti has quit (Ping timeout: 245 seconds)
+T 1394464711 23*	zz_b0rsti (~b0rsti@anon-40-203.vpn.ipredator.se23) has joined
+T 1394464712 24*	28zz_b0rsti is now known as 18b0rsti
+T 1394464785 23*	kPa (~kPa@sub107test186.seas.smu.edu23) has joined
+T 1394464785 24*	kPa has quit (Changing host)
+T 1394464785 23*	kPa (~kPa@unaffiliated/kpa23) has joined
+T 1394465015 24*	Xethron has quit (Ping timeout: 252 seconds)
+T 1394465074 24*	kPa has quit (Remote host closed the connection)
+T 1394465211 23*	ashih (~ashih@nat-128-84-124-0-441.cit.cornell.edu23) has joined
+T 1394465774 23*	Rudench (n3rd@v6.TeamFortress.biz23) has joined
+T 1394466128 24*	28TR[a]K is now known as 18TReK
+T 1394466143 23*	Zupoman (~Zupoman@77-253-234-66.ip.netia.com.pl23) has joined
+T 1394466143 24*	Zupoman has quit (Changing host)
+T 1394466143 23*	Zupoman (~Zupoman@unaffiliated/zupoman23) has joined
+T 1394466576 24*	Zupoman has quit (Quit: Nettalk6 - www.ntalk.de)
+T 1394466837 24*	28GTB3NW_AWAY is now known as 18GTB3NW
+T 1394467048 24*	Cultist has quit (Ping timeout: 244 seconds)
+T 1394467320 24*	Guest84615 has quit (Ping timeout: 240 seconds)
+T 1394467465 23*	lukimya (~quassel@das122239.ulapland.fi23) has joined
+T 1394467827 23*	rainmanjam (~rainmanja@146.197.246.7023) has joined
+T 1394468542 24*	bahar has quit (Ping timeout: 264 seconds)
+T 1394468771 24*	dbarroso_ has quit (Quit: Textual IRC Client: www.textualapp.com)
+T 1394468857 23*	bahar (~bahar@cpe-24-90-66-253.nyc.res.rr.com23) has joined
+T 1394468962 23*	thineantiquepen (uid7812@wikipedia/Thine-Antique-Pen23) has joined
+T 1394469148 24*	ashih has quit (Quit: My MacBook has gone to sleep. ZZZzzz…)
+T 1394469181 24*	bahar has quit (Read error: Operation timed out)
+T 1394469217 23*	bahar (~bahar@cpe-24-90-66-253.nyc.res.rr.com23) has joined
+T 1394470753 24*	bahar has quit (Read error: Operation timed out)
+T 1394470809 23*	Zupoman (~Zupoman@77-253-234-66.ip.netia.com.pl23) has joined
+T 1394470810 24*	Zupoman has quit (Changing host)
+T 1394470810 23*	Zupoman (~Zupoman@unaffiliated/zupoman23) has joined
+T 1394471170 23*	bahar (~bahar@cpe-24-90-66-253.nyc.res.rr.com23) has joined
+T 1394471174 23*	ashih (~ashih@nat-128-84-124-0-441.cit.cornell.edu23) has joined
+T 1394471680 23*	a (d@64.111.123.16323) has joined
+T 1394471683 23*	a_ (d@64.111.123.16323) has joined
+T 1394471684 23*	a__ (d@64.111.123.16323) has joined
+T 1394471685 23*	catsup (d@64.111.123.16323) has joined
+T 1394471687 23*	a_____ (d@64.111.123.16323) has joined
+T 1394471704 24*	28a is now known as 18Guest30932
+T 1394471704 24*	28a_ is now known as 18Guest99351
+T 1394471754 23*	a_______ (d@64.111.123.16323) has joined
+T 1394471786 24*	rainmanjam has quit ()
+T 1394471793 24*	Guest30932 has quit (Read error: Connection reset by peer)
+T 1394471793 24*	a__ has quit (Read error: Connection reset by peer)
+T 1394471793 24*	Guest99351 has quit (Read error: Connection reset by peer)
+T 1394471793 24*	a_____ has quit (Read error: Connection reset by peer)
+T 1394471793 24*	catsup has quit (Write error: Connection reset by peer)
+T 1394471794 24*	a_______ has quit (Read error: Connection reset by peer)
+T 1394471801 23*	rainmanjam (~rainmanja@146.197.246.7023) has joined
+T 1394471805 23*	a__ (d@64.111.123.16323) has joined
+T 1394471807 23*	a_____ (d@64.111.123.16323) has joined
+T 1394471808 23*	a______ (d@64.111.123.16323) has joined
+T 1394471809 23*	catsup (d@64.111.123.16323) has joined
+T 1394471815 23*	a________ (d@64.111.123.16323) has joined
+T 1394471881 23*	a_______1 (d@64.111.123.16323) has joined
+T 1394471890 24*	a__ has quit (Read error: Connection reset by peer)
+T 1394471890 24*	a______ has quit (Read error: Connection reset by peer)
+T 1394471890 24*	catsup has quit (Read error: Connection reset by peer)
+T 1394471890 24*	a_____ has quit (Write error: Connection reset by peer)
+T 1394471891 24*	a________ has quit (Write error: Connection reset by peer)
+T 1394471891 24*	a_______1 has quit (Read error: Connection reset by peer)
+T 1394471957 23*	catsup (d@64.111.123.16323) has joined
+T 1394472089 24*	catsup has quit (Client Quit)
+T 1394472100 23*	keeleysam (~keeleysam@2607:ff50:0:9:a548:a548:a548:a54823) has joined
+T 1394472129 23*	catsup (d@64.111.123.16323) has joined
+T 1394472459 24*	catsup has quit (Read error: Connection reset by peer)
+T 1394472467 23*	catsup (d@64.111.123.16323) has joined
+T 1394472495 24*	catsup has quit (Read error: Connection reset by peer)
+T 1394473167 24*	Lizio_PC has quit (Remote host closed the connection)
+T 1394473305 23*	catsup (d@64.111.123.16323) has joined
+T 1394475520 24*	LjL-Tablet has quit (Ping timeout: 260 seconds)
+T 1394475857 23*	LjL-Tablet (~ljl@93-32-49-69.ip32.fastwebnet.it23) has joined
+T 1394476091 23*	Lizio_PC (~123@aftm141.neoplus.adsl.tpnet.pl23) has joined
+T 1394476317 23*	Armadi (uid16691@gateway/web/irccloud.com/x-ahevevopkxtvlymh23) has joined
+T 1394477646 24*	bahar has quit (Changing host)
+T 1394477646 23*	bahar (~bahar@unaffiliated/bahar23) has joined
+T 1394477778 24*	Zupoman has quit (Quit: Nettalk6 - www.ntalk.de)
+T 1394477798 24*	nullrouted (sid10458@gateway/web/irccloud.com/x-zqtjnfuewqyzfsic24) has left
+T 1394477810 24*	Pinako has quit (Read error: Connection reset by peer)
+T 1394478094 23*	Pinako (~inportb@inportb/member/pinako23) has joined
+T 1394478190 23*	Rez (lorez@freenode/staff/LoRez23) has joined
+T 1394478192 22*	26ChanServ gives voice to 18Rez
+T 1394478201 24*	28Rez is now known as 18LoRez
+T 1394478231 24*	ashih has quit (Remote host closed the connection)
+T 1394478258 23*	ashih (~ashih@nat-128-84-124-0-441.cit.cornell.edu23) has joined
+T 1394478537 24*	PriceChild has quit (Quit: Reconnecting)
+T 1394478559 23*	PriceChild (~pricey@freenode/staff/pricey23) has joined
+T 1394478559 22*	26ChanServ gives voice to 18PriceChild
+T 1394479070 23*	dbarroso (~dbarroso@c83-250-160-149.bredband.comhem.se23) has joined
+T 1394479395 24*	Lizio_PC has quit (Remote host closed the connection)
+T 1394480978 24*	harobed_ has quit (Quit: harobed_)
+T 1394481247 23*	cepochka (~cepochka@91.217.162.8023) has joined
+T 1394481372 24*	LjL-Tablet has quit (Ping timeout: 260 seconds)
+T 1394481401 24*	Mashirit1 has quit (Ping timeout: 244 seconds)
+T 1394481449 24*	apoplexy__ has quit (Ping timeout: 269 seconds)
+T 1394481670 23*	LjL-Tablet (~ljl@93-32-49-69.ip32.fastwebnet.it23) has joined
+T 1394481918 24*	TheDrums has quit (Ping timeout: 240 seconds)
+T 1394481964 24*	dbarroso has quit (Quit: Textual IRC Client: www.textualapp.com)
+T 1394482240 23*	Novus (~novus@cpe-172-248-190-187.socal.res.rr.com23) has joined
+T 1394482266 23*	Xethron (~Xethron@unaffiliated/xethron23) has joined
+T 1394482358 23*	TheDrums (unit193@ubuntu/member/unit19323) has joined
+T 1394482654 24*	ashih has quit (Remote host closed the connection)
+T 1394482987 23*	TW1920 (~TW1920@help-book.eu23) has joined
+T 1394483137 24*	TW1920_ has quit (Ping timeout: 240 seconds)
+T 1394483214 24*	cepochka has quit (Remote host closed the connection)
+T 1394483662 23*	ashih (~ashih@cpe-67-255-1-226.twcny.res.rr.com23) has joined
+T 1394483764 23*	Ashes_ (~quassel@S0106602ad08f9b3c.cg.shawcable.net23) has joined
+T 1394483924 23*	Zupoman (~Zupoman@77-253-234-66.ip.netia.com.pl23) has joined
+T 1394483924 24*	Zupoman has quit (Changing host)
+T 1394483924 23*	Zupoman (~Zupoman@unaffiliated/zupoman23) has joined
+T 1394483965 24*	Javantek has quit (Quit: upgrade)
+T 1394484151 24*	ashih has quit (Quit: My MacBook has gone to sleep. ZZZzzz…)
+T 1394484608 23*	harobed (~stephane-@equ57-1-78-235-121-109.fbx.proxad.net23) has joined
+T 1394485580 24*	Xethron has quit (Ping timeout: 253 seconds)
+T 1394487066 24*	genii has quit (Remote host closed the connection)
+T 1394487230 24*	Armadi has quit (Quit: Connection closed for inactivity)
+T 1394487291 23*	gm152 (~ridout@unaffiliated/ridout23) has joined
+T 1394487646 23*	apoplexy__ (~heyman@dyn216-8-170-85.ADSL.mnsi.net23) has joined
+T 1394487728 24*	LjL-Tablet has quit (Ping timeout: 260 seconds)
+T 1394487745 24*	28GTB3NW is now known as 18GTB3NW_AWAY
+T 1394487881 23*	LjL-Tablet (~ljl@93-32-49-69.ip32.fastwebnet.it23) has joined
+T 1394488659 23*	Cultist (~CultOfThe@67.186.111.3323) has joined
+T 1394489010 24*	Zupoman has quit (Quit: Nettalk6 - www.ntalk.de)
+T 1394489376 24*	apoplexy__ has quit (Ping timeout: 240 seconds)
+T 1394489753 24*	Tabmow has quit (Quit: leaving)
+T 1394489779 24*	28technisearch is now known as 18dna6android
+T 1394489789 23*	Tabmow (~tabmow@freenode/staff/tabmow23) has joined
+T 1394489789 22*	26ChanServ gives voice to 18Tabmow
+T 1394489820 24*	Rallias (~Rallias@i.am.lacking.clothing24) has left ("trimtime")
+T 1394489907 24*	thineantiquepen has quit ()
+T 1394490157 23*	Chiyo (Chiyo@pdpc/supporter/active/chiyo23) has joined
+T 1394490853 23*	Delayny (~delayny@oh-76-2-241-181.dhcp.embarqhsd.net23) has joined
+T 1394491222 24*	Delayny has quit (Read error: Connection reset by peer)
+T 1394491403 23*	Delayny (~delayny@oh-76-2-241-181.dhcp.embarqhsd.net23) has joined
+T 1394492036 24*	rainmanjam has quit (Read error: Connection reset by peer)
+T 1394492065 23*	rainmanjam (~rainmanja@146.197.246.7023) has joined
+T 1394492515 24*	28TReK is now known as 18TR[a]K
+T 1394492656 23*	Sir_Knee_Grow (~quassel@c-24-23-63-47.hsd1.ca.comcast.net23) has joined
+T 1394492859 24*	rainmanjam has quit (Remote host closed the connection)
+T 1394493553 23*	Sgeo (~quassel@ool-44c2df0c.dyn.optonline.net23) has joined
+T 1394493612 24*	28Guest31150_ is now known as 18AlexJFox
+T 1394494509 24*	Overflip has quit (Ping timeout: 265 seconds)
+T 1394494703 23*	Overflip (~Overflip@yami.us.to23) has joined
+T 1394494741 24*	Overflip has quit (Changing host)
+T 1394494741 23*	Overflip (~Overflip@unaffiliated/overflip23) has joined
+T 1394495320 24*	harobed has quit (Quit: harobed)
+T 1394495321 24*	Overflip has quit (Ping timeout: 265 seconds)
+T 1394495676 24*	niko has quit (Read error: Connection timed out)
+T 1394495725 24*	28adeclerk is now known as 18highasdick
+T 1394495796 24*	ivanf (~ivan@unaffiliated/kferdous24) has left
+T 1394496240 24*	mr_red has quit (Ping timeout: 240 seconds)
+T 1394496510 23*	ashih (~ashih@cpe-67-255-1-226.twcny.res.rr.com23) has joined
+T 1394496663 23*	mr_red (~mr_red@190.114.254.17323) has joined
+T 1394497192 24*	LjL-Tablet has quit (Ping timeout: 260 seconds)
+T 1394497758 24*	ErrantEgo has quit (Ping timeout: 240 seconds)
+T 1394498077 23*	LjL-Tablet (~ljl@93-32-49-69.ip32.fastwebnet.it23) has joined
+T 1394499089 24*	Sir_Knee_Grow has quit (Ping timeout: 240 seconds)
+T 1394499117 23*	niko (~niko@freenode/staff/ubuntu.member.niko23) has joined
+T 1394499117 22*	26ChanServ gives voice to 18niko
+T 1394500726 24*	TTimoNN has quit (Ping timeout: 264 seconds)
+T 1394500832 23*	TTimoNN (~ttimonn@5352E966.cm-6-3d.dynamic.ziggo.nl23) has joined
+T 1394501037 24*	28sumeet1 is now known as 18pumba
+T 1394501864 24*	Sove has quit ()
+T 1394502807 23*	genii (~quassel@ubuntu/member/genii23) has joined
+T 1394503363 24*	Delayny has quit (Read error: Connection reset by peer)
+T 1394503364 23*	Johannes13__ (~Johannes@p4FDE9AEC.dip0.t-ipconnect.de23) has joined
+T 1394503366 23*	Goldman60-Y510P (~Goldman60@unaffiliated/goldman6023) has joined
+T 1394503366 23*	Thoth (~Enki@2602:30b:8291:a2c9:b9bb:cb82:4ef:41d623) has joined
+T 1394503389 23*	Ashes__ (~quassel@S0106602ad08f9b3c.cg.shawcable.net23) has joined
+T 1394503413 24*	HeavyMetal has quit (Ping timeout: 265 seconds)
+T 1394503455 23*	Delayny (~delayny@oh-76-2-241-181.dhcp.embarqhsd.net23) has joined
+T 1394503470 24*	Johannes13_ has quit (Ping timeout: 265 seconds)
+T 1394503484 23*	HeavyMetal (~HeavyMeta@unaffiliated/heavymetal23) has joined
+T 1394503499 24*	Ashes_ has quit (Ping timeout: 265 seconds)
+T 1394503819 24*	tdfischer has quit (Ping timeout: 265 seconds)
+T 1394503999 23*	NiTeMaRe (nitemare@the.one.and.the.only.nitemare.name23) has joined
+T 1394504018 24*	28Thoth is now known as 18Element115
+T 1394504375 23*	tdfischer (~tdfischer@kde/tdfischer23) has joined
+T 1394504807 24*	LjL-Tablet has quit (Ping timeout: 260 seconds)
+T 1394504949 24*	lukimya has quit (Ping timeout: 265 seconds)
+T 1394505110 23*	ashih_ (~ashih@cpe-67-255-1-226.twcny.res.rr.com23) has joined
+T 1394505334 24*	ashih has quit (Ping timeout: 264 seconds)
+T 1394505377 23*	LjL-Tablet (~ljl@93-32-49-69.ip32.fastwebnet.it23) has joined
+T 1394505832 24*	ashih_ has quit (Remote host closed the connection)
+T 1394505869 23*	ashih (~ashih@cpe-67-255-1-226.twcny.res.rr.com23) has joined
+T 1394506068 24*	Element115 (~Enki@2602:30b:8291:a2c9:b9bb:cb82:4ef:41d624) has left ("Leaving")
+T 1394506444 24*	Chiyo has quit (Remote host closed the connection)
+T 1394506579 24*	genii has quit (Remote host closed the connection)
+T 1394506942 24*	Johannes13__ has quit (Read error: Operation timed out)
+T 1394507362 24*	slobber has quit (Read error: Operation timed out)
+T 1394507836 23*	slobber (~linkxs@unaffiliated/linkxs23) has joined
+T 1394507841 24*	ashih has quit (Remote host closed the connection)
+T 1394507877 23*	ashih (~ashih@cpe-67-255-1-226.twcny.res.rr.com23) has joined
+T 1394508020 23*	Sir_Knee_Grow (~quassel@c-24-23-63-47.hsd1.ca.comcast.net23) has joined
+T 1394508618 24*	phunyguy has quit (Remote host closed the connection)
+T 1394508947 24*	Novus has quit (Ping timeout: 264 seconds)
+T 1394509466 23*	osxdude|_ (~textual@adsl-75-63-59-173.dsl.emhril.sbcglobal.net23) has joined
+T 1394509632 24*	osxdude|MBP has quit (Ping timeout: 240 seconds)
+T 1394509886 23*	ErrantEgo (~ErrantEgo@freenode/jester/errantego23) has joined
+T 1394510460 23*	Carlos_Danger_ (uid6619@gateway/web/irccloud.com/x-dzlwtjvojqupnkgz23) has joined
+T 1394510737 24*	Delayny has quit (Read error: Connection reset by peer)
+T 1394510737 24*	_Cr4zi3_VM has quit (Ping timeout: 240 seconds)
+T 1394510752 23*	Delayny2 (~delayny@oh-76-2-241-181.dhcp.embarqhsd.net23) has joined
+T 1394510752 23*	Sir_Knee_Grow_ (~quassel@c-24-23-63-47.hsd1.ca.comcast.net23) has joined
+T 1394510752 23*	Cr4zi3_VM (killaz@crazie-1-pt.tunnel.tserv15.lax1.ipv6.he.net23) has joined
+T 1394510760 23*	Sgeo_ (~quassel@ool-44c2df0c.dyn.optonline.net23) has joined
+T 1394510833 24*	Sgeo has quit (Ping timeout: 240 seconds)
+T 1394510856 24*	Sir_Knee_Grow has quit (Ping timeout: 240 seconds)
+T 1394511004 23*	phunyguy (~vortex@unaffiliated/phunyguy23) has joined
+T 1394511454 23*	ashih_ (~ashih@cpe-67-255-14-9.twcny.res.rr.com23) has joined
+T 1394511515 24*	lime has quit (Ping timeout: 252 seconds)
+T 1394511658 24*	ashih has quit (Ping timeout: 240 seconds)
+T 1394511676 23*	advatar (~advatar@tb146-185-13-57.cust.teknikbyran.com23) has joined
+T 1394511761 24*	28fpke is now known as 18joshwambua
+T 1394511926 23*	ashih (~ashih@cpe-67-255-14-9.twcny.res.rr.com23) has joined
+T 1394511947 24*	ashih_ has quit (Read error: Connection reset by peer)
+T 1394513358 24*	28compTECH is now known as 18Pajero
+T 1394513403 24*	28Pajero is now known as 18jun
+T 1394513457 24*	28jun is now known as 18Pajero
+T 1394514804 24*	LjL-Tablet has quit (Ping timeout: 260 seconds)
+T 1394515136 24*	Delayny2 has quit (Read error: Connection reset by peer)
+T 1394515279 23*	Delayny (~delayny@oh-76-2-241-181.dhcp.embarqhsd.net23) has joined
+T 1394515525 24*	Pajero has quit (Quit: ........disconnected.........)
+T 1394515634 24*	Ashes__ has quit (Read error: Connection reset by peer)
+T 1394515920 23*	deathride58_ (~deathride@c-98-250-166-83.hsd1.mi.comcast.net23) has joined
+T 1394515949 24*	deathride58 has quit (Ping timeout: 240 seconds)
+T 1394516463 24*	Carlos_Danger_ has quit (Changing host)
+T 1394516463 23*	Carlos_Danger_ (uid6619@wikimedia/Addihockey1023) has joined
+T 1394516469 24*	28Carlos_Danger_ is now known as 18yolosexual
+T 1394516614 23*	Xethron (~Xethron@105-208-130-177.access.mtnbusiness.co.za23) has joined
+T 1394516614 24*	Xethron has quit (Changing host)
+T 1394516614 23*	Xethron (~Xethron@unaffiliated/xethron23) has joined
+T 1394516650 24*	advatar has quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+T 1394517101 23*	vivekrai (uid10305@gateway/web/irccloud.com/x-gmkdairsazihtpxp23) has joined
+T 1394518117 24*	ashih has quit (Quit: My MacBook has gone to sleep. ZZZzzz…)
+T 1394519579 24*	deathride58_ has quit (Ping timeout: 268 seconds)
+T 1394521236 24*	Sir_Knee_Grow_ has quit (Ping timeout: 244 seconds)
+T 1394522652 24*	Goldman60-Y510P has quit (Read error: Connection reset by peer)
+T 1394523886 24*	Rarity has quit (Excess Flood)
+T 1394523983 23*	Rarity (~rarity@unaffiliated/rarity23) has joined
+T 1394524216 23*	lukimya (~quassel@das122239.ulapland.fi23) has joined
+T 1394524881 19*	Now talking on 22#freenode-unreg
+T 1394524881 22*	Topic for 22#freenode-unreg is: This is #freenode-unreg, not #freenode | Information on setting up a nick is available at http://is.gd/gnzok | Staff are voiced, some may also be on /stats p -- feel free to /msg staff at any time | Channel guidelines: http://freenode.net/poundfreenode.shtml | We blog http://blog.freenode.net
+T 1394524881 22*	Topic for 22#freenode-unreg set by 26mquin!~mquin@freenode/staff/mquin (24Thu Feb  6 00:44:08 2014)
+T 1394524949 24*	dbarroso has quit (Ping timeout: 240 seconds)
+T 1394525097 23*	dbarroso (~dbarroso@80.239.169.20123) has joined
+T 1394525591 23*	hh17735252 (~fnjzdqux@ghost.wplus.net23) has joined
+T 1394525742 23*	malinbe (~quassel@cm-84.215.132.95.getinternet.no23) has joined
+T 1394525784 24*	Xethron has quit (Ping timeout: 240 seconds)
+T 1394526146 23*	Xethron (~Xethron@unaffiliated/xethron23) has joined
+T 1394526151 23*	Novus (~novus@cpe-172-248-190-187.socal.res.rr.com23) has joined
+T 1394526158 24*	erry has quit (Changing host)
+T 1394526158 23*	erry (erry@freenode/staff/erry23) has joined
+T 1394526158 22*	26dickson.freenode.net gives voice to 18erry
+T 1394526478 23*	harobed (~stephane-@equ57-1-78-235-121-109.fbx.proxad.net23) has joined
+T 1394526644 24*	Xethron has quit (Ping timeout: 252 seconds)
+T 1394527172 23*	Xethron (~Xethron@unaffiliated/xethron23) has joined
+T 1394527258 24*	joshwambua has quit (Ping timeout: 264 seconds)
+T 1394527284 23*	joshwambua (~quassel@197.254.15.12223) has joined
+T 1394527355 24*	hh17735252 has quit (K-Lined)
+T 1394528266 24*	indrora has quit (Ping timeout: 265 seconds)
+T 1394528410 23*	indrora (~Haaax@2607:f7c0:1:700:45a0:3800:0:3523) has joined
+T 1394529305 23*	Aristide (~quassel@2a01:e35:2eb9:64b0:1e4b:d6ff:feca:6b6923) has joined
+T 1394529917 24*	Delayny has quit (Read error: Connection reset by peer)
+T 1394529989 23*	Delayny (~delayny@oh-76-2-241-181.dhcp.embarqhsd.net23) has joined
+T 1394530104 23*	Mashirit1 (~sembei@unaffiliated/sembei23) has joined
+T 1394530358 24*	Xethron has quit (Ping timeout: 240 seconds)
+T 1394530641 24*	ksx4system has quit (Quit: "Imagination is more important than knowledge." Albert Einstein)
+T 1394530683 23*	ksx4system (~ksx4syste@gaia.mac.info.pl23) has joined
+T 1394531288 24*	Aristide has quit (Read error: Connection reset by peer)
+T 1394532101 23*	Xethron (~Xethron@105-208-129-187.access.mtnbusiness.co.za23) has joined
+T 1394532102 24*	Xethron has quit (Changing host)
+T 1394532102 23*	Xethron (~Xethron@unaffiliated/xethron23) has joined
+T 1394533065 24*	yolosexual has quit (Quit: Connection closed for inactivity)
+T 1394533959 24*	Xethron has quit (Read error: Connection reset by peer)
+T 1394534217 23*	Xethron (~Xethron@unaffiliated/xethron23) has joined
+T 1394534858 24*	Researcher has quit (Quit: Switching to Enterprise node, est time 0.59 sec)
+T 1394534921 24*	wilfredh (sid159@gateway/web/irccloud.com/x-asxlxtgbujxxojul24) has left
+T 1394535054 24*	gry has quit (Changing host)
+T 1394535054 23*	gry (noone@freenode/staff/gry23) has joined
+T 1394535054 22*	26ChanServ gives voice to 18gry
+T 1394536035 23*	Researcher (~rhct@unaffiliated/researcher23) has joined
+T 1394536223 24*	harobed has quit (Quit: harobed)
+T 1394536732 24*	Rarity has quit (Excess Flood)
+T 1394536913 23*	Rarity (~rarity@unaffiliated/rarity23) has joined
+T 1394537472 24*	Novus has quit (Quit: Nettalk6 - www.ntalk.de)
+T 1394537952 23*	Xethron_ (~Xethron@105-208-149-125.access.mtnbusiness.co.za23) has joined
+T 1394538058 24*	Xethron has quit (Ping timeout: 240 seconds)
+T 1394538364 24*	Researcher has quit (Quit: Switching to Enterprise node, est time 0.59 sec)
+T 1394538657 24*	gm152 has quit (Quit: WeeChat 0.4.1)
+T 1394539241 23*	Researcher (~rhct@unaffiliated/researcher23) has joined
+T 1394539241 24*	Researcher has quit (Excess Flood)
+T 1394539271 23*	Researcher (~rhct@unaffiliated/researcher23) has joined
+T 1394539272 24*	fscooper has quit (Ping timeout: 245 seconds)
+T 1394539272 24*	Researcher has quit (Excess Flood)
+T 1394539304 23*	Researcher (~rhct@unaffiliated/researcher23) has joined
+T 1394539304 24*	Researcher has quit (Excess Flood)
+T 1394539334 23*	Researcher (~rhct@unaffiliated/researcher23) has joined
+T 1394539334 24*	Researcher has quit (Excess Flood)
+T 1394539460 24*	Jake_D has quit (Ping timeout: 265 seconds)
+T 1394539484 23*	Researcher (~rhct@unaffiliated/researcher23) has joined
+T 1394539484 24*	Researcher has quit (Excess Flood)
+T 1394539511 23*	Researcher (~rhct@unaffiliated/researcher23) has joined
+T 1394539511 24*	Researcher has quit (Excess Flood)
+T 1394539524 23*	Jake_D (Jake@irc.louis6321.com23) has joined
+T 1394539541 23*	Researcher (~rhct@unaffiliated/researcher23) has joined
+T 1394539541 24*	Researcher has quit (Excess Flood)
+T 1394539571 23*	Researcher (~rhct@unaffiliated/researcher23) has joined
+T 1394539571 24*	Researcher has quit (Excess Flood)
+T 1394539601 23*	Researcher (~rhct@unaffiliated/researcher23) has joined
+T 1394540081 23*	Sove (~sove@seiwa/admin/sove23) has joined
+T 1394540716 23*	Research- (~rhct@91.191.2.223) has joined
+T 1394540716 24*	Research- has quit (Excess Flood)
+T 1394540746 23*	Research- (~rhct@91.191.2.223) has joined
+T 1394540746 24*	Research- has quit (Excess Flood)
+T 1394540776 23*	Research- (~rhct@91.191.2.223) has joined
+T 1394540776 24*	Research- has quit (Excess Flood)
+T 1394540808 23*	Research- (~rhct@91.191.2.223) has joined
+T 1394540808 24*	Research- has quit (Excess Flood)
+T 1394540823 24*	Researcher has quit (Ping timeout: 265 seconds)
+T 1394540838 23*	Researcher (~rhct@91.191.2.223) has joined
+T 1394540838 24*	Researcher has quit (Changing host)
+T 1394540838 23*	Researcher (~rhct@unaffiliated/researcher23) has joined
+T 1394540838 24*	Researcher has quit (Excess Flood)
+T 1394540896 23*	Researcher (~rhct@unaffiliated/researcher23) has joined
+T 1394540896 24*	Researcher has quit (Excess Flood)
+T 1394540925 23*	Researcher (~rhct@unaffiliated/researcher23) has joined
+T 1394540926 24*	Researcher has quit (Excess Flood)
+T 1394540956 23*	Researcher (~rhct@unaffiliated/researcher23) has joined
+T 1394540956 24*	Researcher has quit (Excess Flood)
+T 1394540957 23*	Ashes_ (~quassel@S0106602ad08f9b3c.cg.shawcable.net23) has joined
+T 1394540986 23*	Researcher (~rhct@unaffiliated/researcher23) has joined
+T 1394541167 24*	Pinako has quit (Remote host closed the connection)
+T 1394541605 24*	Sgeo_ has quit (Read error: Connection reset by peer)
+T 1394541743 23*	Research- (~rhct@91.191.2.223) has joined
+T 1394541743 24*	Research- has quit (Excess Flood)
+T 1394541799 24*	Researcher has quit (Ping timeout: 240 seconds)
+T 1394541800 23*	Research- (~rhct@91.191.2.223) has joined
+T 1394541800 24*	Research- has quit (Excess Flood)
+T 1394541830 23*	Researcher (~rhct@unaffiliated/researcher23) has joined
+T 1394541830 24*	Researcher has quit (Excess Flood)
+T 1394541860 23*	Researcher (~rhct@unaffiliated/researcher23) has joined
+T 1394541860 24*	Researcher has quit (Excess Flood)
+T 1394541890 23*	Researcher (~rhct@unaffiliated/researcher23) has joined
+T 1394542187 23*	Aristide (~quassel@LCaen-156-55-22-239.w80-11.abo.wanadoo.fr23) has joined
+T 1394542311 24*	Ashes_ has quit (Read error: Connection reset by peer)
+T 1394542538 23*	LjL-Tablet (~ljl@93-32-49-69.ip32.fastwebnet.it23) has joined
+T 1394542918 24*	Taylor has quit (Ping timeout: 252 seconds)
+T 1394543170 23*	deathride58_ (~deathride@c-98-250-166-83.hsd1.mi.comcast.net23) has joined
+T 1394543241 24*	gregwp has quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+T 1394543259 23*	gregwp (~gregwp@unaffiliated/gregwp23) has joined
+T 1394543261 24*	gregwp has quit (Client Quit)
+T 1394543270 23*	gregwp (~gregwp@unaffiliated/gregwp23) has joined
+T 1394543273 24*	gregwp has quit (Client Quit)
+T 1394543284 23*	gregwp (~gregwp@unaffiliated/gregwp23) has joined
+T 1394543284 24*	gregwp has quit (Client Quit)
+T 1394543334 23*	gregwp (~gregwp@unaffiliated/gregwp23) has joined
+T 1394543525 24*	Delayny has quit (Ping timeout: 244 seconds)
+T 1394543619 23*	harobed_ (~stephane-@37.162.167.1723) has joined
+T 1394543647 24*	harobed_ has quit (Max SendQ exceeded)
+T 1394543739 24*	deathride58_ has quit (Ping timeout: 248 seconds)
+T 1394543805 23*	deathride58 (~deathride@c-98-250-166-83.hsd1.mi.comcast.net23) has joined
+T 1394543928 23*	harobed_ (~stephane-@37.162.167.1723) has joined
+T 1394543957 24*	harobed_ has quit (Max SendQ exceeded)
+T 1394544035 24*	Aristide has quit (Read error: Connection reset by peer)
+T 1394544376 23*	harobed_ (~stephane-@37.162.167.1723) has joined
+T 1394544400 24*	harobed_ has quit (Max SendQ exceeded)
+T 1394544447 23*	harobed (~stephane-@37.162.167.1723) has joined
+T 1394544451 23*	Johannes13_ (~Johannes@unaffiliated/johannes1323) has joined
+T 1394544472 24*	harobed has quit (Max SendQ exceeded)
+T 1394544764 23*	harobed (~stephane-@37.162.167.1723) has joined
+T 1394544789 24*	harobed has quit (Max SendQ exceeded)
+T 1394544828 23*	harobed (~stephane-@37.162.167.1723) has joined
+T 1394544853 24*	harobed has quit (Max SendQ exceeded)
+T 1394544856 23*	Taylor (~Taylor@unaffiliated/taylor23) has joined
+T 1394544891 23*	harobed (~stephane-@37.162.167.1723) has joined
+T 1394544917 24*	harobed has quit (Max SendQ exceeded)
+T 1394544956 23*	harobed (~stephane-@37.162.167.1723) has joined
+T 1394544979 24*	harobed has quit (Max SendQ exceeded)
+T 1394545025 23*	harobed (~stephane-@37.162.167.1723) has joined
+T 1394545078 24*	harobed has quit (Max SendQ exceeded)
+T 1394545121 23*	harobed (~stephane-@37.162.167.1723) has joined
+T 1394545146 24*	harobed has quit (Max SendQ exceeded)
+T 1394545189 23*	harobed (~stephane-@37.162.167.1723) has joined
+T 1394545214 24*	harobed has quit (Max SendQ exceeded)
+T 1394545614 23*	harobed (~stephane-@37.162.167.1723) has joined
+T 1394545633 23*	Sir_Knee_Grow (~quassel@c-24-23-63-47.hsd1.ca.comcast.net23) has joined
+T 1394545641 24*	harobed has quit (Max SendQ exceeded)
+T 1394545682 23*	harobed (~stephane-@37.162.167.1723) has joined
+T 1394545707 24*	harobed has quit (Max SendQ exceeded)
+T 1394545712 23*	Lizio_PC (~123@adte193.neoplus.adsl.tpnet.pl23) has joined
+T 1394546002 23*	harobed (~stephane-@37.162.167.1723) has joined
+T 1394546028 24*	harobed has quit (Max SendQ exceeded)
+T 1394546069 23*	harobed (~stephane-@37.162.167.1723) has joined
+T 1394546099 24*	harobed has quit (Max SendQ exceeded)
+T 1394546282 19*	Now talking on 22#freenode-unreg
+T 1394546282 22*	Topic for 22#freenode-unreg is: This is #freenode-unreg, not #freenode | Information on setting up a nick is available at http://is.gd/gnzok | Staff are voiced, some may also be on /stats p -- feel free to /msg staff at any time | Channel guidelines: http://freenode.net/poundfreenode.shtml | We blog http://blog.freenode.net
+T 1394546282 22*	Topic for 22#freenode-unreg set by 26mquin!~mquin@freenode/staff/mquin (24Thu Feb  6 00:44:08 2014)
+T 1394546526 23*	harobed (~stephane-@37.162.167.1723) has joined
+T 1394546536 23*	fscooper (fscooper@gateway/shell/panicbnc/x-rtmxxtslhcdsiszp23) has joined
+T 1394546553 24*	harobed has quit (Max SendQ exceeded)
+T 1394546591 23*	harobed (~stephane-@37.162.167.1723) has joined
+T 1394546627 24*	harobed has quit (Max SendQ exceeded)
+T 1394546713 24*	Sir_Knee_Grow has quit (Ping timeout: 240 seconds)
+T 1394546938 23*	harobed (~stephane-@37.162.167.1723) has joined
+T 1394546966 24*	harobed has quit (Max SendQ exceeded)
+T 1394547227 23*	harobed (~stephane-@37.162.167.1723) has joined

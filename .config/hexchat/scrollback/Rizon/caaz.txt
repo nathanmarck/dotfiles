@@ -1,0 +1,75 @@
+T 1393905251 20<Thonneve>30	Does she know about kasey changing gender?
+T 1393908043 18<Caaz>	yes I think so
+T 1393908090 20<Thonneve>30	Well if she didn't she does now
+T 1393926951 20<Thonneve>30	OI
+T 1393926955 20<Thonneve>30	HERE NOW PLEASE
+T 1393952933 18<Caaz>	what
+T 1393953003 18<Caaz>	<Thonneve> Caaz: What does my % mean in perl?
+T 1393953026 18<Caaz>	Assuming you mean "my %blah", it initializes a local hash, called blah.
+T 1393953048 18<Caaz>	or if you just mean %, it's the prefix for hashes.
+T 1393954823 20<Thonneve>30	Ahhh right
+T 1393954844 20<Thonneve>30	http://sprunge.us/MOII
+T 1393954849 20<Thonneve>30	Make this reloadable please
+T 1393954855 20<Thonneve>30	I don't fucking understand how the fuck to do it
+T 1393954863 20<Thonneve>30	Ignore messy code
+T 1393955039 20<Thonneve>30	Oh and comment what the fuck I need to do so I'm not just having you rewrite parts of it and not learning, I want to atleast learn why i suck
+T 1393955503 18<Caaz>	>using POE
+T 1393955506 18<Caaz>	Okay.
+T 1393955715 18<Caaz>	What exactly do you want to be reloadable
+T 1393955756 18<Caaz>	The thing about reloading code is it's a lot easier to simply reload only what you want, especially with how poe gets shit set up
+T 1393955803 18<Caaz>	What I would do in your case, essentially the same way I had created Luka 2.0, was have the core shit in one file that won't be reloaded, this includes setting up a connection, probably config setup and shit.
+T 1393955846 18<Caaz>	And then having another file for commands and extra shit that goes on top of that.
+T 1393955866 18<Caaz>	In the core file, you'd open up the extra shit and eval it, whenever you want to reload.
+T 1393955897 18<Caaz>	This is arguably the best way to do it because if you fuck up core shit your bot will crash, so keeping all that non reloadable is nice.
+T 1393956717 20<Thonneve>30	Yeah that's essentially what I want
+T 1393956721 20<Thonneve>30	Commands to be reloaded
+T 1393956743 20<Thonneve>30	Also POE is now more supported from what I've read up
+T 1393956788 20<Thonneve>30	I'm not sure how to do any of that extra stuff tbh
+T 1393956795 20<Thonneve>30	Which is where I'm stuck at
+T 1393957826 20<Thonneve>30	I'm more of a java/c# guy myself
+T 1393959818 18<Caaz>	I use uh, some normal TCP shit
+T 1393959832 18<Caaz>	POE has a lot of extra junk that I didn't want to deal with
+T 1393959892 20<Thonneve>30	Oh you used the actual RFC standard, POE has extra stuff but fuck it, anyway got any ideas on how the fuck I'd achieve reloading? or could you write it to reload for me?
+T 1393959906 18<Caaz>	I use IO::Socket::INET.
+T 1393959925 18<Caaz>	Well, my reload code is super simple
+T 1393959962 18<Caaz>	it essentially just boils down to a command which does
+T 1393960002 18<Caaz>	open PLUG "<./Plugins/Whatever.pl"; eval(join "", <PLUG>); close PLUG;
+T 1393960016 18<Caaz>	so, anything in whatever.pl is reloaded.
+T 1393960033 20<Thonneve>30	How would I make that work for my use case though, that's what I don't know how to do
+T 1393960048 18<Caaz>	depends on what exactly you want to reload there
+T 1393960113 18<Caaz>	I'm assuming everything after 
+T 1393960113 18<Caaz>	 # the good old slap
+T 1393960190 18<Caaz>	just basically copypasta that into a new file and then reload before you start the POE service, so that it'll load up that code.
+T 1393960229 18<Caaz>	I figure you'll also want a command to reload code, so you might as well put that on a subroutine you can call, somewhere in the main shit.
+T 1393960726 20<Thonneve>30	See that's the issue, I have no clue how it's done in perl, if it was C# I would have done it blindfolded, but perl is a whole different syntax and it's bad enough I even got away with my mess of code working
+T 1393960835 18<Caaz>	Okay, Okay. I'll try and see if I can get it working here and then I'll throw you the code.
+T 1393960907 20<Thonneve>30	Alright cheers
+T 1393960926 20<Thonneve>30	I can debug the relay command since that's a system made from the worst hacks you've ever seen
+T 1393960963 18<Caaz>	Apparently there's already code in there for reloading
+T 1393960975 20<Thonneve>30	Yeah
+T 1393960980 20<Thonneve>30	That's what I tried doing
+T 1393960985 20<Thonneve>30	But it failed epicly
+T 1393960992 18<Caaz>	alrighty then I'll throw it out
+T 1393960998 20<Thonneve>30	In fact it kills everything in perl and attempts to start a slow fork bomb
+T 1393961009 20<Thonneve>30	Thank fuck for perl noticing the fork bomb
+T 1393961095 20<Thonneve>30	I was going to origionally write the IRC part in C# but it was a lot more hastle to work with for something so simple, and I found a lot more examples for the system I wanted in perl
+T 1393961220 18<Caaz>	Want me to set it up how I have Luka? A directory where you drop plugin files in and it'll load each file up when you reload.
+T 1393961237 20<Thonneve>30	Actually that'll be good
+T 1393961249 20<Thonneve>30	But try write a example plugin file so I can see how it hooks in and stuff
+T 1393961253 18<Caaz>	It helps when you're writing new shit cause if you fuck something up the whole reload gets fucked and it drops everything in the file
+T 1393961256 20<Thonneve>30	Otherwise I'll be wondering what the shit is going on
+T 1393961279 18<Caaz>	Well Luka's plugin system is ridiculously more complicated I'll just throw in simple code loading for now
+T 1393961308 20<Thonneve>30	alright, I'll improve it as I learn more
+T 1393961326 18<Caaz>	Yup, babby steps.
+T 1393962648 18<Caaz>	The only reason this is taking so long is cause i have to install modules man this is taking forever.
+T 1393962704 20<Thonneve>30	Haha it's cool, I'm in a developer conferance anyway
+T 1393962716 18<Caaz>	tell them I said hi
+T 1393962784 20<Thonneve>30	They're debugging the region we're in
+T 1393962791 20<Thonneve>30	Since someone accidently half the people
+T 1393962801 18<Caaz>	data genocide
+T 1393962829 20<Thonneve>30	Well we're using the software that the developer conferance is about
+T 1393963003 20<Thonneve>30	>Find out the common thing with crashers
+T 1393963004 20<Thonneve>30	>Windows
+T 1393963007 20<Thonneve>30	Well there we have it
+T 1393965584 18<Caaz>	OKay got it working
+T 1393965590 18<Caaz>	#TheFusion for more info

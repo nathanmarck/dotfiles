@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+	<Shortcut>g</Shortcut>
+	<ShortName>Google</ShortName>
+	<Description>Search with Google</Description>
+	<InputEncoding>UTF-8</InputEncoding>
+	<Image width="16" height="16" type="image/png">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABmElEQVQ4jaWTTUtbQRSGn7kzN0hSqy5EXLSl1A+6UKwf1I+4qKCgokh3XdRdF92Eov0J7cafICi04k4oahDcFbJpU0xAXShUXShRvGItMSZ2kjvdSIzkggbPbuB9nznvOTOiqqF/MDg+vZIS1ZRSAeMQ6nUQI5/2TKnmQojyMlsCxtptLAHdDZKmR5KlNc2P3zl+7ebyupSoxvIiv+vzIS1YiGo+zmfYSrhUBsQNc/4yL8Bgs+L03ADgGgjHNV31yjOGJ8A10PxY5s9Hfw1HZ+7dAV8imoEmxctnkvIywavniqnw5d0Bi2uaD3Npaqssvk342djPsZUooQOA7UOXcEyTTBtGWxUVfuGpE32fr6ZVUJ11kpYnkpNzg98Ho602qUvD5HyGk+RNeVEHb7psXnfYzHz/x8JPzdeI5v1sGtfAeK/v9ghDLYroTg5dsHInaViOZfF5bLIIsHPsMvxCUVNxnVlJaHsqCcezt8/gQZngbY9NsFFxdmFI/HHJaFhdz7J5UPwS7/eZcLBCQYcATsnmhxwT6nH4D2Qck+6DYHv1AAAAAElFTkSuQmCC</Image>
+	<Url rel="results" type="text/html" method="GET" enctype="" template="https://www.google.com/search?q={searchTerms}&amp;sourceid=otter&amp;ie=utf-8&amp;oe=utf-8"/>
+	<Url rel="suggestions" type="application/x-suggestions+json" method="GET" enctype="" template="https://www.google.com/complete/search?client=firefox&amp;q={searchTerms}"/>
+</OpenSearchDescription>

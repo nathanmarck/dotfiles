@@ -1,0 +1,507 @@
+T 1394469983 18<Ziginox18>	inb4 service appears right after I move
+T 1394470100 18<Ziginox18>	WhorkMan: I wonder if the guys from regular car reviews will ever come out this way...
+T 1394470322 18<Ziginox18>	http://eastidaho.craigslist.org/cto/4366495250.html so much want
+T 1394471136 18<WhorkMan18>	mmm... sexy truck
+T 1394471431 18<Ziginox18>	WhorkMan: I found out something ver good about my car's engine while changing the oil
+T 1394471475 18<Ziginox18>	also this http://eastidaho.craigslist.org/cto/4366494729.html
+T 1394473093 24*	28Ziginox is now known as 18Ziginox|Away
+T 1394473736 18<WhorkMan18>	Ziginox|Away: whats that?
+T 1394477158 18<Ziginox|Away18>	WhorkMan: I told you about the disc brakes and LSD right
+T 1394477163 24*	28Ziginox|Away is now known as 18Ziginox
+T 1394477311 18<WhorkMan18>	yep
+T 1394477536 18*	WhorkMan is ready for a nap
+T 1394477539 24*	Ziginox has quit (Disconnected by services)
+T 1394477579 23*	Ziginox (~frozen@unaffiliated/kasm27923) has joined
+T 1394477583 18<Ziginox18>	WhorkMan: godammit
+T 1394477584 18<Ziginox18>	anyway
+T 1394477598 18<Ziginox18>	I was looking at the engine when my friend and I were changing the oil
+T 1394477605 18<Ziginox18>	=and I found the little thing that shows you what generation the heads are
+T 1394477645 18<Ziginox18>	the first and second gen mpfi heads were prone to crack between the valves and also sometimes between the cooling jacket and exhaust port
+T 1394477657 18<Ziginox18>	the gen three heads moved the valves apart and made the wall thicker
+T 1394477669 18<Ziginox18>	...and were never put on a car from the factory
+T 1394477675 18<Ziginox18>	they were only installed when the old heads cracked
+T 1394477685 18<Ziginox18>	so they're a bit rarish
+T 1394477688 18<Ziginox18>	and my car has them >:D
+T 1394478687 18<WhorkMan18>	yay rare!
+T 1394478696 18<WhorkMan18>	quick... put it on ebay "OMG SUPER RARE!"
+T 1394478921 18<Ziginox18>	lol
+T 1394478926 18<Ziginox18>	I was thinking
+T 1394478929 18<Ziginox18>	yay not going to blow up!
+T 1394480069 18<WhorkMan18>	hehe
+T 1394480074 18<WhorkMan18>	that always a good thing
+T 1394480288 18<OlaHughson18>	m55
+T 1394480334 20<Thonneve>30	Ziginox: Did you work out the AUR?
+T 1394480495 18*	WhorkMan starts to slowly laugh and then blows his head off all over the wall at work :/
+T 1394480554 20<Thonneve>30	Wat
+T 1394480613 19<Ziginox>	Thonneve: yes
+T 1394480650 20<Thonneve>30	Have you broken it yet?
+T 1394481810 18<WhorkMan18>	dear whomever thought it was be good to setup the email server using regular accounts over virtual... WHY!?
+T 1394481819 18<Ziginox18>	lol
+T 1394481842 18<WhorkMan18>	dear whomever gave them shell access along with email... i hate you
+T 1394486773 18<CookieJar18>	Ziginox, my video card images... those components on the back of it were in the way of the hsf
+T 1394486779 18<CookieJar18>	I had to desolder and move them
+T 1394494879 23*	mikerm (~mikerm@2601:0:280:4e9:54f2:a16d:c7e:847123) has joined
+T 1394494903 18<mikerm18>	geezus
+T 1394494976 18<mikerm18>	My z car friend's brother's friend traded his GTR and Camaro for a  Mclaren mp4-12c....
+T 1394495730 18<Ziginox18>	onice
+T 1394495758 18<mikerm18>	fuck
+T 1394495766 18<mikerm18>	I got taken in by a stock photo on ebay
+T 1394495774 18<mikerm18>	http://www.ebay.com/itm/230984529993
+T 1394495780 18<mikerm18>	did NOT come with the extra memory stick.
+T 1394495815 18*	mikerm sighs
+T 1394495820 18<mikerm18>	now I way overpaid
+T 1394495823 18<Ziginox18>	https://dl.dropboxusercontent.com/u/3570226/IMG/A610/Subaru/IMG_1743.JPG
+T 1394495827 18<Ziginox18>	gen 3 heads :D
+T 1394495839 18<mikerm18>	holy gunk batman
+T 1394495846 18<Ziginox18>	also gunk
+T 1394495846 18<Ziginox18>	yeah
+T 1394495851 18<Ziginox18>	was too lazy to wipe it clean
+T 1394495858 18<mikerm18>	pressure wash the engine bay
+T 1394495864 18<Ziginox18>	since it's fucking windy outside
+T 1394495865 18<Ziginox18>	well
+T 1394495869 18<Ziginox18>	that's on the bottom of the engine
+T 1394495869 18<Ziginox18>	so
+T 1394495873 18<Ziginox18>	it's going to be dirty
+T 1394495874 18<mikerm18>	do that too :)
+T 1394495891 18<mikerm18>	I did that with my beretta, I got a little wet, but it was so nice afterwards
+T 1394495922 18<Ziginox18>	lol
+T 1394495923 18<Ziginox18>	well
+T 1394495929 18<Ziginox18>	this has vaccuum spaghetti
+T 1394495950 18<mikerm18>	so does every other car, lol
+T 1394495965 18<mikerm18>	It's helpful to find leaks too if there are any
+T 1394495966 18<Ziginox18>	no
+T 1394495967 18<Ziginox18>	this is worse
+T 1394496150 18<mikerm18>	dammit
+T 1394496153 18<mikerm18>	I feel cheated :(
+T 1394496184 18<mikerm18>	Especially since I don't know if that's a standard memory module
+T 1394496220 18<Ziginox18>	uh
+T 1394496222 18<Ziginox18>	I have one of those
+T 1394496239 18<mikerm18>	Do you?
+T 1394496254 18<Ziginox18>	the tray loading iMacs and the platimum G3s used a similar module
+T 1394496256 18<mikerm18>	The memory?
+T 1394496261 18<Ziginox18>	and I have one I pulled from a dell optiplex gx1
+T 1394496262 18<Ziginox18>	yes
+T 1394496269 18<Ziginox18>	not sure where the spare one is though
+T 1394496271 18<Ziginox18>	I'd have to look
+T 1394496299 18<mikerm18>	Is that a standard sodimm?
+T 1394496301 18<Ziginox18>	no
+T 1394496305 18<mikerm18>	thought so
+T 1394496308 18<Ziginox18>	it's standard though
+T 1394496311 18<Ziginox18>	but I forget what it's called
+T 1394496327 18<Ziginox18>	actually I have that entire card
+T 1394496328 18<Ziginox18>	or a similar one
+T 1394496335 18<Ziginox18>	that's where the other module is
+T 1394496341 18<mikerm18>	well, if you have one to sell
+T 1394496356 18<Ziginox18>	see if you can cancel that because deceptive image
+T 1394496366 18<mikerm18>	I just got the card in
+T 1394496375 18<mikerm18>	maybe a refund
+T 1394496392 18<Ziginox18>	rage LT pro AGP
+T 1394496395 18<Ziginox18>	pulled from a compaq
+T 1394496400 18<mikerm18>	ah
+T 1394496404 18<Ziginox18>	oh
+T 1394496405 18<Ziginox18>	it's AGP
+T 1394496406 18<Ziginox18>	not pci
+T 1394496407 18<Ziginox18>	nvm
+T 1394496408 18<mikerm18>	I can't do agp tho :)
+T 1394496413 18<mikerm18>	although the memory...
+T 1394496435 18<Ziginox18>	check out SGRAM SODIMMs
+T 1394496440 18<mikerm18>	100-401012 for the bigger one
+T 1394496442 18<Ziginox18>	heh
+T 1394496448 18<Ziginox18>	kso
+T 1394496448 18<mikerm18>	oh interesting
+T 1394496451 18<Ziginox18>	apparently printers use it
+T 1394496465 18<mikerm18>	oh yeah, hp
+T 1394496466 18<Ziginox18>	http://www.ebay.com/itm/SAMSUNG-KMM965G5128QN-G0-64MB-SYNC-100MHz-SODIMM/250763652945?_trksid=p2047675.c100011.m1850&_trkparms=aid%3D222007%26algo%3DSIC.MBE%26ao%3D1%26asc%3D20466%26meid%3D5397410141683618283%26pid%3D100011%26prg%3D9138%26rk%3D0%26rkt%3D10%26sd%3D151213363964
+T 1394496468 18<mikerm18>	huh
+T 1394496476 18<mikerm18>	interesting
+T 1394496478 18<Ziginox18>	didn't know it was 64MB though
+T 1394496486 18<Ziginox18>	like
+T 1394496487 18<mikerm18>	lol
+T 1394496488 18<Ziginox18>	64MB seems too big
+T 1394496498 18<mikerm18>	That would be interesting if the card could do 64mb, but I somehow doubt it
+T 1394496504 18<Ziginox18>	maybe that's why I got artifacts with the G3 AIO on the video input when I tried it
+T 1394496512 18<Ziginox18>	sec, lemme see what chip is in the optiplex
+T 1394496518 18<CookieJar18>	oh yeah, I think I have something similar to these around
+T 1394496521 18<mikerm18>	http://www.ebay.com/itm/HP-4MB-SGRAM-SODIMM-Video-Memory-Upgrade-1818-7742-/390790843672
+T 1394496687 18<mikerm18>	CookieJar: If you do and are willing to sell one, let me know
+T 1394496729 18<mikerm18>	That HP looks to be the cheapest at $9.60obo + $6 s/h
+T 1394496746 18<CookieJar18>	hmm
+T 1394496757 18<CookieJar18>	I'll rummage after I'm done dinner
+T 1394496760 18<mikerm18>	I think 4mb is the most this card will take.
+T 1394496790 18<mikerm18>	Otherwise I got my move favorite NIC ever in today too :)
+T 1394496805 18<Ziginox18>	just weird that the mac won't work with it :\
+T 1394496812 18<Ziginox18>	mikerm: 3C905?
+T 1394496816 18<mikerm18>	3COM Etherlink III (3C509B-C)
+T 1394496863 18<mikerm18>	http://di3-1.shoppingshadow.com/pi/i.ebayimg.com/00/$(KGrHqNHJEwFD4knEJ4GBRDsB13OM!~~_32-260x260-0-0.JPG
+T 1394496865 18<mikerm18>	sexy
+T 1394496897 18<mikerm18>	3C905 is also an excellent card
+T 1394496911 18<mikerm18>	That would probably be my favorite PCI version
+T 1394496970 18<mikerm18>	sorry, that URL sucks
+T 1394496972 18<mikerm18>	http://i.tfcdn.com/img2/yJmcADcAY5onxMiQnJ9bUFqSWlTMkFFSUmClr19eXq5XlVJSlJ-XmawHlNXPzE1MTy3WN042NbDUyypIBwA*/fvUG-v8A.B
+T 1394497474 18<Ziginox18>	the 905 was made in isa as well I believe
+T 1394497764 18<mikerm18>	ah yes
+T 1394497786 18<mikerm18>	hm
+T 1394497791 18<mikerm18>	cant find any tho
+T 1394497864 18<CookieJar18>	I feel like such a rebel https://dl.dropboxusercontent.com/u/25082417/2014-03-10%2019.26.39.jpg
+T 1394497883 18<mikerm18>	lol
+T 1394497896 18*	mikerm is an nvidia fanboy
+T 1394497911 18<mikerm18>	I got the ATI based off a recommendation of the rage/voodoo pairing
+T 1394497930 18<CookieJar18>	ah
+T 1394497946 18*	mikerm ** SysInfo ** Client: HexChat 2.9.6 (x64) ** OS: Microsoft Windows 8.1 ** CPU: Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz (3.00 GHz) ** RAM: 16341 MB Total (14134 MB Free) ** VGA: NVIDIA GeForce GTX 560 Ti   ** Uptime: 0.90 Hours **
+T 1394497952 18<Ziginox18>	ew
+T 1394497952 18<Ziginox18>	ew
+T 1394497952 18<Ziginox18>	ew
+T 1394497954 18<Ziginox18>	sacon FZ
+T 1394497971 18<mikerm18>	Oo
+T 1394497977 18<mikerm18>	and um
+T 1394497981 18<Ziginox18>	in CookieJar's pic
+T 1394497981 18<CookieJar18>	 HexChat: 2.9.6 ** OS: Linux 3.13.6-1-ARCH x86_64 ** Distro: ArchLinux ** CPU: 4 x Intel(R) Core(TM) i5-4670K CPU @ 3.40GHz (GenuineIntel) @ 4.00GHz ** RAM: Physical: 7.8GB, 71.1% free ** Disk: Total: 3.7TB, 31.2% free ** VGA: NVIDIA Corporation GK104 [GeForce GTX 770] ** Sound: HDA-Intel - HDA Intel PCH1: HDA-Intel - HDA NVidia ** Ethernet: Intel Corporation Ethernet Connection I217-V ** Uptime: 1d 14h 26m 42s **
+T 1394497984 18<mikerm18>	I just noticed, half those caps are blown
+T 1394497996 18<CookieJar18>	yeah, I've yet to try to fix those caps
+T 1394497996 18<Ziginox18>	also that's not nearly enough fan for that card CookieJar
+T 1394498019 18<CookieJar18>	Ziginox, that may be true, but it is more fan than no fan
+T 1394498029 18<Ziginox18>	rather not nearly enough heatsink
+T 1394498042 18<mikerm18>	not enough heatsink is just as bad as not having.
+T 1394498063 18<mikerm18>	will just take longer to burn up the chip
+T 1394498068 18<CookieJar18>	eh, until I can get replacement caps, find it unlikely that one will get used anyhow
+T 1394498072 18<Ziginox18>	oh right I was going to pull the dell out and have a look
+T 1394498088 18<CookieJar18>	I do have a much better 8600 gt to play with https://dl.dropboxusercontent.com/u/25082417/2014-03-10%2004.17.05.jpg
+T 1394498094 18<CookieJar18>	https://dl.dropboxusercontent.com/u/25082417/2014-03-10%2004.17.21.jpg
+T 1394498106 18*	Ziginox plays 2Unholy Warcry (Short Version) by 2Rhapsody on 2The Dark Secret EP [Year 2004][195 Kbit/s][44 KHz][0:55/4:26]
+T 1394498112 18<CookieJar18>	it did not come with the pictured hsf
+T 1394498121 18<CookieJar18>	thats why theres stuff on the back and duct tape
+T 1394498128 18<Ziginox18>	yay for through hole components
+T 1394498138 18<mikerm18>	^
+T 1394498158 18<CookieJar18>	I think theres something going on with the pins for the fan though
+T 1394498165 18<CookieJar18>	as when I powered it up, the fan didn't spin
+T 1394498647 18<Ziginox18>	blargh
+T 1394498652 18<Ziginox18>	mfw I go to use the dell
+T 1394498656 18<Ziginox18>	and can't remember the password
+T 1394498664 18<CookieJar18>	is it "password"?
+T 1394498679 18<Ziginox18>	no
+T 1394498689 18<CookieJar18>	6969
+T 1394498690 18<CookieJar18>	?
+T 1394498719 18<Ziginox18>	lol
+T 1394498725 18<Ziginox18>	seriously wtf is the password for this
+T 1394498766 18<Ziginox18>	I wonder if nt offline password editor works on WinFLP
+T 1394499099 18<Ziginox18>	yay it worked
+T 1394499325 23*	Zigette (~geek@unaffiliated/kasm27923) has joined
+T 1394499331 18<Zigette18>	whee
+T 1394499341 18<Zigette18>	OS: Microsoft Windows XP Professional | CPU: Intel Pentium II processor @ 448MHz | Mem: 168MB/256MB 66% used | Swap: 40MB/2047MB used | HDD: Total: 18.6GB Free: 17.5GB Used: 6% | Net: 0MB in 0MB out on Packet Scheduler Miniport | Display: 1280 x 1024 @ 75Hz on ATI Technologies, Inc. 3D RAGE PRO AGP 2X | Procs: 30 | UpTime: d ::
+T 1394499361 18<Zigette18>	failed uptime
+T 1394499362 18<Zigette18>	lol
+T 1394499368 18<Zigette18>	and
+T 1394499370 18<Zigette18>	it's not XP Pro
+T 1394499373 18<Zigette18>	it's WinFLP..
+T 1394499386 18<CookieJar18>	FLP?
+T 1394499396 18<Ziginox18>	Fundamentals for Legacy PCs
+T 1394499403 18<CookieJar18>	ah
+T 1394499408 18<Ziginox18>	cross between XP and Embedded
+T 1394499421 18<Ziginox18>	it runs pretty well on a P2 450 tbh
+T 1394499423 18<Ziginox18>	or rather
+T 1394499425 18<Ziginox18>	a P2 488
+T 1394499430 18<Ziginox18>	448*
+T 1394499674 18<Zigette18>	wut
+T 1394499678 18<Zigette18>	apparently FLP uses a ramdisk
+T 1394499998 18<Zigette18>	for some reason windows FLP will BSOD on startup with a thinkpad 600E...
+T 1394500788 18<CookieJar18>	mikerm, it isn't just generic EDO you are looking for right?
+T 1394500863 18<CookieJar18>	oh, scrolled up and found your link again
+T 1394501019 18<CookieJar18>	nah, don't think any of these are what you are looking for https://dl.dropboxusercontent.com/u/25082417/2014-03-10%2020.18.55.jpg
+T 1394501022 18<CookieJar18>	SD card for scale
+T 1394501033 18<Ziginox18>	sideways pic
+T 1394501042 18<CookieJar18>	I know
+T 1394501057 18<Ziginox18>	exif rotated
+T 1394501059 18<Ziginox18>	lol
+T 1394501110 18<CookieJar18>	actually, it loaded right way for me in firefox
+T 1394501119 18<Ziginox18>	intel flash oO
+T 1394501154 18<CookieJar18>	the bottom thing? yeah not sure where I got it
+T 1394501169 18<CookieJar18>	nor what it or any of these others are for
+T 1394501198 18<Ziginox18>	CookieJar: the pic loaded with the intel thing on the left
+T 1394501203 18<Ziginox18>	and the SD card adapter on the right
+T 1394501203 18<Ziginox18>	lol
+T 1394501217 18<CookieJar18>	oh
+T 1394501222 18<Ziginox18>	like
+T 1394501227 18<CookieJar18>	it loads right way for me in my browser
+T 1394501228 18<Ziginox18>	it loaded from right to left
+T 1394501233 18<Ziginox18>	it's because exif data
+T 1394501244 18<Ziginox18>	and firefox is stupid and doesn't support the rotation flag by default
+T 1394501253 18<CookieJar18>	ah
+T 1394501281 18<CookieJar18>	2lazy 2fix
+T 1394502279 24*	Zigette has quit (Quit: ABORT! ABORT! ABORT!)
+T 1394502464 20<Thonneve>30	She broke her arch already?
+T 1394502989 19<Ziginox>	Thonneve: who said I was using arch
+T 1394503073 20<Thonneve>30	No one
+T 1394503139 18<mikerm18>	CookieJar or Ziginox : Find any SGRAM that you would sell?
+T 1394503169 18<CookieJar18>	mikerm, unless anything in my image is SGRAM
+T 1394503170 18<CookieJar18>	no
+T 1394503229 20<Thonneve>30	CookieJar: I tried enabling selinux today, went really bad
+T 1394503360 23*	Zigette (~frozen@unaffiliated/kasm27923) has joined
+T 1394503366 18<CookieJar18>	fun
+T 1394503372 23*	mikerm2 (~mikerm@2601:0:280:4e9:54f2:a16d:c7e:847123) has joined
+T 1394503375 18<mikerm218>	geeze
+T 1394503384 18*	mikerm2 kicks freenode
+T 1394503396 18<mikerm218>	anyway, I dunno what was shown so
+T 1394503403 18<mikerm218>	<mikerm> sorry, I didn't even see what
+T 1394503403 18<mikerm218>	<mikerm> What's with your pictures antyway, they are so bizarre
+T 1394503412 18<Zigette18>	[19:59:55] <Ziginox> the ones I have are in use :S
+T 1394503412 18<Zigette18>	[20:00:04] <Ziginox> I forgot that I had installed the other one on that card
+T 1394503413 24*	Ziginox has quit (Ping timeout: 265 seconds)
+T 1394503418 24*	28Zigette is now known as 18Ziginox
+T 1394503422 18<mikerm218>	ah ok
+T 1394503432 18<mikerm218>	I'll just grab that HP stick and hope it works
+T 1394503442 24*	mikerm has quit (Ping timeout: 265 seconds)
+T 1394503479 24*	28mikerm2 is now known as 18mikerm
+T 1394503612 20<Thonneve>30	I also did a full AUR update including git packages and it took 2 and a half hours, that's pretty good considering the ammount of aur packages I have
+T 1394503840 18<CookieJar18>	nice
+T 1394504386 20<Thonneve>30	I have systemd as a git package too... I'm too scared to reboot
+T 1394504406 18<Ziginox18>	so fucking cold
+T 1394504470 18<CookieJar18>	heh
+T 1394504724 18<mikerm18>	https://albuquerque.craigslist.org/sys/4369340904.html
+T 1394504725 18<mikerm18>	TURBO
+T 1394504742 18<mikerm18>	VROOOOM
+T 1394504773 20<Thonneve>30	Why are craigslist ads so undescriptive
+T 1394504845 18<mikerm18>	oh wow, ther eis CL in the UK
+T 1394504856 20<Thonneve>30	CL?
+T 1394504861 18<mikerm18>	CraigsList
+T 1394504862 20<Thonneve>30	Oh yeah
+T 1394504873 20<Thonneve>30	Not sure if it's a big thing like in the US though
+T 1394504954 20<Thonneve>30	I don't personally know anyone who uses it
+T 1394504987 18<Ziginox18>	it's how I found my car
+T 1394505032 18<Ziginox18>	https://dl.dropboxusercontent.com/u/3570226/IMG/A610/Subaru/IMG_1743.JPG
+T 1394505050 20<Thonneve>30	BURN IT
+T 1394505073 18<Ziginox18>	wat
+T 1394505098 20<Thonneve>30	Rather clean it
+T 1394505103 18<Ziginox18>	yeah
+T 1394505105 20<Thonneve>30	Or whatever the fuck that shit is
+T 1394505106 18<Ziginox18>	point is
+T 1394505111 18<Ziginox18>	boxed in EA82
+T 1394505117 18<Ziginox18>	gen 3 heads ^-^
+T 1394505150 18<mikerm18>	https://albuquerque.craigslist.org/sys/4369329360.html
+T 1394505151 18<mikerm18>	rat
+T 1394505165 18<Ziginox18>	those suck though
+T 1394505170 18<Ziginox18>	sensor-wise
+T 1394505172 18<mikerm18>	do they?
+T 1394505185 18<mikerm18>	hm
+T 1394505187 18<Ziginox18>	smoothing/prediction
+T 1394505207 20<Thonneve>30	>needing a expensive mouse to kick ass with games
+T 1394505241 20<Thonneve>30	I used a cheap as hell mouse to dominate the PC MW2
+T 1394505264 18<mikerm18>	ugh
+T 1394505265 18<mikerm18>	https://albuquerque.craigslist.org/sys/4335147519.html
+T 1394505268 18<mikerm18>	more of these damn things
+T 1394505282 20<Thonneve>30	WHAT
+T 1394505286 20<Thonneve>30	WOULD THAT EVEN WORK!?
+T 1394505295 18<Ziginox18>	no
+T 1394505301 20<Thonneve>30	I was going to say
+T 1394505302 18<mikerm18>	only if you have a device that can take hdmi signals on the vga port
+T 1394505310 18<mikerm18>	very few exist
+T 1394505313 20<Thonneve>30	That's what I was thinking
+T 1394505340 20<Thonneve>30	Unless it has a converter box somewhere on the wire (unlikely) that thing is a useless peice of wire
+T 1394505469 20<Thonneve>30	Also is it just me or was the first thing you noticed was the cheap keyboard?
+T 1394505489 18<mikerm18>	Spent too much money on ignorance.
+T 1394505561 18<Ziginox18>	http://prntscr.com/2zs91j
+T 1394505562 18<Ziginox18>	I broke it
+T 1394505577 18<mikerm18>	oh god, job applications
+T 1394505583 18<mikerm18>	I hate filling those out
+T 1394505589 18<Ziginox18>	>gateway
+T 1394505591 18<Ziginox18>	not applications
+T 1394505595 18<Ziginox18>	forms
+T 1394505602 18<Ziginox18>	I got hired but have to fill out stuff
+T 1394505605 18<mikerm18>	oh
+T 1394505625 18<mikerm18>	heh, my friend says I need this: https://cosprings.craigslist.org/cto/4319982152.html
+T 1394505655 18<Ziginox18>	YES
+T 1394505656 18<Ziginox18>	GET
+T 1394505656 18<Ziginox18>	IT
+T 1394505667 18<mikerm18>	You give me $1200 I will get it.
+T 1394505679 18<Ziginox18>	wow this website is... toast
+T 1394505686 20<Thonneve>30	http://albuquerque.craigslist.org/sys/4368716237.html
+T 1394505714 18<mikerm18>	yeah, that posting has been up a while. Originally he wanted a ton of money for it all.
+T 1394505759 20<Thonneve>30	What company uses servers in the building:
+T 1394505763 20<Thonneve>30	I mean come on
+T 1394505780 18<mikerm18>	huh?
+T 1394505817 20<Thonneve>30	Well you're not going to see a company with a server rack in their own building, ussually it's businesses that have them
+T 1394505834 18<mikerm18>	huh??
+T 1394505860 20<Thonneve>30	The guy said it was from his company
+T 1394505866 18<mikerm18>	right...
+T 1394505905 20<Thonneve>30	Then again you americans might have a different definition of company/business
+T 1394505916 18<mikerm18>	We must...
+T 1394505917 18<Ziginox18>	probably
+T 1394505943 20<Thonneve>30	Here a company is like.. 1-2 people in one building
+T 1394505948 20<Thonneve>30	Small things
+T 1394505949 18<mikerm18>	We use company/business interchangably
+T 1394505953 20<Thonneve>30	Oh right
+T 1394505974 20<Thonneve>30	Yeah companies are ussually really small here
+T 1394506025 20<Thonneve>30	Some people in england use it interchangably, but that's not how it's taught in the business course
+T 1394506098 18<CookieJar18>	now that fan is spinning, was just plugging it in wrong
+T 1394506104 18<mikerm18>	doh
+T 1394506134 18<CookieJar18>	yay, geforce 8600 gt in my secondary
+T 1394506181 20<Thonneve>30	I'm getting an i7 with 730 whateverthefuck
+T 1394506252 19<CookieJar>	Thonneve, rate my work https://dl.dropboxusercontent.com/u/25082417/2014-03-10%2004.17.05.jpg https://dl.dropboxusercontent.com/u/25082417/2014-03-10%2004.17.21.jpg
+T 1394506266 18<CookieJar18>	had to move some components so it would fit
+T 1394506280 20<Thonneve>30	What the actual fuck did you do to it?
+T 1394506296 18<CookieJar18>	lemme find an older picture...
+T 1394506308 20<Thonneve>30	It looks like you celotaped a heatsink to it
+T 1394506325 18<CookieJar18>	the tape is to protect exposed contacts so the heatsink doesn't short it
+T 1394506336 18<mikerm18>	duct tape
+T 1394506346 18<CookieJar18>	couldn't find electrical tape
+T 1394506347 18<mikerm18>	which fixes everything
+T 1394506361 20<Thonneve>30	So what was wrong with it in the first place?
+T 1394506366 20<Thonneve>30	Or was it for the new heatsink?
+T 1394506370 18<CookieJar18>	the original hsf died
+T 1394506385 18<CookieJar18>	the replacement I had didn't fit without moving those components
+T 1394506410 20<Thonneve>30	The whole thing will die soon, but either way if it works it was a pretty good jon
+T 1394506411 20<Thonneve>30	job*
+T 1394506415 18<mikerm18>	https://albuquerque.craigslist.org/cto/4335472490.html
+T 1394506418 18<mikerm18>	ambulance anyone?
+T 1394506424 18<CookieJar18>	why do you say it will die soon?
+T 1394506465 20<Thonneve>30	That's how computers work, if one thing dies, the rest is only a matter of time
+T 1394506509 18<mikerm18>	https://albuquerque.craigslist.org/cto/4362991805.html
+T 1394506512 18<mikerm18>	worst pictures evar.
+T 1394506527 18<mikerm18>	I like the Westalias for some reason
+T 1394506537 18<mikerm18>	Westfalia*
+T 1394506576 18<CookieJar18>	ah, here we are with a different solution and original heatsink https://dl.dropboxusercontent.com/u/25082417/IMG_20130704_164531.jpg
+T 1394506613 18<CookieJar18>	that fan was just able to keep it cool for basic stuff
+T 1394506662 20<Thonneve>30	Oh damn
+T 1394506682 20<Thonneve>30	I'm not even going to ask who designed that heatsink..
+T 1394506763 20<Thonneve>30	http://laugh.lolzlover.com/delete-your-facebook-after-this
+T 1394507134 18<mikerm18>	LOL
+T 1394507292 20<Thonneve>30	The one after it was a murder caught on google earth/maps
+T 1394507322 18<mikerm18>	O_O
+T 1394507673 23*	Zigette (~frozen@unaffiliated/kasm27923) has joined
+T 1394507890 24*	Ziginox has quit (Ping timeout: 264 seconds)
+T 1394508216 24*	mikerm has quit (Ping timeout: 240 seconds)
+T 1394508627 20<Thonneve>30	CookieJar: Remember that network stack I made for opensim?
+T 1394508664 18<CookieJar18>	yeah, you said it was pretty horrible but it worked
+T 1394508674 20<Thonneve>30	Yeah... it broke horribly
+T 1394508684 18<CookieJar18>	haha
+T 1394508686 20<Thonneve>30	Turns out it wasn't even working in the first place
+T 1394508727 18<CookieJar18>	to clarify, is the network stack for an ingame network? or to access the internet?
+T 1394508732 20<Thonneve>30	It was just replying to itself, throwing me off thinking it was working, in reality it went crazy and started talking to itself
+T 1394508735 20<Thonneve>30	In-game network
+T 1394508744 18<CookieJar18>	ok
+T 1394508749 20<Thonneve>30	Which ability to connect to the outside internet
+T 1394508754 20<Thonneve>30	With*
+T 1394508759 18<CookieJar18>	nice
+T 1394508765 18<CookieJar18>	is the in-game network already defined?
+T 1394508776 20<Thonneve>30	Which btw, the hardest part; outside networking (internet) works, the "LAN" doesn't
+T 1394508803 20<Thonneve>30	Kind of, it's more of a protocol than an actual stack, but the way it works it can't be defined as a protocol
+T 1394508810 18<CookieJar18>	ok
+T 1394508823 20<Thonneve>30	Either way I broke it and don't know how
+T 1394508862 20<Thonneve>30	I decided to call it PTP
+T 1394508946 18<CookieJar18>	heh
+T 1394508991 18<CookieJar18>	ok
+T 1394509065 23*	mikerm2 (~mikerm@2601:0:280:4e9:54f2:a16d:c7e:847123) has joined
+T 1394509806 20<Thonneve>30	ptp because plain text protocol
+T 1394509874 18<CookieJar18>	alright
+T 1394510427 20<Thonneve>30	Random email from microsoft
+T 1394510432 20<Thonneve>30	I have achived free money
+T 1394510468 18<CookieJar18>	haha
+T 1394510539 24*	mikerm2 has quit (Read error: Connection reset by peer)
+T 1394510618 20<Thonneve>30	I'm being serious
+T 1394510623 20<Thonneve>30	They just gave me 4 pound
+T 1394510762 18<CookieJar18>	oh wow
+T 1394510765 18<CookieJar18>	you could buy...
+T 1394510778 18<CookieJar18>	I dunno, what costs 4 pounds?
+T 1394511042 20<Thonneve>30	On the microsoft store? Nothing
+T 1394511048 20<Thonneve>30	In real life?... A pack of condoms?
+T 1394511142 18<CookieJar18>	heh
+T 1394511152 18<CookieJar18>	so, nothing of value to you
+T 1394511292 20<Thonneve>30	I don't use condoms
+T 1394511292 20<Thonneve>30	So no
+T 1394511353 18<CookieJar18>	good save
+T 1394511403 20<Thonneve>30	They ruin the fun
+T 1394511775 20<Thonneve>30	http://9gag.com/gag/aBKXO5Z
+T 1394511781 20<Thonneve>30	Americans can procede to commit suicide
+T 1394511865 18<CookieJar18>	>9gag
+T 1394511866 18<CookieJar18>	why
+T 1394511923 20<Thonneve>30	If i'm not busy killing arch or killing opensim
+T 1394511925 20<Thonneve>30	I'm bored
+T 1394511928 20<Thonneve>30	Which leads to google
+T 1394511931 20<Thonneve>30	Which leads around the world
+T 1394512001 18<CookieJar18>	hmm, is it just me or did wine drop pre-xp Windows Versions?
+T 1394512029 20<Thonneve>30	Probably
+T 1394512033 20<Thonneve>30	It was never needed anyway
+T 1394512061 18<CookieJar18>	some programs I've used needed pre-xp windows versions to run in wine
+T 1394512090 20<Thonneve>30	Probably fixed those kind of issues
+T 1394512095 18<CookieJar18>	ie: SimCity 2000 for Windows
+T 1394512234 20<Thonneve>30	I thought they fixed that ages ago?
+T 1394512255 18<CookieJar18>	last I tried it needed to be set to windows nt 3.51
+T 1394512364 20<Thonneve>30	What the fuck how old is that game?
+T 1394512419 18<CookieJar18>	the version I'm running in Wine is the Windows 95 version
+T 1394512441 18<CookieJar18>	the game works except for the saving / loading windows
+T 1394512470 18<CookieJar18>	I do have a patched version that should make it work on windows, last I tried it in wine it didn't
+T 1394512474 18<CookieJar18>	although now it seems to work...
+T 1394512475 18<CookieJar18>	hmm
+T 1394512519 18<CookieJar18>	sweet, the version of the exe with the unofficial patch works fine in wine
+T 1394512559 18<CookieJar18>	now... something newer...
+T 1394512662 20<Thonneve>30	I've never understood why
+T 1394512670 20<Thonneve>30	But no-cd exes are wine fixers
+T 1394512713 18<CookieJar18>	yeah, the game can run without a cd without needing a nocd crack
+T 1394512741 18<CookieJar18>	eh
+T 1394512753 18<CookieJar18>	with SimCity 3000 Unlimited, I can't even run the installer
+T 1394512778 18<CookieJar18>	gets an error involving winevdm.exe
+T 1394512909 23*	Compgeke|T410 (~Compgeke@108-215-215-53.lightspeed.sntcca.sbcglobal.net23) has joined
+T 1394512914 18<Compgeke|T41018>	HOME
+T 1394512919 18<Compgeke|T41018>	YES
+T 1394512920 18<CookieJar18>	yay~
+T 1394512933 18<Compgeke|T41018>	Only took 11 hours :L
+T 1394513011 20<Thonneve>30	...
+T 1394513021 20<Thonneve>30	mfw I thought compgeke was cookiejar
+T 1394513037 18<CookieJar18>	haha
+T 1394513038 18<CookieJar18>	nope
+T 1394513127 18<Compgeke|T41018>	Slight difference
+T 1394513130 18<Compgeke|T41018>	he's Canadian
+T 1394513135 18<Compgeke|T41018>	I'm Murican
+T 1394513260 20<Thonneve>30	Same contient
+T 1394513390 18<CookieJar18>	except I still have to (occasionally) sing god save the queen
+T 1394513545 20<Thonneve>30	GOD SAVE THE QUEEN
+T 1394513554 20<Thonneve>30	I think that's britians national anthem
+T 1394513613 18<CookieJar18>	I also have the queen on all my money
+T 1394513703 18<Compgeke|T41018>	lol
+T 1394513714 20<Thonneve>30	We have some ugly bitch one our money
+T 1394513726 20<Thonneve>30	Really ruins a boner when you're paying a hooker..
+T 1394513755 18<Compgeke|T41018>	lol
+T 1394513827 20<Thonneve>30	Would it be classed as an achivement to fuck the queen?
+T 1394513888 18<Compgeke|T41018>	"Achievement get: Dick shrivled up"
+T 1394513896 20<Thonneve>30	No but seriously
+T 1394513903 18<Compgeke|T41018>	no
+T 1394513905 20<Thonneve>30	It would be bragging rights right?
+T 1394513908 18<Compgeke|T41018>	becuase then you would be a no life
+T 1394513915 20<Thonneve>30	I FUCKED THE QUEEN, WHAT HAVE YOU DONE TODAY
+T 1394513926 18<Compgeke|T41018>	I FUCKED THE KING
+T 1394513937 18<Compgeke|T41018>	NO WAIT
+T 1394513939 18<Compgeke|T41018>	DICTATOR
+T 1394513944 18<Compgeke|T41018>	OF NORTH FUCKING KOREA
+T 1394513971 20<Thonneve>30	I'd fuck kim jongs wife
+T 1394513973 20<Thonneve>30	infront of him
+T 1394513992 18<Compgeke|T41018>	I WOULD FUCK HER WITH A NUCLEAR WARHEAD. MURICA.
+T 1394514007 20<Thonneve>30	I'd fuck her with my nuclear warhead
+T 1394514015 20<Thonneve>30	1000 megacum
+T 1394514036 18<Compgeke|T41018>	meanwhile I had an email address...
+T 1394514043 18<Compgeke|T41018>	kimdong-il@communist.sexy
+T 1394514064 20<Thonneve>30	lol
+T 1394514084 20<Thonneve>30	>I'm twenty pi
+T 1394514380 20<Thonneve>30	https://www.youtube.com/watch?v=6bh1FKciyUU
+T 1394514800 20<Thonneve>30	Do you reckon hookers actually enjoy sex?
+T 1394514809 18<Compgeke|T41018>	maybe
+T 1394514821 18<Compgeke|T41018>	never talked to one
+T 1394514834 20<Thonneve>30	I have
+T 1394514839 20<Thonneve>30	But never wanted to ask them about it
+T 1394524881 19*	Now talking on 22#oldx86hardware
+T 1394524881 22*	Topic for 22#oldx86hardware is: #oldx86cars
+T 1394524881 22*	Topic for 22#oldx86hardware set by 26Ziginox!~geek@unaffiliated/kasm279 (24Tue Dec 17 05:49:59 2013)
+T 1394526506 20<Thonneve>30	Has anyone seen this twitch plays pokemon shiz?
+T 1394526739 18<CookieJar18>	old news already
+T 1394527004 20<Thonneve>30	I know
+T 1394527009 20<Thonneve>30	But it's quite interesting
+T 1394527121 20<Thonneve>30	mfw feh is an actual command
+T 1394527926 19<Zigette>	Thonneve: I imagine some do
+T 1394528053 24*	28Zigette is now known as 18Ziginox
+T 1394531600 20<Thonneve>30	I'd hate to have to constantly have sex
+T 1394546283 19*	Now talking on 22#oldx86hardware
+T 1394546283 22*	Topic for 22#oldx86hardware is: #oldx86cars
+T 1394546283 22*	Topic for 22#oldx86hardware set by 26Ziginox!~geek@unaffiliated/kasm279 (24Tue Dec 17 05:49:59 2013)
+T 1394547106 18<Compgeke|T41018>	mrr it's windy outside
+T 1394547117 18<Ziginox18>	so
+T 1394547119 18<Ziginox18>	cod
+T 1394547121 18<Ziginox18>	cold
+T 1394547232 20<Thonneve>30	My dotfiles shall forever be on github

@@ -1,0 +1,486 @@
+T 1393292345 24*	Dwarf has quit (Quit: ZNC - http://znc.in)
+T 1393306707 23*	vrkalak (~vrkalak@172.56.8.7023) has joined
+T 1393309613 24*	vrkalak has quit (Quit: Leaving)
+T 1393311444 24*	snuffeluffegus has quit (Quit: Leaving)
+T 1393313705 24*	theis has quit (Remote host closed the connection)
+T 1393314089 23*	theis (~theis@87-59-111-39-dynamic.dk.customer.tdc.net23) has joined
+T 1393325874 23*	DarkSim (~DarkSim@78-70-247-31-no186.tbcn.telia.com23) has joined
+T 1393335106 23*	wcchandler (wcchandler@pilot.trilug.org23) has joined
+T 1393340249 24*	theis has quit (Read error: Connection reset by peer)
+T 1393340342 23*	theis (~theis@87-59-111-39-dynamic.dk.customer.tdc.net23) has joined
+T 1393340784 24*	DarkSim has quit (Read error: Connection reset by peer)
+T 1393344778 23*	vrkalak (~vrkalak@172.56.9.623) has joined
+T 1393346654 24*	vrkalak has quit (Quit: Leaving)
+T 1393350333 23*	DarkSim (~DarkSim@78-70-247-31-no186.tbcn.telia.com23) has joined
+T 1393351762 24*	DarkSim has quit (Ping timeout: 244 seconds)
+T 1393352240 24*	theis has quit (Excess Flood)
+T 1393352274 23*	theis (~theis@87-59-111-39-dynamic.dk.customer.tdc.net23) has joined
+T 1393352521 24*	wcchandler has quit (Remote host closed the connection)
+T 1393352587 23*	DarkSim (~DarkSim@78-70-247-31-no186.tbcn.telia.com23) has joined
+T 1393352603 23*	wcchandler (~wcchandle@69.166.135.6623) has joined
+T 1393364907 24*	theis has quit (Quit: theis)
+T 1393367143 24*	DarkSim has quit (Read error: Connection reset by peer)
+T 1393375514 23*	snuffeluffegus (~snuffeluf@2a01:7a0:10:151:236:15:59:123) has joined
+T 1393378219 24*	snuffeluffegus has quit (Write error: Broken pipe)
+T 1393381381 23*	snuffeluffegus (~snuffeluf@2a01:7a0:10:151:236:15:59:123) has joined
+T 1393383543 24*	snuffeluffegus has quit (Quit: Leaving)
+T 1393398238 23*	shadowkyogre (~ShadowKyo@c-67-168-32-141.hsd1.wa.comcast.net23) has joined
+T 1393398247 18<shadowkyogre18>	hey everyone
+T 1393402188 24*	shadowkyogre (~ShadowKyo@c-67-168-32-141.hsd1.wa.comcast.net24) has left
+T 1393414922 23*	DarkSim (~DarkSim@78-70-247-31-no186.tbcn.telia.com23) has joined
+T 1393428140 23*	vrkalak (~vrkalak@172.56.9.9823) has joined
+T 1393429563 24*	vrkalak has quit (Read error: Connection reset by peer)
+T 1393431959 23*	vrkalak (~vrkalak@172.56.9.9823) has joined
+T 1393431982 24*	vrkalak has quit (Read error: Connection reset by peer)
+T 1393431996 23*	vrkalak (~vrkalak@172.56.9.9823) has joined
+T 1393432004 24*	vrkalak has quit (Read error: Connection reset by peer)
+T 1393439381 24*	glebihan_ has quit (Read error: Connection reset by peer)
+T 1393439403 23*	glebihan_ (~glebihan@unaffiliated/glebihan23) has joined
+T 1393443168 24*	DarkSim has quit (Read error: Connection reset by peer)
+T 1393443197 23*	DarkSim (~DarkSim@78-70-247-31-no186.tbcn.telia.com23) has joined
+T 1393443766 23*	wcchandl1r (wcchandler@pilot.trilug.org23) has joined
+T 1393444179 24*	wcchandler has quit (*.net *.split)
+T 1393445579 23*	Blaguvest (~Blaguvest@unaffiliated/blaguvest23) has joined
+T 1393449636 24*	glebihan has quit (Ping timeout: 252 seconds)
+T 1393449638 23*	glebihan__ (~glebihan@unaffiliated/glebihan23) has joined
+T 1393450594 24*	Blaguvest has quit (Quit: Leaving)
+T 1393451882 24*	DarkSim has quit (Read error: Connection reset by peer)
+T 1393463506 23*	snuffeluffegus (~snuffeluf@2a01:7a0:10:151:236:15:59:123) has joined
+T 1393473385 24*	snuffeluffegus has quit (Ping timeout: 240 seconds)
+T 1393474533 23*	OnlyGodCnJudgeMe (~geek@c-50-170-90-163.hsd1.wa.comcast.net23) has joined
+T 1393474574 24*	fragtastic has quit (Ping timeout: 256 seconds)
+T 1393474957 20*	Disconnected (20Remote host closed socket)
+T 1393477310 19*	Now talking on 22#archbang
+T 1393477310 22*	Topic for 22#archbang is: Welcome to #archbang. Site: www.archbang.org
+T 1393477310 22*	Topic for 22#archbang set by 26godane (24Thu Nov 17 18:55:40 2011)
+T 1393477310 -18ChanServ-	[#archbang] Welcome to #archbang. Url: http://www.archbang.org
+T 1393477310 22*	Channel 22#archbang url: 24http://archbang.x.am
+T 1393477310 22*	Channel 22#archbang modes: 24+cnt
+T 1393477310 22*	Channel 22#archbang created on 24Sun Mar 14 21:28:57 2010
+T 1393481134 23*	vrkalak (~vrkalak@173.5.39.15823) has joined
+T 1393484389 24*	vrkalak has quit (Quit: Leaving)
+T 1393514506 24*	Zbyshek has quit (*.net *.split)
+T 1393514927 23*	Zbyshek (~Zbyshek@silentic.zbyshek.net23) has joined
+T 1393516025 23*	DarkSim (~DarkSim@78-70-247-31-no186.tbcn.telia.com23) has joined
+T 1393516496 23*	vrkalak (~vrkalak@173.5.39.15823) has joined
+T 1393516736 23*	theis (~theis@87-59-111-39-dynamic.dk.customer.tdc.net23) has joined
+T 1393519271 24*	DarkSim has quit (Read error: Connection reset by peer)
+T 1393521303 24*	vrkalak has quit (Quit: Leaving)
+T 1393524786 23*	sigghin (~marco@78-134-65-118.v4.ngi.it23) has joined
+T 1393528943 24*	sigghin (~marco@78-134-65-118.v4.ngi.it24) has left
+T 1393530318 19*	Now talking on 22#archbang
+T 1393530318 22*	Topic for 22#archbang is: Welcome to #archbang. Site: www.archbang.org
+T 1393530318 22*	Topic for 22#archbang set by 26godane (24Thu Nov 17 18:55:40 2011)
+T 1393531593 23*	snuffeluffegus (~snuffeluf@2a01:7a0:10:151:236:15:59:123) has joined
+T 1393538729 24*	snuffeluffegus has quit (Quit: Leaving)
+T 1393541554 24*	indigo6 has quit (Changing host)
+T 1393541554 23*	indigo6 (20234@unaffiliated/indigo623) has joined
+T 1393544749 24*	theis has quit (Ping timeout: 272 seconds)
+T 1393544788 23*	theis (~theis@87-59-111-39-dynamic.dk.customer.tdc.net23) has joined
+T 1393545971 23*	snuffeluffegus (~snuffeluf@2a01:7a0:10:151:236:15:59:123) has joined
+T 1393547873 24*	snuffeluffegus has quit (Remote host closed the connection)
+T 1393548844 24*	theis has quit (*.net *.split)
+T 1393549159 24*	glebihan__ has quit (Ping timeout: 240 seconds)
+T 1393549189 23*	theis (~theis@87.59.111.3923) has joined
+T 1393549204 23*	glebihan__ (~glebihan@unaffiliated/glebihan23) has joined
+T 1393550984 24*	theis has quit (Ping timeout: 240 seconds)
+T 1393551031 23*	theis (~theis@87-59-111-39-dynamic.dk.customer.tdc.net23) has joined
+T 1393553516 23*	snuffeluffegus (~snuffeluf@2a01:7a0:10:151:236:15:59:123) has joined
+T 1393556762 23*	James0r2 (~james@113.166.134.13223) has joined
+T 1393556823 18<James0r218>	trying out an archbang install in VirtualBox. Booting the ISO but it only brings me to command line. The tutorial i'm watching boots directly to the GUI though.
+T 1393557000 18<James0r218>	nevermind, inadvertently downloaded the arch iso.
+T 1393560505 24*	snuffeluffegus has quit (Remote host closed the connection)
+T 1393560525 23*	snuffeluffegus (~snuffeluf@2a01:7a0:10:151:236:15:59:123) has joined
+T 1393562564 24*	theis has quit (*.net *.split)
+T 1393562823 23*	theis (~theis@87-59-111-39-dynamic.dk.customer.tdc.net23) has joined
+T 1393565850 23*	vrkalak (~vrkalak@173.5.39.15823) has joined
+T 1393568548 24*	snuffeluffegus has quit (Quit: Leaving)
+T 1393570234 24*	vrkalak has quit (Quit: Leaving)
+T 1393573718 24*	James0r2 has quit (Ping timeout: 240 seconds)
+T 1393574776 24*	theis has quit (Quit: theis)
+T 1393578920 23*	James0r2 (~james@113.166.134.13223) has joined
+T 1393580486 24*	James0r2 has quit (Ping timeout: 252 seconds)
+T 1393582512 23*	James0r2 (~james@113.166.134.13223) has joined
+T 1393585222 24*	James0r2 has quit (Ping timeout: 244 seconds)
+T 1393588556 20*	Disconnected (20Invalid argument)
+T 1393589726 19*	Now talking on 22#archbang
+T 1393589726 22*	Topic for 22#archbang is: Welcome to #archbang. Site: www.archbang.org
+T 1393589726 22*	Topic for 22#archbang set by 26godane (24Thu Nov 17 18:55:40 2011)
+T 1393595732 23*	James0r2 (~james@113.166.134.13223) has joined
+T 1393598707 24*	James0r2 has quit (Ping timeout: 244 seconds)
+T 1393603054 23*	vrkalak (~vrkalak@173.5.39.15823) has joined
+T 1393603147 23*	vrkalak_ (~vrkalak@173.5.39.15823) has joined
+T 1393603346 24*	vrkalak has quit (Ping timeout: 240 seconds)
+T 1393603427 23*	DarkSim (~DarkSim@78-70-247-31-no186.tbcn.telia.com23) has joined
+T 1393606874 23*	norpan_ (b00ad57e@gateway/web/freenode/ip.176.10.213.12623) has joined
+T 1393606882 18<norpan_18>	hello
+T 1393606914 18<norpan_18>	i have just installed archbang.. is there no repos by default?
+T 1393606943 18<norpan_18>	i mean i had that preconfigured after my arch install couple of days ago
+T 1393607033 18<norpan_18>	aw gawd
+T 1393607903 23*	svengineer (~svenginee@dslb-094-221-058-029.pools.arcor-ip.net23) has joined
+T 1393608056 24*	vrkalak_ has quit (Quit: Leaving)
+T 1393609364 24*	svengineer has quit (*.net *.split)
+T 1393612169 24*	glebihan_ has quit (Read error: Connection reset by peer)
+T 1393612612 23*	glebihan (~glebihan@unaffiliated/glebihan23) has joined
+T 1393615529 18<mastis18>	norpan_: read the doc
+T 1393615553 18<mastis18>	super+r
+T 1393615562 18<mastis18>	it tells you what to do
+T 1393615922 24*	Zbyshek has quit (Ping timeout: 264 seconds)
+T 1393615948 23*	Zbyshek (~Zbyshek@silentic.zbyshek.net23) has joined
+T 1393616883 23*	vrkalak (~vrkalak@173.5.39.15823) has joined
+T 1393620165 24*	vrkalak has quit (Quit: Leaving)
+T 1393622038 24*	norpan_ has quit (Ping timeout: 245 seconds)
+T 1393622763 24*	debris` has quit (Ping timeout: 252 seconds)
+T 1393622775 24*	DarkSim has quit (Read error: Connection reset by peer)
+T 1393622825 23*	debris` (debris@shells.ohai.su23) has joined
+T 1393624397 24*	Zbyshek has quit (Ping timeout: 240 seconds)
+T 1393624397 24*	glebihan has quit (Ping timeout: 240 seconds)
+T 1393624398 24*	debris` has quit (Ping timeout: 240 seconds)
+T 1393624406 23*	Zbyshek (~Zbyshek@silentic.zbyshek.net23) has joined
+T 1393624442 23*	glebihan (~glebihan@unaffiliated/glebihan23) has joined
+T 1393625220 23*	debris` (debris@shells.ohai.su23) has joined
+T 1393625312 24*	glebihan has quit (*.net *.split)
+T 1393625313 24*	Zbyshek has quit (*.net *.split)
+T 1393625423 23*	glebihan (~glebihan@unaffiliated/glebihan23) has joined
+T 1393625504 23*	Zbyshek (~Zbyshek@silentic.zbyshek.net23) has joined
+T 1393627093 24*	Zbyshek has quit (Ping timeout: 240 seconds)
+T 1393628716 23*	k-rad (~ident@adsl-108-201-173-191.dsl.hstntx.sbcglobal.net23) has joined
+T 1393628726 18<k-rad18>	is there a gui installer for archbang ?
+T 1393630996 24*	k-rad has quit (Ping timeout: 240 seconds)
+T 1393630998 23*	k-rad (~ident@adsl-108-201-173-191.dsl.hstntx.sbcglobal.net23) has joined
+T 1393635145 24*	k-rad has quit (Ping timeout: 240 seconds)
+T 1393635975 23*	snuffeluffegus (~snuffeluf@2a01:7a0:10:151:236:15:59:123) has joined
+T 1393636064 23*	k-rad (~ident@adsl-108-201-173-191.dsl.hstntx.sbcglobal.net23) has joined
+T 1393636633 24*	snuffeluffegus has quit (Ping timeout: 240 seconds)
+T 1393636731 23*	snuffeluffegus (~snuffeluf@2a01:7a0:10:151:236:15:59:123) has joined
+T 1393639442 23*	James0r2 (~james@113.166.134.13223) has joined
+T 1393640735 24*	snuffeluffegus has quit (Quit: Leaving)
+T 1393641894 20<Thonneve>30	k-rad: The default installer is a GUIish thing
+T 1393642537 24*	k-rad has quit (Ping timeout: 240 seconds)
+T 1393643462 23*	k-rad (~ident@adsl-108-201-173-191.dsl.hstntx.sbcglobal.net23) has joined
+T 1393643620 23*	Dwarf (dwarf@2001:41d0:a:4387:a::423) has joined
+T 1393646024 24*	James0r2 has quit (Ping timeout: 252 seconds)
+T 1393647045 23*	James0r2 (~james@113.166.134.13223) has joined
+T 1393648201 24*	James0r2 has quit (Ping timeout: 240 seconds)
+T 1393648895 24*	k-rad has quit (Ping timeout: 252 seconds)
+T 1393649800 19*	Now talking on 22#archbang
+T 1393649800 22*	Topic for 22#archbang is: Welcome to #archbang. Site: www.archbang.org
+T 1393649800 22*	Topic for 22#archbang set by 26godane (24Thu Nov 17 18:55:40 2011)
+T 1393652257 23*	vrkalak (~vrkalak@173.5.39.15823) has joined
+T 1393655786 23*	James0r2 (~james@113.166.134.13223) has joined
+T 1393658142 24*	vrkalak has quit (Quit: Leaving)
+T 1393660211 23*	Zbyshek (~Zbyshek@silentic.zbyshek.net23) has joined
+T 1393661607 24*	James0r2 has quit (Remote host closed the connection)
+T 1393674874 24*	glebihan__ has quit (Ping timeout: 244 seconds)
+T 1393679813 23*	DarkSim (~DarkSim@78-70-247-31-no186.tbcn.telia.com23) has joined
+T 1393687104 23*	glebihan_ (~glebihan@unaffiliated/glebihan23) has joined
+T 1393691286 23*	vrkalak (~vrkalak@173.5.39.15823) has joined
+T 1393694296 23*	throdon (~Thunderbi@c-71-195-101-237.hsd1.ca.comcast.net23) has joined
+T 1393694931 23*	snuffeluffegus (~snuffeluf@2a01:7a0:10:151:236:15:59:123) has joined
+T 1393695984 24*	throdon has quit (Quit: throdon)
+T 1393699369 24*	vrkalak has quit (Quit: Leaving)
+T 1393777211 19*	Now talking on 22#archbang
+T 1393777211 22*	Topic for 22#archbang is: Welcome to #archbang. Site: www.archbang.org
+T 1393777211 22*	Topic for 22#archbang set by 26godane (24Thu Nov 17 18:55:40 2011)
+T 1393778850 23*	bar_ (~Blaguvest@0190100098.0.fullrate.dk23) has joined
+T 1393778857 24*	Blaguvest has quit (Ping timeout: 264 seconds)
+T 1393779474 24*	28wcchandl1r is now known as 18wcchandler
+T 1393779507 24*	bar_ has quit (Quit: Leaving)
+T 1393781619 19*	Now talking on 22#archbang
+T 1393781619 22*	Topic for 22#archbang is: Welcome to #archbang. Site: www.archbang.org
+T 1393781619 22*	Topic for 22#archbang set by 26godane (24Thu Nov 17 18:55:40 2011)
+T 1393784282 23*	TheDrums (unit193@ubuntu/member/unit19323) has joined
+T 1393788167 19*	Now talking on 22#archbang
+T 1393788167 22*	Topic for 22#archbang is: Welcome to #archbang. Site: www.archbang.org
+T 1393788167 22*	Topic for 22#archbang set by 26godane (24Thu Nov 17 18:55:40 2011)
+T 1393790876 23*	Dwarf (dwarf@bcome.nl23) has joined
+T 1393794224 19*	Now talking on 22#archbang
+T 1393794224 22*	Topic for 22#archbang is: Welcome to #archbang. Site: www.archbang.org
+T 1393794224 22*	Topic for 22#archbang set by 26godane (24Thu Nov 17 18:55:40 2011)
+T 1393803193 23*	mysteriousdarren (~mysteriou@70-41-230-143.cust.wildblue.net23) has joined
+T 1393803193 24*	mysteriousdarren has quit (Changing host)
+T 1393803193 23*	mysteriousdarren (~mysteriou@pdpc/supporter/student/mysteriousdarren23) has joined
+T 1393804660 24*	vrkalak has quit (Quit: Leaving)
+T 1393808701 24*	mysteriousdarren has quit (Ping timeout: 264 seconds)
+T 1393817300 23*	irctc258 (1830787f@gateway/web/freenode/ip.24.48.120.12723) has joined
+T 1393817302 24*	irctc258 has quit (Client Quit)
+T 1393824540 23*	vrkalak (~vrkalak@173.5.39.15823) has joined
+T 1393827559 24*	espiral has quit (Ping timeout: 245 seconds)
+T 1393827625 23*	espiral (maze@unaffiliated/espiral23) has joined
+T 1393827660 23*	mysteriousdarren (~mysteriou@70-41-230-143.cust.wildblue.net23) has joined
+T 1393827660 24*	mysteriousdarren has quit (Changing host)
+T 1393827660 23*	mysteriousdarren (~mysteriou@pdpc/supporter/student/mysteriousdarren23) has joined
+T 1393829708 24*	mysteriousdarren has quit (Remote host closed the connection)
+T 1393830265 24*	vrkalak has quit (Quit: Leaving)
+T 1393841723 23*	xava (~xav@91.182.184.25123) has joined
+T 1393841742 24*	xava (~xav@91.182.184.25124) has left
+T 1393863984 23*	vrkalak (~vrkalak@173.5.39.15823) has joined
+T 1393864083 24*	vrkalak (~vrkalak@173.5.39.15824) has left
+T 1393867202 23*	vrkalak (~vrkalak@99-202-19-185.pools.spcsdns.net23) has joined
+T 1393867213 24*	vrkalak (~vrkalak@99-202-19-185.pools.spcsdns.net24) has left
+T 1393875971 23*	mysteriousdarren (~mysteriou@70-41-230-143.cust.wildblue.net23) has joined
+T 1393875971 24*	mysteriousdarren has quit (Changing host)
+T 1393875971 23*	mysteriousdarren (~mysteriou@pdpc/supporter/student/mysteriousdarren23) has joined
+T 1393876366 24*	mysteriousdarren (~mysteriou@pdpc/supporter/student/mysteriousdarren24) has left ("Leaving")
+T 1393881981 23*	Blaguvest (~Blaguvest@unaffiliated/blaguvest23) has joined
+T 1393885779 23*	vrkalak (~vrkalak@99-202-19-185.pools.spcsdns.net23) has joined
+T 1393888358 24*	vrkalak has quit (Quit: Leaving)
+T 1393889663 24*	Blaguvest has quit (Quit: Leaving)
+T 1393894071 23*	felipedvorak (~felipe@189.62.4.24423) has joined
+T 1393894365 24*	felipedvorak (~felipe@189.62.4.24424) has left
+T 1393895197 23*	felipedvorak (~felipe@189.62.4.24423) has joined
+T 1393908640 24*	felipedvorak has quit (Quit: leaving)
+T 1393911458 23*	vrkalak (~vrkalak@99-202-19-185.pools.spcsdns.net23) has joined
+T 1393911724 23*	felipedvorak (~felipe@189.62.4.24423) has joined
+T 1393916489 24*	vrkalak has quit (Quit: Leaving)
+T 1393929757 20*	You are now known as 18Osatia-Bot
+T 1393929774 20*	You are now known as 18Thonneve
+T 1393933901 23*	Turingi (~Turingi@unaffiliated/devon-hillard/x-725096123) has joined
+T 1393946403 24*	snuffeluffegus has quit (Ping timeout: 244 seconds)
+T 1393947926 23*	vrkalak (~vrkalak@99-202-19-185.pools.spcsdns.net23) has joined
+T 1393959400 23*	snuffeluffegus (~snuffeluf@2a01:7a0:10:151:236:15:59:123) has joined
+T 1393959409 24*	vrkalak has quit (Quit: Leaving)
+T 1393961052 24*	felipedvorak has quit (Ping timeout: 264 seconds)
+T 1393961167 23*	felipedvorak (~felipe@189.62.4.24423) has joined
+T 1393962061 24*	Turingi has quit (Quit: Leaving)
+T 1393968904 23*	mysteriousdarren (~mysteriou@70-41-230-143.cust.wildblue.net23) has joined
+T 1393968905 24*	mysteriousdarren has quit (Changing host)
+T 1393968905 23*	mysteriousdarren (~mysteriou@pdpc/supporter/student/mysteriousdarren23) has joined
+T 1393971044 24*	mysteriousdarren has quit (Read error: Connection reset by peer)
+T 1393971544 24*	snuffeluffegus has quit (Ping timeout: 244 seconds)
+T 1393971834 23*	snuffeluffegus (~snuffeluf@2a01:7a0:10:151:236:15:59:123) has joined
+T 1393973728 24*	snuffeluffegus has quit (Quit: Leaving)
+T 1393974652 23*	snuffeluffegus (~snuffeluf@2a01:7a0:10:151:236:15:59:123) has joined
+T 1393976453 24*	espiral has quit (Read error: Operation timed out)
+T 1393976749 23*	espiral (maze@unaffiliated/espiral23) has joined
+T 1394123443 19*	Now talking on 22#archbang
+T 1394123444 22*	Topic for 22#archbang is: Welcome to #archbang. Site: www.archbang.org
+T 1394123444 22*	Topic for 22#archbang set by 26godane (24Thu Nov 17 18:55:40 2011)
+T 1394123517 20*	You are now known as 18Thonneve
+T 1394126453 23*	taniagaver (~taniagave@195.88.191.7123) has joined
+T 1394127488 24*	taniagaver has quit (Remote host closed the connection)
+T 1394127891 24*	vrkalak has quit (Quit: Leaving)
+T 1394139905 23*	snuffeluffegus (~snuffeluf@2a00:1a28:1251:46:246:93:201:123) has joined
+T 1394140420 23*	dietrich (~dietrich@193.106.31.22423) has joined
+T 1394141304 24*	dietrich has quit (Ping timeout: 240 seconds)
+T 1394144873 24*	snuffeluffegus has quit (Quit: Leaving)
+T 1394145383 24*	DarkSim has quit (Read error: Connection reset by peer)
+T 1394148072 23*	snuffeluffegus (~snuffeluf@2a00:1a28:1251:46:246:93:201:123) has joined
+T 1394152848 24*	snuffeluffegus has quit (Remote host closed the connection)
+T 1394155407 23*	snuffeluffegus (~snuffeluf@2a00:1a28:1251:46:246:93:201:123) has joined
+T 1394159713 24*	TheDrums has quit (*.net *.split)
+T 1394159715 24*	sveeen has quit (*.net *.split)
+T 1394159718 24*	voidfire has quit (*.net *.split)
+T 1394159720 24*	snuffeluffegus has quit (*.net *.split)
+T 1394159721 24*	Dwarf has quit (*.net *.split)
+T 1394159722 24*	wcchandler has quit (*.net *.split)
+T 1394159724 24*	espiral has quit (*.net *.split)
+T 1394159724 24*	glebihan_ has quit (*.net *.split)
+T 1394159724 24*	debris` has quit (*.net *.split)
+T 1394159726 24*	mastis has quit (*.net *.split)
+T 1394159727 24*	ohama has quit (*.net *.split)
+T 1394159729 24*	ChanServ has quit (*.net *.split)
+T 1394159729 24*	glebihan has quit (*.net *.split)
+T 1394162659 23*	voidfire (~voidfire@shellie.darchoods.net23) has joined
+T 1394162929 23*	snuffeluffegus (~snuffeluf@2a00:1a28:1251:46:246:93:201:123) has joined
+T 1394163009 23*	wcchandler (wcchandler@pilot.trilug.org23) has joined
+T 1394163082 23*	Dwarf (dwarf@bcome.nl23) has joined
+T 1394163289 24*	snuffeluffegus has quit (Remote host closed the connection)
+T 1394164241 23*	snuffeluffegus (~snuffeluf@2a00:1a28:1251:46:246:93:201:123) has joined
+T 1394164409 24*	snuffeluffegus has quit (Remote host closed the connection)
+T 1394170447 23*	vrkalak (~vrkalak@173-96-98-179.pools.spcsdns.net23) has joined
+T 1394170668 19*	Now talking on 22#archbang
+T 1394170668 22*	Topic for 22#archbang is: Welcome to #archbang. Site: www.archbang.org
+T 1394170668 22*	Topic for 22#archbang set by 26godane (24Thu Nov 17 18:55:40 2011)
+T 1394177399 24*	vrkalak has quit (Quit: Leaving)
+T 1394178854 23*	AHD42 (~ahd@unaffiliated/ahd4223) has joined
+T 1394178854 23*	TheDrums (unit193@ubuntu/member/unit19323) has joined
+T 1394178854 23*	erodim (~erodim@46.148.31.13423) has joined
+T 1394178854 23*	sveeen (~sveeen@euve33252.vserver.de23) has joined
+T 1394178854 23*	espiral (maze@unaffiliated/espiral23) has joined
+T 1394178854 23*	glebihan_ (~glebihan@unaffiliated/glebihan23) has joined
+T 1394178854 23*	glebihan (~glebihan@unaffiliated/glebihan23) has joined
+T 1394178854 23*	debris` (debris@shells.ohai.su23) has joined
+T 1394178854 23*	mastis (~mastis@unaffiliated/mastis23) has joined
+T 1394178854 23*	ohama (ohama@cicolina.org23) has joined
+T 1394178854 23*	ChanServ (ChanServ@services.23) has joined
+T 1394178854 22*	26dickson.freenode.net gives channel operator status to 18ChanServ
+T 1394180571 24*	erodim has quit (Read error: Connection reset by peer)
+T 1394182209 23*	AHD421 (~ahd@188-195-148-231-dynip.superkabel.de23) has joined
+T 1394182318 24*	AHD42 has quit (Ping timeout: 240 seconds)
+T 1394182373 24*	AHD421 has quit (Client Quit)
+T 1394182382 23*	AHD42 (~ahd@188-195-148-231-dynip.superkabel.de23) has joined
+T 1394182387 24*	AHD42 has quit (Changing host)
+T 1394182387 23*	AHD42 (~ahd@unaffiliated/ahd4223) has joined
+T 1394182883 24*	espiral has quit (Ping timeout: 264 seconds)
+T 1394182996 23*	espiral (maze@unaffiliated/espiral23) has joined
+T 1394185223 20*	Disconnected (20Invalid argument)
+T 1394185235 19*	Now talking on 22#archbang
+T 1394185235 22*	Topic for 22#archbang is: Welcome to #archbang. Site: www.archbang.org
+T 1394185235 22*	Topic for 22#archbang set by 26godane (24Thu Nov 17 18:55:40 2011)
+T 1394193628 24*	glebihan has quit (Remote host closed the connection)
+T 1394194101 23*	glebihan (~glebihan@unaffiliated/glebihan23) has joined
+T 1394200355 24*	debris` has quit (Read error: Connection reset by peer)
+T 1394205321 23*	Carlos-Riper (~usuario@190.129.171.8423) has joined
+T 1394205377 18<Carlos-Riper18>	hola
+T 1394205409 18<Carlos-Riper18>	muy bueno el proyecto de archbang, felicidades
+T 1394205420 18<Carlos-Riper18>	:D
+T 1394206309 24*	Carlos-Riper has quit (Quit: WeeChat 0.4.3)
+T 1394207181 23*	vrkalak (~vrkalak@173-96-98-179.pools.spcsdns.net23) has joined
+T 1394207659 24*	espiral has quit (Disconnected by services)
+T 1394207679 23*	espiral (maze@unaffiliated/espiral23) has joined
+T 1394208547 24*	wcchandler has quit (Remote host closed the connection)
+T 1394208818 23*	wcchandler (wcchandler@pilot.trilug.org23) has joined
+T 1394219130 23*	ReemZ (~BZRK@unaffiliated/reemz23) has joined
+T 1394219301 18<ReemZ18>	hi all, just started playing with archbang, live, but can't seem to find the passwords (specifically root) for the live envo, and entering 'root' or no password in 'su' results in a failed auth so I'm guessing I do need to enter one...
+T 1394219726 18<AHD4218>	try: sudo bash
+T 1394219812 18<ReemZ18>	thanks mate but is there a way of not using sudo? I'm rather used to su
+T 1394219850 18<AHD4218>	well..when you have the sudo bash, you can try passwd
+T 1394219860 18<AHD4218>	then su
+T 1394219875 18<AHD4218>	dunno if it works in a live environment
+T 1394219882 18<ReemZ18>	true, which is one of the reasons I'm not too fond of sudo ;)
+T 1394219920 18<ReemZ18>	was just a bit surprised to find su requiring a password but not finding that password on the website, which may say more about me than about the website hehehe
+T 1394219929 18<AHD4218>	lol
+T 1394219941 18<ReemZ18>	so far, playing with it live is fun though
+T 1394219942 18<AHD4218>	i would have tried, but i accidently deleted the archbang vm
+T 1394219953 18<ReemZ18>	I know nothing about Openbox but this is insanely fast
+T 1394219958 18<AHD4218>	yup
+T 1394219972 18<AHD4218>	openbox is a bit too minimalistic for me. i use xfce
+T 1394219978 18<AHD4218>	also lightning fast
+T 1394220012 18<AHD4218>	even with eye candy like compiz+emerald
+T 1394220031 18<ReemZ18>	I've always been a KDE man myself, it's a lot of bloat I know but it has a few things I miss in other DE's (an easily accessible screenshot feature and a working battery monitor in casu laptop)
+T 1394220055 18<AHD4218>	you should try the manjaro kde community edtition
+T 1394220072 18<ReemZ18>	I'll look into that, thanks!
+T 1394220078 18<AHD4218>	got it in a vm.. surprisingly fast too
+T 1394220167 18<ReemZ18>	got Chakra on the list to try as well btw, and I could go straight Arch, haven't made up my mind yet, but I am thinking hard of leaving my main distro of years and so far the Arches seem to be good candidates...
+T 1394220184 18<ReemZ18>	anyways, gonna play a little more, thanks again mate
+T 1394220187 18<AHD4218>	im too lazy to install pure arch
+T 1394220206 18<AHD4218>	got archbang on two servers and manjaro on the desktop
+T 1394220248 18<ReemZ18>	lol tried it once and to my own surprised managed too, tried Gentoo after that...not the fondest of memories haha!
+T 1394220267 18<AHD4218>	haha, yea.. i did gentoo in a vm today..
+T 1394220283 18<ReemZ18>	anyway I'm off mate, meal and spliff await!
+T 1394220296 18<AHD4218>	after all the work it didn't boot because i forgot to check the filesystems in the kernel config :P
+T 1394220307 18<AHD4218>	cya
+T 1394220348 24*	ReemZ has quit (Quit: *.net *.spliff)
+T 1394221070 24*	vrkalak has quit (Quit: Leaving)
+T 1394224699 23*	vribak (~vribak@62.109.17.5023) has joined
+T 1394225314 23*	snuffeluffegus (~snuffeluf@ps95204.dreamhost.com23) has joined
+T 1394226421 23*	DarkSim (~DarkSim@78-70-247-31-no186.tbcn.telia.com23) has joined
+T 1394226539 24*	vribak has quit (Ping timeout: 240 seconds)
+T 1394230101 24*	AHD42 (~ahd@unaffiliated/ahd4224) has left
+T 1394233858 23*	devildust (~devildust@62.109.22.24423) has joined
+T 1394234592 24*	devildust has quit (Remote host closed the connection)
+T 1394234848 24*	DarkSim has quit (Read error: Connection reset by peer)
+T 1394235379 23*	klyshavchuk (~klyshavch@188.190.127.1523) has joined
+T 1394239790 19*	Now talking on 22#archbang
+T 1394239790 22*	Topic for 22#archbang is: Welcome to #archbang. Site: www.archbang.org
+T 1394239790 22*	Topic for 22#archbang set by 26godane (24Thu Nov 17 18:55:40 2011)
+T 1394241076 19*	Now talking on 22#archbang
+T 1394241076 22*	Topic for 22#archbang is: Welcome to #archbang. Site: www.archbang.org
+T 1394241076 22*	Topic for 22#archbang set by 26godane (24Thu Nov 17 18:55:40 2011)
+T 1394251572 23*	supergeek800 (6bd6c3b3@gateway/web/freenode/ip.107.214.195.17923) has joined
+T 1394251594 18<supergeek80018>	Changed my username aid directory and now SLiM will not let me in.
+T 1394251610 18<supergeek80018>	How would one go about fixing that?
+T 1394253257 24*	supergeek800 has quit (Quit: Page closed)
+T 1394253780 24*	snuffeluffegus has quit (Quit: Leaving)
+T 1394259258 24*	klyshavchuk has quit (Read error: Connection reset by peer)
+T 1394259303 23*	mysteriousdarren (~mysteriou@70-41-230-143.cust.wildblue.net23) has joined
+T 1394259304 24*	mysteriousdarren has quit (Changing host)
+T 1394259304 23*	mysteriousdarren (~mysteriou@pdpc/supporter/student/mysteriousdarren23) has joined
+T 1394259933 23*	snuffeluffegus (~snuffeluf@ps95204.dreamhost.com23) has joined
+T 1394260637 23*	vrkalak (~vrkalak@108.102.82.12223) has joined
+T 1394261218 24*	snuffeluffegus has quit (Quit: Leaving)
+T 1394261514 24*	mysteriousdarren has quit (Remote host closed the connection)
+T 1394261871 23*	snuffeluffegus (~snuffeluf@2a00:1a28:1251:46:246:93:201:123) has joined
+T 1394262735 23*	Supergeek800 (6bd6c3b3@gateway/web/freenode/ip.107.214.195.17923) has joined
+T 1394262820 18<Supergeek80018>	How would one go about restoring the original menu that came with his isntall if his menu.xml gets overwritten, but he still has the schema.pl intact?
+T 1394263208 18<Supergeek80018>	Nvm.
+T 1394263213 24*	Supergeek800 has quit (Quit: Page closed)
+T 1394263427 24*	vrkalak has quit (Quit: Leaving)
+T 1394279702 23*	vidanova (~vidanova@188.190.127.2423) has joined
+T 1394290884 23*	vrkalak (~vrkalak@108.102.82.12223) has joined
+T 1394294135 24*	vrkalak has quit (Quit: Leaving)
+T 1394294680 23*	vrkalak (~vrkalak@173-130-84-228.pools.spcsdns.net23) has joined
+T 1394295403 23*	sigghin (~marco@78-134-31-22.v4.ngi.it23) has joined
+T 1394295429 24*	sigghin (~marco@78-134-31-22.v4.ngi.it24) has left
+T 1394299215 23*	debris` (debris@shells.ohai.su23) has joined
+T 1394299503 24*	vidanova has quit (Remote host closed the connection)
+T 1394304503 24*	snuffeluffegus has quit (Quit: Leaving)
+T 1394306239 24*	vrkalak has quit (Quit: Leaving)
+T 1394310254 23*	vrkalak (~vrkalak@173.5.89.19223) has joined
+T 1394310613 23*	CorrosiveEye (~rft@50.12.7.6223) has joined
+T 1394314824 24*	vrkalak has quit (Ping timeout: 240 seconds)
+T 1394314854 23*	lomman (~lomman@46.148.31.15123) has joined
+T 1394315369 24*	CorrosiveEye has quit (Ping timeout: 240 seconds)
+T 1394316160 23*	vrkalak (~vrkalak@68-241-192-251.pools.spcsdns.net23) has joined
+T 1394316204 24*	vrkalak has quit (Client Quit)
+T 1394317578 24*	lomman has quit (Ping timeout: 240 seconds)
+T 1394318204 23*	pepsll (~pepsll@193.106.31.17723) has joined
+T 1394318930 23*	mysteriousdarren (~mysteriou@70-41-230-143.cust.wildblue.net23) has joined
+T 1394318931 24*	mysteriousdarren has quit (Changing host)
+T 1394318931 23*	mysteriousdarren (~mysteriou@pdpc/supporter/student/mysteriousdarren23) has joined
+T 1394321832 24*	mysteriousdarren has quit (Read error: Connection reset by peer)
+T 1394323359 23*	snuffeluffegus (~snuffeluf@2a00:1a28:1251:46:246:93:201:123) has joined
+T 1394331964 23*	supergeek800 (~professor@2602:306:bd6c:3b30:221:79ff:fec5:846923) has joined
+T 1394331989 18<supergeek80018>	Hiya! Computer's working again now, but how's you guys' night?
+T 1394345959 23*	vrkalak (~vrkalak@173-96-166-193.pools.spcsdns.net23) has joined
+T 1394346264 24*	pepsll has quit (Ping timeout: 240 seconds)
+T 1394351298 24*	vrkalak has quit (Quit: Leaving)
+T 1394354854 24*	snuffeluffegus has quit (Quit: Leaving)
+T 1394355672 24*	supergeek800 (~professor@2602:306:bd6c:3b30:221:79ff:fec5:846924) has left
+T 1394356553 19*	Now talking on 22#archbang
+T 1394356554 22*	Topic for 22#archbang is: Welcome to #archbang. Site: www.archbang.org
+T 1394356554 22*	Topic for 22#archbang set by 26godane (24Thu Nov 17 18:55:40 2011)
+T 1394361169 23*	sigghin1 (~marco@78-134-13-116.v4.ngi.it23) has joined
+T 1394361636 18<sigghin118>	attention .. with virtualbox-4.3.8-1-x86_64 errors installing 64bit systems - with virtualbox 4.3.6-3 all ok .....
+T 1394362837 24*	sigghin1 (~marco@78-134-13-116.v4.ngi.it24) has left
+T 1394378840 23*	vrkalak (~vrkalak@99-202-200-95.pools.spcsdns.net23) has joined
+T 1394379582 23*	Blaguvest (~Blaguvest@unaffiliated/blaguvest23) has joined
+T 1394380094 24*	vrkalak (~vrkalak@99-202-200-95.pools.spcsdns.net24) has left ("Leaving")
+T 1394383563 19*	Now talking on 22#archbang
+T 1394383563 22*	Topic for 22#archbang is: Welcome to #archbang. Site: www.archbang.org
+T 1394383563 22*	Topic for 22#archbang set by 26godane (24Thu Nov 17 18:55:40 2011)
+T 1394393971 23*	bar__ (~Blaguvest@0190100098.0.fullrate.dk23) has joined
+T 1394394089 24*	Blaguvest has quit (Ping timeout: 240 seconds)
+T 1394395052 23*	DarkSim (~DarkSim@78-70-247-31-no186.tbcn.telia.com23) has joined
+T 1394396651 24*	bar__ has quit (Ping timeout: 252 seconds)
+T 1394396701 23*	bar__ (~Blaguvest@0190100098.0.fullrate.dk23) has joined
+T 1394398355 24*	bar__ has quit (Quit: Leaving)
+T 1394398412 23*	Blaguvest (~Blaguvest@unaffiliated/blaguvest23) has joined
+T 1394402545 19*	Now talking on 22#archbang
+T 1394402545 22*	Topic for 22#archbang is: Welcome to #archbang. Site: www.archbang.org
+T 1394402545 22*	Topic for 22#archbang set by 26godane (24Thu Nov 17 18:55:40 2011)
+T 1394403939 24*	DarkSim has quit (Read error: Connection reset by peer)
+T 1394409895 24*	Blaguvest has quit (Quit: Leaving)
+T 1394410541 23*	snuffeluffegus (~snuffeluf@2a00:1a28:1251:46:246:93:201:123) has joined
+T 1394424144 24*	snuffeluffegus has quit (Remote host closed the connection)
+T 1394436219 23*	vrkalak (~vrkalak@173-96-246-66.pools.spcsdns.net23) has joined
+T 1394436312 24*	vrkalak has quit (Client Quit)
+T 1394436333 23*	vrkalak (~vrkalak@173-96-246-66.pools.spcsdns.net23) has joined
+T 1394438453 24*	vrkalak has quit (Quit: Leaving)
+T 1394447773 20*	Disconnected (20Invalid argument)
+T 1394447785 19*	Now talking on 22#archbang
+T 1394447785 22*	Topic for 22#archbang is: Welcome to #archbang. Site: www.archbang.org
+T 1394447785 22*	Topic for 22#archbang set by 26godane (24Thu Nov 17 18:55:40 2011)
+T 1394464844 23*	vrkalak (~vrkalak@173-96-246-66.pools.spcsdns.net23) has joined
+T 1394464976 24*	vrkalak has quit (Client Quit)
+T 1394465000 23*	vrkalak (~vrkalak@173-96-246-66.pools.spcsdns.net23) has joined
+T 1394471324 24*	vrkalak has quit (Quit: Leaving)
+T 1394472176 23*	DarkSim (~DarkSim@78-70-247-31-no186.tbcn.telia.com23) has joined
+T 1394481918 24*	TheDrums has quit (Ping timeout: 240 seconds)
+T 1394482488 23*	TheDrums (unit193@ubuntu/member/unit19323) has joined
+T 1394489765 24*	DarkSim has quit (Read error: Connection reset by peer)
+T 1394494408 23*	snuffeluffegus (~snuffeluf@2a00:1a28:1251:46:246:93:201:123) has joined
+T 1394512925 23*	vrkalak (~vrkalak@173-96-246-66.pools.spcsdns.net23) has joined
+T 1394514461 24*	snuffeluffegus has quit (Remote host closed the connection)
+T 1394519496 24*	vrkalak has quit (Quit: Leaving)
+T 1394524881 19*	Now talking on 22#archbang
+T 1394524881 22*	Topic for 22#archbang is: Welcome to #archbang. Site: www.archbang.org
+T 1394524881 22*	Topic for 22#archbang set by 26godane (24Thu Nov 17 18:55:40 2011)
+T 1394528776 23*	Negen (~negen@109.201.154.19823) has joined
+T 1394529685 24*	Negen has quit (Remote host closed the connection)
+T 1394529767 23*	Negen (~negen@109.201.154.17223) has joined
+T 1394540123 23*	DarkSim (~DarkSim@78-70-247-31-no186.tbcn.telia.com23) has joined
+T 1394546282 19*	Now talking on 22#archbang
+T 1394546282 22*	Topic for 22#archbang is: Welcome to #archbang. Site: www.archbang.org
+T 1394546282 22*	Topic for 22#archbang set by 26godane (24Thu Nov 17 18:55:40 2011)

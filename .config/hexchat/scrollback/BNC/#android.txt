@@ -1,0 +1,533 @@
+T 1394525185 23*	dobalina (~dobalina@gateway/tor-sasl/dobalina23) has joined
+T 1394525207 24*	RedEyedGirl has quit ()
+T 1394525255 23*	Gifgroen (~Gifgroen@91.194.225.17223) has joined
+T 1394525338 24*	CaTaCaS has quit (Ping timeout: 240 seconds)
+T 1394525342 24*	penk has quit (Ping timeout: 252 seconds)
+T 1394525381 23*	Fishy (~fishy@pool-108-40-3-10.bltmmd.fios.verizon.net23) has joined
+T 1394525390 24*	no0p_ has quit (Ping timeout: 244 seconds)
+T 1394525440 23*	romuald (~romuald@cug31-2-82-228-87-221.fbx.proxad.net23) has joined
+T 1394525492 23*	luque (~Adium@webgw0.cwwtf.bbc.co.uk23) has joined
+T 1394525500 18<romuald18>	hello
+T 1394525502 23*	CaTaCaS (~CaTaCaS@89.204.137.2923) has joined
+T 1394525550 18<CaTaCaS18>	Test
+T 1394525588 24*	ImQ009 has quit (Quit: Leaving)
+T 1394525612 24*	fels_zh has quit (Remote host closed the connection)
+T 1394525613 18<romuald18>	echo test ok
+T 1394525616 23*	wallaye (~Thunderbi@LRennes-166-17-7-245.w80-15.abo.wanadoo.fr23) has joined
+T 1394525638 23*	Black_Horseman (~John_s_Re@athedsl-394749.home.otenet.gr23) has joined
+T 1394525638 24*	Black_Horseman has quit (Changing host)
+T 1394525638 23*	Black_Horseman (~John_s_Re@unaffiliated/black-horseman/x-687165323) has joined
+T 1394525640 18<CaTaCaS18>	Thanks
+T 1394525674 24*	Fishy has quit (Ping timeout: 264 seconds)
+T 1394525681 24*	romuald has quit (Quit: Quitte)
+T 1394525699 24*	anirudh24seven has quit (Ping timeout: 240 seconds)
+T 1394525743 23*	Killavus (~killavus@bawaria.arkency.com23) has joined
+T 1394525818 24*	28phu-away is now known as 18phubarr
+T 1394525900 23*	Rastayaka (~AndChat92@cug31-2-82-228-87-221.fbx.proxad.net23) has joined
+T 1394525931 23*	dstuxo (~Dragos@89.121.200.10623) has joined
+T 1394526009 24*	CaTaCaS has quit (Quit: Bye)
+T 1394526029 23*	CaTaCaS (~CaTaCaS@89.204.137.2923) has joined
+T 1394526104 23*	UnicornGod (~root@c-71-229-93-248.hsd1.in.comcast.net23) has joined
+T 1394526121 24*	Rastayaka has quit (Remote host closed the connection)
+T 1394526141 23*	technologov (~technolog@93-172-131-115.bb.netvision.net.il23) has joined
+T 1394526150 23*	Novus (~novus@cpe-172-248-190-187.socal.res.rr.com23) has joined
+T 1394526255 24*	ivali has quit ()
+T 1394526598 24*	smek has quit (Quit: Page closed)
+T 1394526676 24*	michael_lee has quit (Quit: Ex-Chat)
+T 1394526868 23*	colins (~colin@c-71-229-93-248.hsd1.in.comcast.net23) has joined
+T 1394526883 24*	UnicornGod (~root@c-71-229-93-248.hsd1.in.comcast.net24) has left
+T 1394526897 24*	colins has quit (Client Quit)
+T 1394526898 24*	qurk has quit (Ping timeout: 240 seconds)
+T 1394526915 23*	ch4rl35 (~ch4rl35@125.60.148.24223) has joined
+T 1394526930 23*	crxz0193 (~crxz0193@203.247.149.15223) has joined
+T 1394526952 23*	qurk (~qurk@63.245.175.21123) has joined
+T 1394527022 23*	mrc_ (~mrc_@p579E91CC.dip0.t-ipconnect.de23) has joined
+T 1394527147 23*	CrazyLemon (uTIBfhEhrs@BSN-77-143-220.static.dsl.siol.net23) has joined
+T 1394527193 23*	UnicornGod (~colin@c-71-229-93-248.hsd1.in.comcast.net23) has joined
+T 1394527233 23*	Mixostuff (uid25133@gateway/web/irccloud.com/x-wxcgeposbfqcxpab23) has joined
+T 1394527245 23*	pentagonik (~pentagoni@inet-emmc05-o.oracle.co.uk23) has joined
+T 1394527261 24*	UnicornGod has quit (Client Quit)
+T 1394527369 24*	trusktr has quit (Ping timeout: 240 seconds)
+T 1394527611 24*	Oins has quit (Read error: Operation timed out)
+T 1394527617 24*	28phubarr is now known as 18phu-away
+T 1394527638 24*	abbel_ has quit (Quit: WeeChat 0.4.3-dev)
+T 1394527650 23*	UnicornGod (~colin@c-71-229-93-248.hsd1.in.comcast.net23) has joined
+T 1394527653 24*	Ratboy has quit (Ping timeout: 244 seconds)
+T 1394527746 24*	xangua has quit (Quit: Connection closed for inactivity)
+T 1394527753 23*	sargyknight (~asdasdas@adsl-74-240-50-118.jan.bellsouth.net23) has joined
+T 1394527753 24*	sargyknight has quit (Changing host)
+T 1394527753 23*	sargyknight (~asdasdas@unaffiliated/sargyknight23) has joined
+T 1394527870 24*	phu-away has quit (Ping timeout: 244 seconds)
+T 1394527877 23*	Click66 (~Click66@94.143.188.023) has joined
+T 1394527939 24*	sargyknight (~asdasdas@unaffiliated/sargyknight24) has left
+T 1394528008 23*	BullHorn- (~BullHorn@bzq-79-179-161-247.red.bezeqint.net23) has joined
+T 1394528100 24*	UnicornGod has quit (Quit: [BX] Occifer, I'm not as think as you stoned I am!)
+T 1394528129 24*	crxz0193 has quit (Ping timeout: 240 seconds)
+T 1394528139 24*	JakeSays_ has quit (Read error: Connection reset by peer)
+T 1394528139 24*	BullHorn- has quit (Read error: Connection reset by peer)
+T 1394528150 23*	SgrA (~sgra@unaffiliated/sgra23) has joined
+T 1394528150 23*	fels_zh_ (~fels_zh@213.137.8.24523) has joined
+T 1394528157 23*	JakeSays (~quassel@chat.thatswhatjakesaid.com23) has joined
+T 1394528196 24*	BullHorn has quit (Ping timeout: 252 seconds)
+T 1394528256 24*	S0-2 has quit (Ping timeout: 240 seconds)
+T 1394528276 23*	BullHorn (~BullHorn@bzq-79-179-161-247.red.bezeqint.net23) has joined
+T 1394528334 24*	CaTaCaS has quit (Remote host closed the connection)
+T 1394528382 24*	stultus has quit (Ping timeout: 265 seconds)
+T 1394528417 23*	wild_oscar (~malmeida@webservices.itclinical.com23) has joined
+T 1394528457 23*	stultus_ (~stultus@117.239.74.20223) has joined
+T 1394528522 24*	stultus_ has quit (Read error: Connection reset by peer)
+T 1394528547 24*	Jucato has quit (Quit: Konversation terminated!)
+T 1394528591 23*	stultus (~stultus@117.239.74.20223) has joined
+T 1394528591 24*	stultus has quit (Changing host)
+T 1394528591 23*	stultus (~stultus@wikisource/Hrishikesh.kb23) has joined
+T 1394528694 24*	BullHorn has quit (Read error: Connection reset by peer)
+T 1394528700 23*	penk (~dave@pool-71-162-75-65.bstnma.east.verizon.net23) has joined
+T 1394528703 23*	feanorin (~feanorin@mir31-1-82-224-13-158.fbx.proxad.net23) has joined
+T 1394528711 23*	airtonix_ (~quassel@unaffiliated/airtonix23) has joined
+T 1394528727 23*	anirudh24seven (~chatzilla@122.164.91.24623) has joined
+T 1394528739 23*	Almtesh (~Almtesh@unaffiliated/almtesh23) has joined
+T 1394528769 24*	airtonix has quit (Ping timeout: 244 seconds)
+T 1394528785 23*	BullHorn (~BullHorn@bzq-79-179-161-247.red.bezeqint.net23) has joined
+T 1394528790 24*	dotDeb has quit (Quit: Leaving)
+T 1394528891 24*	The_Pot has quit (Quit: Leaving)
+T 1394528895 24*	28nx5_off is now known as 18nx5
+T 1394528908 23*	ThePot (~ThePot@117.205.241.7123) has joined
+T 1394528912 24*	ThePot has quit (Changing host)
+T 1394528912 23*	ThePot (~ThePot@unaffiliated/chinmay23) has joined
+T 1394528978 24*	feanorin has quit (Ping timeout: 240 seconds)
+T 1394528980 23*	Fishy (~fishy@pool-108-40-3-10.bltmmd.fios.verizon.net23) has joined
+T 1394528986 24*	penk has quit (Ping timeout: 264 seconds)
+T 1394529002 24*	jrahmy has quit (Quit: (Goodbye))
+T 1394529054 23*	xastey (~keyston@75-1-33-63.lightspeed.nbrntx.sbcglobal.net23) has joined
+T 1394529128 24*	stultus has quit (Read error: Connection reset by peer)
+T 1394529176 24*	ThePot has quit (Client Quit)
+T 1394529201 23*	stultus (~stultus@117.239.74.20223) has joined
+T 1394529212 24*	stultus has quit (Changing host)
+T 1394529212 23*	stultus (~stultus@wikisource/Hrishikesh.kb23) has joined
+T 1394529214 23*	ThePot (~ThePot@unaffiliated/chinmay23) has joined
+T 1394529234 24*	Fishy has quit (Ping timeout: 244 seconds)
+T 1394529303 23*	X3NQ (~X3NQ@195.191.107.20523) has joined
+T 1394529310 23*	Dudi_ (~Dudi@c247-136.icpnet.pl23) has joined
+T 1394529328 23*	marcogmonteiro (~marcogmon@62.28.236.13023) has joined
+T 1394529392 24*	ThePot has quit (Client Quit)
+T 1394529462 23*	ThePot (~ThePot@unaffiliated/chinmay23) has joined
+T 1394529497 24*	stoned-SGS4 has quit (Read error: Connection reset by peer)
+T 1394529500 24*	Dudi has quit (Ping timeout: 252 seconds)
+T 1394529504 23*	stoned-Android (~stoned@unaffiliated/stoned23) has joined
+T 1394529571 23*	pierre1_ (~pierre1@179.218.154.20823) has joined
+T 1394529694 24*	ThePot has quit (Client Quit)
+T 1394529707 23*	feanorin (~feanorin@mir31-1-82-224-13-158.fbx.proxad.net23) has joined
+T 1394529714 23*	Newfire (~quassel@p20030056CF128C01BEAEC5FFFE761188.dip0.t-ipconnect.de23) has joined
+T 1394529752 23*	patrick91 (~patrick91@93-44-154-176.ip97.fastwebnet.it23) has joined
+T 1394529916 24*	tom94 has quit (Quit: Konversation terminated!)
+T 1394529917 24*	Delayny has quit (Read error: Connection reset by peer)
+T 1394529951 23*	ThePot (~ThePot@unaffiliated/chinmay23) has joined
+T 1394529989 23*	Delayny (~delayny@oh-76-2-241-181.dhcp.embarqhsd.net23) has joined
+T 1394530091 24*	nomic has quit (Remote host closed the connection)
+T 1394530100 24*	ThePot has quit (Client Quit)
+T 1394530121 23*	ThePot (~ThePot@117.205.241.7123) has joined
+T 1394530122 24*	ThePot has quit (Changing host)
+T 1394530122 23*	ThePot (~ThePot@unaffiliated/chinmay23) has joined
+T 1394530254 23*	wolfehr (~paultarr@host86-173-208-214.range86-173.btcentralplus.com23) has joined
+T 1394530290 23*	Mr_X (Mr_X@unaffiliated/mr-x/x-331022823) has joined
+T 1394530317 24*	fpx has quit (Quit: Connection closed for inactivity)
+T 1394530337 23*	nomic (~nomic@host31-48-108-238.range31-48.btcentralplus.com23) has joined
+T 1394530467 23*	xored (~xored@freiburg.digitalpatrioten.com23) has joined
+T 1394530477 23*	chAiz- (~NiKKi@ppp-124-122-56-187.revip2.asianet.co.th23) has joined
+T 1394530641 24*	ksx4system has quit (Quit: "Imagination is more important than knowledge." Albert Einstein)
+T 1394530655 24*	Mr_X has quit ()
+T 1394530683 23*	ksx4system (~ksx4syste@gaia.mac.info.pl23) has joined
+T 1394530742 23*	jagob (~jacob@h196.natout.aau.dk23) has joined
+T 1394530743 24*	28el3ctrik-away is now known as 18el3ctrik
+T 1394530820 24*	luque has quit (Quit: Leaving.)
+T 1394530901 24*	stoned-Android has quit (Read error: Connection reset by peer)
+T 1394530907 23*	stoned-SGS4 (~stoned@unaffiliated/stoned23) has joined
+T 1394530958 23*	bvi (~bastiaan@87.195.117.24323) has joined
+T 1394530968 23*	MrHeisenberg (~Heisenber@195.234.107.123) has joined
+T 1394530971 23*	Jbdye|Laptop (~jdbye@ti0010a400-5280.bb.online.no23) has joined
+T 1394530975 23*	sh4z (~lml@unaffiliated/sh4z23) has joined
+T 1394530987 24*	sh4z has quit (Client Quit)
+T 1394531000 18<MrHeisenberg18>	hello, how can i use ipv6 on my android phone, if my provider doesen't support ipv6?
+T 1394531011 23*	sargyknigiht (~asdasdas@adsl-74-240-50-118.jan.bellsouth.net23) has joined
+T 1394531023 24*	sargyknigiht (~asdasdas@adsl-74-240-50-118.jan.bellsouth.net24) has left
+T 1394531057 24*	king09x has quit (Quit: Leaving)
+T 1394531110 24*	croppa_ has quit (Ping timeout: 264 seconds)
+T 1394531125 24*	Jdbye|Laptop has quit (Ping timeout: 244 seconds)
+T 1394531144 23*	luque (~Adium@webgw0.telhc.bbc.co.uk23) has joined
+T 1394531325 24*	ndrei has quit (Quit: Lost terminal)
+T 1394531337 23*	bluesm (uid13438@gateway/web/irccloud.com/x-qzredwdvghtnyhtd23) has joined
+T 1394531361 23*	hashbang (~isajb@cse-ajb.cse.bris.ac.uk23) has joined
+T 1394531486 23*	ndrei (~avo@83.142.149.22723) has joined
+T 1394531497 23*	GentileBen (~RaycisCha@cpc5-lutn10-2-0-cust681.9-3.cable.virginm.net23) has joined
+T 1394531551 23*	croppa_ (~stuart@14.14.233.220.static.exetel.com.au23) has joined
+T 1394531553 24*	28Kitar|st_ is now known as 18Kitar|st
+T 1394531579 23*	Xentinel (~Xentinel@188.183.143.10523) has joined
+T 1394531722 24*	nullpuppy has quit (Ping timeout: 264 seconds)
+T 1394531843 24*	wolfehr has quit (Quit: wolfehr)
+T 1394531920 23*	GusBricker (~GusBricke@c122-107-239-5.mckinn3.vic.optusnet.com.au23) has joined
+T 1394531961 24*	harttho has quit (Quit: harttho)
+T 1394532040 23*	Mr_X (Mr_X@unaffiliated/mr-x/x-331022823) has joined
+T 1394532052 23*	Rougex200 (~RougeFroi@88.81.159.16423) has joined
+T 1394532109 24*	xored has quit (Quit: Leaving.)
+T 1394532140 23*	turux (kvirc@160.80.96.15523) has joined
+T 1394532184 23*	Turux|2 (kvirc@160.80.96.15523) has joined
+T 1394532207 23*	Turux|3 (kvirc@160.80.96.15523) has joined
+T 1394532247 23*	LonelyGoat (~LonelyGoa@135-23-234-211.cpe.pppoe.ca23) has joined
+T 1394532266 23*	RougePad (~RougeFroi@88.81.159.17123) has joined
+T 1394532276 23*	WormDude (~wormfood@vpn.shenzhencomputers.com23) has joined
+T 1394532329 24*	turux has quit (Read error: Operation timed out)
+T 1394532336 24*	Rougex200 has quit (Ping timeout: 240 seconds)
+T 1394532350 23*	penk (~dave@pool-71-162-75-65.bstnma.east.verizon.net23) has joined
+T 1394532458 24*	Turux|2 has quit (Ping timeout: 244 seconds)
+T 1394532458 24*	WormFood has quit (Ping timeout: 244 seconds)
+T 1394532490 24*	28WormDude is now known as 18WormFood
+T 1394532573 24*	m002D2 has quit (Read error: Connection reset by peer)
+T 1394532578 23*	_wli (~williamli@202.64.205.16323) has joined
+T 1394532578 23*	m00dr0id (~m00se@unaffiliated/m00se23) has joined
+T 1394532613 24*	LonelyGoat has quit (Ping timeout: 244 seconds)
+T 1394532640 24*	penk has quit (Ping timeout: 260 seconds)
+T 1394532936 23*	Luca11 (~luca.toma@ppp-127-31.33-151.iol.it23) has joined
+T 1394533003 23*	TheFuzzball (~TheFuzzba@cpc4-ward10-2-0-cust737.10-2.cable.virginm.net23) has joined
+T 1394533008 24*	Dary has quit (Ping timeout: 240 seconds)
+T 1394533065 24*	yolosexual has quit (Quit: Connection closed for inactivity)
+T 1394533082 23*	ivali (~valentin@134.134.137.7523) has joined
+T 1394533083 24*	ivali has quit (Changing host)
+T 1394533083 23*	ivali (~valentin@unaffiliated/ivali23) has joined
+T 1394533087 23*	pawell_ (~pawelpek@student.agh.edu.pl23) has joined
+T 1394533128 24*	BobbyJr has quit (Ping timeout: 240 seconds)
+T 1394533146 23*	The_Pot (~ThePot@unaffiliated/chinmay23) has joined
+T 1394533167 24*	The_Pot has quit (Read error: Connection reset by peer)
+T 1394533171 18<pawell_18>	Hi, I have installed android sdk with netbeans but I have a little problem. There is a line setContentView(android.R.layout.main); but main isn't resolved, line was generated automatically. I would be thankful for hint
+T 1394533182 24*	GusBricker has quit (Remote host closed the connection)
+T 1394533190 23*	The_Pot (~ThePot@117.205.241.7123) has joined
+T 1394533191 24*	The_Pot has quit (Changing host)
+T 1394533191 23*	The_Pot (~ThePot@unaffiliated/chinmay23) has joined
+T 1394533229 24*	ThePot has quit (Ping timeout: 240 seconds)
+T 1394533260 24*	Mr_X has quit ()
+T 1394533284 24*	Carbonflux has quit (Quit: Lumen est solum textura opus)
+T 1394533320 24*	zoraj has quit (Ping timeout: 240 seconds)
+T 1394533381 23*	harttho (~harttho@107-218-67-20.lightspeed.irvnca.sbcglobal.net23) has joined
+T 1394533529 18<Leeds18>	pawell_: wrong channel
+T 1394533547 23*	EPG (~EPG@p508F5A1C.dip0.t-ipconnect.de23) has joined
+T 1394533576 23*	xored (~xored@freiburg.digitalpatrioten.com23) has joined
+T 1394533584 24*	xored has quit (Client Quit)
+T 1394533621 23*	zoraj (~zoraj@static-110-46.blueline.mg23) has joined
+T 1394533639 18<pawell_18>	Leeds: why ? Isn't it android channel : )  ?
+T 1394533656 24*	The_Pot has quit (Quit: Leaving)
+T 1394533668 24*	28lupinedk is now known as 18Lupinedk
+T 1394533720 24*	mudler has quit (Remote host closed the connection)
+T 1394533750 23*	mudler (~mudler@93-39-248-44.ip78.fastwebnet.it23) has joined
+T 1394533756 24*	mudler has quit (Remote host closed the connection)
+T 1394533823 24*	ivali has quit (Remote host closed the connection)
+T 1394533954 24*	Programmer_ has quit (Ping timeout: 264 seconds)
+T 1394534009 23*	mudler (~mudler@93-39-248-44.ip78.fastwebnet.it23) has joined
+T 1394534020 23*	TodesToaster (~TodesToas@unaffiliated/todestoaster23) has joined
+T 1394534098 24*	immibis has quit (Ping timeout: 264 seconds)
+T 1394534117 23*	ThePot (~ThePot@unaffiliated/chinmay23) has joined
+T 1394534159 24*	stoned-SGS4 has quit (Ping timeout: 240 seconds)
+T 1394534208 24*	nomic has quit (Ping timeout: 240 seconds)
+T 1394534209 24*	mudler has quit (Remote host closed the connection)
+T 1394534218 24*	28airtonix_ is now known as 18airtonix
+T 1394534246 23*	mudler (~mudler@93-39-248-44.ip78.fastwebnet.it23) has joined
+T 1394534296 23*	Programmer_ (~khaotic@unaffiliated/khaotic23) has joined
+T 1394534304 24*	one_zero has quit ()
+T 1394534336 24*	xastey has quit (Ping timeout: 252 seconds)
+T 1394534352 23*	nomic (~nomic@host86-168-57-251.range86-168.btcentralplus.com23) has joined
+T 1394534364 23*	Syzygy_ (~Syzygy@e216-091.eduroam.tuwien.ac.at23) has joined
+T 1394534429 24*	aZz7eCh has quit (Ping timeout: 240 seconds)
+T 1394534688 24*	stultus has quit (Remote host closed the connection)
+T 1394534780 23*	kate_r (~anonymous@unaffiliated/kate-r/x-384745123) has joined
+T 1394534900 24*	mudler has quit (Remote host closed the connection)
+T 1394534934 23*	mudler (~mudler@93-39-248-44.ip78.fastwebnet.it23) has joined
+T 1394534998 24*	Turux|3 has quit (Ping timeout: 264 seconds)
+T 1394535078 23*	matteo (~matteo@openwrt/developer/matteo23) has joined
+T 1394535107 23*	VidaLoca (~vidaloca_@89.45.100.23823) has joined
+T 1394535111 24*	croppa_ has quit ()
+T 1394535118 24*	pvankouteren has quit (Quit: pvankouteren)
+T 1394535124 24*	Mek has quit (Ping timeout: 244 seconds)
+T 1394535139 24*	rishabhmhjn has quit (Remote host closed the connection)
+T 1394535153 24*	Newfire has quit (Remote host closed the connection)
+T 1394535217 24*	pierre1_ has quit (Ping timeout: 240 seconds)
+T 1394535217 24*	luque has quit (Quit: Leaving.)
+T 1394535360 24*	Luca11 has quit (Ping timeout: 240 seconds)
+T 1394535482 23*	technickul (~nick@207-229-184-181.c3-0.drb-ubr1.chi-drb.il.cable.rcn.com23) has joined
+T 1394535519 23*	karab44 (~kvirc@host-91-192-90-101.elomza.pl23) has joined
+T 1394535537 24*	Huntyz has quit (Quit: Linkinus - http://linkinus.com)
+T 1394535633 23*	luque (~Adium@webgw0.telhc.bbc.co.uk23) has joined
+T 1394535773 18<rammani18>	Hi guys can any one have idea about how to capture click event from webview to Mainactivity?
+T 1394535833 23*	Octalot (~noct@31.185.149.16723) has joined
+T 1394535992 23*	penk (~dave@pool-71-162-75-65.bstnma.east.verizon.net23) has joined
+T 1394536035 23*	wolfehr (~paultarr@37.157.35.5823) has joined
+T 1394536078 24*	technickul has quit (Ping timeout: 264 seconds)
+T 1394536143 24*	uguu has quit (Read error: Connection reset by peer)
+T 1394536160 23*	TodesToast (~TodesToas@unaffiliated/todestoaster23) has joined
+T 1394536179 23*	Fishy (~fishy@pool-108-40-3-10.bltmmd.fios.verizon.net23) has joined
+T 1394536259 23*	uguu (~uguu@ip98-164-28-132.ks.ks.cox.net23) has joined
+T 1394536272 24*	penk has quit (Ping timeout: 245 seconds)
+T 1394536287 24*	uguu has quit (Remote host closed the connection)
+T 1394536322 24*	AggreyM-RobotBoy has quit (Remote host closed the connection)
+T 1394536330 24*	TodesToaster has quit (Ping timeout: 264 seconds)
+T 1394536356 23*	mourest (~mourest@adsl-ull-5-249.45-151.net24.it23) has joined
+T 1394536363 23*	Turux|3 (kvirc@160.80.96.15523) has joined
+T 1394536376 23*	turux (kvirc@160.80.96.15523) has joined
+T 1394536457 24*	Fishy has quit (Ping timeout: 244 seconds)
+T 1394536543 24*	28WLP|Away is now known as 18WillPittenger
+T 1394536605 23*	symptom (~symptom@unaffiliated/symptom23) has joined
+T 1394536609 23*	ni647743 (~u109816@39.230.73.4123) has joined
+T 1394536612 24*	Turux|3 has quit (Ping timeout: 244 seconds)
+T 1394536639 23*	nullpuppy (~dustin@freematrix/staff/nullpuppy23) has joined
+T 1394536651 24*	ch4rl35 has quit ()
+T 1394536667 24*	ni647743 has quit (Remote host closed the connection)
+T 1394536668 18<symptom18>	Hi, looking for a recommendation on a good GPS app.  Not a turn by turn direction APP like waze or google navigator.  Something I can use while hiking and camping.
+T 1394536716 24*	Gifgroen has quit (Quit: Gifgroen)
+T 1394536767 24*	sensen has quit (Quit: leaving)
+T 1394536788 23*	jackneill (~jackneill@62-165-219-51.pool.digikabel.hu23) has joined
+T 1394536788 24*	jackneill has quit (Changing host)
+T 1394536788 23*	jackneill (~jackneill@unaffiliated/jackneill23) has joined
+T 1394536804 24*	ThePot has quit (Quit: Leaving)
+T 1394536819 24*	Entropy512 has quit (Ping timeout: 264 seconds)
+T 1394536897 23*	GusBricker (~GusBricke@c220-237-20-42.eburwd9.vic.optusnet.com.au23) has joined
+T 1394536922 24*	niick has quit (Ping timeout: 244 seconds)
+T 1394536976 23*	pr0ggie (~p@82-170-42-91.ip.telfort.nl23) has joined
+T 1394537035 18<Khaytsus18>	symptom: Locus
+T 1394537180 23*	mellernoia (~eduardohe@186.219.133.19423) has joined
+T 1394537345 23*	Dragooon (~shitiz@122.177.178.5823) has joined
+T 1394537472 24*	Novus has quit (Quit: Nettalk6 - www.ntalk.de)
+T 1394537522 24*	lifelike has quit (Read error: Connection reset by peer)
+T 1394537523 24*	qurk has quit (Quit: Oh baby, I was bound for Mexico.)
+T 1394537557 23*	lifelike (~lifelike@d24-57-15-47.home.cgocable.net23) has joined
+T 1394537560 24*	tan has quit (Quit: No Ping reply in 180 seconds.)
+T 1394537574 23*	tan (~quassel@unaffiliated/tan23) has joined
+T 1394537594 23*	AbsintheSyringe (~havoc@sd440645e.adsl.online.nl23) has joined
+T 1394537609 24*	Gentlecat has quit (Read error: Connection reset by peer)
+T 1394537650 23*	qurk (~qurk@63.245.175.21123) has joined
+T 1394537657 24*	28AbsintheSyringe is now known as 18fooctrl
+T 1394537759 24*	wolfehr has quit (Remote host closed the connection)
+T 1394537779 23*	wolfehr (~paultarr@92-60-101-28.rdns.host-it.co.uk23) has joined
+T 1394537952 24*	Drone4four has quit (Ping timeout: 265 seconds)
+T 1394537998 23*	tc_ (~tc@e178209075.adsl.alicedsl.de23) has joined
+T 1394538005 23*	aergus (~aergus@88.228.117.423) has joined
+T 1394538030 23*	utack (~utack@mnch-5d874913.pool.mediaWays.net23) has joined
+T 1394538071 23*	CaT_MaN (~daniel@bg.ibg.bg23) has joined
+T 1394538106 23*	saikrishna (c2ed8e11@gateway/web/freenode/ip.194.237.142.1723) has joined
+T 1394538112 24*	saikrishna (c2ed8e11@gateway/web/freenode/ip.194.237.142.1724) has left
+T 1394538157 23*	kenbts (~kenbts@CPE-124-177-113-164.lns5.woo.bigpond.net.au23) has joined
+T 1394538204 24*	mellernoia has quit ()
+T 1394538218 23*	Dragooon_ (~shitiz@122.177.239.6423) has joined
+T 1394538298 24*	Dragooon has quit (Ping timeout: 240 seconds)
+T 1394538298 24*	28Dragooon_ is now known as 18Dragooon
+T 1394538352 24*	RougePad has quit (Read error: Connection reset by peer)
+T 1394538456 24*	rammani has quit (Quit: Leaving)
+T 1394538491 24*	arpu has quit (Quit: Ex-Chat)
+T 1394538502 23*	arpu (~arpu@91-119-211-207.dynamic.xdsl-line.inode.at23) has joined
+T 1394538591 23*	AlexPortable (uid7568@gateway/web/irccloud.com/x-uyuxmhjbpqkljgdr23) has joined
+T 1394538658 24*	pretty_function has quit (Remote host closed the connection)
+T 1394538695 23*	Drone4four (~Drone4fou@CPE78cd8e66c1f0-CM78cd8e66c1ed.cpe.net.cable.rogers.com23) has joined
+T 1394538764 23*	Paperino (~yuri@2-234-61-80.ip221.fastwebnet.it23) has joined
+T 1394538827 24*	EdLin has quit (Changing host)
+T 1394538827 23*	EdLin (~EdLin@securabit/listener/edlin23) has joined
+T 1394538928 23*	Dary (~Dary@111.161.0.7223) has joined
+T 1394538945 24*	nomic has quit (Remote host closed the connection)
+T 1394539032 23*	jetblack (~jetblack@39.sub-70-197-199.myvzw.com23) has joined
+T 1394539128 23*	mellernoia (~eduardohe@186.219.133.19423) has joined
+T 1394539139 23*	pvankouteren (~pvankoute@x123.infopact.nl23) has joined
+T 1394539165 23*	javasox (~javasox@em36-240-201-245.pool.e-mobile.ne.jp23) has joined
+T 1394539227 24*	kenbts (~kenbts@CPE-124-177-113-164.lns5.woo.bigpond.net.au24) has left ("Ex-Chat")
+T 1394539318 23*	Shakeel (7087bca4@gateway/web/freenode/ip.112.135.188.16423) has joined
+T 1394539328 23*	Entropy512 (~quassel@cpe-69-207-202-50.stny.res.rr.com23) has joined
+T 1394539330 23*	Huntyz (Huntyz@dedip4k004.xirvik.com23) has joined
+T 1394539371 24*	Shakeel has quit (Client Quit)
+T 1394539422 23*	nomic (~nomic@host86-168-57-251.range86-168.btcentralplus.com23) has joined
+T 1394539452 23*	oliver_ (~oliver@77-20-177-189-dynip.superkabel.de23) has joined
+T 1394539470 23*	dougl (~doug@S0106744401495b56.wp.shawcable.net23) has joined
+T 1394539582 23*	prophit (~rgelhause@ip-64-134-52-4.public.wayport.net23) has joined
+T 1394539651 23*	penk (~dave@pool-71-162-75-65.bstnma.east.verizon.net23) has joined
+T 1394539674 24*	Donskoy has quit (Quit: Leaving)
+T 1394539741 24*	IV30 has quit (Read error: Operation timed out)
+T 1394539745 23*	Silmarilion (~Silmarili@cable-94-189-222-193.dynamic.sbb.rs23) has joined
+T 1394539760 24*	prophit has quit (Client Quit)
+T 1394539777 23*	Gifgroen (~Gifgroen@91.194.225.17223) has joined
+T 1394539864 23*	Gargantua (~Garg@38.64.161.21823) has joined
+T 1394539885 18<Gargantua18>	Anyone know of a way to stream all output audio from an android device to a windows machine?
+T 1394539894 24*	javasox has quit (Remote host closed the connection)
+T 1394539928 23*	crxz0193 (~crxz0193@203.247.149.15223) has joined
+T 1394539933 23*	prdxg (~paradoxgo@unaffiliated/paradoxgo23) has joined
+T 1394539947 24*	penk has quit (Ping timeout: 252 seconds)
+T 1394539987 23*	Darian2 (~Darian4@78.104.171.18523) has joined
+T 1394540004 23*	loudno1ses (~quassel@d24-57-162-202.home.cgocable.net23) has joined
+T 1394540046 23*	bas__ (~bas@5.206.212.1823) has joined
+T 1394540050 24*	fels_zh_ has quit ()
+T 1394540100 23*	IV30 (~IV30@121.44-243-81.adsl-dyn.isp.belgacom.be23) has joined
+T 1394540457 24*	qurk has quit (Quit: Oh baby, I was bound for Mexico.)
+T 1394540575 24*	yacks has quit (Ping timeout: 252 seconds)
+T 1394540616 23*	Gentlecat (~Gentlecat@79.105.223.12323) has joined
+T 1394540675 23*	jedimind (~pud@unaffiliated/jedimind23) has joined
+T 1394540699 24*	turux has quit (Ping timeout: 240 seconds)
+T 1394540961 24*	Darian2 has quit (Remote host closed the connection)
+T 1394541005 23*	chcx (~chcx@200.10.167.123) has joined
+T 1394541006 24*	chcx has quit (Changing host)
+T 1394541006 23*	chcx (~chcx@unaffiliated/chicox23) has joined
+T 1394541019 23*	ImQ009 (~vibrant@host-81-190-182-240.gorzow.mm.pl23) has joined
+T 1394541108 23*	mstamerius (~mstameriu@cust-95-128-91-34.breedbanddelft.nl23) has joined
+T 1394541325 23*	FreezingCold (~FreezingC@205.211.54.16223) has joined
+T 1394541329 24*	_wli has quit (Quit: Textual IRC Client: www.textualapp.com)
+T 1394541425 23*	penk (~dave@pool-71-162-75-65.bstnma.east.verizon.net23) has joined
+T 1394541452 24*	shagrath has quit (Quit: Leaving)
+T 1394541458 18<dusf12318>	can anyone reommend a terminal emulator?
+T 1394541463 23*	SS01 (~textual@199.21.149.18223) has joined
+T 1394541468 18<aboudreault18>	any idea why I can't extract my android backup? I do see stuff... but not all and got this error: tar: Unexpected EOF in archive tar: rmtlseek not stopped at a record boundary
+T 1394541492 18<aboudreault18>	I've tried to use dd + tar and also java abe + tar
+T 1394541601 24*	Syzygy_ has quit (Ping timeout: 240 seconds)
+T 1394541607 24*	ndrei has quit (Ping timeout: 265 seconds)
+T 1394541635 24*	LeeJunFan has quit (Ping timeout: 265 seconds)
+T 1394541675 23*	CEnnis91 (uid3543@gateway/web/irccloud.com/x-zxhjhgrbdypxvsbu23) has joined
+T 1394541680 24*	crazybotsmoker has quit (Quit: PanicBNC - https://PanicBNC.net)
+T 1394541748 24*	Almtesh has quit (Remote host closed the connection)
+T 1394541789 24*	bas__ has quit (Quit: ok)
+T 1394541799 24*	upoli has quit (Ping timeout: 240 seconds)
+T 1394541821 23*	upoli (~me@host-239.180-235-182.cable.dynamic.kbtelecom.net23) has joined
+T 1394541834 23*	HectorBarbossa (uid7850@gateway/web/irccloud.com/x-ifadcftuinssttco23) has joined
+T 1394541841 24*	mstamerius (~mstameriu@cust-95-128-91-34.breedbanddelft.nl24) has left
+T 1394541845 23*	ndrei (~avo@83.142.149.22723) has joined
+T 1394541932 24*	luque has quit (Quit: Leaving.)
+T 1394541983 23*	tom94 (~tom@152.78.171.1023) has joined
+T 1394542043 24*	jedimind has quit (Quit: zzzz)
+T 1394542108 24*	GusBricker has quit (Remote host closed the connection)
+T 1394542124 24*	Dragooon has quit (Quit: Dragooon)
+T 1394542127 23*	mylord (~rover@84.95.211.226.forward.012.net.il23) has joined
+T 1394542146 24*	dhodge has quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+T 1394542146 18<mylord18>	why might I be seeing error for activity_main all of a sudden?         setContentView(android.R.layout.activity_main);
+T 1394542203 18<mylord18>	the activity_main.xml looks fine? http://hastebin.com/vohudewaso.xml
+T 1394542206 23*	Cronoh (~Cronoh@ip68-3-77-178.ph.ph.cox.net23) has joined
+T 1394542235 24*	28WillPittenger is now known as 18WLP|Away
+T 1394542254 24*	tc_ has quit (Remote host closed the connection)
+T 1394542271 24*	arietis has quit (Quit: Computer has gone to sleep.)
+T 1394542291 24*	MrHeisenberg has quit (Ping timeout: 252 seconds)
+T 1394542413 23*	tc_ (~tc@e178209075.adsl.alicedsl.de23) has joined
+T 1394542509 23*	||oop (oop@c-68-80-152-235.hsd1.nj.comcast.net23) has joined
+T 1394542595 23*	arietis (~arietis@188.242.181.16223) has joined
+T 1394542632 24*	lagann has quit (Ping timeout: 240 seconds)
+T 1394542661 24*	nomic has quit (Remote host closed the connection)
+T 1394542661 23*	bollullera (~ana@95.63.152.10623) has joined
+T 1394542671 24*	tc_ has quit (Remote host closed the connection)
+T 1394542714 24*	bollullera (~ana@95.63.152.10624) has left
+T 1394542715 23*	sargyknight (~asdasdas@unaffiliated/sargyknight23) has joined
+T 1394542744 23*	nomic (~nomic@host86-168-57-251.range86-168.btcentralplus.com23) has joined
+T 1394542779 23*	MrHeisenberg (~Heisenber@195.234.107.123) has joined
+T 1394542795 23*	bollullera (~ana@95.63.152.10623) has joined
+T 1394542807 23*	yacks (~py@103.6.159.10323) has joined
+T 1394542867 23*	qurk (~qurk@63.245.175.21123) has joined
+T 1394542890 24*	penk has quit (Quit: Leaving...)
+T 1394542964 24*	sargyknight (~asdasdas@unaffiliated/sargyknight24) has left
+T 1394543064 24*	prdxg has quit (Ping timeout: 240 seconds)
+T 1394543074 24*	Black_Horseman has quit (Quit: Zwi se logou mou!!!)
+T 1394543233 24*	AndroidVaan2 has quit (Quit: Bye)
+T 1394543240 24*	CaT_MaN has quit (Read error: Connection reset by peer)
+T 1394543248 24*	SS01 has quit (Ping timeout: 252 seconds)
+T 1394543256 23*	CaT_MaN (~daniel@bg.ibg.bg23) has joined
+T 1394543332 23*	Fishy (~fishy@static-71-179-48-66.bltmmd.fios.verizon.net23) has joined
+T 1394543386 23*	BrandoAndro (~androirc@ip72-208-106-129.ph.ph.cox.net23) has joined
+T 1394543463 24*	aergus has quit (Ping timeout: 265 seconds)
+T 1394543525 24*	Delayny has quit (Ping timeout: 244 seconds)
+T 1394543552 23*	xored (~xored@freiburg.digitalpatrioten.com23) has joined
+T 1394543603 24*	bollullera has quit (Read error: Connection reset by peer)
+T 1394543624 24*	BrandoAndro has quit (Read error: Connection reset by peer)
+T 1394543690 23*	bollullera (~ana@95.63.152.10623) has joined
+T 1394543699 24*	tan has quit (Quit: No Ping reply in 180 seconds.)
+T 1394543714 23*	tan (~quassel@unaffiliated/tan23) has joined
+T 1394543745 24*	BaronTwunty has quit (Ping timeout: 252 seconds)
+T 1394543786 23*	SS01 (~textual@199.167.138.22323) has joined
+T 1394543828 23*	tc_ (~tc@e178209075.adsl.alicedsl.de23) has joined
+T 1394543840 23*	LeeJunFan (~junfan@97-83-113-254.static.trcy.mi.charter.com23) has joined
+T 1394543841 24*	CaT_MaN has quit (Read error: Connection reset by peer)
+T 1394543857 23*	CaT_MaN (~daniel@bg.ibg.bg23) has joined
+T 1394543865 23*	BaronTwunty (~BaronTwun@cpc1-sals3-2-0-cust222.15-1.cable.virginm.net23) has joined
+T 1394543960 23*	Cancel (~cancel@FUSE-DEDICATED-69-61-254-226.fuse.net23) has joined
+T 1394544115 24*	infernix has quit (Quit: ZNC - http://znc.sourceforge.net)
+T 1394544171 23*	turux (kvirc@160.80.96.15523) has joined
+T 1394544184 23*	CheckDavid (uid14990@gateway/web/irccloud.com/x-kqysyxcmxrpyiwns23) has joined
+T 1394544312 23*	dhodge (~textual@216.30.179.5423) has joined
+T 1394544432 23*	smellyprogrammer (56ac7325@gateway/web/freenode/ip.86.172.115.3723) has joined
+T 1394544457 18<smellyprogrammer18>	How can I access pictures directory from path? eg ".\pictures\myphoto.jpg"
+T 1394544467 18<smellyprogrammer18>	what is the way to write as a string
+T 1394544475 24*	dniw has quit ()
+T 1394544502 23*	johnflux (~johnflux@cpc4-brig16-2-0-cust130.3-3.cable.virginm.net23) has joined
+T 1394544503 24*	johnflux__ has quit (Ping timeout: 252 seconds)
+T 1394544513 24*	johnflux has quit (Changing host)
+T 1394544513 23*	johnflux (~johnflux@konversation/developer/JohnFlux23) has joined
+T 1394544578 24*	xored (~xored@freiburg.digitalpatrioten.com24) has left
+T 1394544624 24*	BaronTwunty has quit (Ping timeout: 265 seconds)
+T 1394544727 23*	technickul (~nick@207-229-184-181.c3-0.drb-ubr1.chi-drb.il.cable.rcn.com23) has joined
+T 1394544744 23*	AaronMT (~AaronMT@CPE0088654f39bd-CM602ad0738a5c.cpe.net.cable.rogers.com23) has joined
+T 1394544793 23*	luque (~Adium@webgw0.telhc.bbc.co.uk23) has joined
+T 1394544866 24*	luque has quit (Remote host closed the connection)
+T 1394544877 23*	Sean_Wang (~SeanWang@123.121.45.1423) has joined
+T 1394544910 23*	IamTrying (~IamTrying@82.143.92.1923) has joined
+T 1394544981 23*	sm0ke (~sm0ke@106.51.15.20823) has joined
+T 1394545079 24*	technickul has quit (Ping timeout: 240 seconds)
+T 1394545105 18<sm0ke18>	guys any opensource alternative to corona?
+T 1394545129 23*	luque (~Adium@webgw1.cwwtf.bbc.co.uk23) has joined
+T 1394545152 18<cagedwisdom18>	sm0ke, whats corona
+T 1394545157 24*	upoli has quit ()
+T 1394545174 18<IceBone18>	Apart from sex in a canoe.
+T 1394545176 18<cagedwisdom18>	or are you asking for homebrew
+T 1394545191 18<sm0ke18>	coronasdk, its crossplatform framework
+T 1394545226 18<cagedwisdom18>	sm0ke, checkout playn
+T 1394545261 18<sm0ke18>	sorry i forgot to mention, i am basically looking for lua based framework
+T 1394545274 18<cagedwisdom18>	oh is that all
+T 1394545309 18<sm0ke18>	yea
+T 1394545310 23*	jedimind (~pud@unaffiliated/jedimind23) has joined
+T 1394545313 23*	amiloxa (~amiloxa@drsd-4d05e1ed.pool.mediaWays.net23) has joined
+T 1394545343 18<sm0ke18>	so basically if there is something which makes it possible to package lua based project as apk is also fine
+T 1394545373 18<sm0ke18>	hell even an arm compiled binary to apk wouldbe kick ass too
+T 1394545499 23*	BaronTwunty (~BaronTwun@cpc1-sals3-2-0-cust222.15-1.cable.virginm.net23) has joined
+T 1394545658 23*	penk (~dave@static-66-137-171-68.axsne.net23) has joined
+T 1394545734 23*	developerjustin (~developer@173.80.86.17923) has joined
+T 1394545745 24*	ValicekB has quit ()
+T 1394545767 23*	Donskoy (~Donskoy@c-98-254-96-234.hsd1.fl.comcast.net23) has joined
+T 1394545825 23*	goodminton (~chatzilla@27.105.4.2923) has joined
+T 1394545862 23*	niqt (~nicola@2-228-80-129.ip190.fastwebnet.it23) has joined
+T 1394545877 23*	mxttie (~mattie@94-225-166-248.access.telenet.be23) has joined
+T 1394545912 23*	m1chael (~m1chael@162-228-133-91.lightspeed.wlfrct.sbcglobal.net23) has joined
+T 1394545914 23*	mengxi (~mengxi@static-96-239-100-47.nycmny.fios.verizon.net23) has joined
+T 1394545960 23*	ValicekB (~tbox@dot.snat.baz.cz23) has joined
+T 1394545967 24*	Click66 has quit (Quit: Computer has gone to sleep.)
+T 1394545984 24*	rivarun (~\_0x02@2001:648:2ffc:1225:a800:9ff:fe07:f0b24) has left
+T 1394546002 24*	goodminton has quit (Client Quit)
+T 1394546016 23*	goodminton (~chatzilla@27.105.4.2923) has joined
+T 1394546026 23*	Click66 (~Click66@94.143.188.023) has joined
+T 1394546145 24*	LeeJunFan has quit ()
+T 1394546283 19*	Now talking on 22#android
+T 1394546283 22*	Topic for 22#android is: Welcome to the official Android platform IRC channel! || AOSP review back up at https://android-review.googlesource.com/ || Android 4.4 (KitKat) source released http://goo.gl/qIqdpC  || Root? Modded ROMs? Head to #android-root || App development questions? See #android-dev || Not talking android? Head to #android-offtopic
+T 1394546283 22*	Topic for 22#android set by 26evanc!~evan@evancharlton.com (24Fri Nov  1 17:49:24 2013)
+T 1394546293 23*	jobewan (~jobewan@69.179.206.3923) has joined
+T 1394546349 23*	Umeaboy (~Umeaboy@213-21-78-12.customer.t3.se23) has joined
+T 1394546410 24*	luque has quit (Quit: Leaving.)
+T 1394546527 23*	gua_ould (~gua_ould@84-199-115-74.iFiber.telenet-ops.be23) has joined
+T 1394546560 23*	rishabhmhjn (~rishabhmh@em119-72-195-39.pool.e-mobile.ne.jp23) has joined
+T 1394546610 24*	mxttie has quit (Quit: Doodiedoodiedoodiedoooo)
+T 1394546651 24*	Silmarilion has quit (Read error: Connection reset by peer)
+T 1394546657 24*	SS01 has quit (Ping timeout: 244 seconds)
+T 1394546677 23*	mad_max0204 (5275d24a@gateway/web/freenode/ip.82.117.210.7423) has joined
+T 1394546694 24*	mad_max0204 (5275d24a@gateway/web/freenode/ip.82.117.210.7424) has left
+T 1394546733 18<IamTrying18>	Many Apps, after installing they are Spyware/Virus and it says Trial for 15 days but does nothing and steal all my contacts
+T 1394546737 24*	smellyprogrammer has quit (Quit: Page closed)
+T 1394546750 24*	ndrei has quit (Ping timeout: 244 seconds)
+T 1394546750 18<IamTrying18>	Is there any way to report complain about those to Google Android apps store?
+T 1394546806 24*	sharkz has quit (Quit: leaving)
+T 1394546825 23*	sharkz (r02922070@linux3.csie.ntu.edu.tw23) has joined
+T 1394546867 23*	dniw (~dniw@ip68-100-148-218.dc.dc.cox.net23) has joined
+T 1394546868 24*	dniw has quit (Changing host)
+T 1394546868 23*	dniw (~dniw@unaffiliated/dniw23) has joined
+T 1394546960 23*	Turux|2 (kvirc@160.80.96.15523) has joined
+T 1394546976 23*	ndrei (~avo@83.142.149.22723) has joined
+T 1394546992 23*	stultus (~stultus@wikisource/Hrishikesh.kb23) has joined
+T 1394547004 23*	Almtesh (~Almtesh@unaffiliated/almtesh23) has joined
+T 1394547078 23*	Gwinnell (~Gwinnell@mail.testimonyfilms.com23) has joined
+T 1394547084 24*	jackneill has quit (Quit: WeeChat 0.4.3)
+T 1394547111 23*	jackneill (~jackneill@unaffiliated/jackneill23) has joined
+T 1394547121 24*	turux has quit (Ping timeout: 244 seconds)
+T 1394547151 23*	luque (~Adium@webgw0.telhc.bbc.co.uk23) has joined
+T 1394547162 23*	smccully (~smccully@COMMEMORATI.ear1.Dallas1.Level3.net23) has joined
+T 1394547176 23*	aemquo (~UN@unaffiliated/aemquo23) has joined
+T 1394547215 24*	smccully has quit (Remote host closed the connection)

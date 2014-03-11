@@ -1,0 +1,509 @@
+T 1394492357 23*	ac_slater (~weechat@128.89.69.25423) has joined
+T 1394492385 18<ac_slater18>	hey guys, any opinions on a dbus notify script? There are a few solid ones, just curious if anyone had any opinions
+T 1394492552 24*	PaulW2U has quit (Quit: WeeChat 0.4.4-dev)
+T 1394492922 23*	squinteye_ (~quassel@unaffiliated/squinteye23) has joined
+T 1394493007 24*	squinteye_ has quit (Remote host closed the connection)
+T 1394493530 24*	ac_slater has quit (Quit: WeeChat 0.4.3)
+T 1394493807 24*	solez has quit (Quit: Going...)
+T 1394494160 24*	flazz (~flazz@2001:4800:780d:509:8f7b:f0fa:ff04:5ae724) has left ("WeeChat 0.4.3")
+T 1394494202 23*	ac_slater (~weechat@128.89.69.25423) has joined
+T 1394494263 24*	ac_slater has quit (Quit: WeeChat 0.4.3)
+T 1394494471 23*	ac_slater (~weechat@128.89.69.25423) has joined
+T 1394494481 24*	diegoviola has quit (Quit: WeeChat 0.4.3)
+T 1394494493 24*	anhtuann has quit (Ping timeout: 252 seconds)
+T 1394494497 24*	squinteye has quit (Quit: WeeChat 0.4.1)
+T 1394494523 18<ac_slater18>	alright guys I'm having an issue with buffers.pl . I just upgraded it (im on weechat 0.4.3), and it was working until I restarted weechat. Now I get a bunch of uninitialized variable warnings on load. Any clues?
+T 1394494567 24*	tapout has quit (Ping timeout: 265 seconds)
+T 1394494594 18<mumixam18>	when you load buffers?
+T 1394494599 18<mumixam18>	or loading perl?
+T 1394494612 18<ac_slater18>	the buffer script
+T 1394494634 18<ac_slater18>	http://paste.debian.net/plain/87019
+T 1394494661 18<mumixam18>	well it thinks buffers is already loaded for starters
+T 1394494671 18<mumixam18>	whats `/perl` say
+T 1394494691 18<ac_slater18>	hmm well it appears to be loaded
+T 1394494698 18<mumixam18>	/bar show buffers
+T 1394494702 18<mumixam18>	try that if you dont see it?
+T 1394494710 18<ac_slater18>	haha!
+T 1394494721 18<ac_slater18>	I had the option set to "on" must have messed up or something
+T 1394494723 18<ac_slater18>	thanks
+T 1394494731 18<mumixam18>	yea np
+T 1394494829 24*	sbine has quit (Ping timeout: 240 seconds)
+T 1394494886 24*	Rockj has quit (Ping timeout: 265 seconds)
+T 1394494920 23*	tapout (~tapout@unaffiliated/tapout23) has joined
+T 1394495001 24*	Yukikaze has quit (Quit: :O lolis everywhere...)
+T 1394495010 24*	tapout has quit (Max SendQ exceeded)
+T 1394495084 24*	tacodile has quit (Quit: ZNC - http://znc.in)
+T 1394495133 23*	axion (~axion@cpe-67-246-18-219.nycap.res.rr.com23) has joined
+T 1394495136 24*	ogny has quit (Ping timeout: 240 seconds)
+T 1394495205 24*	Dan39 has quit (Ping timeout: 265 seconds)
+T 1394495219 23*	tacodile (~kitteh@hamsexy.radiogirl.fm23) has joined
+T 1394495338 24*	28Piotrek is now known as 18Piotrek|away
+T 1394495465 23*	Rockj (rockj@rockj.net23) has joined
+T 1394495489 24*	Fastolph has quit (Ping timeout: 240 seconds)
+T 1394495544 24*	v0n has quit (Ping timeout: 240 seconds)
+T 1394495765 23*	diegoviola (~diego@unaffiliated/diegoviola23) has joined
+T 1394495838 23*	Yukikaze (~Yuki@ipv6.akarin.lolicon.eu23) has joined
+T 1394496076 24*	tacodile has quit (Remote host closed the connection)
+T 1394496239 23*	tacodile (taco@hamsexy.radiogirl.fm23) has joined
+T 1394496379 18<diegoviola18>	i want to list a channel that start with foo
+T 1394496387 18<diegoviola18>	list all channels that start with foo
+T 1394496394 18<diegoviola18>	if i do /list -re #foo* nothing happens
+T 1394496397 18<diegoviola18>	any ideas?
+T 1394496467 24*	Kryptron has quit (Ping timeout: 252 seconds)
+T 1394496547 24*	adaptr has quit (Ping timeout: 245 seconds)
+T 1394496638 23*	Dan39 (~ddan39@unaffiliated/dan3923) has joined
+T 1394496772 24*	dreams has quit (Read error: Connection reset by peer)
+T 1394496800 24*	talisein has quit (Ping timeout: 265 seconds)
+T 1394496818 18<bin_bash18>	have you tried alis
+T 1394496829 23*	dreams (~dreams@client-86-23-126-145.brhm.adsl.virginm.net23) has joined
+T 1394496854 18<farn18>	diegoviola: that's not really how regex works, but it should actually match more than you wanted to matchffff
+T 1394496859 18<farn18>	you did check the server buffer?
+T 1394496859 18<dreams18>	weechat just crashed due to a bug (SIGSEGV)
+T 1394496880 18<farn18>	diegoviola: but yes, on freenode you can do /q alis list #foo*
+T 1394496923 18<farn18>	(ignore the ffff)
+T 1394496964 18<diegoviola18>	thanks
+T 1394497082 23*	adaptr (~jgeilman@unaffiliated/adaptr23) has joined
+T 1394497291 24*	MuffinMan` has quit (Quit: sava krpa sava)
+T 1394497957 24*	polyzen has quit (Quit: polyzen)
+T 1394497960 24*	ac_slater has quit (Quit: WeeChat 0.4.3)
+T 1394498030 23*	ac_slater (~weechat@128.89.69.25423) has joined
+T 1394498081 18<ac_slater18>	crap I forgot to turn logging back on. What do I set so `/bar show buffers` is on by default?
+T 1394498425 24*	ac_slater has quit (Quit: WeeChat 0.4.3)
+T 1394499070 24*	yosafbridge has quit (Ping timeout: 264 seconds)
+T 1394499106 24*	tehlarsie has quit (Ping timeout: 264 seconds)
+T 1394499112 23*	tehlarsie (~tehlarsie@irc.awesome-hd.net23) has joined
+T 1394499113 24*	tehlarsie has quit (Changing host)
+T 1394499113 23*	tehlarsie (~tehlarsie@unaffiliated/tehlarsie23) has joined
+T 1394499207 24*	KenjiE20 has quit (Ping timeout: 265 seconds)
+T 1394499441 23*	yosafbridge (~yosafbrid@li125-242.members.linode.com23) has joined
+T 1394499700 23*	Fastolph (~fastolph@sd-33701.dedibox.fr23) has joined
+T 1394500261 24*	dreams (~dreams@client-86-23-126-145.brhm.adsl.virginm.net24) has left ("WeeChat 0.4.3")
+T 1394500658 24*	Nastrahl has quit (Ping timeout: 240 seconds)
+T 1394500697 18<sq18>	why can't i ctrl-x in irc_raw?
+T 1394500906 24*	adaptr has quit (Ping timeout: 264 seconds)
+T 1394500934 18<farn18>	sq: irc_raw is a single buffer, even though it may look like multiple merged ones
+T 1394500948 18<sq18>	such treachery
+T 1394501307 24*	newton (james@unaffiliated/newton24) has left
+T 1394501399 24*	kelnoky has quit (Ping timeout: 240 seconds)
+T 1394501493 18<sq18>	weechat didn't display join on :猫JOIN #chan
+T 1394501503 18<sq18>	probably a bug?
+T 1394501627 23*	adaptr (~jgeilman@unaffiliated/adaptr23) has joined
+T 1394501770 24*	blackmesa has quit (Ping timeout: 264 seconds)
+T 1394502537 23*	v0n (~vivien@dafuckingbox.fridim.org23) has joined
+T 1394503799 24*	adaptr has quit (Ping timeout: 240 seconds)
+T 1394503802 23*	abbel_ (~rehfeld@f055127088.adsl.alicedsl.de23) has joined
+T 1394503891 24*	bin_bash has quit (Remote host closed the connection)
+T 1394503996 24*	abbel has quit (Ping timeout: 256 seconds)
+T 1394503999 23*	NiTeMaRe (nitemare@the.one.and.the.only.nitemare.name23) has joined
+T 1394504040 24*	cewood has quit (Ping timeout: 240 seconds)
+T 1394504333 24*	newt has quit (Quit: WeeChat 0.4.1)
+T 1394504354 23*	adaptr (~jgeilman@unaffiliated/adaptr23) has joined
+T 1394505062 23*	cewood (~cewood@nat-gw1.syd4.anchor.net.au23) has joined
+T 1394506036 24*	ormaaj has quit (Read error: Connection reset by peer)
+T 1394506173 23*	ormaaj (~ormaaj@75-168-169-52.mpls.qwest.net23) has joined
+T 1394506518 24*	ormaaj has quit (Ping timeout: 240 seconds)
+T 1394506819 24*	jerrytgarcia has quit (Read error: Connection reset by peer)
+T 1394506866 23*	jerrytgarcia (~jerrytgar@119.95.180.5023) has joined
+T 1394507042 23*	ormaaj (~ormaaj@75-168-176-28.mpls.qwest.net23) has joined
+T 1394507074 23*	PowerSchill (~PowerSchi@2601:0:ca00:a69:457f:6e09:403c:91023) has joined
+T 1394507103 23*	KenjiE20 (kenjie20@gateway/shell/blinkenshell.org/session23) has joined
+T 1394507119 24*	KenjiE20 has quit (Changing host)
+T 1394507119 23*	KenjiE20 (kenjie20@gateway/shell/blinkenshell.org/x-xxpuzkybbfgnhjja23) has joined
+T 1394507849 24*	whiskers75 has quit (Ping timeout: 265 seconds)
+T 1394507955 23*	luzie (~ne@unaffiliated/ne23) has joined
+T 1394508111 24*	Mikaela has quit (Excess Flood)
+T 1394508161 23*	Mikaela (mkaysi@unaffiliated/mikaela23) has joined
+T 1394508222 23*	whiskers75 (~whiskers7@unaffiliated/whiskers7523) has joined
+T 1394508318 24*	seschwar has quit (Quit: :qa)
+T 1394508711 23*	dagnachew (~dagnachew@bas1-montreal30-2925414263.dsl.bell.ca23) has joined
+T 1394508735 24*	28she_afk is now known as 18she_dyed
+T 1394508738 18<dagnachew18>	what was the command to save the buffer numbers after reordering
+T 1394508937 24*	Lurker3 has quit (Ping timeout: 240 seconds)
+T 1394508948 24*	grep0r has quit (Ping timeout: 252 seconds)
+T 1394508984 24*	arduix_ has quit (Ping timeout: 240 seconds)
+T 1394509057 24*	kiviuq has quit (Ping timeout: 240 seconds)
+T 1394509063 24*	_`_ has quit (Remote host closed the connection)
+T 1394509076 23*	Lurker3 (derpydude@bitcoinshell.mooo.com23) has joined
+T 1394509106 18<kunwon118>	my weechat freezes and becomes unresponsive for minutes on end when i use /buffer close
+T 1394509143 23*	arduix (~arduix@nx.opentunisia.org23) has joined
+T 1394509150 23*	grep0r (grep0r@bitcoinshell.mooo.com23) has joined
+T 1394509190 18<kunwon118>	any ideas? my server window has scrolled away, how can i determine my current weechat version? is there a command?
+T 1394509202 23*	_`_ (~kittysnif@unaffiliated/happy23) has joined
+T 1394509232 24*	DarkDefender has quit (Quit: WeeChat 0.4.3)
+T 1394509242 18<tacodile18>	look at the top of your weechat buffer
+T 1394509282 23*	pks2 (~pks@g225053080.adsl.alicedsl.de23) has joined
+T 1394509298 18<kunwon118>	well duh, that's gone
+T 1394509310 18<kunwon118>	more than 10,000 lines in that buffer so it's scrolled away
+T 1394509318 18<kunwon118>	but there's a version command in /help
+T 1394509326 18<kunwon118>	and when i invoke it it gets passed to the irc server
+T 1394509351 24*	dagnachew has quit (Quit: WeeChat 0.4.3)
+T 1394509363 24*	bananagram has quit (Ping timeout: 244 seconds)
+T 1394509438 24*	pks1 has quit (Ping timeout: 240 seconds)
+T 1394510391 18<nesthib18>	kunwon1: /v
+T 1394510737 24*	Caleb has quit (Read error: Connection reset by peer)
+T 1394510737 24*	octane- has quit (Ping timeout: 240 seconds)
+T 1394510752 24*	mgue has quit (Ping timeout: 244 seconds)
+T 1394510755 23*	octane-- (~octane@ec2-54-220-67-86.eu-west-1.compute.amazonaws.com23) has joined
+T 1394511135 23*	Caleb (~Caleb@cpe-098-121-133-015.nc.res.rr.com23) has joined
+T 1394511136 24*	Caleb has quit (Changing host)
+T 1394511136 23*	Caleb (~Caleb@archlinux/op/caleb23) has joined
+T 1394511172 24*	master_j has quit (Quit: WeeChat 0.4.3)
+T 1394511490 23*	mgue (~mgue@p54B35D5B.dip0.t-ipconnect.de23) has joined
+T 1394511609 23*	polyzen (~poly@unaffiliated/polyzen23) has joined
+T 1394511636 23*	talisein (~talisein@april-fools/sixth/talisein23) has joined
+T 1394511811 24*	Quora has quit (Remote host closed the connection)
+T 1394511821 18<polyzen18>	^-c should clear the input area :p
+T 1394511829 23*	Heartmender (~quora@unaffiliated/quora23) has joined
+T 1394511984 24*	Heartmender has quit (Client Quit)
+T 1394512014 23*	Heartmender (~quora@unaffiliated/quora23) has joined
+T 1394512582 24*	yokel has quit (Read error: Operation timed out)
+T 1394512631 23*	yokel (~yokel@unaffiliated/contempt23) has joined
+T 1394512919 24*	cewood has quit (Ping timeout: 240 seconds)
+T 1394512938 24*	yokel has quit (Ping timeout: 240 seconds)
+T 1394513045 23*	yokel (~yokel@unaffiliated/contempt23) has joined
+T 1394513248 23*	hack4secureyours (~hack4secu@i5E879AB3.versanet.de23) has joined
+T 1394513381 24*	28mythmon_ is now known as 18mythmon
+T 1394513398 24*	yokel has quit (Ping timeout: 264 seconds)
+T 1394513487 23*	yokel (~yokel@unaffiliated/contempt23) has joined
+T 1394513697 24*	xsteadfastx has quit (Ping timeout: 245 seconds)
+T 1394513827 24*	yokel has quit (Ping timeout: 244 seconds)
+T 1394513866 23*	Apasmara (~Apasmara@212.255.114.8823) has joined
+T 1394513895 18<hack4secureyours18>	hi at all :)
+T 1394513912 23*	yokel (~yokel@198.98.53.11823) has joined
+T 1394513912 24*	yokel has quit (Changing host)
+T 1394513912 23*	yokel (~yokel@unaffiliated/contempt23) has joined
+T 1394513916 18<she_dyed18>	hey there
+T 1394513959 18<hack4secureyours18>	oh i think here are bots at all.^^
+T 1394513965 23*	cewood (~cewood@nat-gw1.syd4.anchor.net.au23) has joined
+T 1394514026 18<hack4secureyours18>	wuz up?
+T 1394514038 24*	Apasmara_ has quit (Ping timeout: 240 seconds)
+T 1394514165 23*	xsteadfastx (~marv@2001:a60:f000:81a2::123) has joined
+T 1394514355 24*	yokel has quit (Read error: Connection reset by peer)
+T 1394514370 23*	yokel (~yokel@unaffiliated/contempt23) has joined
+T 1394514416 23*	chandan (~chandan@122.248.161.5923) has joined
+T 1394514678 24*	yokel has quit (Ping timeout: 240 seconds)
+T 1394514730 24*	hack4secureyours has quit (Quit: Verlassend)
+T 1394514770 23*	yokel (~yokel@unaffiliated/contempt23) has joined
+T 1394515124 24*	yokel has quit (Ping timeout: 252 seconds)
+T 1394515217 18<tacodile18>	is there a way to turn smart filter off for one channel at a time?
+T 1394515228 18<tacodile18>	alt + = does all
+T 1394515250 23*	yokel (~yokel@unaffiliated/contempt23) has joined
+T 1394515608 24*	yokel has quit (Ping timeout: 240 seconds)
+T 1394515642 24*	FJKong has quit (Quit: ZNC - http://znc.in)
+T 1394515723 23*	xaviern (~xnaveira@host-95-195-158-135.mobileonline.telia.com23) has joined
+T 1394515754 23*	yokel (~yokel@unaffiliated/contempt23) has joined
+T 1394515765 23*	FJKong (~FJKong@199.180.254.15123) has joined
+T 1394516115 24*	yokel has quit (Ping timeout: 265 seconds)
+T 1394516177 23*	yokel (~yokel@unaffiliated/contempt23) has joined
+T 1394516462 24*	gigetoo has quit (Ping timeout: 244 seconds)
+T 1394516489 24*	yokel has quit (Ping timeout: 240 seconds)
+T 1394516576 23*	yokel (~yokel@unaffiliated/contempt23) has joined
+T 1394516592 23*	bocaneri (~bocaneri_@about/linux/staff/sauvin23) has joined
+T 1394516638 23*	gigetoo (~gigetoo@c83-250-61-4.bredband.comhem.se23) has joined
+T 1394516718 24*	xaviern has quit (Quit: WeeChat 0.4.2)
+T 1394516767 23*	xaviern (~xnaveira@host-95-195-158-135.mobileonline.telia.com23) has joined
+T 1394516869 24*	frakturfreak has quit (Ping timeout: 265 seconds)
+T 1394516970 24*	yokel has quit (Read error: Connection reset by peer)
+T 1394516984 23*	yokel (~yokel@unaffiliated/contempt23) has joined
+T 1394517203 24*	xaviern has quit (Ping timeout: 252 seconds)
+T 1394517361 24*	yokel has quit (Ping timeout: 244 seconds)
+T 1394517415 23*	yokel (~yokel@unaffiliated/contempt23) has joined
+T 1394517534 24*	GJdan has quit (Quit: WeeChat 0.4.3)
+T 1394517719 24*	yokel has quit (Ping timeout: 240 seconds)
+T 1394517733 23*	xaviern (~xnaveira@195.81.145.223) has joined
+T 1394517867 23*	yokel (~yokel@unaffiliated/contempt23) has joined
+T 1394517951 24*	gigetoo has quit (Remote host closed the connection)
+T 1394517976 23*	gigetoo (~gigetoo@c83-250-61-4.bredband.comhem.se23) has joined
+T 1394518152 24*	yokel has quit (Ping timeout: 240 seconds)
+T 1394518245 23*	yokel (~yokel@unaffiliated/contempt23) has joined
+T 1394518630 18<nils_218>	kunwon1: if you have a lot of buffers with >10,000 lines in each buffer, it takes its time to close all those buffers. and for version you can also use "/v -o" to print version in channel
+T 1394518660 23*	jnoah (~brutal_ch@osuosl/staff/brutal-chaos23) has joined
+T 1394518717 18<jnoah18>	hello, is it possible to save merged buffers? I don't usually take down my weechat instance, but when I do, it'd be nice to restore merged buffers when channels are rejoined. Is this possible?
+T 1394518805 18<FlashCode18>	jnoah: you can save layout (see /help layout)
+T 1394518879 18<nils_218>	/layout store   and then /save
+T 1394518904 18<jnoah18>	hmm, i'm on 0.3.8 atm, i don't see the store option
+T 1394518912 18<jnoah18>	but just /layout save, worked
+T 1394518912 18<nils_218>	on restart : /layout apply
+T 1394518927 18<nils_218>	you should upgrade your weechat jnoah
+T 1394518948 18<jnoah18>	out of my hands (for now), otherwise i would
+T 1394518974 18<nils_218>	/layout save does not "save" layout to disk!!! you have to use /save command. thats why the command "save" was renamed to "store"
+T 1394518984 18<jnoah18>	anyway, thanks! I figure /save would do the job, but I guess not
+T 1394518994 18<jnoah18>	oh
+T 1394519013 18<jnoah18>	that makes a lot of sense now
+T 1394519032 18<jnoah18>	tyvm
+T 1394519035 24*	jnoah (~brutal_ch@osuosl/staff/brutal-chaos24) has left ("WeeChat 0.3.8")
+T 1394519060 23*	maattdd (~matthieu@esc31-1-78-245-92-71.fbx.proxad.net23) has joined
+T 1394519078 24*	diniwed has quit (Ping timeout: 240 seconds)
+T 1394519263 24*	diegoviola has quit (Remote host closed the connection)
+T 1394519339 24*	maattdd has quit (Ping timeout: 265 seconds)
+T 1394519680 24*	bizarro_1 has quit (Quit: Leaving)
+T 1394520027 23*	luz1 (~ne@unaffiliated/ne23) has joined
+T 1394520058 24*	luzie has quit (Ping timeout: 264 seconds)
+T 1394520094 24*	haint has quit (Ping timeout: 264 seconds)
+T 1394520274 24*	starkhalo has quit (Ping timeout: 264 seconds)
+T 1394520312 24*	28she_dyed is now known as 18she_afk
+T 1394520360 23*	ogny (~orkun@78.186.132.20323) has joined
+T 1394520372 24*	jerrytgarcia has quit (Ping timeout: 252 seconds)
+T 1394520551 23*	jerrytgarcia (~jerrytgar@119.95.180.5023) has joined
+T 1394520588 23*	ferreum (~ferreus@p5482D938.dip0.t-ipconnect.de23) has joined
+T 1394520869 24*	sceox has quit (Ping timeout: 240 seconds)
+T 1394521102 24*	akiva has quit (Read error: Operation timed out)
+T 1394521546 23*	haint (~kif@unaffiliated/kif23) has joined
+T 1394521581 18<Mikaela18>	failed to create symbolic link '/home/users/mkaysi/.local/bin/weechat-curses' because existing path cannot be removed: No such file or directory
+T 1394521587 18<Mikaela18>	From the end of "make install"
+T 1394521603 24*	Mikaela has quit (Remote host closed the connection)
+T 1394521662 23*	anhtuann (~anhtuann@ron34-5-78-223-238-13.fbx.proxad.net23) has joined
+T 1394521695 24*	anhtuann has quit (Client Quit)
+T 1394521702 23*	Mikaela (mkaysi@unaffiliated/mikaela23) has joined
+T 1394521704 23*	anhtuann (~anhtuann@ron34-5-78-223-238-13.fbx.proxad.net23) has joined
+T 1394521770 24*	28dubf_ is now known as 18dubf
+T 1394521821 23*	sceox (~weechat@c-24-18-183-160.hsd1.wa.comcast.net23) has joined
+T 1394521957 18<FlashCode18>	Mikaela: maybe wrong permissions on the link?
+T 1394521984 18<Mikaela18>	I'm not sure. They should be correct and it probably doesn't matter.
+T 1394521986 24*	cewood has quit (Quit: WeeChat 0.4.2)
+T 1394522000 18<FlashCode18>	there was a bug reported, saying that sometimes this symlink fails
+T 1394522018 18<FlashCode18>	this one: https://savannah.nongnu.org/bugs/?40313
+T 1394522026 18<FlashCode18>	not sure if it could be same problem
+T 1394522136 18<Mikaela18>	I think that it's possible.
+T 1394522549 24*	anhtuann has quit (Ping timeout: 240 seconds)
+T 1394522683 24*	polyzen has quit (Quit: polyzen)
+T 1394522766 23*	anhtuann (~anhtuann@ron34-5-78-223-238-13.fbx.proxad.net23) has joined
+T 1394523003 23*	luzie (~ne@unaffiliated/ne23) has joined
+T 1394523145 24*	anhtuann has quit (Ping timeout: 252 seconds)
+T 1394523188 23*	anhtuann (~anhtuann@ron34-5-78-223-238-13.fbx.proxad.net23) has joined
+T 1394523211 24*	luz1 has quit (Ping timeout: 252 seconds)
+T 1394523254 23*	wvdhaute (~wvdhaute@91.183.110.11623) has joined
+T 1394524018 24*	pauletin has quit (Ping timeout: 264 seconds)
+T 1394524278 24*	haint has quit (Ping timeout: 240 seconds)
+T 1394524546 24*	Rakkin has quit (Quit: weechat)
+T 1394524882 19*	Now talking on 22#weechat
+T 1394524882 22*	Topic for 22#weechat is: http://weechat.org/ | Latest stable version: 0.4.3 | English support channel, *ONLY* about WeeChat software | Please read docs before asking! | Bug reports are welcome ONLY for latest stable or devel | Off-topic chan: #weechat-offtopic | Fingerprint for gpg key used to sign packages: A9AB 5AB7 78FA 5C35 22FD 0378 F82F 4B16 DEC4 08F8
+T 1394524882 22*	Topic for 22#weechat set by 26FlashCode!~FlashCode@weechat.org (24Sun Feb  9 09:57:06 2014)
+T 1394525452 23*	well_laid_lawn (~Jean-luc@d58-111-84-181.rdl800.qld.optusnet.com.au23) has joined
+T 1394525726 23*	luz1 (~ne@unaffiliated/ne23) has joined
+T 1394525769 23*	haint (~kif@unaffiliated/kif23) has joined
+T 1394525858 24*	luzie has quit (Ping timeout: 240 seconds)
+T 1394526919 23*	kelnoky (~shao@dslb-188-096-233-214.pools.arcor-ip.net23) has joined
+T 1394527558 24*	po||ux has quit (Read error: Connection timed out)
+T 1394527564 23*	fayek (~fayek@foresight/developer/fayek23) has joined
+T 1394527629 23*	po||ux (alex@2a01:198:33d:1:202:b3ff:feb6:25523) has joined
+T 1394527638 24*	abbel_ has quit (Quit: WeeChat 0.4.3-dev)
+T 1394527828 24*	silverd has quit (Quit: WeeChat 0.4.4-dev)
+T 1394527937 24*	sceox has quit (Quit: WeeChat 0.4.4-dev)
+T 1394527958 23*	sceox (~sceox@c-24-18-183-160.hsd1.wa.comcast.net23) has joined
+T 1394527984 24*	sceox has quit (Client Quit)
+T 1394528019 23*	sceox (~sceox@c-24-18-183-160.hsd1.wa.comcast.net23) has joined
+T 1394528246 23*	CCfan (~ccfan@78.56.154.23823) has joined
+T 1394528377 18<tacodile18>	FlashCode: is there a way to disable smartfilter per channel?
+T 1394528383 18<tacodile18>	alt + = disables for all
+T 1394528436 24*	Heartmender has quit (Remote host closed the connection)
+T 1394528440 18<FlashCode18>	tacodile: you mean temporary disable? or don't enable at all smart filter for one channel?
+T 1394528455 18<tacodile18>	temporary
+T 1394528460 18<FlashCode18>	no way to do that
+T 1394528463 18<tacodile18>	:(
+T 1394528473 18<tacodile18>	I know alt + = temp disables for all
+T 1394528475 18<FlashCode18>	there's a workaround
+T 1394528487 18<FlashCode18>	you could create a filter with smart_filter for this channel only
+T 1394528495 18<FlashCode18>	and toggle only this filter, with /filter toggle <name>
+T 1394528517 18<tacodile18>	Is there a place for feature requests like that?
+T 1394528518 18<FlashCode18>	but a filter itself can not be partially disabled for one buffer only
+T 1394528538 18<FlashCode18>	github issue tracker
+T 1394528624 18<FlashCode18>	!bugs
+T 1394528624 18<weebot18>	WeeChat issues: https://github.com/weechat/weechat/issues
+T 1394528625 18<weebot18>	Scripts issues: https://github.com/weechat/scripts/issues
+T 1394528626 18<weebot18>	(OLD) Bugs: https://savannah.nongnu.org/bugs/?group=weechat
+T 1394528632 24*	anhtuann has quit (Read error: Operation timed out)
+T 1394528649 18<tacodile18>	I don't know how to use git really
+T 1394528658 23*	Exio4 (~nax@gateway/tor-sasl/exio423) has joined
+T 1394528664 18<tacodile18>	Would I submit that as "enhancement" ?
+T 1394528692 18<FlashCode18>	you don't need to use git
+T 1394528694 18<Nei18>	actually you just need to click on "New issue" and type in Title and description
+T 1394528695 23*	blackmesa (~blackmesa@aftr-37-201-226-246.unity-media.net23) has joined
+T 1394528697 18<FlashCode18>	just submit a new issue
+T 1394528704 18<FlashCode18>	and describe what you want
+T 1394528777 18<FlashCode18>	tacodile: so what do you want exactly, disable all filters on one buffer? or disable one specific filter on one buffer ?
+T 1394528789 24*	rockfruit has quit (Ping timeout: 240 seconds)
+T 1394528800 18<FlashCode18>	the second is possible too, but harder to implement
+T 1394528843 18<Nei18>	maybe you could make a buffer local var with disabled filters?
+T 1394528846 18<tacodile18>	did I do it right?
+T 1394528883 18<FlashCode18>	yes, so I'll ask my question in the issue then ;)
+T 1394528905 18<tacodile18>	disable all filters on one buffer
+T 1394528921 18<tacodile18>	like the same as alt + =
+T 1394528928 18<tacodile18>	but, only disable per buffer
+T 1394528931 18<Nei18>	say you had 2 filters: one smart filter and one that filters all that "badguy" writes
+T 1394528952 18<Nei18>	do you just need a switch like alt+= or do you need to dsiable only the smart fitler
+T 1394528965 18<FlashCode18>	alt+'=' disables all filters
+T 1394528980 18<FlashCode18>	so not only smart filter (you can create many filters)
+T 1394529000 18<tacodile18>	I think alt + = should just be per buffer buffer anyways. Why is it global?
+T 1394529002 18<FlashCode18>	but it's easier to implement, I could add a flag in buffer (filters on/off)
+T 1394529047 24*	C2H6O has quit (Read error: Operation timed out)
+T 1394529052 18<FlashCode18>	it's global, because I think it's good to have a key to disable all filters, everywhere
+T 1394529061 18<Nei18>	both have their merits
+T 1394529065 18<FlashCode18>	yes
+T 1394529096 18<Nei18>	sometimes I have this situation where I toggle global filter because I want to see some messages in current buffer only
+T 1394529106 18<tacodile18>	If I have a spammer in a channel I own but need the filter on, and I'm working with staff in #freenode with 1300 people joining/parting/quitting, disabling global is kind of annoying while i'm in #freenode
+T 1394529108 18<Nei18>	and then it will add activity to my hotlist that I didnt mean to uncover
+T 1394529114 18<tacodile18>	er, sorry
+T 1394529117 18<FlashCode18>	tacodile: if it wasn't global, some people would complain and ask: why isn't there a key to disable filters everywhere? ;)
+T 1394529134 23*	C2H6O (~roidal@178-191-80-41.adsl.highway.telekom.at23) has joined
+T 1394529144 18<FlashCode18>	but I understand that you want it on one buffer only
+T 1394529149 18<tacodile18>	if I have a spammer in a channel I own but need the filter off, but would like it on for when i'm in #freenode so it kills all the joins/parts/quits
+T 1394529186 18<FlashCode18>	yes, agreed
+T 1394529204 18<tacodile18>	So, disabling per buffer would be excellent :)
+T 1394529204 18<Nei18>	sounds to me like a buffer-local alt+= is enough
+T 1394529239 18<tacodile18>	like I see the little flag means filters are on, on the status bar
+T 1394529257 18<tacodile18>	key shortcut to turn the flag off by single buffer :)
+T 1394529264 24*	blackmesa has quit (Quit: WeeChat 0.4.3)
+T 1394529397 24*	Asenar has quit (Read error: Connection reset by peer)
+T 1394529489 23*	rockfruit (~campbell@41-132-120-220.dsl.mweb.co.za23) has joined
+T 1394530092 23*	Mashirit1 (~sembei@unaffiliated/sembei23) has joined
+T 1394530345 24*	kludge` has quit (Ping timeout: 240 seconds)
+T 1394530619 23*	kludge` (~comet@unaffiliated/espiral23) has joined
+T 1394530996 24*	luz1 has quit (Read error: Connection reset by peer)
+T 1394531020 23*	luzie (~ne@unaffiliated/ne23) has joined
+T 1394531105 23*	newt (~newt@209.222.53.10423) has joined
+T 1394531156 23*	pauletin (~pauletin@unaffiliated/pauletin23) has joined
+T 1394531331 23*	qwerouqwer (qwerouqwer@62.43.196.249.static.user.ono.com23) has joined
+T 1394531500 23*	anhtuann (~anhtuann@ip-116.net-81-220-103.nantes.rev.numericable.fr23) has joined
+T 1394531503 23*	Kryptron (~Kryptron@unaffiliated/kryptron23) has joined
+T 1394531513 24*	anhtuann has quit (Client Quit)
+T 1394531521 23*	anhtuann (~anhtuann@ip-116.net-81-220-103.nantes.rev.numericable.fr23) has joined
+T 1394531771 24*	qwerouqwer has quit ()
+T 1394531889 23*	silverd (~alex@gw.vid.ru23) has joined
+T 1394532620 24*	jerrytgarcia has quit (Quit: WeeChat 0.4.3)
+T 1394534011 23*	DarkDefender (~zed@c-dd86e555.05-89-6c6b7013.cust.bredbandsbolaget.se23) has joined
+T 1394534072 24*	kelnoky has quit (Remote host closed the connection)
+T 1394534330 23*	chimay (~chimay@unaffiliated/chimay23) has joined
+T 1394534718 23*	d4emonza (~d4emmonza@oosteinde.castasoftware.com23) has joined
+T 1394534834 23*	Linuxkartoffel (~Linuxkart@unaffiliated/linuxkartoffel23) has joined
+T 1394534930 18<d4emonza18>	Hi, quick quesstion, new wee-chat user, how do I turn of "has quit (Quit: leaving)" type messages from displaying?
+T 1394535089 18<sakkemo18>	d4emonza: http://www.weechat.org/files/doc/weechat_faq.en.html#filter_irc_join_part_quit
+T 1394535188 23*	starrats (~starrats@cpe-184-56-75-165.neo.res.rr.com23) has joined
+T 1394535222 18<starrats18>	good morning all of you.
+T 1394535755 18<d4emonza18>	thanks sakkemo
+T 1394536236 23*	jerrytgarcia (~jerrytgar@112.209.227.21223) has joined
+T 1394536369 24*	d4emonza (~d4emmonza@oosteinde.castasoftware.com24) has left ("WeeChat 0.3.7")
+T 1394536371 24*	silverd has quit (Quit: WeeChat 0.4.4-dev)
+T 1394536455 23*	silverd (~alex@gw.vid.ru23) has joined
+T 1394536578 23*	silverd_ (~alex@gw.vid.ru23) has joined
+T 1394536582 24*	silverd has quit (Disconnected by services)
+T 1394536586 24*	28silverd_ is now known as 18silverd
+T 1394536656 24*	chandan has quit (Ping timeout: 240 seconds)
+T 1394536739 24*	well_laid_lawn has quit (Ping timeout: 240 seconds)
+T 1394536767 23*	chandan (~chandan@122.248.161.5923) has joined
+T 1394536787 23*	jackneill (~jackneill@62-165-219-51.pool.digikabel.hu23) has joined
+T 1394536788 24*	jackneill has quit (Changing host)
+T 1394536788 23*	jackneill (~jackneill@unaffiliated/jackneill23) has joined
+T 1394537024 24*	Linuxkartoffel has quit (Quit: WeeChat 0.4.3)
+T 1394537403 24*	chandan has quit (Quit: WeeChat 0.4.2)
+T 1394537551 24*	starrats has quit (Quit: WeeChat 0.4.2)
+T 1394537783 24*	ferreum has quit (Ping timeout: 252 seconds)
+T 1394537904 24*	pauletin has quit (Ping timeout: 240 seconds)
+T 1394538288 23*	kelnoky (~shao@dslb-188-096-233-214.pools.arcor-ip.net23) has joined
+T 1394538548 23*	ferreum (~ferreus@p57A7F536.dip0.t-ipconnect.de23) has joined
+T 1394538868 23*	polyzen (~poly@unaffiliated/polyzen23) has joined
+T 1394539163 24*	polyzen has quit (Quit: polyzen)
+T 1394539340 24*	xaviern has quit (Ping timeout: 244 seconds)
+T 1394539970 23*	dkoby (~dmitry@31.62.125.92.etth.tomsknet.ru23) has joined
+T 1394539975 18<weebot18>	-git(core)- FlashCode: core: fix detection of terminated process in hook_process
+T 1394539977 18<weebot18>	-git(core)- FlashCode: api: add option "signal" in function hook_set to send a signal to the child process
+T 1394539979 18<weebot18>	-git(core)- FlashCode: core: update translations
+T 1394540157 23*	chandan (~chandan@106.51.149.12223) has joined
+T 1394540165 24*	yrter has quit (Remote host closed the connection)
+T 1394540297 23*	xaviern (~xnaveira@se-dc-fg600.gameop.net23) has joined
+T 1394540352 18<tomoe-mami18>	i made a trigger that append user's host to incoming message, but the problem is it's also saved into log. is there a way to do that but for display only? like, the host is only appended to message on screen but the logger will use the original message
+T 1394540408 18<tomoe-mami18>	i tested both modifier irc_in2_privmsg and weechat_print, and it's still saved into log
+T 1394540592 24*	Ooglogput has quit (Ping timeout: 240 seconds)
+T 1394540982 23*	bizarro_1 (~bizarro_1@8.Red-88-27-94.staticIP.rima-tde.net23) has joined
+T 1394541000 23*	ISF (~ivan@201.82.138.22623) has joined
+T 1394541403 24*	anhtuann has quit (Quit: WeeChat 0.4.4-dev)
+T 1394541458 23*	Ooglogput (~Oog@h77-53-157-182.dynamic.se.alltele.net23) has joined
+T 1394541673 24*	chandan has quit (Quit: WeeChat 0.4.3)
+T 1394541801 24*	newt has quit (Quit: WeeChat 0.4.1)
+T 1394541838 24*	xaviern has quit (Ping timeout: 264 seconds)
+T 1394541867 24*	PowerSchill has quit (Ping timeout: 265 seconds)
+T 1394541918 24*	pvoigt has quit (Ping timeout: 240 seconds)
+T 1394541963 23*	PowerSchill (~PowerSchi@2601:0:ca00:a69:457f:6e09:403c:91023) has joined
+T 1394542119 23*	luz1 (~ne@unaffiliated/ne23) has joined
+T 1394542245 23*	pvoigt (~znc@unaffiliated/pvoigt23) has joined
+T 1394542285 24*	luzie has quit (Ping timeout: 244 seconds)
+T 1394542453 24*	kalpik has quit (Read error: Operation timed out)
+T 1394542744 23*	xaviern (~xnaveira@se-dc-fg600.gameop.net23) has joined
+T 1394543042 23*	Heartmender (~quora@unaffiliated/quora23) has joined
+T 1394543239 23*	Linuxkartoffel (~Linuxkart@unaffiliated/linuxkartoffel23) has joined
+T 1394543720 23*	seschwar (~seschwar@unaffiliated/seschwar23) has joined
+T 1394543807 23*	diniwed (~gavron@ool-44c537b4.dyn.optonline.net23) has joined
+T 1394544255 18<FlashCode18>	tomoe-mami: you can not
+T 1394544277 18<FlashCode18>	tomoe-mami: it's planned to add host in messages, as tag
+T 1394544285 18<FlashCode18>	so with /debug tags, you'll see hosts
+T 1394544295 18<FlashCode18>	you need it only temporary, right?
+T 1394544355 18<PowerSchill18>	/quit
+T 1394544388 18<FlashCode18>	/quit failed ;)
+T 1394544426 18<Nei18>	cant quit weechat?
+T 1394544523 18<Mikaela18>	autopong.py: when you msg someone ping, you answer the ping by yourself and if the other side is Supybot which has pong aliased to ping, you are in infinite ping/pong loop until you unload the script.
+T 1394544544 18<Nei18>	great
+T 1394544552 18<Nei18>	I love the infinite ping pong game
+T 1394544618 18<FlashCode18>	btw this script may be removed (a trigger can do same thing)
+T 1394544641 18<FlashCode18>	I'll add it on github wiki
+T 1394544691 24*	28she_afk is now known as 18she_dyed
+T 1394544696 24*	zertap has quit (Ping timeout: 240 seconds)
+T 1394544697 18<Mikaela18>	FlashCode: By the way, could you authorize script pushover.pl update if it there is open pull request or something?
+T 1394544798 24*	xaviern has quit (Ping timeout: 240 seconds)
+T 1394544898 18<tomoe-mami18>	FlashCode: actually i want the host to always appear on screen but a tag is fine too. can i request a modifier for changing stuff on screen only? i have a script that appends custom label at the end of message (something like this: http://i.imgur.com/jtlfPpd.png [the bottom one]). it's using modifier weechat_print so it's saved to log too.
+T 1394544923 18<tomoe-mami18>	might be nice if it's only appear on screen
+T 1394544943 18<FlashCode18>	tomoe-mami: I looked to do that, but it's hard to do without slowing down display
+T 1394544959 18<FlashCode18>	so it's maybe planned for future, if I find reasonable solution (in term of speed)
+T 1394544986 18<FlashCode18>	but I agree this would be nice
+T 1394545033 18<Nei18>	iirc you can print a message that wont get logged
+T 1394545047 18<Nei18>	so you can filter the original message
+T 1394545069 18<Nei18>	or I think you can use a hdata_update on the lines
+T 1394545079 18<Nei18>	that wouldnt get logged
+T 1394545083 18<FlashCode18>	true too
+T 1394545099 18<FlashCode18>	but anyway a modifier would be even better
+T 1394545103 18<Nei18>	nevertheless a more convenient way might be nice yep
+T 1394545107 18<FlashCode18>	this way it could be toggleable
+T 1394545111 18<FlashCode18>	like a filter
+T 1394545117 18<Mikaela18>	Was there any Trigger documentation, by the way?
+T 1394545119 18<Mikaela18>	!trigger
+T 1394545121 18<Nei18>	or just a modify_after_log_but_before_display
+T 1394545125 18<FlashCode18>	Mikaela: yes, in user's guide
+T 1394545129 18<Mikaela18>	(Other than /help trigger)
+T 1394545131 18<Mikaela18>	!doc
+T 1394545132 18<weebot18>	http://weechat.org/doc/
+T 1394545133 18<Mikaela18>	Thanks :)
+T 1394545139 18<Nei18>	not sure how logging works
+T 1394545152 18<Nei18>	might it be possible with the proper priority?
+T 1394545156 18<FlashCode18>	Nei: logging is just a hook_print
+T 1394545162 18<FlashCode18>	so it's not a modifier
+T 1394545169 18<FlashCode18>	a modifier would be executed before the hook_print
+T 1394545176 24*	DarkDefender has quit (Ping timeout: 240 seconds)
+T 1394545191 18<Nei18>	so really no way to snug in between logging and on screen
+T 1394545204 18<FlashCode18>	yes
+T 1394545210 18<Nei18>	heh
+T 1394545213 18<FlashCode18>	I'll look again if I can make a modifier
+T 1394545225 18<Mikaela18>	I can't see Trigger documentation, because I am looking at stable documentation.
+T 1394545246 18<Mikaela18>	This looks better http://weechat.org/files/doc/devel/weechat_user.en.html#trigger_plugin
+T 1394545267 23*	chandan (~chandan@106.51.149.12223) has joined
+T 1394545295 23*	DarkDefender (~zed@c-dd86e555.05-89-6c6b7013.cust.bredbandsbolaget.se23) has joined
+T 1394545334 18<FlashCode18>	the trigger is not in stable version, so no doc there, normal ;)
+T 1394545355 23*	chandan_ (~chandan@106.51.149.12223) has joined
+T 1394545359 18<FlashCode18>	you should always use devel docs (especially if you use devel version)
+T 1394545389 18<Mikaela18>	I would, but that doc link put me straight into stable version.
+T 1394545407 18<Mikaela18>	Oh, because there is tab bar where I should have chosen devel.
+T 1394545424 23*	cyx^ (~cyx@unaffiliated/rafi/x-933227523) has joined
+T 1394545472 23*	zertap (~Zertap@g217.ip14.netikka.fi23) has joined
+T 1394545643 18<Mikaela18>	There was ping-pong in doc as example.
+T 1394545682 24*	28Piotrek|away is now known as 18Piotrek
+T 1394545741 18<FlashCode18>	ah right
+T 1394545749 18<FlashCode18>	I added it in wiki, but no problem
+T 1394545773 23*	xaviern (~xnaveira@195.81.145.223) has joined
+T 1394546284 19*	Now talking on 22#weechat
+T 1394546284 22*	Topic for 22#weechat is: http://weechat.org/ | Latest stable version: 0.4.3 | English support channel, *ONLY* about WeeChat software | Please read docs before asking! | Bug reports are welcome ONLY for latest stable or devel | Off-topic chan: #weechat-offtopic | Fingerprint for gpg key used to sign packages: A9AB 5AB7 78FA 5C35 22FD 0378 F82F 4B16 DEC4 08F8
+T 1394546284 22*	Topic for 22#weechat set by 26FlashCode!~FlashCode@weechat.org (24Sun Feb  9 09:57:06 2014)
+T 1394546641 24*	xaviern has quit (Ping timeout: 240 seconds)
+T 1394546778 23*	karlh626 (~karlh626@208.185.28.15023) has joined
+T 1394547040 23*	bin_sh (~Anon7@unaffiliated/bin-bash/x-027345323) has joined
+T 1394547084 24*	jackneill has quit (Quit: WeeChat 0.4.3)
+T 1394547111 23*	jackneill (~jackneill@unaffiliated/jackneill23) has joined
+T 1394547193 23*	PaulW2U (~PaulW2U@pdpc/supporter/active/paulw2u23) has joined
+T 1394547209 24*	cyx^ has quit (Read error: Operation timed out)

@@ -1,0 +1,169 @@
+exec -a banshee mono  /usr/lib/banshee/Banshee.exe    --redirect-log --play-enqueued
+
+[Info  02:47:47.438] Running Banshee 2.6.1: [ArchLinux (linux-gnu, x86_64) @ 2013-10-16 08:54:35 UTC]
+[Info  02:47:49.544] Migrating album-art cache directory
+[Warn  02:47:49.552] Caught an exception - Hyena.Data.Sqlite.SqliteException: Sqlite error 1: no such table: CoverArtDownloads (SQL: DELETE FROM CoverArtDownloads) (in `Hyena.Data.Sqlite')
+  at Hyena.Data.Sqlite.Connection.CheckError (Int32 errorCode, System.String sql) [0x00000] in <filename unknown>:0 
+  at Hyena.Data.Sqlite.Connection.Execute (System.String sql) [0x00000] in <filename unknown>:0 
+  at Hyena.Data.Sqlite.HyenaSqliteCommand.Execute (Hyena.Data.Sqlite.HyenaSqliteConnection hconnection, Hyena.Data.Sqlite.Connection connection) [0x00000] in <filename unknown>:0 
+[Info  02:47:49.554] Migrated 0 files in 0.009662s
+
+(Banshee:9283): GLib-GObject-WARNING **: attempting to add an interface (AtkComponent) to class (__gtksharp_49_Hyena_Gui_BaseWidgetAccessible) after class_init
+
+(Banshee:9283): GLib-GObject-WARNING **: attempting to add an interface (AtkTable) to class (__gtksharp_50_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_TrackInfo+2c+20Banshee_Core+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+
+(Banshee:9283): GLib-GObject-WARNING **: attempting to add an interface (AtkSelection) to class (__gtksharp_50_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_TrackInfo+2c+20Banshee_Core+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+
+(Banshee:9283): GLib-GObject-WARNING **: attempting to add an interface (AtkTable) to class (__gtksharp_56_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_Database_QueryFilterInfo+601+5b+5bSystem_String+2c+20mscorlib+2c+20Version+3d4_0_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3db77a5c561934e089+5d+5d+2c+20Banshee_Services+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+
+(Banshee:9283): GLib-GObject-WARNING **: attempting to add an interface (AtkSelection) to class (__gtksharp_56_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_Database_QueryFilterInfo+601+5b+5bSystem_String+2c+20mscorlib+2c+20Version+3d4_0_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3db77a5c561934e089+5d+5d+2c+20Banshee_Services+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+
+(Banshee:9283): GLib-GObject-WARNING **: attempting to add an interface (AtkTable) to class (__gtksharp_62_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_ArtistInfo+2c+20Banshee_Core+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+
+(Banshee:9283): GLib-GObject-WARNING **: attempting to add an interface (AtkSelection) to class (__gtksharp_62_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_ArtistInfo+2c+20Banshee_Core+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+
+(Banshee:9283): GLib-GObject-WARNING **: attempting to add an interface (AtkTable) to class (__gtksharp_68_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_YearInfo+2c+20Banshee_Core+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+
+(Banshee:9283): GLib-GObject-WARNING **: attempting to add an interface (AtkSelection) to class (__gtksharp_68_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_YearInfo+2c+20Banshee_Core+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+
+(Banshee:9283): GLib-GObject-WARNING **: attempting to add an interface (AtkTable) to class (__gtksharp_74_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_AlbumInfo+2c+20Banshee_Core+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+
+(Banshee:9283): GLib-GObject-WARNING **: attempting to add an interface (AtkSelection) to class (__gtksharp_74_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_AlbumInfo+2c+20Banshee_Core+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+[Warn  02:47:50.282] Caught an exception - GLib.GException: Icon 'process-working' not present in theme (in `gtk-sharp')
+  at Gtk.IconTheme.LoadIcon (System.String icon_name, Int32 size, IconLookupFlags flags) [0x00000] in <filename unknown>:0 
+  at Banshee.Gui.Widgets.TaskStatusIcon..ctor () [0x00000] in <filename unknown>:0 
+[Warn  02:47:50.596] Caught an exception - System.ApplicationException: No support GNOME Settings Daemon could be reached. (in `Banshee.MultimediaKeys')
+  at Banshee.MultimediaKeys.MultimediaKeysService.Banshee.ServiceStack.IExtensionService.Initialize () [0x00000] in <filename unknown>:0 
+  at Banshee.ServiceStack.ServiceManager.StartExtension (Mono.Addins.TypeExtensionNode node) [0x00000] in <filename unknown>:0 
+[Warn  02:47:50.596] Extension `Banshee.MultimediaKeys.MultimediaKeysService' not started: No support GNOME Settings Daemon could be reached.
+[Info  02:47:51.929] Updating web proxy from GConf
+[Warn  02:47:51.951] Caught an exception - System.ApplicationException: No support GNOME Settings Daemon could be reached. (in `Banshee.MultimediaKeys')
+  at Banshee.MultimediaKeys.MultimediaKeysService.Banshee.ServiceStack.IExtensionService.Initialize () [0x00000] in <filename unknown>:0 
+  at Banshee.ServiceStack.ServiceManager.StartExtension (Mono.Addins.TypeExtensionNode node) [0x00000] in <filename unknown>:0 
+[Warn  02:47:51.952] Extension `Banshee.MultimediaKeys.MultimediaKeysService' not started: No support GNOME Settings Daemon could be reached.
+[Info  02:47:51.953] All services are started 3.07995
+[Warn  02:47:52.454] Error migrating Internet Radio Stations - System.IO.DirectoryNotFoundException: Directory '/home/nathan/.config/banshee/plugins/stations/user' not found. (in `mscorlib')
+  at System.IO.Directory.ValidateDirectoryListing (System.String path, System.String searchPattern, System.Boolean& stop) [0x00000] in <filename unknown>:0 
+  at System.IO.Directory.GetFileSystemEntries (System.String path, System.String searchPattern, FileAttributes mask, FileAttributes attrs) [0x00000] in <filename unknown>:0 
+  at System.IO.Directory.GetFiles (System.String path, System.String searchPattern) [0x00000] in <filename unknown>:0 
+  at Banshee.InternetRadio.XspfMigrator.Migrate () [0x00000] in <filename unknown>:0 
+[Info  02:47:52.727] AmazonMP3 store redirect URL: http://integrated-services.banshee.fm/amz/redirect.do/
+[Info  02:47:53.171] nereid Client Started
+[Info  02:47:53.318] GStreamer version 0.10.36.0, gapless: True, replaygain: False
+System.ApplicationException: Could not find org.freedesktop.Avahi
+  at Mono.Zeroconf.Providers.AvahiDBus.DBusManager.Initialize () [0x00000] in <filename unknown>:0 
+  at Mono.Zeroconf.Providers.AvahiDBus.ZeroconfProvider.Initialize () [0x00000] in <filename unknown>:0 
+  at Mono.Zeroconf.Providers.ProviderFactory.GetProviders () [0x00000] in <filename unknown>:0 
+[Warn  02:47:54.603] Failed to start DAAP client - System.Exception: No Zeroconf providers could be found or initialized. Necessary daemon may not be running. (in `Mono.Zeroconf')
+  at Mono.Zeroconf.Providers.ProviderFactory.GetProviders () [0x00000] in <filename unknown>:0 
+  at Mono.Zeroconf.Providers.ProviderFactory.get_DefaultProvider () [0x00000] in <filename unknown>:0 
+  at Mono.Zeroconf.Providers.ProviderFactory.get_SelectedProvider () [0x00000] in <filename unknown>:0 
+  at Mono.Zeroconf.ServiceBrowser..ctor () [0x00000] in <filename unknown>:0 
+  at Daap.ServiceLocator.Start () [0x00000] in <filename unknown>:0 
+  at Banshee.Daap.DaapService.ThreadedInitialize () [0x00000] in <filename unknown>:0 
+[Error 02:48:15.860] /home/nathan/Music/15-eminem-love_the_way_you_lie_(feat._rihanna)-fum.flac - Unable to import song.
+[Error 02:48:16.086] /home/nathan/Music/09-eminem-no_love_(feat._lil_wayne)-fum.flac - Unable to import song.
+[Error 02:48:16.266] /home/nathan/Music/16-eminem-you're_never_over-fum.flac - Unable to import song.
+[Error 02:48:16.530] /home/nathan/Music/10-eminem-space_bound-fum.flac - Unable to import song.
+[Error 02:48:16.710] /home/nathan/Music/12-eminem-25_to_life-fum.flac - Unable to import song.
+[Error 02:48:16.891] /home/nathan/Music/08-eminem-seduction-fum.flac - Unable to import song.
+[Error 02:48:17.170] /home/nathan/Music/05-eminem-w.t.p.-fum.flac - Unable to import song.
+[Error 02:48:17.411] /home/nathan/Music/06-eminem-going_through_changes-fum.flac - Unable to import song.
+[Error 02:48:18.069] /home/nathan/Music/109-eminem-role_model-fum.flac - Unable to import song.
+[Error 02:48:18.305] /home/nathan/Music/103-eminem-guilty_conscience_(feat._dr._dre)-fum.flac - Unable to import song.
+[Error 02:48:18.506] /home/nathan/Music/107-eminem-97_bonnie_and_clyde-fum.flac - Unable to import song.
+[Error 02:48:18.840] /home/nathan/Music/111-eminem-my_fault-fum.flac - Unable to import song.
+[Error 02:48:19.025] /home/nathan/Music/101-eminem-public_service_announcement_(skit)-fum.flac - Unable to import song.
+[Error 02:48:19.212] /home/nathan/Music/203-eminem-greg_(acapella)-fum.flac - Unable to import song.
+[Error 02:48:19.795] /home/nathan/Music/03-eminem-my_mom-fum.flac - Unable to import song.
+[Error 02:48:19.985] /home/nathan/Music/12-eminem-stay_wide_awake-fum.flac - Unable to import song.
+[Error 02:48:20.235] /home/nathan/Music/14-eminem-must_be_the_ganja-fum.flac - Unable to import song.
+[Error 02:48:20.589] /home/nathan/Music/05-eminem-bagpipes_from_baghdad-fum.flac - Unable to import song.
+[Error 02:48:20.819] /home/nathan/Music/08-eminem-same_song_and_dance-fum.flac - Unable to import song.
+[Error 02:48:21.005] /home/nathan/Music/22-eminem-careful_what_you_wish_for_(bonus_track)-fum.flac - Unable to import song.
+[Error 02:48:21.179] /home/nathan/Music/16-eminem-deja_vu-fum.flac - Unable to import song.
+[Error 02:48:21.406] /home/nathan/Music/20-eminem-underground-fum.flac - Unable to import song.
+[Error 02:48:21.577] /home/nathan/Music/04-eminem-insane-fum.flac - Unable to import song.
+[Error 02:48:21.762] /home/nathan/Music/06-eminem-hello-fum.flac - Unable to import song.
+[Error 02:48:21.961] /home/nathan/Music/15-eminem-mr._mathers_(skit)-fum.flac - Unable to import song.
+[Error 02:48:22.169] /home/nathan/Music/01-eminem-dr._west_(skit)-fum.flac - Unable to import song.
+[Error 02:48:22.388] /home/nathan/Music/18-eminem-crack_a_bottle_(feat._dr._dre_and_50_cent)-fum.flac - Unable to import song.
+[Error 02:48:22.570] /home/nathan/Music/13-eminem-old_time's_sake_(feat._dr._dre)-fum.flac - Unable to import song.
+[Error 02:48:22.861] /home/nathan/Music/02-eminem-hell_breaks_loose_(feat._dr._dre)-fum.flac - Unable to import song.
+[Error 02:48:23.098] /home/nathan/Music/06-eminem-music_box-fum.flac - Unable to import song.
+[Error 02:48:23.525] /home/nathan/Music/202-eminem-love_you_more-fum.flac - Unable to import song.
+[Error 02:48:23.875] /home/nathan/Music/105-eminem-like_toy_soldiers-fum.flac - Unable to import song.
+
+(Banshee:9283): GLib-GObject-WARNING **: attempting to add an interface (AtkTable) to class (__gtksharp_105_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bSystem_Object+2c+20mscorlib+2c+20Version+3d4_0_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3db77a5c561934e089+5d+5d) after class_init
+
+(Banshee:9283): GLib-GObject-WARNING **: attempting to add an interface (AtkSelection) to class (__gtksharp_105_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bSystem_Object+2c+20mscorlib+2c+20Version+3d4_0_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3db77a5c561934e089+5d+5d) after class_init
+[Info  02:48:38.532] Uncached artwork size 30 requested
+[Warn  02:49:27.559] Caught an exception - Mono.Upnp.Control.UpnpControlException: The invokation failed. (in `Mono.Upnp')
+  at Mono.Upnp.Internal.ControlClient.Invoke (System.String actionName, IDictionary`2 arguments) [0x00000] in <filename unknown>:0 
+  at Mono.Upnp.Control.ServiceController.Invoke (Mono.Upnp.Control.ServiceAction action, IDictionary`2 arguments, Int32 retryAttempts) [0x00000] in <filename unknown>:0 
+
+(Banshee:9283): Gtk-CRITICAL **: IA__gtk_style_detach: assertion 'style->attach_count > 0' failed
+
+(Banshee:9283): Gtk-CRITICAL **: IA__gtk_style_detach: assertion 'style->attach_count > 0' failed
+
+(Banshee:9283): Gtk-CRITICAL **: IA__gtk_style_detach: assertion 'style->attach_count > 0' failed
+
+(Banshee:9283): Gtk-CRITICAL **: IA__gtk_style_detach: assertion 'style->attach_count > 0' failed
+
+(Banshee:9283): Gtk-CRITICAL **: IA__gtk_style_detach: assertion 'style->attach_count > 0' failed
+[Info  02:52:28.806] Uncached artwork size 30 requested
+[Info  02:52:42.446] Uncached artwork size 30 requested
+
+(Banshee:9283): Gtk-CRITICAL **: IA__gtk_style_detach: assertion 'style->attach_count > 0' failed
+
+(Banshee:9283): Gtk-CRITICAL **: IA__gtk_style_detach: assertion 'style->attach_count > 0' failed
+
+(Banshee:9283): Gtk-CRITICAL **: IA__gtk_style_detach: assertion 'style->attach_count > 0' failed
+[Info  05:13:13.474] Uncached artwork size 30 requested
+[Info  05:17:47.001] Uncached artwork size 30 requested
+
+(Banshee:9283): Gtk-CRITICAL **: IA__gtk_widget_event: assertion 'WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(Banshee:9283): Gtk-CRITICAL **: IA__gtk_widget_event: assertion 'WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(Banshee:9283): Gtk-CRITICAL **: IA__gtk_widget_event: assertion 'WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+
+(Banshee:9283): Gtk-CRITICAL **: IA__gtk_widget_event: assertion 'WIDGET_REALIZED_FOR_EVENT (widget, event)' failed
+[Warn  08:21:06.719] Failed to load media-player-info file for 1
+Device 0 (VID=0bb4 and PID=0f87) is UNKNOWN.
+Please report this VID/PID and the device model to the libmtp development team
+[Warn  08:21:07.429] Failed to load media-player-info file for 1
+[Warn  08:24:25.765] Unable to get battery level from MTP device - Mtp.LibMtpException: Could not retrieve battery stats (in `Mtp')
+  at Mtp.MtpDevice.GetBatteryLevel (Mtp.MtpDeviceHandle handle, System.UInt16& maxLevel, System.UInt16& currentLevel) [0x00000] in <filename unknown>:0 
+  at Mtp.MtpDevice.get_BatteryLevel () [0x00000] in <filename unknown>:0 
+  at Banshee.Dap.Mtp.MtpSource.DeviceInitialize (IDevice device) [0x00000] in <filename unknown>:0 
+Exception in Gtk# callback delegate
+  Note: Applications can use GLib.ExceptionManager.UnhandledException to handle the exception.
+System.ArgumentNullException: Argument cannot be null.
+Parameter name: obj
+  at System.Threading.Monitor.TryEnter (System.Object obj, Int32 millisecondsTimeout) [0x00000] in <filename unknown>:0 
+  at System.Threading.Monitor.TryEnter (System.Object obj) [0x00000] in <filename unknown>:0 
+  at Banshee.Dap.Mtp.MtpSource.get_BytesCapacity () [0x00000] in <filename unknown>:0 
+  at Banshee.Dap.Gui.DapInfoBar.UpdateUsage () [0x00000] in <filename unknown>:0 
+  at Banshee.Dap.Gui.DapInfoBar.BuildWidget () [0x00000] in <filename unknown>:0 
+  at Banshee.Dap.Gui.DapInfoBar..ctor (Banshee.Dap.DapSource source) [0x00000] in <filename unknown>:0 
+  at Banshee.Dap.DapSource.<Initialize>m__F () [0x00000] in <filename unknown>:0 
+  at Banshee.ServiceStack.Application+<Invoke>c__AnonStorey21.<>m__38 () [0x00000] in <filename unknown>:0 
+  at Banshee.Gui.GtkBaseClient+<RunIdle>c__AnonStorey1D.<>m__A4 () [0x00000] in <filename unknown>:0 
+  at GLib.Idle+IdleProxy.Handler () [0x00000] in <filename unknown>:0 
+   at GLib.ExceptionManager.RaiseUnhandledException(System.Exception e, Boolean is_terminal)
+   at GLib.Idle+IdleProxy.Handler()
+   at Gtk.Application.gtk_main()
+   at Gtk.Application.Run()
+   at Banshee.Gui.GtkBaseClient.Run()
+   at Banshee.Gui.GtkBaseClient.Startup()
+   at Hyena.Gui.CleanRoomStartup.Startup(Hyena.Gui.StartupInvocationHandler startup)
+   at Banshee.Gui.GtkBaseClient.Startup()
+   at Banshee.Gui.GtkBaseClient.Startup(System.String[] args)
+   at Nereid.Client.Main(System.String[] args)
+   at System.AppDomain.ExecuteAssembly(System.AppDomain , System.Reflection.Assembly , System.String[] )
+   at System.AppDomain.ExecuteAssemblyInternal(System.Reflection.Assembly a, System.String[] args)
+   at System.AppDomain.ExecuteAssembly(System.String assemblyFile, System.Security.Policy.Evidence assemblySecurity, System.String[] args)
+   at System.AppDomain.ExecuteAssembly(System.String assemblyFile)
+   at Booter.Booter.BootClient(System.String clientName)
+   at Booter.Booter.Main()

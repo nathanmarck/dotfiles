@@ -1,0 +1,16 @@
+(sleep 3 && /usr/bin/nm-applet --sm-disable) &
+tint2 &
+volumeicon &
+pcmanfm --desktop
+clipit &
+conky &
+cairo-compmgr &
+conky &
+
+# Enable as required
+#compton -cCGb &
+#xbacklight -set 100 &
+#/usr/bin/synclient TouchpadOff=1 &
+#xxkb &
+#spacefm -d &
+setxkbmap gb &

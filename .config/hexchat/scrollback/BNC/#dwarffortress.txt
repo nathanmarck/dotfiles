@@ -1,0 +1,503 @@
+T 1394413267 24*	Lanr has quit (Quit: Leaving)
+T 1394413357 18<Sanna18>	good night, everyone \o
+T 1394413371 24*	Sanna has quit (Quit: ChatZilla 0.9.90.1 [SeaMonkey 2.24/20140203230027])
+T 1394414633 24*	28bcbrow3 is now known as 18bcSquared
+T 1394414872 24*	FooQuuxman has quit (Ping timeout: 252 seconds)
+T 1394415067 23*	w00tles (~w00tles@87-104-164-168-dynamic-customer.profibernet.dk23) has joined
+T 1394415192 24*	Japa__ has quit (Ping timeout: 265 seconds)
+T 1394415291 23*	Japa__ (~Japa@117.214.0.12523) has joined
+T 1394415813 24*	Watball has quit (Quit: Leaving)
+T 1394416080 24*	ORCACommander has quit (Ping timeout: 240 seconds)
+T 1394416653 23*	ORCACommander (~ORCAComma@c-98-217-138-1.hsd1.nh.comcast.net23) has joined
+T 1394416954 23*	Qutorial (~Qutorial@unaffiliated/qutorial23) has joined
+T 1394417064 24*	sacje has quit (Ping timeout: 240 seconds)
+T 1394417216 24*	Myst_waker has quit (Ping timeout: 252 seconds)
+T 1394417329 24*	ORCACommander has quit (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+T 1394417755 23*	ORCACommander (~ORCAComma@c-98-217-138-1.hsd1.nh.comcast.net23) has joined
+T 1394417928 24*	Qutorial has quit (Ping timeout: 240 seconds)
+T 1394418098 24*	Slythie has quit (Read error: Connection reset by peer)
+T 1394418196 24*	w00tles has quit (Quit: quit)
+T 1394418538 24*	Japa__ has quit (Ping timeout: 240 seconds)
+T 1394418597 23*	Japa (~Japa@117.201.103.19923) has joined
+T 1394418907 23*	w00tles (~w00tles@87-104-164-168-dynamic-customer.profibernet.dk23) has joined
+T 1394419062 24*	Doug__ has quit (Remote host closed the connection)
+T 1394419686 24*	malimbar (~malimbar@2602:30a:c0ad:3870:71fd:701b:1966:fea024) has left
+T 1394419798 24*	Japa has quit (Ping timeout: 240 seconds)
+T 1394419986 24*	Arkaniad has quit (Read error: Operation timed out)
+T 1394420063 23*	YamaOfDuplicatio (~Yama@c-50-138-243-105.hsd1.ct.comcast.net23) has joined
+T 1394420214 23*	j^2 (~jasghar@cpe-24-27-41-72.austin.res.rr.com23) has joined
+T 1394420288 24*	YamaOfParadise has quit (Ping timeout: 252 seconds)
+T 1394420400 24*	ChoHag has quit (Ping timeout: 240 seconds)
+T 1394421769 23*	ChoHag (~mking@91.103.132.22823) has joined
+T 1394421827 24*	j^2 has quit (Quit: for i in `/names` ; do adios $i; done)
+T 1394423243 23*	blerud (4b19813c@gateway/web/freenode/ip.75.25.129.6023) has joined
+T 1394424411 23*	Blahgory (~androirc@71.45.104.23523) has joined
+T 1394424459 18<Blahgory18>	Any way to auto-move dwarves that won't interrupt them?
+T 1394424509 18<Blahgory18>	For example- dwarf pathing to armor stand, moved back, paths again... treadmill?
+T 1394424584 24*	Blahgory has quit (Remote host closed the connection)
+T 1394424646 23*	Blahgory (~androirc@71.45.104.23523) has joined
+T 1394424659 18<Blahgory18>	So is there?
+T 1394424736 18<ORCACommander18>	not sure what you mean by auto move
+T 1394424768 24*	blerud has quit (Quit: Page closed)
+T 1394424816 18<Blahgory18>	Move via anything automatic
+T 1394424878 18<Blahgory18>	Pushed, pulled, dragged, whatever
+T 1394424947 18<milki18>	bridges!
+T 1394424953 18<milki18>	floor hatches!
+T 1394424956 18<milki18>	minecarts!
+T 1394424965 18<milki18>	globins and dragons
+T 1394424991 18<Blahgory18>	anything that'd make a treadmill pretty much
+T 1394425008 18<Blahgory18>	Chained goblins or rabid dogs?
+T 1394425026 18<milki18>	water and magma
+T 1394425047 18<Blahgory18>	Will dorfs run from them or stand like a dumbass and get mauled?
+T 1394425132 18<Blahgory18>	Well?
+T 1394425149 24*	28ORCACommander is now known as 18ORCA|Away
+T 1394425197 18<Blahgory18>	WELL? I'm doing !!SCIENCE!! here! 
+T 1394425234 18<ORCA|Away18>	they usually attemtp to pah away thigns they get scared of
+T 1394425249 18<Blahgory18>	Good
+T 1394425255 18<Blahgory18>	Treadmill time
+T 1394425258 18<ORCA|Away18>	and the pathign algorithem is a modified A*
+T 1394425297 18<Blahgory18>	so, armor stand, goblin chained to or in front of it
+T 1394425314 18<Blahgory18>	And a dorf, all in a tiny space
+T 1394425329 18<ORCA|Away18>	armor stamnd i think they can walk over
+T 1394425355 18<Blahgory18>	Locked door :π
+T 1394425356 18<ORCA|Away18>	i know they can walk over normal cabinets and chests
+T 1394425357 18<Blahgory18>	Derp
+T 1394425366 18<Blahgory18>	Locked door :P
+T 1394425393 18<ORCA|Away18>	bed time for me
+T 1394427883 24*	w00tles has quit (Quit: quit)
+T 1394427908 23*	Foamed (~Foamed@95.34.61.10523) has joined
+T 1394427973 18<Blahgory18>	Partial mode: HOLY EPILEPTIC FIT BATMAN
+T 1394428652 24*	Levitator has quit (Quit: Leaving.)
+T 1394429067 24*	moogler has quit (Read error: Connection reset by peer)
+T 1394429199 23*	mizu_no_oto (~textual@c-24-128-164-57.hsd1.ma.comcast.net23) has joined
+T 1394429669 23*	Ikoru (~Ikoru@94.12.32.2423) has joined
+T 1394431605 23*	w00tles (~w00tles@87-104-164-168-dynamic-customer.profibernet.dk23) has joined
+T 1394431739 24*	saratov has quit (Ping timeout: 240 seconds)
+T 1394432174 24*	w00tles has quit (Quit: quit)
+T 1394432425 23*	mayckiy (~mayckiy@91.229.76.10623) has joined
+T 1394432428 24*	MinkOWar has quit (Quit: Leaving)
+T 1394432520 24*	mizu_no_oto has quit (Quit: Computer has gone to sleep.)
+T 1394433042 23*	mizu_no_oto (~textual@c-24-128-164-57.hsd1.ma.comcast.net23) has joined
+T 1394433880 24*	mizu_no_oto has quit (Quit: Computer has gone to sleep.)
+T 1394435055 24*	mayckiy has quit (Remote host closed the connection)
+T 1394435422 24*	ChoHag has quit (Ping timeout: 264 seconds)
+T 1394435816 23*	ChoHag (~mking@91.103.132.22823) has joined
+T 1394436387 24*	eirik1 has quit (Read error: No route to host)
+T 1394437748 23*	Ikoru3 (~Ikoru@dab-crx1-h-49-4.dab.02.net23) has joined
+T 1394437792 24*	Ikoru2 has quit (Read error: Connection reset by peer)
+T 1394437940 24*	OsQu has quit (Remote host closed the connection)
+T 1394438012 24*	Ikoru3 has quit (Ping timeout: 252 seconds)
+T 1394438119 18<Ikoru18>	oooo never heard this song before
+T 1394438128 18<Ikoru18>	village if dwarves
+T 1394438131 18<Ikoru18>	*of
+T 1394438711 24*	Qoph has quit (Ping timeout: 265 seconds)
+T 1394439360 23*	Qutorial (~Qutorial@unaffiliated/qutorial23) has joined
+T 1394439598 24*	Qutorial has quit (Ping timeout: 240 seconds)
+T 1394440481 24*	Foamed has quit (Quit: Heading to bed.)
+T 1394441670 18<ChoHag18>	One dwarf injured in the field, starving while waiting for transport to the hospital.
+T 1394441680 18<ChoHag18>	Another having a dring two tiles away.
+T 1394441691 18<ChoHag18>	First dwarf throws a tantrum.
+T 1394441708 18<ChoHag18>	Oh and now she's dead.
+T 1394442026 23*	Foamed (~Foamed@185.3.135.8223) has joined
+T 1394442776 18<Ikoru18>	you killed her/
+T 1394442777 18<Ikoru18>	?
+T 1394443224 18<Ikoru18>	does anyone know what a weapon rack means on the world map for ironhands graphics?
+T 1394443829 24*	Foamed has quit (Ping timeout: 240 seconds)
+T 1394444096 23*	w00tles (~w00tles@87-104-164-168-dynamic-customer.profibernet.dk23) has joined
+T 1394445073 23*	OsQu (~osqu@kekkonen.niksula.hut.fi23) has joined
+T 1394445074 24*	ChoHag has quit (Read error: Operation timed out)
+T 1394445283 23*	ChoHag (~mking@91.103.132.22823) has joined
+T 1394446710 23*	tida (~tlw@dyndsl-095-033-028-108.ewe-ip-backbone.de23) has joined
+T 1394447773 20*	Disconnected (20Invalid argument)
+T 1394447785 19*	Now talking on 22#dwarffortress
+T 1394447785 22*	Topic for 22#dwarffortress is: This is a dwarven skull channel topic. On it are finely carven runes spelling "Dwarf Fortress General Chat - http://www.bay12games.com/dwarves/". On it are exquisite inscribed runes spelling "Check the wiki: http://dwarffortresswiki.org/". It menaces with spikes of dwarven bone. *Note: We are often playing with our fortresses, so please be patient after asking a question. :)
+T 1394447785 22*	Topic for 22#dwarffortress set by 26brocifer (24Mon Apr  2 23:38:33 2012)
+T 1394448020 23*	HellTiger (~HellTiger@29-57.62-188.cust.bluewin.ch23) has joined
+T 1394448102 23*	FooQuuxman (~test@c-98-215-254-55.hsd1.il.comcast.net23) has joined
+T 1394448443 23*	Tasoli__ (~Tasoli@cpe-66-75-236-36.san.res.rr.com23) has joined
+T 1394448446 23*	jejones_ (~jejones@11-209-223-66.gci.net23) has joined
+T 1394448671 24*	pbnjoe has quit (Ping timeout: 264 seconds)
+T 1394448672 24*	Tasoli_ has quit (Ping timeout: 264 seconds)
+T 1394448672 24*	jejones has quit (Ping timeout: 264 seconds)
+T 1394448673 24*	28jejones_ is now known as 18jejones
+T 1394448691 23*	pbnjoe (~pbnjoe@residence-205-111.henday.ualberta.ca23) has joined
+T 1394448692 24*	pbnjoe has quit (Changing host)
+T 1394448692 23*	pbnjoe (~pbnjoe@unaffiliated/pbnjoe23) has joined
+T 1394450338 24*	tida has quit (Quit: leaving)
+T 1394451498 23*	Japa (~Japa@117.201.98.11723) has joined
+T 1394452601 23*	iqualfragile (~iqualfrag@unaffiliated/iqualfragile23) has joined
+T 1394453115 18<MrElendig18>	tower
+T 1394453123 18<MrElendig18>	iirc
+T 1394453406 24*	Blahgory has quit (Quit: AndroIRC - Android IRC Client ( http://www.androirc.com ))
+T 1394453922 23*	Foamed (~Foamed@105.61.34.95.customer.cdi.no23) has joined
+T 1394454372 24*	tbuck has quit (Ping timeout: 265 seconds)
+T 1394454720 24*	iqualfragile has quit (Ping timeout: 265 seconds)
+T 1394454840 23*	iqualfragile (~iqualfrag@unaffiliated/iqualfragile23) has joined
+T 1394454881 23*	Myst_waker (~Thunderbi@d24-204-203-196.home4.cgocable.net23) has joined
+T 1394455623 23*	laptop (~chatzilla@ip-82-151-46-102.cable.texel.com23) has joined
+T 1394455628 24*	28laptop is now known as 18Artea
+T 1394455641 18<Artea18>	hi everyone
+T 1394456009 23*	du5tball (~du5tball@host-188-174-220-143.customer.m-online.net23) has joined
+T 1394456658 23*	HellTiger_ (~HellTiger@29-57.62-188.cust.bluewin.ch23) has joined
+T 1394458158 18<Myst_waker18>	Hia artea
+T 1394458822 24*	28ORCA|Away is now known as 18ORCACommander
+T 1394460093 23*	mizu_no_oto (~textual@c-24-128-164-57.hsd1.ma.comcast.net23) has joined
+T 1394460198 24*	ToAruShiroiNeko has quit (Ping timeout: 240 seconds)
+T 1394460338 24*	mizu_no_oto has quit (Client Quit)
+T 1394460536 23*	ToAruShiroiNeko (~admin@wikimedia/ToAruShiroiNeko23) has joined
+T 1394460668 18<MrElendig18>	hi nobody
+T 1394460932 23*	Slythie (~littlegrl@cs78238033.pp.htv.fi23) has joined
+T 1394461053 23*	mizu_no_oto (~textual@c-24-128-164-57.hsd1.ma.comcast.net23) has joined
+T 1394461749 24*	pthagnar (~pthagnar@cpc7-pres17-2-0-cust28.18-3.cable.virginm.net24) has left ("Leaving")
+T 1394462026 24*	iqualfragile has quit (Ping timeout: 244 seconds)
+T 1394462850 23*	Slythie_ (~littlegrl@cs78238033.pp.htv.fi23) has joined
+T 1394462938 24*	maexono has quit (Quit: No Ping reply in 180 seconds.)
+T 1394462940 24*	mizu_no_oto has quit (Quit: Computer has gone to sleep.)
+T 1394462940 24*	Slythie has quit (Read error: Connection reset by peer)
+T 1394462941 24*	w00tles has quit (Ping timeout: 265 seconds)
+T 1394462948 23*	maexono (~quassel@dslb-178-003-004-117.pools.arcor-ip.net23) has joined
+T 1394462971 23*	w00tles_ (~w00tles@87-104-164-168-dynamic-customer.profibernet.dk23) has joined
+T 1394464126 23*	xrm_ (~xrm@d189218.adsl.hansenet.de23) has joined
+T 1394464368 23*	BlackGyver_ (~BlackGyve@2a01:e35:8b51:1320:ec0f:e441:b6c0:99a423) has joined
+T 1394464547 24*	BlackGyver has quit (Ping timeout: 245 seconds)
+T 1394464548 24*	Myst_waker has quit (Read error: Connection reset by peer)
+T 1394464766 23*	mizu_no_oto (~textual@gw1.mcgraw-hill.com23) has joined
+T 1394464871 23*	Myst_waker (~Thunderbi@d24-204-203-196.home4.cgocable.net23) has joined
+T 1394464893 23*	sacje (~sacje@unaffiliated/klet23) has joined
+T 1394465638 23*	Japa_ (~Japa@117.201.99.10523) has joined
+T 1394465784 24*	w00tles_ has quit (Quit: quit)
+T 1394465822 23*	bobdaduck (~quassel@162.218.220.1823) has joined
+T 1394465823 23*	bobdaduck_ (~quassel@162.218.220.1823) has joined
+T 1394465827 24*	Japa has quit (Ping timeout: 265 seconds)
+T 1394465829 24*	bobdaduck_ has quit (Read error: Connection reset by peer)
+T 1394466302 24*	Myst_waker has quit (Ping timeout: 252 seconds)
+T 1394467170 23*	Japa__ (~Japa@117.201.102.9523) has joined
+T 1394467358 24*	Japa_ has quit (Ping timeout: 252 seconds)
+T 1394467600 23*	Levitator (~j@50-36-57-255.drr01.mybh.sc.frontiernet.net23) has joined
+T 1394468011 23*	j^2 (~jasghar@207.235.33.223) has joined
+T 1394468165 24*	Japa__ has quit (Read error: Connection reset by peer)
+T 1394468199 23*	Japa__ (~Japa@117.201.102.9523) has joined
+T 1394468226 24*	Slythie_ has quit (Ping timeout: 244 seconds)
+T 1394469283 23*	moogler (~moogler@unaffiliated/moogler23) has joined
+T 1394469719 24*	Japa__ has quit (Read error: Connection reset by peer)
+T 1394469760 23*	Japa__ (~Japa@117.201.102.9523) has joined
+T 1394470105 24*	didi94 has quit (Ping timeout: 240 seconds)
+T 1394470122 24*	mizu_no_oto has quit (Quit: Computer has gone to sleep.)
+T 1394470529 24*	Japa__ has quit (Read error: Connection reset by peer)
+T 1394470572 23*	Japa__ (~Japa@117.201.102.9523) has joined
+T 1394470697 23*	mizu_no_oto (~textual@gw1.mcgraw-hill.com23) has joined
+T 1394471818 24*	BlackGyver_ has quit (Quit: Bangarang, motherfucker.)
+T 1394471985 24*	mizu_no_oto has quit (Quit: Computer has gone to sleep.)
+T 1394471998 24*	Japa__ has quit (Ping timeout: 264 seconds)
+T 1394472249 23*	Myst_waker (~Thunderbi@d24-204-203-196.home4.cgocable.net23) has joined
+T 1394472348 23*	Japa__ (~Japa@117.201.102.9523) has joined
+T 1394472631 23*	mizu_no_oto (~textual@gw1.mcgraw-hill.com23) has joined
+T 1394473878 23*	iqualfragile (~iqualfrag@unaffiliated/iqualfragile23) has joined
+T 1394474538 24*	Japa__ has quit (Read error: Connection reset by peer)
+T 1394474568 23*	Japa__ (~Japa@117.201.102.9523) has joined
+T 1394474634 23*	duckbunny (~duckbunny@host86-162-203-151.range86-162.btcentralplus.com23) has joined
+T 1394474800 23*	tida (~tlw@dyndsl-095-033-028-108.ewe-ip-backbone.de23) has joined
+T 1394475041 24*	28ORCACommander is now known as 18ORCA|Away
+T 1394475429 23*	murex_anevar (~quassel@00-c0-95-ec-b7-93.dhcp.mpi-stuttgart.mpg.de23) has joined
+T 1394475561 23*	BlackGyver (~BlackGyve@2a01:e35:8b51:1320:bc61:6226:5b78:ef223) has joined
+T 1394475897 18<Artea18>	so, is it always this quiet?
+T 1394476012 24*	murex_anevar has quit (Remote host closed the connection)
+T 1394476448 18<MrElendig18>	no, only when you are here
+T 1394476453 18<MrElendig18>	^_^
+T 1394476477 18<Artea18>	Makes sense
+T 1394476565 18<MrElendig18>	also you forgot the blood sacrifice
+T 1394476607 18<FooQuuxman18>	One must never forget that.
+T 1394476654 18<Artea18>	Oh
+T 1394476656 18<Artea18>	damn
+T 1394476674 18*	Artea sacrifices a goat to Asax
+T 1394476686 18<Artea18>	There
+T 1394476692 18<Artea18>	Thats should take care of it
+T 1394476759 18<MrElendig18>	Armok is the only true god
+T 1394476767 18<MrElendig18>	more blood for the blood god!
+T 1394476768 24*	28FooQuuxman is now known as 18Armok_
+T 1394476785 18*	Armok_ strikes down Artea with a masterwork pig tail fiber sock
+T 1394476792 24*	28Armok_ is now known as 18FooQuuxman
+T 1394476842 18<Artea18>	Im sorry LORD, I shall never forget to sacrifice my dorfs to you
+T 1394476843 18<MrElendig18>	http://ecx.images-amazon.com/images/I/41YL%2BNt3PvL.jpg
+T 1394476996 24*	bobdaduck has quit (Remote host closed the connection)
+T 1394477757 24*	Myst_waker has quit (Read error: Connection reset by peer)
+T 1394477927 18<Artea18>	So, how ineffective is it to make everyone in a squad use hammers except for one swordperson?
+T 1394478029 23*	Myst_waker (~Thunderbi@d24-204-203-196.home4.cgocable.net23) has joined
+T 1394479279 23*	bobdaduck (~quassel@162.218.220.1823) has joined
+T 1394479685 23*	nexus_2006 (~nexus@cpe-23-243-235-147.socal.res.rr.com23) has joined
+T 1394479789 18<nexus_200618>	anyone here able to help with DwarfTherapist not running under linux?
+T 1394479822 24*	mizu_no_oto has quit (Quit: ["Textual IRC Client: www.textualapp.com"])
+T 1394479960 23*	Watball (~Watball@f124242.upc-f.chello.nl23) has joined
+T 1394480159 18<duckbunny18>	nexus_2006: I am not an expert. All I've got is "run WINE".
+T 1394481180 24*	j^2 has quit (Quit: for i in `/names` ; do adios $i; done)
+T 1394481568 18<FooQuuxman18>	nexus_2006: https://github.com/andrewd18/df-lnp-installer/wiki/Dwarf-Therapist-Cannot-Connect-to-Dwarf-Fortress
+T 1394482239 24*	28ORCA|Away is now known as 18ORCACommander
+T 1394482376 18<nexus_200618>	@FooQuuxman thanks, I gave it a shot, but doesn't help.  DT ran the first time after I compiled it
+T 1394482384 18<nexus_200618>	now, my error is "QProcess: Destroyed while process ("/usr/bin/env") is still running."
+T 1394482419 18<nexus_200618>	I'm just going to the shell and doing "sudo DwarfTherapist"
+T 1394482507 24*	kyshtynbai has quit (Quit: WeeChat 0.4.1)
+T 1394482511 18<HellTiger_18>	i know you hate this but it runs flawless in wine http://appdb.winehq.org/objectManager.php?sClass=version&iId=29105
+T 1394482850 23*	Qoph (~chatzilla@c-24-3-130-60.hsd1.pa.comcast.net23) has joined
+T 1394482956 24*	28iqualfragile is now known as 18Schwefel
+T 1394483327 18<nexus_200618>	HellTiger_ thanks, I'll try it.  I guess you have to run DF in wine too, for it to work?
+T 1394483346 18<HellTiger_18>	dont know sry
+T 1394483397 24*	28Schwefel is now known as 18Cholera
+T 1394483448 24*	28Cholera is now known as 18iqualfragile
+T 1394483449 23*	Doug___ (~quassel@207.115.103.9023) has joined
+T 1394483454 24*	28iqualfragile is now known as 18Iqualfragile
+T 1394484357 23*	mizu_no_oto (~textual@gw1.mcgraw-hill.com23) has joined
+T 1394484417 24*	28Cyberworm is now known as 18Worm|Off
+T 1394484430 18<nexus_200618>	if anyone wants to know, I got DF running natively under linux by starting df and Therapist with a script similar to that suggested on the github page, but had to modify the path info
+T 1394484540 24*	28Worm|Off is now known as 18Cyberworm
+T 1394485198 24*	Artea has quit (Quit: Goodnight all)
+T 1394485641 23*	KnightMustard (~mustard@c-75-67-57-5.hsd1.ma.comcast.net23) has joined
+T 1394486249 23*	ORCA|Remote (~ORCAComma@c-98-217-138-1.hsd1.nh.comcast.net23) has joined
+T 1394486370 23*	Qutorial (~Qutorial@unaffiliated/qutorial23) has joined
+T 1394486482 23*	_fred (~fred@ip-84-118-25-99.unity-media.net23) has joined
+T 1394486650 24*	Qutorial has quit (Ping timeout: 264 seconds)
+T 1394487493 24*	ORCA|Remote has quit (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+T 1394488008 24*	bobdaduck has quit (Remote host closed the connection)
+T 1394488302 24*	_fred has quit (Quit: leaving)
+T 1394488318 23*	_fred (~fred@ip-84-118-25-99.unity-media.net23) has joined
+T 1394488920 24*	mizu_no_oto has quit (Ping timeout: 240 seconds)
+T 1394489376 24*	Myst_waker has quit (Ping timeout: 252 seconds)
+T 1394489402 23*	Myst_waker (~Thunderbi@d24-204-203-196.home4.cgocable.net23) has joined
+T 1394489421 24*	bcSquared has quit (Quit: ircN 8.00 for mIRC (20100904) - www.ircN.org)
+T 1394489850 24*	Watball has quit (Quit: Leaving)
+T 1394490148 18<milki18>	nexus_2006: which linux do you have?
+T 1394490164 18<milki18>	nexus_2006: running df on linux hasnt been a mystery for quite some time
+T 1394490262 18<ORCACommander18>	it was more he was having problems with therapist
+T 1394490280 24*	_fred has quit (Quit: Lost terminal)
+T 1394490287 24*	ORCACommander has quit (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+T 1394490297 24*	maexono has quit (Remote host closed the connection)
+T 1394490307 18<milki18>	o
+T 1394490309 18*	milki scrolls up
+T 1394490422 18<moogler18>	Why would you use dwarf therapist in the first place? It's old, and never updated. You should use splinter-mind attributes instead
+T 1394490428 18<moogler18>	nexus_2006
+T 1394490460 18<moogler18>	They even have a git repo niow
+T 1394490461 18<moogler18>	https://github.com/splintermind/Dwarf-Therapist
+T 1394490678 24*	KnightMustard has quit (Quit: WeeChat 0.4.3-rc1)
+T 1394490868 23*	ORCACommander (~ORCAComma@c-98-217-138-1.hsd1.nh.comcast.net23) has joined
+T 1394491096 23*	tbuck (~tbuck@198.175.124.15223) has joined
+T 1394491799 24*	xrm_ has quit (Ping timeout: 240 seconds)
+T 1394492735 24*	28Cyberworm is now known as 18Worm|Off
+T 1394492855 24*	pbnjoe has quit (Read error: Connection reset by peer)
+T 1394492881 23*	pbnjoe (~pbnjoe@residence-205-111.henday.ualberta.ca23) has joined
+T 1394492891 24*	pbnjoe has quit (Changing host)
+T 1394492891 23*	pbnjoe (~pbnjoe@unaffiliated/pbnjoe23) has joined
+T 1394494229 23*	Ikoru2 (~Ikoru@94.12.32.2423) has joined
+T 1394494486 23*	bjorn_aroo (48023542@gateway/web/freenode/ip.72.2.53.6623) has joined
+T 1394494614 18<bjorn_aroo18>	I found a very beautiful tileset.
+T 1394494906 23*	AlphaZero (~AlphaZero@cpe-108-182-126-165.nyc.res.rr.com23) has joined
+T 1394494929 18<bjorn_aroo18>	I found this great tileset. http://i.imgur.com/rGupD.png
+T 1394495070 18<moogler18>	But tilesets are never great
+T 1394495082 18<bjorn_aroo18>	Why not?
+T 1394495157 18<Ikoru218>	I prefer proper styled to just letters
+T 1394495176 18<bjorn_aroo18>	What do you mean by that Ikoru2?
+T 1394495202 18<Ikoru218>	Like ironhands tileset
+T 1394495222 18<bjorn_aroo18>	Cool
+T 1394495237 18<bjorn_aroo18>	I personally prefer ASCII, because that is how the game was meant to be played
+T 1394495249 18<bjorn_aroo18>	Also ASCII will never suffer from a major game update
+T 1394495251 18<moogler18>	I just like ascii, I feel like most tilesets don't really add anything
+T 1394495265 18<moogler18>	That spacefox tileset is pretty good looking though
+T 1394495275 18<bjorn_aroo18>	ASCII will always be up to date, unless Toady decides to modify the ASCII. Which would be very, very bad.
+T 1394495321 18<bjorn_aroo18>	Did you guys watch the cosmos premiere last night?
+T 1394495328 18<Ikoru218>	Nope
+T 1394495418 18<bjorn_aroo18>	Everybody I've asked today hasn't seen it ;(
+T 1394495948 18<pfifo18>	I prefer graphical, because I can put my fortress away for a few weeks and when I fire it back up I can see where everything is without having to remember.
+T 1394496037 18<bjorn_aroo18>	..?!
+T 1394496069 18<bjorn_aroo18>	You speak as if ASCII makes you blind to your world!
+T 1394496141 18<pfifo18>	i mean sure, you can press k and drag the cursor across every tile in every z level if thats your thing
+T 1394496157 24*	Ikoru has quit (Ping timeout: 244 seconds)
+T 1394496286 18<bjorn_aroo18>	pfifo you must learn to recognize the tiles
+T 1394496294 18<pfifo18>	hamburger helper beef stroganov sucks, it called for a 10 inch skillet, and i have a 10 inch skillet, but half of my druganov is on the stove top
+T 1394496304 18<pfifo18>	s/druganov/stroganov/
+T 1394496351 18<pfifo18>	yeah, except the use the same tiles for like 10 different things
+T 1394496362 18<bjorn_aroo18>	...so?
+T 1394496371 18<bjorn_aroo18>	The game has sixteen colours to tell things apart
+T 1394496396 23*	mizu_no_oto (~textual@c-24-60-13-249.hsd1.ma.comcast.net23) has joined
+T 1394496481 18<pfifo18>	ive found, that ascii makes it difficult to tell what things. in my opinion
+T 1394496567 18<bjorn_aroo18>	I've found, that graphical tilesets such as phoebus and spacefox fuck up the text, replacing some characters with little pictures instead. This is a fact, not an opinion. A fact that is so bothersome to me that I have willingly switched to ASCII.
+T 1394496616 18<pfifo18>	yeah iron hand (my favorite) does that crap too
+T 1394496621 18<bjorn_aroo18>	Exactly.
+T 1394496627 18<bjorn_aroo18>	ASCII does not have this problem.
+T 1394496770 18<pfifo18>	I just red it like so "A small domestisc bird capaSACKble of flyingDIRT short distLEVERances" and it all works out
+T 1394496819 18<bjorn_aroo18>	...
+T 1394496822 18<bjorn_aroo18>	u wot m8
+T 1394496879 18<bjorn_aroo18>	I read it as "Uvrad DCLUSTERFUCKdCLUSTERFUCKkrizCLUSTERFUCKl, bag:
+T 1394496888 24*	BlackGyver has quit (Ping timeout: 240 seconds)
+T 1394496890 18<bjorn_aroo18>	Phoebus really fucks up the text
+T 1394497028 24*	bjorn_aroo (48023542@gateway/web/freenode/ip.72.2.53.6624) has left
+T 1394497059 23*	BlackGyver (~BlackGyve@2a01:e35:8b51:1320:dde:20a7:196a:971623) has joined
+T 1394497120 24*	mizu_no_oto has quit (Quit: Computer has gone to sleep.)
+T 1394497213 18<pfifo18>	the text isnt really needed anyway, you already know urist likes bull milk, and prickle berries, and that wall is engraved with a memorial to the epic sock he made in 566
+T 1394497262 24*	duckbunny has quit (Quit: duckbunny)
+T 1394497302 23*	bjorn_aroo (48023542@gateway/web/freenode/ip.72.2.53.6623) has joined
+T 1394497356 18<nexus_200618>	moogler
+T 1394497370 18<nexus_200618>	I'm using the splintermind DwarfTherapist, not the original
+T 1394497388 18<pfifo18>	iono, my graphic set dosent do too bad, I can play it either way. I do like the ascii due to being able to make the window smaller
+T 1394497512 18<pfifo18>	if i build a small 3x3 tower, and chain a tame stray do at the top of it, will he be able to see ambushers over my fortress wall?
+T 1394497521 18<pfifo18>	tame stray dog
+T 1394497674 18<pfifo18>	im going to try it
+T 1394497771 18<ORCACommander18>	each unit has a specific LoS that can not be exceeded
+T 1394497825 18<pfifo18>	ok, but he can still see my entrance if I put the tower next to it
+T 1394498005 18<ORCACommander18>	they can see 2 cells
+T 1394498018 18<ORCACommander18>	i do not know how that relates to z levels
+T 1394498063 24*	bjorn_aroo has quit (Ping timeout: 245 seconds)
+T 1394498117 18<pfifo18>	whats a cell?
+T 1394498166 18<Setsuna-Xero18>	a square
+T 1394498221 18<pfifo18>	a 1x1 square?
+T 1394498318 18<pfifo18>	that cant be, ive seen war dogs spot ambushers down a 20 unit long hallway
+T 1394498405 18<pfifo18>	maybe theres a better way to spot ambushers without any friendlies getting in danger??
+T 1394498451 24*	Iqualfragile has quit (Ping timeout: 244 seconds)
+T 1394498496 24*	Worm|Off has quit (Ping timeout: 240 seconds)
+T 1394498544 23*	Worm|Off (~Cyberworm@p578E2F3B.dip0.t-ipconnect.de23) has joined
+T 1394498552 24*	28Worm|Off is now known as 18Cyberworm
+T 1394498578 18<pfifo18>	maybe i should just destroy a small section of the road leading into my fort, and rig it with cage traps
+T 1394498598 18<pfifo18>	no, that puts my dorfs in danger when they go to load them
+T 1394499260 23*	MinkOWar (MinkOWar@154.20.151.10623) has joined
+T 1394499516 24*	tida has quit (Quit: leaving)
+T 1394500112 18<pfifo18>	If I engrave a slab to a ghost, and then trade the slab away to the caravan, what happens?
+T 1394500534 24*	Myst_waker has quit (Read error: Connection reset by peer)
+T 1394500736 23*	Myst_waker (~Thunderbi@d24-204-203-196.home4.cgocable.net23) has joined
+T 1394501128 24*	Myst_waker has quit (Read error: Connection reset by peer)
+T 1394501227 23*	GiantUrist_ (~quassel@CPEc8fb267fb852-CMc8fb267fb84f.cpe.net.cable.rogers.com23) has joined
+T 1394501260 24*	GiantUrist has quit (Ping timeout: 252 seconds)
+T 1394501397 23*	Myst_waker (~Thunderbi@d24-204-203-196.home4.cgocable.net23) has joined
+T 1394501424 24*	AlphaZero has quit (Quit: Computer has gone to sleep.)
+T 1394501660 23*	AlphaZero (~AlphaZero@cpe-108-182-126-165.nyc.res.rr.com23) has joined
+T 1394501771 23*	mizu_no_oto (~textual@c-24-128-164-57.hsd1.ma.comcast.net23) has joined
+T 1394501788 24*	AlphaZero has quit (Remote host closed the connection)
+T 1394501818 23*	AlphaZero (~AlphaZero@cpe-108-182-126-165.nyc.res.rr.com23) has joined
+T 1394502174 24*	Myst_waker has quit (Quit: Myst_waker)
+T 1394502268 18<pfifo18>	my count loves black bronze, so I made a dwelling out of black bronze and furnished it with other stuff he likes... now should I assign the rooms to my count, or just skip the court system and save all those lawyer fees and assign the rooms to the countess consort?
+T 1394502551 23*	KnightMustard (~mustard@c-75-67-57-5.hsd1.ma.comcast.net23) has joined
+T 1394503318 24*	28ORCACommander is now known as 18ORCA|Away
+T 1394503364 23*	w00tles (~w00tles@87-104-164-168-dynamic-customer.profibernet.dk23) has joined
+T 1394503443 24*	Tiktalik has quit (Ping timeout: 265 seconds)
+T 1394503471 23*	Tiktalik (~tiktalik@2606:db00:0:8::9ebc:8e6b23) has joined
+T 1394503499 24*	pbnjoe has quit (Ping timeout: 265 seconds)
+T 1394503557 23*	pbnjoe (~pbnjoe@residence-205-111.henday.ualberta.ca23) has joined
+T 1394503558 24*	pbnjoe has quit (Changing host)
+T 1394503558 23*	pbnjoe (~pbnjoe@unaffiliated/pbnjoe23) has joined
+T 1394503710 24*	Japa__ has quit (Read error: Connection reset by peer)
+T 1394503736 23*	Japa__ (~Japa@117.201.102.9523) has joined
+T 1394503819 24*	tdfischer has quit (Ping timeout: 265 seconds)
+T 1394504341 24*	Japa__ has quit (Read error: Connection reset by peer)
+T 1394504352 24*	FooQuuxman has quit (Ping timeout: 240 seconds)
+T 1394504370 23*	Japa__ (~Japa@117.201.102.9523) has joined
+T 1394504375 23*	tdfischer (~tdfischer@kde/tdfischer23) has joined
+T 1394505951 24*	Japa__ has quit (Read error: Connection reset by peer)
+T 1394506047 24*	Foamed has quit (Quit: Heading to bed.)
+T 1394506239 24*	AlphaZero has quit (Quit: Computer has gone to sleep.)
+T 1394506385 23*	AlphaZero (~AlphaZero@cpe-108-182-126-165.nyc.res.rr.com23) has joined
+T 1394506442 24*	Doug___ has quit (Remote host closed the connection)
+T 1394506717 23*	Sacre (~sacje@unaffiliated/klet23) has joined
+T 1394506746 24*	sacje has quit (Disconnected by services)
+T 1394506752 24*	28Sacre is now known as 18sacje
+T 1394507483 24*	KnightMustard has quit (Quit: bedtime)
+T 1394507796 24*	AlphaZero has quit (Quit: Computer has gone to sleep.)
+T 1394508118 23*	Tasoli_ (~Tasoli@cpe-66-75-236-36.san.res.rr.com23) has joined
+T 1394508312 24*	Tasoli__ has quit (Ping timeout: 240 seconds)
+T 1394508964 24*	mizu_no_oto has quit (Quit: ["Textual IRC Client: www.textualapp.com"])
+T 1394510175 23*	abuss_ (~abuss@128.54.199.14923) has joined
+T 1394510436 24*	abuss_ has quit (Ping timeout: 252 seconds)
+T 1394510795 24*	nexus_2006 has quit (Quit: Leaving)
+T 1394511237 23*	Ooma (51845a91@gateway/web/freenode/ip.81.132.90.14523) has joined
+T 1394511347 18<Ooma18>	Hello, can anyone help me with a quick question?
+T 1394511418 24*	w00tles has quit (Quit: quit)
+T 1394511446 18<pbnjoe18>	I can try :)
+T 1394511483 24*	sacje has quit (Quit: sacje)
+T 1394511565 18<Ooma18>	I was just wondering what the small "Sun" symbol next to one of my dwarves' name is. Well... It's a sun in Dwarf Therapist
+T 1394511602 18<pbnjoe18>	one second, I can't remember so I'll start up DF and DT and see
+T 1394511790 18<pbnjoe18>	Ah shoot, forgot I was using splintermind's version
+T 1394511802 18<pbnjoe18>	sorry :\
+T 1394511929 18<Ooma18>	No problem. Thanks for trying :) I don't know if the symbol is important or not. I guess i'll find out
+T 1394511963 18<pbnjoe18>	check the age of that dwarf for me, will you?
+T 1394511971 18<pbnjoe18>	just curious
+T 1394512002 18<Ooma18>	She's 83
+T 1394512018 18<Ooma18>	Just embarked. Didn't see the symbol on my last (and first) Fortress
+T 1394512131 18<Ooma18>	It appears like the symbols that show item quality. As "☀Ilral Edemamost☀"
+T 1394513017 23*	ydoc (~souredfro@unaffiliated/souredfrog23) has joined
+T 1394513488 23*	w00tles (~w00tles@87-104-164-168-dynamic-customer.profibernet.dk23) has joined
+T 1394515522 18<pbnjoe18>	yeah I was wondering if it meant she was cursed but then I remembered it doesn't tell you :P
+T 1394516061 23*	Ikoru (~Ikoru@94.12.32.2423) has joined
+T 1394516273 18<Ooma18>	It's the same symbol as for masterwork quality items. Does that mean she's a "masterwork"? :P
+T 1394516537 24*	ydoc has quit (Quit: Leaving)
+T 1394517518 24*	w00tles has quit (Quit: quit)
+T 1394518322 24*	pbnjoe has quit (Ping timeout: 244 seconds)
+T 1394518503 23*	pbnjoe (~pbnjoe@unaffiliated/pbnjoe23) has joined
+T 1394519317 24*	Ooma has quit (Quit: Page closed)
+T 1394521702 24*	MinkOWar has quit (Quit: Leaving)
+T 1394524585 23*	maexono (~quassel@dslb-188-108-145-198.pools.arcor-ip.net23) has joined
+T 1394524881 19*	Now talking on 22#dwarffortress
+T 1394524881 22*	Topic for 22#dwarffortress is: This is a dwarven skull channel topic. On it are finely carven runes spelling "Dwarf Fortress General Chat - http://www.bay12games.com/dwarves/". On it are exquisite inscribed runes spelling "Check the wiki: http://dwarffortresswiki.org/". It menaces with spikes of dwarven bone. *Note: We are often playing with our fortresses, so please be patient after asking a question. :)
+T 1394524881 22*	Topic for 22#dwarffortress set by 26brocifer (24Mon Apr  2 23:38:33 2012)
+T 1394524918 24*	stepvhen has quit (Ping timeout: 264 seconds)
+T 1394525098 24*	Qoph has quit (Ping timeout: 264 seconds)
+T 1394527645 24*	HellTiger_ has quit (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+T 1394527860 24*	HellTiger has quit (Ping timeout: 265 seconds)
+T 1394528726 23*	Japa (~Japa@117.201.102.9523) has joined
+T 1394529378 23*	didi94 (~mehdi@hanovre.stef.ens-cachan.fr23) has joined
+T 1394530573 18<ZombieChicken18>	nothing like starting up an old fort from ages ago and finding out it is being invaded and has 3 resident FBs
+T 1394530948 23*	sandbox (sandbox@host-92-4-43-219.as43234.net23) has joined
+T 1394531133 23*	tida (~tlw@dyndsl-095-033-020-124.ewe-ip-backbone.de23) has joined
+T 1394532418 24*	Japa has quit (Read error: Connection reset by peer)
+T 1394533493 18<Ikoru18>	 ZombieChicken FB?
+T 1394533501 18<ZombieChicken18>	Forgotten beast
+T 1394533795 18<ZombieChicken18>	such intelligent creatures
+T 1394533851 18<ZombieChicken18>	dorfs keep running down my serpentine hallway towards in gobbo invasion force
+T 1394533952 18<ZombieChicken18>	if only these gobbos would do the right thing and get caught in these cage traps...
+T 1394533996 18<ZombieChicken18>	eh
+T 1394534000 18<ZombieChicken18>	7k prepares meals
+T 1394534009 18*	ZombieChicken is set for life
+T 1394534154 18<ZombieChicken18>	...a goblin thief set off a cage trap
+T 1394534156 18<ZombieChicken18>	lovely
+T 1394534162 18*	ZombieChicken thought they were trapavoid
+T 1394534481 18<ZombieChicken18>	dohohoho
+T 1394534491 18<ZombieChicken18>	the elven merchants are heading down the Gobbo Hallway
+T 1394534526 18<ZombieChicken18>	hahaha
+T 1394534529 18<ZombieChicken18>	now they are locked in!
+T 1394534594 18<ZombieChicken18>	Elves make damn good bait
+T 1394534609 18<ZombieChicken18>	they just hid behind my line of cage traps
+T 1394534721 18<ZombieChicken18>	stupid elf
+T 1394534743 18<ZombieChicken18>	keeps running through the gobo instead of back along the path and leading the gobbo into the last cage trap
+T 1394534808 18<ZombieChicken18>	Ikoru: This is what we call a win-win situation. either i cage gobbos and get their useful goblinite (the copper they wear), or I get free elf stuff to trade off
+T 1394534828 18<ZombieChicken18>	and a silver flail-weilding gobbo is pretty dangerous it seems
+T 1394536244 23*	HellTiger (~HellTiger@29-57.62-188.cust.bluewin.ch23) has joined
+T 1394536848 24*	tida has quit (Quit: leaving)
+T 1394539816 23*	HellTiger_NB (~HellTiger@29-57.62-188.cust.bluewin.ch23) has joined
+T 1394539966 24*	HellTiger has quit (Ping timeout: 264 seconds)
+T 1394540494 23*	Giomancer (~gio@107.201.206.23023) has joined
+T 1394540531 24*	Giomancer (~gio@107.201.206.23024) has left
+T 1394540718 18<ZombieChicken18>	it is quiet in here
+T 1394541017 23*	FooQuuxman (~test@c-98-215-254-55.hsd1.il.comcast.net23) has joined
+T 1394541162 18<Philonous18>	I didn't realize puppies could kill gremlins
+T 1394541168 18<ZombieChicken18>	yeah
+T 1394541172 18<ZombieChicken18>	puppies are pretty hardcore
+T 1394541269 18<Philonous18>	ZombieChicken, Kobold thieves are trapvoid, goblin snatchers keep clogging up my entrance defenses
+T 1394541328 18<ZombieChicken18>	8 wagon human caravan
+T 1394541329 18<ZombieChicken18>	woohoo
+T 1394541386 23*	xrm_ (~xrm@g224184183.adsl.alicedsl.de23) has joined
+T 1394541518 24*	HellTiger_NB has quit (Ping timeout: 240 seconds)
+T 1394543029 24*	Ikoru2 has quit (Read error: No route to host)
+T 1394543146 23*	mizu_no_oto (~textual@c-24-128-164-57.hsd1.ma.comcast.net23) has joined
+T 1394543241 23*	YamaOfParadise (~Yama@c-50-138-243-105.hsd1.ct.comcast.net23) has joined
+T 1394543369 24*	YamaOfDuplicatio has quit (Ping timeout: 240 seconds)
+T 1394544199 18<MrElendig18>	https://aur.archlinux.org/packages/splintermind-attributes-git/ has replaced the -hg package, for those that are interested
+T 1394544277 18<ZombieChicken18>	HACK THE PLANET
+T 1394544287 18<ZombieChicken18>	sorry. For some reason I wanted to say that
+T 1394544398 18<ZombieChicken18>	Holy shit
+T 1394544402 18<ZombieChicken18>	I have a ton of skulls
+T 1394544406 18*	ZombieChicken should start selling them
+T 1394544435 23*	HellTiger (~HellTiger@29-57.62-188.cust.bluewin.ch23) has joined
+T 1394545487 23*	Trefall (~Trefall@cCB815BC1.dhcp.as2116.net23) has joined
+T 1394545790 18<Philonous18>	Bummer you can't pave your entrance with them
+T 1394545797 24*	mizu_no_oto has quit (Quit: Computer has gone to sleep.)
+T 1394545850 18<ZombieChicken18>	aye
+T 1394545873 18<ZombieChicken18>	Right now I'm just trying to dig out an area to try and reach the magma sea
+T 1394545967 18*	ZombieChicken has a working noble
+T 1394546283 19*	Now talking on 22#dwarffortress
+T 1394546283 22*	Topic for 22#dwarffortress is: This is a dwarven skull channel topic. On it are finely carven runes spelling "Dwarf Fortress General Chat - http://www.bay12games.com/dwarves/". On it are exquisite inscribed runes spelling "Check the wiki: http://dwarffortresswiki.org/". It menaces with spikes of dwarven bone. *Note: We are often playing with our fortresses, so please be patient after asking a question. :)
+T 1394546283 22*	Topic for 22#dwarffortress set by 26brocifer (24Mon Apr  2 23:38:33 2012)
+T 1394546960 24*	Trefall has quit (Remote host closed the connection)

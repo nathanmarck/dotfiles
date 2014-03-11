@@ -1,0 +1,556 @@
+T 1394539694 18<MrElendig18>	Railgun: you are a tsuder electromaster?
+T 1394539697 18<njan18>	yvw
+T 1394539710 18<Railgun18>	MrElendig: Perhaps.
+T 1394539719 18<njan18>	iveeee_: I don't think we currently have an ETA, but I believe people are looking into it.
+T 1394539741 18<iveeee_18>	If I was paying for support I'd be reporting you to your manager njan (if you had one)
+T 1394539749 18<iveeee_18>	well...
+T 1394539752 18<iveeee_18>	it's annoying
+T 1394539753 24*	James_T has quit (Quit: Oh crap... Seems ZNC broke!)
+T 1394539754 23*	Nix (~Nix@ppp255-42.static.internode.on.net23) has joined
+T 1394539755 18<njan18>	iveeee_: but you're not. And we're volunteers.
+T 1394539755 18<iveeee_18>	(just saying)
+T 1394539766 18<iveeee_18>	njan: Correct!
+T 1394539767 18<njan18>	So, y'know, yay?
+T 1394539773 18<iveeee_18>	Which is why I just sit back and mind my own business
+T 1394539852 18<njan18>	iveeee_: have you tried the new hidden service?
+T 1394539934 23*	routeback (~quassel@107-1-82-250-ip-static.hfc.comcastbusiness.net23) has joined
+T 1394539964 23*	icesword (~icecold@unaffiliated/icesword23) has joined
+T 1394539988 23*	redmenace (~redmenace@162.72.186.25523) has joined
+T 1394540014 18<iveeee_18>	njan: ?
+T 1394540017 18<iveeee_18>	that is?
+T 1394540039 24*	arb (~adityaraj@122.161.52.7724) has left ("WeeChat 0.4.3")
+T 1394540042 18<iveeee_18>	If you guys got a new hidden service then place publish it on your website!
+T 1394540044 18<iveeee_18>	:/
+T 1394540054 23*	napalm_christ (b6420abe@gateway/web/freenode/ip.182.66.10.19023) has joined
+T 1394540081 23*	Sove (~sove@seiwa/admin/sove23) has joined
+T 1394540083 18<njan18>	iveeee_: there are several on the website: http://freenode.net/irc_servers.shtml#tor
+T 1394540097 18<napalm_christ18>	how to get all keywords and commands of freenode?
+T 1394540099 24*	view has quit (Ping timeout: 240 seconds)
+T 1394540101 23*	mongo (~mongo@unaffiliated/mongo23) has joined
+T 1394540113 24*	msx has quit (Ping timeout: 252 seconds)
+T 1394540122 18<iveeee_18>	njan: Tor is what I am already using!
+T 1394540136 24*	TCS has quit (Quit: Leaving)
+T 1394540185 18<iveeee_18>	I have all 5 servers in a rotation list and it's annoying cause every one of em keeps having periods where they al go down at the same time for like a few weeks then come back up again then do the same thing AGAIN
+T 1394540197 18<iveeee_18>	Please fix this, it's not that hard to run a hidden service!
+T 1394540206 24*	humerusj has quit (Quit: Connection closed for inactivity)
+T 1394540223 18<njan18>	iveeee_: I can see that. I'm asking if you're using the most recent one(s) from the website.
+T 1394540231 18<njan18>	And if so if you've had problems recently (like in the last day or two)
+T 1394540249 24*	redmenace has quit (Ping timeout: 240 seconds)
+T 1394540251 18<iveeee_18>	I am having the same problems from every single one
+T 1394540259 24*	Detch has quit (Remote host closed the connection)
+T 1394540264 18<iveeee_18>	when my client fails to connect to a server it moves onto the next one in the list
+T 1394540295 18<njan18>	i) using the servers currently on the website; ii) in the last day or so?
+T 1394540300 18<napalm_christ18>	+njan: where to get all commands list of freenode?
+T 1394540306 18<njan18>	napalm_christ: /help
+T 1394540316 18<njan18>	napalm_christ: see also http://freenode.net/using_the_network.shtml
+T 1394540341 18<njan18>	napalm_christ: see also irchelp.org or most of the other online IRC help guides (freenode's ircd differs a little but most of the generic(er) commands will be valid)
+T 1394540346 18<iveeee_18>	wait, what?
+T 1394540351 18<njan18>	If your client traps /help you can /quote help and you'll get a response direct from the ircd.
+T 1394540355 23*	hmstrmn (~hmstrmn@grm-studby-128-39-149-158.studby.uia.no23) has joined
+T 1394540356 23*	slackbone (~slackbone@unaffiliated/slackbone23) has joined
+T 1394540373 23*	msx (~quassel@unaffiliated/msx23) has joined
+T 1394540378 18<napalm_christ18>	+njan:many thx :)
+T 1394540385 18<njan18>	yvw
+T 1394540398 24*	Railgun (quassel@unaffiliated/railgun-24) has left ("Do you have that sort of hobby?")
+T 1394540401 18<iveeee_18>	njan: Those on the website are what I have in my list.
+T 1394540447 18<njan18>	iveeee_: You can try vgh6tbfjk65zj5ep.onion too
+T 1394540461 18<iveeee_18>	" If you are unable to connect to p4fsi4ockecnea7l.onion, then try using a secondary address:"
+T 1394540466 23*	orionbelt (~orionbelt@pno-astro-27.ulb.ac.be23) has joined
+T 1394540472 18<iveeee_18>	Secondary addresses fail when the primary one fails!
+T 1394540483 24*	ButterPuddle has quit ()
+T 1394540551 22*	26ChanServ gives channel operator status to 18eir
+T 1394540553 22*	26eir removes ban on 18Researcher!*@*$##fix_your_connection
+T 1394540553 22*	26eir removes channel operator status from 18eir
+T 1394540567 23*	NERON48 (41310ea7@gateway/web/freenode/ip.65.49.14.16723) has joined
+T 1394540575 24*	zakame has quit (Ping timeout: 252 seconds)
+T 1394540670 18<icesword18>	H
+T 1394540677 24*	Nem0 has quit ()
+T 1394540679 18<icesword18>	rww hi
+T 1394540682 23*	pasevin (~pasevin@host86-148-169-24.range86-148.btcentralplus.com23) has joined
+T 1394540716 23*	Research- (~rhct@91.191.2.223) has joined
+T 1394540716 24*	Research- has quit (Excess Flood)
+T 1394540720 18<NERON4818>	gaga
+T 1394540723 23*	affiliated (~fwilson@wikipedia/Fox-Wilson23) has joined
+T 1394540746 23*	Research- (~rhct@91.191.2.223) has joined
+T 1394540746 24*	Research- has quit (Excess Flood)
+T 1394540775 23*	Nem0 (~nem0@unaffiliated/nem023) has joined
+T 1394540776 23*	Research- (~rhct@91.191.2.223) has joined
+T 1394540776 24*	Research- has quit (Excess Flood)
+T 1394540808 23*	Research- (~rhct@91.191.2.223) has joined
+T 1394540808 24*	Research- has quit (Excess Flood)
+T 1394540823 22*	26ChanServ gives channel operator status to 18gheraint
+T 1394540825 22*	26gheraint sets ban on 18Researcher!*@*$##fix_your_connection
+T 1394540825 22*	26gheraint removes channel operator status from 18gheraint
+T 1394540831 24*	Nix has quit (Read error: Connection reset by peer)
+T 1394540838 18<ErrantEgo18>	bad ban, gheraint
+T 1394540873 18<gheraint18>	ErrantEgo, why?
+T 1394540881 18<ErrantEgo18>	hm
+T 1394540884 23*	egrep (~egrep@unaffiliated/egrep23) has joined
+T 1394540888 24*	napalm_christ has quit (Ping timeout: 245 seconds)
+T 1394540893 24*	egrep has quit (Client Quit)
+T 1394540898 18<ErrantEgo18>	looking at the other channel, and looking at this one, the nicknames are different
+T 1394540899 18<ErrantEgo18>	weird
+T 1394540903 18<ErrantEgo18>	check out his nickname in here
+T 1394540938 18<ErrantEgo18>	hes flapping now as 'researcher'
+T 1394540949 18<ErrantEgo18>	he was flapping in here as 'Research-"
+T 1394540952 23*	sunwind (~paradox@149.254.250.23223) has joined
+T 1394540957 23*	Ashes_ (~quassel@S0106602ad08f9b3c.cg.shawcable.net23) has joined
+T 1394540967 18<iveeee_18>	gheraint: Please tell the freenode founder that using tor is no different to using the clearnet
+T 1394540969 18<gheraint18>	ah!
+T 1394540969 18<iveeee_18>	:/
+T 1394540972 23*	literally (~God@countervandalism/Alpha-God23) has joined
+T 1394541003 23*	routeback_ (~quassel@107-1-82-250-ip-static.hfc.comcastbusiness.net23) has joined
+T 1394541037 24*	Guest57424 has quit (Ping timeout: 252 seconds)
+T 1394541037 23*	jaraco (~jaraco@c-68-55-72-219.hsd1.dc.comcast.net23) has joined
+T 1394541040 23*	FooDeas (~FooDeas@HSI-KBW-078-042-049-041.hsi3.kabel-badenwuerttemberg.de23) has joined
+T 1394541056 23*	Guest57424 (~sag@180.183.130.23523) has joined
+T 1394541072 23*	ircuser2014 (u291187@115.240.75.14823) has joined
+T 1394541078 24*	neeti has quit (Quit: Leaving)
+T 1394541086 23*	Detch (~uriel@unaffiliated/detch23) has joined
+T 1394541092 18<icesword18>	please i has been bannde from defocus for more then three month
+T 1394541112 18<gheraint18>	ErrantEgo, it has had the desired effect so I'll see how it goes
+T 1394541119 18<icesword18>	anyone please tell them to lift my ban
+T 1394541126 18<ErrantEgo18>	gheraint: you got lucky
+T 1394541127 18<ErrantEgo18>	lol
+T 1394541141 18<gheraint18>	:p
+T 1394541146 18<icesword18>	what!
+T 1394541167 24*	Pinako has quit (Remote host closed the connection)
+T 1394541167 24*	anry has quit (Ping timeout: 260 seconds)
+T 1394541178 24*	routeback has quit (Ping timeout: 240 seconds)
+T 1394541180 18<icesword18>	why wont they even want me talk in there
+T 1394541200 23*	herbaliser (~herbalise@unaffiliated/herbaliser23) has joined
+T 1394541206 18<icesword18>	i was banED for more than 3 months now
+T 1394541219 18<icesword18>	so these horrible days
+T 1394541231 18<gheraint18>	icesword, #defocus-ops is the correct place, not here
+T 1394541232 23*	mjdugan14 (~mdugan@proxy.dmvnoc.com23) has joined
+T 1394541239 24*	NERON48 has quit (Ping timeout: 245 seconds)
+T 1394541261 18<FooDeas18>	Hello everybody! Can someone cloak my account? "stats p" lists no staff users since 2 days. So i hope to get a reference person here.
+T 1394541269 18<mjdugan1418>	quick q...I forgot to logout my home box this morning...is there to kick myself from another computer?
+T 1394541284 18<mjdugan1418>	a way to kick*
+T 1394541330 23*	FreezingCold (~FreezingC@205.211.54.16223) has joined
+T 1394541357 18<gheraint18>	icesword, mind a quick PM?
+T 1394541371 24*	imsc has quit (Quit: ChatZilla 0.9.90.1 [Firefox 27.0.1/20140212131424])
+T 1394541382 18<icesword18>	go ahead
+T 1394541412 24*	28rickyb98 is now known as 18RickyB98
+T 1394541426 18<MrElendig18>	mjdugan14: man pkill
+T 1394541446 18<MrElendig18>	mjdugan14: oh nm, wrong channel :p
+T 1394541452 18<MrElendig18>	mjdugan14: /ns help ghost
+T 1394541455 18<MrElendig18>	mjdugan14: /ns help release
+T 1394541474 18<MrElendig18>	use /query nickserv if you havn't set your client to forward /ns and friends to the server
+T 1394541476 23*	Rock5tar (~Rock5tar@unaffiliated/rock5tar23) has joined
+T 1394541485 24*	28Chrisliebaer|off is now known as 18Chrisliebaer
+T 1394541492 24*	Madi has quit (Quit: Leaving)
+T 1394541492 24*	28sjoerddelunch is now known as 18sjoerddebruin
+T 1394541505 18<Rock5tar18>	so we have a channel, #dogebeg - and no ops appear to be on - and someone spamming...  can someone with the ability to do so pop over and kick/ban the user?
+T 1394541526 18<trout18>	gheraint: mind a quick pm?
+T 1394541539 18<gheraint18>	trout, go for it
+T 1394541545 24*	capa66 has quit (Quit: ttfn)
+T 1394541552 24*	28mjdugan14 is now known as 18MikeDugan
+T 1394541552 24*	road|runner has quit (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+T 1394541569 18<MikeDugan18>	MrElendig, awesome, worked like a charm!
+T 1394541599 24*	28cups is now known as 18doge
+T 1394541601 23*	Moctezuma (~quassel@202.78.172.16223) has joined
+T 1394541605 24*	Sgeo_ has quit (Read error: Connection reset by peer)
+T 1394541605 24*	herbaliser has quit (Quit: Ik ga weg)
+T 1394541627 18<FooDeas18>	Is someone here to cloak my account?
+T 1394541641 24*	Nem0 has quit ()
+T 1394541645 23*	AdmiralPanda (~anonymous@c58-107-17-67.fitzg4.qld.optusnet.com.au23) has joined
+T 1394541652 18<FooDeas18>	"stats p" lists no staff users since 2 days.
+T 1394541662 24*	AdmiralPanda (~anonymous@c58-107-17-67.fitzg4.qld.optusnet.com.au24) has left
+T 1394541662 23*	James_T (james@jtaylor.id.au23) has joined
+T 1394541665 24*	MikeDugan (~mdugan@proxy.dmvnoc.com24) has left ("Leaving")
+T 1394541727 24*	hoplite009 has quit (Ping timeout: 244 seconds)
+T 1394541740 18<Rock5tar18>	FooDeas: i just asked and sat here for a couple days.  Eventually someone saw the message and hooked me up, I don't even think I was at the keyboard at the time.
+T 1394541743 23*	Research- (~rhct@91.191.2.223) has joined
+T 1394541743 24*	Research- has quit (Excess Flood)
+T 1394541785 24*	ircuser2014 has quit (Remote host closed the connection)
+T 1394541800 23*	Research- (~rhct@91.191.2.223) has joined
+T 1394541800 24*	Research- has quit (Excess Flood)
+T 1394541801 23*	_QB_ (~QB@cpc17-croy19-2-0-cust911.croy.cable.virginm.net23) has joined
+T 1394541806 23*	cairohy (~anonymous@220.202.153.3823) has joined
+T 1394541811 24*	28[q0rban] is now known as 18q0rban
+T 1394541816 23*	Nem0 (~nem0@unaffiliated/nem023) has joined
+T 1394541838 18<FooDeas18>	Rock5tar: So I have to wait and hope someone read my message I posted?
+T 1394541873 18<FooDeas18>	:)
+T 1394541877 23*	Savh (~chatzilla@wikimedia/Savh23) has joined
+T 1394541896 18<cairohy18>	。。
+T 1394541907 24*	sunwind has quit (Read error: Connection reset by peer)
+T 1394541958 24*	rdymac has quit (Read error: Connection reset by peer)
+T 1394541958 23*	gnubee (~gnubee@27-33-248-128.static.tpgi.com.au23) has joined
+T 1394541992 18<gnubee18>	hi there! what's the procedure for password reset?
+T 1394542010 18<Rock5tar18>	FooDeas: yep, that's how it worked for me.  just left my client open, popped over and did a quick message every now and again if I remembered.  They'll get to it, but it's not an instant thing.
+T 1394542037 18<FooDeas18>	thx for info!
+T 1394542058 23*	jjlesys (~user@c-73-53-139-38.hsd1.fl.comcast.net23) has joined
+T 1394542086 23*	zark (6cf91575@gateway/web/cgi-irc/kiwiirc.com/ip.108.249.21.11723) has joined
+T 1394542090 18<Rock5tar18>	no prob.  good luck with your cloak.
+T 1394542105 24*	zark (6cf91575@gateway/web/cgi-irc/kiwiirc.com/ip.108.249.21.11724) has left
+T 1394542116 24*	_QB_ (~QB@cpc17-croy19-2-0-cust911.croy.cable.virginm.net24) has left
+T 1394542142 23*	Tuxedo[Qyou] (~Tux@176.103.41.523) has joined
+T 1394542152 18<gheraint18>	gnubee, please check your email for instructions
+T 1394542164 24*	GeoManCam has quit (Ping timeout: 245 seconds)
+T 1394542186 24*	cairohy has quit (Quit: Mango IRC for iOS and OS X, http://mediaware.sk/mango)
+T 1394542187 23*	Aristide (~quassel@LCaen-156-55-22-239.w80-11.abo.wanadoo.fr23) has joined
+T 1394542205 18<gnubee18>	ey thanks gheraint
+T 1394542222 24*	FooDeas has quit (Changing host)
+T 1394542222 23*	FooDeas (~FooDeas@unaffiliated/foodeas23) has joined
+T 1394542243 18<gheraint18>	FooDeas, you're now cloaked
+T 1394542259 18<maferv18>	could you please cloak me gheraint ?
+T 1394542262 18<FooDeas18>	Thanks a lot!!
+T 1394542264 24*	jjlesys (~user@c-73-53-139-38.hsd1.fl.comcast.net24) has left ("ERC Version 5.3 (IRC client for Emacs)")
+T 1394542287 23*	SisterObelix (d91d090e@gateway/web/freenode/ip.217.29.9.1423) has joined
+T 1394542302 18<Rock5tar18>	FooDeas: see?  told ya :)
+T 1394542303 24*	shortdudey123 has quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+T 1394542311 24*	Ashes_ has quit (Read error: Connection reset by peer)
+T 1394542313 24*	maferv has quit (Changing host)
+T 1394542313 23*	maferv (~maferv@unaffiliated/maferv23) has joined
+T 1394542316 24*	Tux[Qyou] has quit (Ping timeout: 244 seconds)
+T 1394542323 24*	SisterObelix has quit (Client Quit)
+T 1394542325 18<gheraint18>	maferv, done
+T 1394542333 23*	rdymac (~rdymac@unaffiliated/rdymac23) has joined
+T 1394542334 24*	rdymac has quit (Read error: Connection reset by peer)
+T 1394542339 18<maferv18>	thank you very much gheraint
+T 1394542339 18<FooDeas18>	Rock5tar: *happy*
+T 1394542348 23*	earth (~earth@178-223-55-196.dynamic.isp.telekom.rs23) has joined
+T 1394542366 24*	Neptunia has quit (Quit: Hyperspace engine launched !)
+T 1394542398 23*	Wildblue` (~guy@unaffiliated/wildblue23) has joined
+T 1394542435 24*	Guest89430 has quit (Ping timeout: 264 seconds)
+T 1394542469 24*	28RickyB98 is now known as 18rickyb98
+T 1394542505 24*	niel has quit (Ping timeout: 265 seconds)
+T 1394542521 24*	smokex has quit (Max SendQ exceeded)
+T 1394542538 23*	LjL-Tablet (~ljl@93-32-49-69.ip32.fastwebnet.it23) has joined
+T 1394542577 24*	gnubee (~gnubee@27-33-248-128.static.tpgi.com.au24) has left ("Ex-Chat")
+T 1394542577 23*	smokex (smokex@gateway/shell/panicbnc/x-lbrfpbkkotjhcwjn23) has joined
+T 1394542578 24*	smokex has quit (Changing host)
+T 1394542578 23*	smokex (smokex@unaffiliated/smokex23) has joined
+T 1394542578 24*	smokex has quit (Changing host)
+T 1394542578 23*	smokex (smokex@gateway/shell/panicbnc/x-lbrfpbkkotjhcwjn23) has joined
+T 1394542592 23*	nexussage02 (~nexussage@adsl-98-89-87-24.mgm.bellsouth.net23) has joined
+T 1394542637 23*	niel (niel@om.nom.nom.coooki.es23) has joined
+T 1394542660 23*	anero79 (~anero79@190.51.95.12523) has joined
+T 1394542694 23*	zakame (~zakame@ubuntu/member/zakame23) has joined
+T 1394542717 23*	sargyknight (~asdasdas@unaffiliated/sargyknight23) has joined
+T 1394542729 24*	FooDeas (~FooDeas@unaffiliated/foodeas24) has left ("Leaving")
+T 1394542738 23*	vitus (~vitus@unaffiliated/vitus23) has joined
+T 1394542743 23*	mepowers (~mepowers6@unaffiliated/mepowers23) has joined
+T 1394542745 24*	wast has quit (Ping timeout: 246 seconds)
+T 1394542757 23*	RyanKnack (RyanKnack@unaffiliated/ryanknack23) has joined
+T 1394542767 23*	verodeb (c9f93904@gateway/web/cgi-irc/kiwiirc.com/ip.201.249.57.423) has joined
+T 1394542777 24*	verodeb (c9f93904@gateway/web/cgi-irc/kiwiirc.com/ip.201.249.57.424) has left
+T 1394542784 23*	rdymac (~rdymac@unaffiliated/rdymac23) has joined
+T 1394542786 23*	Beato (~Beato@unaffiliated/beato23) has joined
+T 1394542795 24*	R0nin has quit (Ping timeout: 265 seconds)
+T 1394542811 18<BullShark18>	.
+T 1394542811 24*	rdymac has quit (Read error: Connection reset by peer)
+T 1394542818 18<BullShark18>	sup gheraint
+T 1394542871 24*	anero79 has quit (Remote host closed the connection)
+T 1394542918 24*	Taylor has quit (Ping timeout: 252 seconds)
+T 1394542919 18<gheraint18>	BullShark, same ol', same ol'; pesky users, stupid questions
+T 1394542937 18<Rock5tar18>	hey, i'll give you a pesky user :P
+T 1394542937 18<erry18>	there are no stupid questions or pesky users!
+T 1394542939 18<erry18>	now get back to work!
+T 1394542940 18<gheraint18>	[none of that is true]
+T 1394542951 18<BullShark18>	gheraint :: "can i have a cloak?" pesky same ol questions
+T 1394542957 18<BullShark18>	that shit can be automated
+T 1394542963 24*	sargyknight (~asdasdas@unaffiliated/sargyknight24) has left
+T 1394542965 18<erry18>	beep ?
+T 1394542965 18<BullShark18>	where is the developers, automation
+T 1394542969 18<nexussage0218>	how much wood could a wood chuck chuck if a wood chuck could chuck wood?
+T 1394542971 18<BullShark18>	s/is/are/
+T 1394542992 23*	Melissa_ (60f3de6d@gateway/web/cgi-irc/kiwiirc.com/ip.96.243.222.10923) has joined
+T 1394543003 24*	Melissa_ (60f3de6d@gateway/web/cgi-irc/kiwiirc.com/ip.96.243.222.10924) has left
+T 1394543009 23*	Savh| (~Geo23@unaffiliated/geo2323) has joined
+T 1394543010 18<gheraint18>	BullShark, not today
+T 1394543026 18<BullShark18>	gheraint :: can i have a cloak? lol jk
+T 1394543033 18<BullShark18>	don't care bout this ip
+T 1394543044 18<BullShark18>	you leave arp trail everywhere you go
+T 1394543049 18<erry18>	nexussage02, 361.9237001 cubic centimeters of wood per day
+T 1394543056 18<Savh|18>	BullShark: Yes, contact to the staff please
+T 1394543056 18<nexussage0218>	hmmm
+T 1394543075 24*	mepowers (~mepowers6@unaffiliated/mepowers24) has left
+T 1394543111 23*	VideoDudeMike (uid13043@gateway/web/irccloud.com/x-qcsesvekogcxbgmo23) has joined
+T 1394543112 18<Savh18>	erry, can you please do something about Savh| ?
+T 1394543114 23*	rdymac (~rdymac@unaffiliated/rdymac23) has joined
+T 1394543114 24*	rdymac has quit (Read error: Connection reset by peer)
+T 1394543127 18<Savh|18>	Savh, por favor, ándate
+T 1394543132 18<icesword18>	what
+T 1394543138 18<nexussage0218>	hiding your ip these days you need to be a litle clever :)
+T 1394543148 18<BullShark18>	tomaw :: you want to hang in my channel for months on end. you could at least say "hi"
+T 1394543170 18<BullShark18>	nexussage02 :: want my ip?
+T 1394543170 23*	deathride58_ (~deathride@c-98-250-166-83.hsd1.mi.comcast.net23) has joined
+T 1394543179 18<BullShark18>	nexussage02 :: go to town on it
+T 1394543209 23*	shortdudey123 (~shortdude@dagmar1.corp.linkedin.com23) has joined
+T 1394543233 24*	AndroidVaan2 has quit (Quit: Bye)
+T 1394543236 23*	amikiri (~textual@c-67-173-21-229.hsd1.il.comcast.net23) has joined
+T 1394543241 24*	gregwp has quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+T 1394543259 23*	gregwp (~gregwp@unaffiliated/gregwp23) has joined
+T 1394543261 24*	gregwp has quit (Client Quit)
+T 1394543268 24*	Adlai has quit (Remote host closed the connection)
+T 1394543269 24*	Anakon has quit (Remote host closed the connection)
+T 1394543270 23*	gregwp (~gregwp@unaffiliated/gregwp23) has joined
+T 1394543273 24*	gregwp has quit (Client Quit)
+T 1394543284 23*	gregwp (~gregwp@unaffiliated/gregwp23) has joined
+T 1394543284 24*	gregwp has quit (Client Quit)
+T 1394543300 24*	28Savh| is now known as 18Hdrmedina
+T 1394543318 24*	28Hdrmedina is now known as 18Savh|
+T 1394543320 23*	Anakon (~Anakon@gateway/tor-sasl/anakon23) has joined
+T 1394543334 23*	gregwp (~gregwp@unaffiliated/gregwp23) has joined
+T 1394543358 23*	ButterPuddle (5adcfd21@gateway/web/freenode/ip.90.220.253.3323) has joined
+T 1394543382 23*	Adlai (~Adlai@gateway/tor-sasl/adlai23) has joined
+T 1394543405 24*	mongo has quit (Quit: My MacBook has gone to sleep. ZZZzzz…)
+T 1394543499 23*	Needanevo (~anonymous@pool-108-34-38-66.bltmmd.fios.verizon.net23) has joined
+T 1394543502 23*	hyperair (~hyperair@ubuntu/member/hyperair23) has joined
+T 1394543506 18<BullShark18>	64.40.15.42
+T 1394543536 18<Savh|18>	!erry
+T 1394543566 23*	Paperfrog (~Paperfrog@unaffiliated/paperfrog23) has joined
+T 1394543567 18<BullShark18>	Savh| :: solo ingles aqui
+T 1394543570 18<Savh|18>	erry: please ban Savh
+T 1394543614 18<icesword18>	all you can stop now
+T 1394543619 24*	Paperfrog has quit (Client Quit)
+T 1394543619 18<milky18>	Could I please have my group's cloak (textual/supporter/Clinteger) removed from the user Clinteger
+T 1394543619 23*	harobed_ (~stephane-@37.162.167.1723) has joined
+T 1394543623 18<Savh|18>	!erry
+T 1394543639 18<icesword18>	you dont want to get yourself bannde  right
+T 1394543647 24*	harobed_ has quit (Max SendQ exceeded)
+T 1394543649 18<Savh|18>	milky: 1- /nick Clinteger
+T 1394543668 24*	literally has quit (Quit: Be back later)
+T 1394543670 18<Savh|18>	milky: 2- /msg NickServ UNGROUP
+T 1394543680 24*	amikiri has quit (Quit: My MacBook Pro has gone to sleep. ZZZzzz…)
+T 1394543684 18<milky18>	It's not my nickname
+T 1394543690 23*	|DM| (~Wewt|Mang@unaffiliated/cocomango23) has joined
+T 1394543694 18<milky18>	I'm group founder, he's a former member
+T 1394543695 18<BullShark18>	RTFM /msg nickserv help
+T 1394543737 23*	CheckDavid (uid14990@gateway/web/irccloud.com/x-kqysyxcmxrpyiwns23) has joined
+T 1394543739 24*	deathride58_ has quit (Ping timeout: 248 seconds)
+T 1394543763 18<affiliated18>	BullShark: he can't do that, staff have to remove cloaks
+T 1394543805 23*	deathride58 (~deathride@c-98-250-166-83.hsd1.mi.comcast.net23) has joined
+T 1394543821 23*	sayan_ (~sayan@106.51.221.6223) has joined
+T 1394543833 24*	28Savh| is now known as 18Oleogrip|fuera
+T 1394543861 24*	28Oleogrip|fuera is now known as 18Oleogrip|ocupado
+T 1394543864 23*	rdymac (~rdymac@unaffiliated/rdymac23) has joined
+T 1394543896 24*	28q0rban is now known as 18[q0rban]
+T 1394543901 24*	28Oleogrip|ocupado is now known as 18Oleogrip|offline
+T 1394543918 24*	zakame has quit (Ping timeout: 240 seconds)
+T 1394543928 23*	harobed_ (~stephane-@37.162.167.1723) has joined
+T 1394543952 24*	28Oleogrip|offline is now known as 18Oleogrip|online
+T 1394543957 24*	harobed_ has quit (Max SendQ exceeded)
+T 1394543968 24*	rdymac has quit (Read error: Connection reset by peer)
+T 1394543983 18<BullShark18>	anybody else run irc-seven besides freenode?
+T 1394543984 24*	sayan has quit (Ping timeout: 265 seconds)
+T 1394543985 24*	28Oleogrip|online is now known as 18Geo23|offline
+T 1394544000 24*	28Geo23|offline is now known as 18Geo23|away
+T 1394544005 23*	Empress_Travalla (~kara@cpe-67-11-66-87.rgv.res.rr.com23) has joined
+T 1394544014 24*	28Geo23|away is now known as 18Geo23|wikipedia
+T 1394544027 18<Mikaela18>	BullShark: You might want to ask that on more appropiate channel like #ircd-seven or something.
+T 1394544035 24*	Aristide has quit (Read error: Connection reset by peer)
+T 1394544044 23*	rdymac (~rdymac@unaffiliated/rdymac23) has joined
+T 1394544044 24*	rdymac has quit (Read error: Connection reset by peer)
+T 1394544058 18<BullShark18>	i forgot there were channels for every subcategory
+T 1394544097 23*	darrenf (d556c5bc@gateway/web/freenode/ip.213.86.197.18823) has joined
+T 1394544110 18<affiliated18>	iirc it's #freenode-seven
+T 1394544116 18<affiliated18>	yeah
+T 1394544149 24*	DarkPrincess has quit (Ping timeout: 240 seconds)
+T 1394544151 23*	archtimmy (~archtimmy@93.103.81.4123) has joined
+T 1394544174 23*	road|runner (~Rene@unaffiliated/roadrunner/x-903636923) has joined
+T 1394544201 18<BullShark18>	stay on topic
+T 1394544219 18<BullShark18>	who is going to keep people like you in check
+T 1394544239 23*	Darth_Slack (~Darth_Sla@83.170.85.12523) has joined
+T 1394544240 24*	Ploy has quit (Read error: Connection reset by peer)
+T 1394544254 23*	rdymac (~rdymac@unaffiliated/rdymac23) has joined
+T 1394544255 18<affiliated18>	BullShark: ourselves? we generally follow our own advice :p
+T 1394544259 24*	Nixola has quit (Quit: bbl)
+T 1394544267 24*	rdymac has quit (Read error: Connection reset by peer)
+T 1394544296 18<BullShark18>	:P
+T 1394544319 24*	Nem0 has quit (Ping timeout: 256 seconds)
+T 1394544322 24*	hyperair has quit (Ping timeout: 264 seconds)
+T 1394544322 18<Darth_Slack18>	Hi.  Would it be possible to get a cloak, please? :)
+T 1394544331 18<BullShark18>	Darth_Slack :: not
+T 1394544344 24*	seed_ has quit (Read error: Connection reset by peer)
+T 1394544352 18<Darth_Slack18>	BullShark: Hmm?
+T 1394544359 18<affiliated18>	Darth_Slack: sure, wait around for staff :)
+T 1394544373 18<Darth_Slack18>	Ah... they're all idle? :)
+T 1394544375 23*	harobed_ (~stephane-@37.162.167.1723) has joined
+T 1394544378 18<affiliated18>	right now, yes :(
+T 1394544384 18<BullShark18>	Darth_Slack :: the cloak doesn't hide your ip. it provides a false sense of security.
+T 1394544400 24*	harobed_ has quit (Max SendQ exceeded)
+T 1394544412 18<affiliated18>	Darth_Slack: although, yes, BlueShark is correct, if you're trying to hide your IP, use the Tor hidden service
+T 1394544435 18<BullShark18>	register from a chinese proxy
+T 1394544443 18<Darth_Slack18>	Nah, not trying to 'hide'.  Just make it less obvious to script kiddies :)
+T 1394544446 23*	harobed (~stephane-@37.162.167.1723) has joined
+T 1394544451 23*	Johannes13_ (~Johannes@unaffiliated/johannes1323) has joined
+T 1394544457 18<affiliated18>	Darth_Slack: then a cloak should be fine :) just make sure you identify before joining channels, etc
+T 1394544458 18<BullShark18>	i mean if want to strive for being anonymous on the network
+T 1394544472 24*	harobed has quit (Max SendQ exceeded)
+T 1394544476 23*	Ploy (Ploy@2002:4f66:17ab::4f66:17ab23) has joined
+T 1394544512 18<BullShark18>	Darth_Slack :: those scripts in kali linux, some written by me, so i am the script kiddie?
+T 1394544517 18<BullShark18>	lua
+T 1394544524 23*	rdymac (~rdymac@unaffiliated/rdymac23) has joined
+T 1394544524 18<BullShark18>	and C ofc
+T 1394544525 18<affiliated18>	BullShark: i don't think that's what he meant
+T 1394544527 24*	28Geo23|wikipedia is now known as 18Lora_Forucci
+T 1394544528 24*	bunk (~bunk@cs185055.pp.htv.fi24) has left
+T 1394544535 23*	bunk (~bunk@cs185055.pp.htv.fi23) has joined
+T 1394544537 18<Darth_Slack18>	affiliated: Indeed.
+T 1394544539 24*	bunk (~bunk@cs185055.pp.htv.fi24) has left
+T 1394544544 24*	28Lora_Forucci is now known as 18Geo23
+T 1394544546 23*	bunk (~bunk@cs185055.pp.htv.fi23) has joined
+T 1394544552 24*	Moctezuma has quit (Ping timeout: 240 seconds)
+T 1394544554 24*	bunk (~bunk@cs185055.pp.htv.fi24) has left
+T 1394544563 23*	anon65140614 (~anon79652@199.227.71.11423) has joined
+T 1394544570 24*	anon65140614 has quit (Read error: Connection reset by peer)
+T 1394544573 24*	rdymac has quit (Read error: Connection reset by peer)
+T 1394544606 23*	dvu (~dvu@c-68-40-243-115.hsd1.mi.comcast.net23) has joined
+T 1394544682 24*	hmstrmn has quit (Quit: Leaving)
+T 1394544703 23*	hoplite009 (~quassel@202.78.172.16223) has joined
+T 1394544722 23*	hmstrmn (~hmstrmn@grm-studby-128-39-149-158.studby.uia.no23) has joined
+T 1394544736 24*	ajpiano has quit (Excess Flood)
+T 1394544736 24*	Swayz has quit (Quit: My MacBook has gone to sleep. ZZZzzz…)
+T 1394544747 23*	DougsTech (~DougsTech@c-98-230-105-210.hsd1.al.comcast.net23) has joined
+T 1394544749 23*	ajpiano (~ajpiano@li98-57.members.linode.com23) has joined
+T 1394544764 23*	harobed (~stephane-@37.162.167.1723) has joined
+T 1394544764 24*	koobs (~koobs@freebsd/developer/koobs24) has left ("WeeChat 0.4.3")
+T 1394544789 24*	harobed has quit (Max SendQ exceeded)
+T 1394544794 23*	anero79 (~anero79@190.51.77.9723) has joined
+T 1394544801 23*	rihbyne (~rihbyne@117.222.34.4523) has joined
+T 1394544828 23*	harobed (~stephane-@37.162.167.1723) has joined
+T 1394544853 24*	harobed has quit (Max SendQ exceeded)
+T 1394544855 24*	forkbomb has quit (Ping timeout: 252 seconds)
+T 1394544869 24*	XoXoX has quit (Ping timeout: 269 seconds)
+T 1394544872 23*	TylerDurden2nd (~TylerDurd@46.12.148.47.dsl.dyn.forthnet.gr23) has joined
+T 1394544891 23*	harobed (~stephane-@37.162.167.1723) has joined
+T 1394544898 24*	krtek has quit (Ping timeout: 240 seconds)
+T 1394544901 18<BullShark18>	http://youtu.be/otCpCn0l4Wo
+T 1394544917 24*	harobed has quit (Max SendQ exceeded)
+T 1394544917 23*	wlvrn (~wlvrn@64.115.210.16223) has joined
+T 1394544937 24*	thezanke has quit (Ping timeout: 240 seconds)
+T 1394544944 18<BullShark18>	pants like that
+T 1394544955 23*	harobed (~stephane-@37.162.167.1723) has joined
+T 1394544976 23*	Taylor (~Taylor@unaffiliated/taylor23) has joined
+T 1394544979 24*	harobed has quit (Max SendQ exceeded)
+T 1394545003 24*	28[q0rban] is now known as 18q0rban
+T 1394545025 23*	harobed (~stephane-@37.162.167.1723) has joined
+T 1394545063 24*	28Geo23 is now known as 18Geo23|wikipedia
+T 1394545078 24*	harobed has quit (Max SendQ exceeded)
+T 1394545121 23*	harobed (~stephane-@37.162.167.1723) has joined
+T 1394545146 18<Darth_Slack18>	How will I know when some staff are around to get a cloak?
+T 1394545146 24*	harobed has quit (Max SendQ exceeded)
+T 1394545154 23*	rdymac (~rdymac@unaffiliated/rdymac23) has joined
+T 1394545160 23*	KamusHadenes (~kamushade@hyadesinc/overlord/hadenes/kamushadenes23) has joined
+T 1394545161 23*	Mdann52 (55bd3d6a@wikipedia/Mdann5223) has joined
+T 1394545183 18<Mdann5218>	Hi - can I have someone kicked from a channel - local ops are not responding to queries
+T 1394545183 24*	rdymac has quit (Read error: Connection reset by peer)
+T 1394545189 23*	harobed (~stephane-@37.162.167.1723) has joined
+T 1394545190 18<jbroome18>	harobed: your client is sending too much data at once and you're getting dc'd
+T 1394545205 24*	lurker|dav2 has quit (Read error: Connection reset by peer)
+T 1394545207 18<Mdann5218>	nvm, gone now
+T 1394545210 24*	Mdann52 (55bd3d6a@wikipedia/Mdann5224) has left
+T 1394545211 24*	KamusHadenes (~kamushade@hyadesinc/overlord/hadenes/kamushadenes24) has left
+T 1394545214 24*	harobed has quit (Max SendQ exceeded)
+T 1394545251 23*	hanyuu (~krtek_@79.164.137.8723) has joined
+T 1394545251 24*	hanyuu has quit (Changing host)
+T 1394545251 23*	hanyuu (~krtek_@unaffiliated/hanyuu23) has joined
+T 1394545283 23*	Mdann52 (55bd3d6a@wikipedia/Mdann5223) has joined
+T 1394545287 23*	godelsproof (~godelspro@2402:6b00:294a:5f80:c176:a95d:303a:853a23) has joined
+T 1394545303 23*	rdymac (~rdymac@unaffiliated/rdymac23) has joined
+T 1394545304 24*	rdymac has quit (Read error: Connection reset by peer)
+T 1394545310 18<Mdann5218>	The user is now pm spamming multiple users with abusive messages - can we kick him from Freenode?
+T 1394545354 24*	ZujkisNx_ has quit (Ping timeout: 244 seconds)
+T 1394545412 18<Mdann5218>	Nick is WikiAbused
+T 1394545417 24*	viscera has quit (Quit: viscera)
+T 1394545443 18<godelsproof18>	Is anyone could help to My Nickserv Pass Recovery?
+T 1394545469 24*	28rickyb98 is now known as 18RickyB98
+T 1394545481 18<Darth_Slack18>	godelsproof: The NSA can :)
+T 1394545530 24*	quiqua (~quiqua@port-212-202-227-184.static.qsc.de24) has left
+T 1394545552 18<godelsproof18>	Thankyou I'll wait ;)
+T 1394545562 23*	DarkPrincess (~kara@cpe-67-11-66-87.rgv.res.rr.com23) has joined
+T 1394545562 24*	DarkPrincess has quit (Changing host)
+T 1394545562 23*	DarkPrincess (~kara@unaffiliated/darkprincess23) has joined
+T 1394545567 24*	Needanevo has quit (Remote host closed the connection)
+T 1394545583 23*	Bacobob (~anonymous@62.140.132.5023) has joined
+T 1394545588 23*	Needanevo (~anonymous@pool-108-34-38-66.bltmmd.fios.verizon.net23) has joined
+T 1394545589 24*	Bacobob (~anonymous@62.140.132.5024) has left
+T 1394545609 23*	r4v5 (~r4v5@173-9-252-209-Illinois.hfc.comcastbusiness.net23) has joined
+T 1394545614 23*	harobed (~stephane-@37.162.167.1723) has joined
+T 1394545617 24*	28sjoerddebruin is now known as 18sjoerdhetijsje
+T 1394545632 18<Mdann5218>	0 staff members on :(
+T 1394545641 24*	harobed has quit (Max SendQ exceeded)
+T 1394545658 24*	DzAirmaX has quit (Ping timeout: 240 seconds)
+T 1394545664 23*	rdymac (~rdymac@unaffiliated/rdymac23) has joined
+T 1394545682 23*	harobed (~stephane-@37.162.167.1723) has joined
+T 1394545682 24*	rdymac has quit (Read error: Connection reset by peer)
+T 1394545691 23*	DrAwesom_ (~drawesome@2002:47ea:56fe:0:4996:c775:5e4e:1c1f23) has joined
+T 1394545707 24*	harobed has quit (Max SendQ exceeded)
+T 1394545709 24*	Empress_Travalla has quit (Ping timeout: 240 seconds)
+T 1394545712 23*	Lizio_PC (~123@adte193.neoplus.adsl.tpnet.pl23) has joined
+T 1394545746 18<r4v518>	hrmph. the weird one-random-silent-bot-at-a-time in #sshc thing is continuing
+T 1394545758 24*	DrAwesomeClaws has quit (Ping timeout: 240 seconds)
+T 1394545760 24*	Mdann52 (55bd3d6a@wikipedia/Mdann5224) has left
+T 1394545833 23*	seed_ (~htrhtrhrt@unaffiliated/badseed23) has joined
+T 1394545869 23*	DzAirmaX (~AirmaX@unaffiliated/dzairmax23) has joined
+T 1394545928 24*	BikeMike (Elite7076@gateway/shell/elitebnc/x-mgumgkynjmvvmspl24) has left
+T 1394545942 24*	rcoedo has quit (Quit: leaving)
+T 1394546002 23*	harobed (~stephane-@37.162.167.1723) has joined
+T 1394546028 24*	harobed has quit (Max SendQ exceeded)
+T 1394546064 24*	Streusel has quit (Quit: Computer has gone to sleep.)
+T 1394546068 23*	harobed (~stephane-@37.162.167.1723) has joined
+T 1394546076 24*	zoldike (~zoldike@unaffiliated/zoldike24) has left
+T 1394546091 23*	TempleIRC (~TempleIRC@141.255.160.22623) has joined
+T 1394546099 24*	harobed has quit (Max SendQ exceeded)
+T 1394546115 23*	TCS (~TCS@unaffiliated/thecybershocker23) has joined
+T 1394546133 24*	onlty has quit (Quit: Quit)
+T 1394546283 19*	Now talking on 22#freenode
+T 1394546283 22*	Topic for 22#freenode is: Welcome to #freenode | Staff are voiced; some may also be on /stats p -- you can /msg us at any time | FAQ: https://freenode.net/faq.shtml | Unwelcome queries? Use /mode your_nick +R to block them. | Channel guidelines: https://freenode.net/poundfreenode.shtml | Blog: https://blog.freenode.net | Please don't comment on spam/trolls.
+T 1394546283 22*	Topic for 22#freenode set by 26dickson.freenode.net (24Fri Mar  7 07:56:19 2014)
+T 1394546283 18<***18>	Starting Buffer Playback...
+T 1394546283 18<TempleIRC18>	[13:57:39] Hello Ops...Can I please receive a cloak?   Thank you.
+T 1394546283 18<***18>	Buffer Playback Complete.
+T 1394546286 24*	road|runner has quit (Quit: KVIrc 4.2.0 Equilibrium http://www.kvirc.net/)
+T 1394546318 24*	godelsproof (~godelspro@2402:6b00:294a:5f80:c176:a95d:303a:853a24) has left
+T 1394546318 23*	Hoogvlieger_ (~Hoogvlieg@ip41-37-211-87.adsl2.static.versatel.nl23) has joined
+T 1394546352 23*	Ploy_ (~Ploy@79.102.23.17123) has joined
+T 1394546395 18<orionbelt18>	Same here, actually, may i have a cloak, too? Thanks.
+T 1394546414 23*	rdymac (~rdymac@unaffiliated/rdymac23) has joined
+T 1394546414 24*	rdymac has quit (Read error: Connection reset by peer)
+T 1394546446 24*	Ploy has quit (Ping timeout: 245 seconds)
+T 1394546476 23*	filo3sofie (filo3sofie@gateway/shell/panicbnc/x-bjjjvawqmjgqbwtv23) has joined
+T 1394546481 23*	deSouza (~desouza@unaffiliated/desouza23) has joined
+T 1394546495 23*	fredzjx (~kadar@180.161.241.19423) has joined
+T 1394546505 23*	[-I-]Dogma (isis.world@cpc1-leic16-2-0-cust400.8-1.cable.virginm.net23) has joined
+T 1394546505 24*	28hoglahoo-Lee_j is now known as 18hoglahoo-Lee
+T 1394546514 24*	fredzjx has quit (Changing host)
+T 1394546514 23*	fredzjx (~kadar@unaffiliated/fredzjx23) has joined
+T 1394546526 23*	harobed (~stephane-@37.162.167.1723) has joined
+T 1394546536 23*	fscooper (fscooper@gateway/shell/panicbnc/x-rtmxxtslhcdsiszp23) has joined
+T 1394546553 24*	harobed has quit (Max SendQ exceeded)
+T 1394546566 24*	Hierarch has quit (Ping timeout: 265 seconds)
+T 1394546566 24*	Ru00161154 has quit (Ping timeout: 265 seconds)
+T 1394546591 23*	harobed (~stephane-@37.162.167.1723) has joined
+T 1394546627 24*	harobed has quit (Max SendQ exceeded)
+T 1394546654 23*	rdymac (~rdymac@unaffiliated/rdymac23) has joined
+T 1394546654 24*	rdymac has quit (Read error: Connection reset by peer)
+T 1394546678 23*	Bacobob (~anonymous@62.140.132.5023) has joined
+T 1394546786 23*	TBloemink (~TB@wikimedia/tbloemink23) has joined
+T 1394546794 23*	sabotender (~tandoorii@unaffiliated/tandoori23) has joined
+T 1394546806 24*	sharkz has quit (Quit: leaving)
+T 1394546825 23*	sharkz (r02922070@linux3.csie.ntu.edu.tw23) has joined
+T 1394546845 24*	anero79 has quit (Remote host closed the connection)
+T 1394546878 23*	anero79 (~anero79@190.51.77.9723) has joined
+T 1394546892 24*	Rock5tar (~Rock5tar@unaffiliated/rock5tar24) has left
+T 1394546911 24*	Bacobob has quit (Client Quit)
+T 1394546920 24*	icesword has quit (Quit: used jmIrc)
+T 1394546938 23*	harobed (~stephane-@37.162.167.1723) has joined
+T 1394546966 24*	harobed has quit (Max SendQ exceeded)
+T 1394547030 23*	mepowers (~mepowers6@unaffiliated/mepowers23) has joined
+T 1394547032 23*	zoneo (~zion@unaffiliated/zoneo23) has joined
+T 1394547039 23*	bin_sh (~Anon7@unaffiliated/bin-bash/x-027345323) has joined
+T 1394547062 24*	rihbyne has quit (Quit: Konversation terminated!)
+T 1394547076 23*	UniNita (844a4b8b@gateway/web/freenode/ip.132.74.75.13923) has joined
+T 1394547084 23*	rihbyne (~rihbyne@117.222.34.4523) has joined
+T 1394547097 24*	UniNita (844a4b8b@gateway/web/freenode/ip.132.74.75.13924) has left
+T 1394547117 23*	shortdud_ (~shortdude@mobile-166-137-176-148.mycingular.net23) has joined
+T 1394547145 24*	anero79 has quit (Ping timeout: 265 seconds)
+T 1394547157 23*	godelsproof (~godelspro@2402:6b00:294a:5f80:c176:a95d:303a:853a23) has joined
+T 1394547194 23*	rdymac (~rdymac@unaffiliated/rdymac23) has joined
+T 1394547198 23*	XoXoX (~XoXoX@201.141.193.13023) has joined
+T 1394547200 24*	rdymac has quit (Read error: Connection reset by peer)
+T 1394547202 23*	Howlze_iPhone (~nobody@083073007112.mbb.telenor.dk23) has joined
+T 1394547227 23*	harobed (~stephane-@37.162.167.1723) has joined

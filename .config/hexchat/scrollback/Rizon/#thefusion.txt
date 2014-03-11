@@ -1,0 +1,56 @@
+T 1393965645 19*	Now talking on 22#TheFusion
+T 1393965645 22*	Topic for 22#TheFusion is: 14Insert something fancy here
+T 1393965645 22*	Topic for 22#TheFusion set by 26Pino!~Luka@Rizon-C90AE60C.tmodns.net (24Sat Mar  1 02:17:35 2014)
+T 1393965652 20<Thonneve>30	Should I be scared?
+T 1393965655 18<Caaz18>	Yes.
+T 1393965658 20<Thonneve>30	Oh damn
+T 1393965673 18<Caaz18>	So I don't know how exactly you want to implement commands on this bot
+T 1393965688 18<Caaz18>	like I said, POE has a bunch of extra shit and honestly I don't even remember how I had commands set up on it
+T 1393965701 18<Caaz18>	However it's here and reload is on a subroutine which works as expected
+T 1393965728 18<Caaz18>	I'll throw it on dropbox
+T 1393965735 18<Caaz18>	Almost all of the time I took was installing modules
+T 1393965769 20<Thonneve>30	Haha
+T 1393965784 18<Caaz18>	https://dl.dropboxusercontent.com/u/9305622/NathanShit.zip
+T 1393965786 20<Thonneve>30	So if I make changes and reload it'll do it's shiznick?
+T 1393965808 18<Caaz18>	It'll load everything in the directory ./Plugins/
+T 1393965825 18<Caaz18>	IT automatically chdirs to the directory the core shit is stored in.
+T 1393965831 18<Caaz18>	You'll see when you unzip that
+T 1393965851 18<Caaz18>	I threw everything after # the slap shit or whatever.
+T 1393965869 18<Caaz18>	caaz_reload(); is the subroutine that does the reloading
+T 1393965887 18<Caaz18>	Some comments in there for specifics.
+T 1393965889 20<Thonneve>30	Watch me make it explode
+T 1393965901 24*	Osatia-Bot has quit (Read error: Connection reset by peer)
+T 1393965991 18<Caaz18>	If you're curious as to how Luka's set up currently I already have that on dropbox, though not zipped it follows the same structure.
+T 1393966030 20<Thonneve>30	I'll check it out
+T 1393966059 18<Caaz18>	This is the bit that's actually executed
+T 1393966060 18<Caaz18>	https://dl.dropboxusercontent.com/u/9305622/L3/Luka.pl
+T 1393966068 18<Caaz18>	https://dl.dropboxusercontent.com/u/9305622/L3/Plugins/Core.pl
+T 1393966075 18<Caaz18>	That's the plugin that actually makes shit work.
+T 1393966094 18<Caaz18>	Though Pino has a lot more shit loaded
+T 1393966095 18<Caaz18>	~plugins
+T 1393966096 18<Pino18>	Loaded Plugins : [Define v1] [Bomb v1] [Witty v1] [The Dungeon v1.2] [Blackjack v1 r3] [Hangman v1 r2] [Notes v1] [The Adventure v1] [Colorblind v2 r3] [Utilities v1 r3] [Commands v1] [Would You? v1] [Userbase v1 r4] [Core v1 r1] [Help v2]
+T 1393969003 20<Thonneve>30	Caaz: I broke it already
+T 1393969159 18<Caaz18>	What's the errors if any
+T 1393969224 18<Re-l18>	it started
+T 1393969227 18<Re-l18>	biggest error there is
+T 1393969279 18<Re-l18>	reaper3 > luka3
+T 1393969287 18<Caaz18>	HE's making his own bot.
+T 1393969293 18<Caaz18>	I'm just showing of Luka3.
+T 1393970157 20<Thonneve>30	Caaz: No errors, it's just broken
+T 1393970174 20<Thonneve>30	Also it won't reload new commands, since the definecommandsthingymajiger is inside the main file
+T 1393970180 20<Thonneve>30	And I doubt it could be reloaded tbh
+T 1393970465 24*	Pino has quit (Ping timeout: 240 seconds)
+T 1393971931 18<Caaz18>	what I miss
+T 1393972380 24*	Severa has quit (Ping timeout: 240 seconds)
+T 1393972756 19<Caaz>	Thonneve, use Luka 3
+T 1393972758 18<Caaz18>	Problem solved.
+T 1393972806 18<Caaz18>	Though I had POE on 2.0 of Luka and it reloaded fine, however Iwas handling commands a lot different
+T 1393972831 18<Caaz18>	PRetty sure it just hooked into everything and passed it to a single subroutine, where I then parsed the fuck out of it and that was the code I reloaded.
+T 1393973854 20<Thonneve>30	Caaz: But will it implement my relay function?
+T 1393973868 20<Thonneve>30	That's the thing, it's main goal is to relay from IRC <=> OpenSim
+T 1393973898 20<Thonneve>30	Everything else is secondary garbage I feel like writing
+T 1393974893 18<Re-l18>	the hell is open sim
+T 1393974933 18<Re-l18>	the hell is this shit
+T 1393974981 20<Thonneve>30	OpenSim is a region+grid server for the libopenmeteverse protocol
+T 1393974987 20<Thonneve>30	AKA Second Life Server emulator
+T 1393975566 24*	28Re-l is now known as 18RePod

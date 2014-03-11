@@ -1,0 +1,505 @@
+T 1394475298 24*	heraclitus has quit (Remote host closed the connection)
+T 1394475311 24*	robinho86 has quit (Read error: Connection reset by peer)
+T 1394475314 24*	tzudot has quit (Ping timeout: 252 seconds)
+T 1394475329 23*	heraclitus (~heraclitu@unaffiliated/heraclitis23) has joined
+T 1394475525 23*	WormDrink (~WormDrink@unaffiliated/wormdrink23) has joined
+T 1394475628 23*	nitdega_ (~nitdega@adsl-74-177-45-85.mem.bellsouth.net23) has joined
+T 1394475633 18<jannh_18>	evilman_home: https://paste.selfnet.de/rhH4/
+T 1394475804 24*	nitdega has quit (Ping timeout: 265 seconds)
+T 1394475843 24*	heraclitus has quit (Remote host closed the connection)
+T 1394475875 23*	heraclitus (~heraclitu@unaffiliated/heraclitis23) has joined
+T 1394475907 24*	heraclitus has quit (Remote host closed the connection)
+T 1394475936 23*	heraclitus (~heraclitu@unaffiliated/heraclitis23) has joined
+T 1394476036 24*	heraclitus has quit (Remote host closed the connection)
+T 1394476065 23*	heraclitus (~heraclitu@unaffiliated/heraclitis23) has joined
+T 1394476079 24*	jijz has quit (Ping timeout: 240 seconds)
+T 1394476693 23*	dead (~dead@unaffiliated/dead23) has joined
+T 1394476721 18<dead18>	is it possible to NAT incoming connections on port 25 to a VIP on the same interface, port 25 (in same subnet)?
+T 1394476791 18<Jefe18>	dead, that sounds right.
+T 1394476812 23*	diegows (~diegows@190.190.5.23823) has joined
+T 1394476814 18<Jefe18>	You want to DNAT the incoming packet?
+T 1394476820 23*	DiabloHorn (~DiabloHor@unaffiliated/diablohorn23) has joined
+T 1394476955 18<dead18>	well i want to forward it, im not sure what i need
+T 1394476979 18<dead18>	so a user connects to 2.2.2.2 and it gets forwarded to 2.2.2.3 on the same interface, but 2.2.2.3 is not visible externally
+T 1394477072 18<Jefe18>	It doesn't matter if it goes to FORWARD or INPUT, you use DNAT in PREROUTING.
+T 1394477370 24*	R430R has quit (Quit: RA3OR Script® v0.8)
+T 1394477378 23*	RA3OR (~demon@unaffiliated/ra3or23) has joined
+T 1394477459 24*	WormDrink has quit (Read error: Connection reset by peer)
+T 1394477578 24*	noisebleed has quit (Ping timeout: 264 seconds)
+T 1394477610 18<dead18>	so beyond the DNAT rule, what else would I need?
+T 1394477821 18<Jefe18>	Depends on what you already have.  If there are no filter rules, that is enough.
+T 1394478144 18<dead18>	yeah i have no other rules, just the one DNAT rule and all default polices of "accept"
+T 1394478285 18<Jefe18>	Ok, so out of curiosity, how is 2.2.2.3 "not visible externally?"
+T 1394478481 23*	WormDrink (~WormDrink@105-237-64-146.access.mtnbusiness.co.za23) has joined
+T 1394478492 24*	WormDrink has quit (Changing host)
+T 1394478492 23*	WormDrink (~WormDrink@unaffiliated/wormdrink23) has joined
+T 1394478537 18<dead18>	so I have my server setup with an external IP 2.2.2.2, I then created a VIP service on the same interface, 2.2.2.3 so it's a VIP that I can hit from the server itself but not from the internet
+T 1394478537 24*	Lonecrow has quit (Read error: Connection reset by peer)
+T 1394478558 18<dead18>	and the DNAT rule alone doesn't seem to be cutting it...i must be doing something wrong still... :P
+T 1394478585 18<Jefe18>	The IP is not assigned to the interface?
+T 1394478621 18<dead18>	it is
+T 1394478641 18<dead18>	as a secondary ip
+T 1394478652 18<Jefe18>	I'm about to go to lunch, but I'll continue if you're still here when I get back.
+T 1394478661 23*	Lonecrow (~me@industrial.wavedirect.net23) has joined
+T 1394478663 18<dead18>	ok thanks
+T 1394478667 18<dead18>	have a good lunch :)
+T 1394478733 24*	nitdega_ has quit (Ping timeout: 265 seconds)
+T 1394478785 18<kerframil18>	dead: is the host that you are forwarding using the appropriate return path i.e. is it using the host where you implemented the DNAT rule as its default gateway?
+T 1394478795 18<kerframil18>	forwarding to*
+T 1394478958 18<dead18>	the host I'm forwarding to is on the same interface
+T 1394478968 18<dead18>	its a VIP on the same interface as the external IP
+T 1394479065 23*	RageRiot (~Rage@87.115.166.5023) has joined
+T 1394479095 18<dead18>	so eth1 has 2 IPs assigned, one is the real public IP the other is a VIP in the same subnet
+T 1394479533 23*	nitdega (nitdega@2602:306:2422:fcc1:e1b2:ceaf:ce15:1bf123) has joined
+T 1394479598 18<kerframil18>	dead: ok. so, if you run "ip route get <vip>", does it show "dev lo"?
+T 1394479621 23*	paddy_ (~patrick@unaffiliated/paddy23) has joined
+T 1394479738 18<dead18>	yes it does
+T 1394479748 18<dead18>	so i guess its not on the same interface?
+T 1394479762 18<kerframil18>	dead: this traffic isn't routed/forwarded at all. therefore, dnat will not help you.
+T 1394479799 18<dead18>	would it make more sense to assign the VIP on the second internal interface?
+T 1394479815 18<dead18>	or how would I fix this then?
+T 1394479921 18<kerframil18>	dead: I'm not 100% sure on that but I think PREROUTING would only help if the traffic is routed. I'm inclined to wait and see what Jefe says.
+T 1394480013 23*	FreezingCold (~FreezingC@135.0.41.1423) has joined
+T 1394480412 24*	nitdega has quit (Quit: Leaving)
+T 1394480600 18<kerframil18>	dead: also, it would be useful if you convey some more information; the output of "ip a s" and your existing nat rule
+T 1394480655 23*	hubutm20 (~hubutm20@79.114.73.19823) has joined
+T 1394481158 23*	[diecast] (~diecast@unaffiliated/diecast/x-482195223) has joined
+T 1394481313 24*	Ex-Opesa has quit (Ping timeout: 240 seconds)
+T 1394481341 23*	Ex-Opesa (~Ex-Opesa@unaffiliated/ex-opesa23) has joined
+T 1394481373 24*	kemist has quit (Quit: Textual IRC Client: www.textualapp.com)
+T 1394481585 18<dead18>	i can't actually give out the real IPs, but here is what itlooks like: http://sprunge.us/PVIX
+T 1394481605 24*	matteo has quit (Remote host closed the connection)
+T 1394481692 18<kerframil18>	dead: are 2.2.2.2 - .4 (their genuine counterparts) all routable?
+T 1394481716 18<kerframil18>	dead: by that I mean not RFC 1968 private addresses
+T 1394481759 23*	eeanm (~quassel@amarok/developer/eean23) has joined
+T 1394481817 24*	eean has quit (Ping timeout: 252 seconds)
+T 1394481835 18<dead18>	only 2.2.2.2 is
+T 1394481881 18<dead18>	2.2.2.3 points to a LVS service, that then points to an external real server
+T 1394481904 18<dead18>	so the 2.2.2.3 is setup by keepalived
+T 1394481977 18<bc54718>	dead: you should give the real information instead of mangling it and thereby changing their meaning
+T 1394482003 18<kerframil18>	dead: I understand the problem now; just trying to think that the solution would be
+T 1394482108 18<bc54718>	dead: or is the barracuda network really a big secret?
+T 1394482129 18<dead18>	i just dont want to give it out cause its not something people should be hitting directly
+T 1394482152 23*	nitdega (nitdega@2602:306:2423:3b81:7c62:6425:18c8:931923) has joined
+T 1394482598 18<kerframil18>	dead: it probably won't be so simple but try it with -A INPUT instead of -A PREROUTING
+T 1394482641 18<kerframil18>	dead: also add -d 2.2.2.2 to the rule so that it is specific
+T 1394482649 18<dead18>	ok
+T 1394482670 23*	aah (~textual@pool-108-45-182-208.washdc.fios.verizon.net23) has joined
+T 1394482778 24*	beta^ has quit (Ping timeout: 240 seconds)
+T 1394482787 18<Jefe18>	kerframil, ip r get $SECONDARY_IP will always say "lo" if that IP is on that machine.
+T 1394482800 18<kerframil18>	Jefe: yes, that's what I was counting on
+T 1394482812 18<Jefe18>	Ok, I thought you were expecting something else.
+T 1394482856 18<kerframil18>	Jefe: I just noticed that the nat table has an input chain (though the man page doesn't mention it). could be way out in leftfield with this suggestion though. curious to hear your thoughts.
+T 1394482915 18<Jefe18>	INPUT was a somewhat recent addition to the nat chains.  I'm still not sure why you would use it there.
+T 1394482928 18<dead18>	is it still DNAT?
+T 1394482933 18<dead18>	its failing to add
+T 1394482946 18<dead18>	x_tables: ip_tables: DNAT target: used from hooks INPUT, but only usable from PREROUTING/OUTPUT
+T 1394482954 18<Jefe18>	I think nat:INPUT is valid for SNAT.
+T 1394482969 24*	Lonecrow has quit (Read error: Connection reset by peer)
+T 1394482974 18<kerframil18>	Jefe: so, 2.2.2.2 is his obfuscated routable address but he's also running an LVS virtual server on the same interface with a non-routeable address
+T 1394482994 18<kerframil18>	Jefe: dnat would have worked perfectly if he was running lvs behind. not sure what else to suggest.
+T 1394483014 18<dead18>	so if I move the LVS vip to my internal interface, I can use prerouting DNAT?
+T 1394483046 18<Jefe18>	Oh god, I have to go to a meeting.
+T 1394483046 18<dead18>	i do have 2 interfaces...i just did it this way because the 'realserver" is on the internet, so I assumed I had to make the VIP on the public interface
+T 1394483048 18<kerframil18>	dead: as Jefe pointed out, all addresses owned by the host go through the loopback interface. so, no, I don't think so.
+T 1394483057 18<dead18>	oh damn.
+T 1394483092 23*	Lonecrow (~me@industrial.wavedirect.net23) has joined
+T 1394483137 18<kerframil18>	dead: if lvs was on a different host altogether, it would work with conventional dnat. there must be some trick to make this work but damned if I can think what.
+T 1394483238 23*	nehaljwani (~nehaljwan@14.139.82.623) has joined
+T 1394483251 18<nehaljwani18>	what is the option iptables -w for?
+T 1394483259 18<nehaljwani18>	I can't find it in the man pages
+T 1394483355 18<kerframil18>	nehaljwani: wait's for the xtables lock i.e. in case of mid-air collision if more than one instance is run at the same time
+T 1394483357 18<kerframil18>	waits
+T 1394483383 18<nehaljwani18>	kerframil, why is it not there in the man pages? and what type of argument does it take?
+T 1394483399 18<kerframil18>	nehaljwani: the man pages could definitely use an update
+T 1394483421 18<kerframil18>	nehaljwani: you'll find it in --help though. no arguments, by the looks of it.
+T 1394483450 18<nehaljwani18>	kerframil, I don't find it in --help either
+T 1394483461 18<kerframil18>	nehaljwani: hmm. which version are you running?
+T 1394483467 18<nehaljwani18>	v1.4.7:
+T 1394483484 18<kerframil18>	I would assume it's too old
+T 1394483490 18<kerframil18>	tried 1.4.20 here
+T 1394483509 18<kerframil18>	it's there, at least
+T 1394483529 18<nehaljwani18>	kerframil, iptables v1.4.7: option `-w' requires an argument
+T 1394483529 18<nehaljwani18>	 (again, what argument?)
+T 1394483570 18<kerframil18>	nehaljwani: my best guess would be that it's because you haven't told iptables to do anything (wait for lock yes, but then do what?)
+T 1394483575 18<nehaljwani18>	Okay, this is strange
+T 1394483575 18<nehaljwani18>	iptables v1.4.18: unknown option "-w"
+T 1394483591 18<kerframil18>	heh, dodgy argument parsing
+T 1394483596 18<kerframil18>	trying it here
+T 1394483604 18<kerframil18>	# iptables -w
+T 1394483604 18<kerframil18>	iptables v1.4.20: no command specified
+T 1394483606 18<kerframil18>	yep, that makes sense
+T 1394483616 18<rob018>	try -w -h
+T 1394483635 18<nehaljwani18>	[wani@raman ~]$ iptables -w -h
+T 1394483635 18<nehaljwani18>	iptables v1.4.18: unknown option "-w"
+T 1394483635 18<nehaljwani18>	Try `iptables -h' or 'iptables --help' for more information.
+T 1394483635 18<nehaljwani18>	[wani@raman ~]$
+T 1394483642 18<kerframil18>	good one
+T 1394483714 18<nehaljwani18>	kerframil, ? good in what sense
+T 1394483733 18<kerframil18>	nehaljwani: good suggestion from rob0. in my case, -w -h doesn't complain.
+T 1394483734 18<rob018>	-h shows "--wait" and no argument
+T 1394483750 18<rob018>	but we are looking at several versions here
+T 1394483764 18<rob018>	my older one does not have -w at all
+T 1394483766 18<kerframil18>	it's in 1.4.20 for sure
+T 1394483790 18<rob018>	(does not have it in "-h" output)
+T 1394483793 18<nehaljwani18>	iptables v1.4.19.1: unknown option "-w"
+T 1394483822 18<nehaljwani18>	iptables v1.4.19.1: unknown option "--wait"
+T 1394483823 18<kerframil18>	this is a really useful option for scripting but I wonder how long it waits for the lock?
+T 1394484074 24*	28sudokode is now known as 18snickers
+T 1394484080 24*	28snickers is now known as 18sudokode
+T 1394484098 24*	hubutm20 has quit (Quit: Ulliendo)
+T 1394484483 24*	paddy_ has quit (Quit: Leaving)
+T 1394484631 24*	mrfraggs has quit (Remote host closed the connection)
+T 1394484641 23*	T_X_ (~T_X@open-mesh.org23) has joined
+T 1394484721 18<T_X_18>	is it possible with iptables or nftables to duplicate matching packets?
+T 1394484743 18<T_X_18>	e.g. I have a rather unstable network here and would like to add some redundancy to SIP+RTP
+T 1394484792 18<T_X_18>	or would I need some gstreamer elements in between? (at least there I'd know how to duplicate stuff)
+T 1394484835 23*	bodom (~quassel@2001:1418:100:84a3:49f1:9f2:4274:7cc823) has joined
+T 1394484941 18<Jefe18>	T_X_, you can divert a clone of a packet to a different destination, but there's nothing that just starts doubling packets.
+T 1394485440 24*	WormDrink has quit (Ping timeout: 240 seconds)
+T 1394485486 18<T_X_18>	Jefe: hm, I guess that could work, too. I want to double on both sides anyway, so I need iptables/nftables on both sides
+T 1394485510 18<T_X_18>	and the receiver could just use REDIRECT for the second stream, to map it onto the first one
+T 1394485572 18<T_X_18>	but "cloning" seems to be the right keyword for search engines, thanks!
+T 1394485643 24*	FinboySlick has quit (Quit: Leaving.)
+T 1394485787 18<Jefe18>	Well, TEE is the target I had in mind.  I'm not sure if it's really what you want.
+T 1394485992 23*	WormDrink (~WormDrink@unaffiliated/wormdrink23) has joined
+T 1394486151 18<dead18>	Jefe: any further ideas on forwarding packets to a VIP on loopback?... another weird piece, I made some tweaks in keepalived and now 'ip route get 2.2.2.3' is reporting dev eth1 instead of dev lo like before...the PREROUTING DNAT rule still doesn't work though...nor did any the INPUT or OUTPUT rules
+T 1394486207 18<Jefe18>	I've lost track of what you're doing.  Can you pastebin iptables-save, ip a, and ip r for us?
+T 1394486233 18<Jefe18>	Also, your keepalived.conf might not be bad, as well.
+T 1394486256 18<dead18>	ok
+T 1394486481 23*	mrfraggs (~mrfraggs@dslb-178-007-114-240.pools.arcor-ip.net23) has joined
+T 1394486542 24*	nehaljwani (~nehaljwan@14.139.82.624) has left ("Leaving")
+T 1394486664 23*	mrfraggs_ (~mrfraggs@dslb-178-007-114-240.pools.arcor-ip.net23) has joined
+T 1394486783 18<dead18>	Jefe: http://sprunge.us/GVHQ
+T 1394486791 18<dead18>	didn't bother masking out the IPs...you're right, who cares.
+T 1394486795 24*	mrfraggs has quit (Ping timeout: 244 seconds)
+T 1394486838 24*	jpastore has quit (Ping timeout: 245 seconds)
+T 1394486928 24*	mrfraggs_ has quit (Ping timeout: 240 seconds)
+T 1394486938 18<Jefe18>	So your VIP only has one real server?
+T 1394487009 18<Jefe18>	Do you perhaps have a triangle routing problem?
+T 1394487101 24*	[diecast] has quit ()
+T 1394487291 23*	gm152 (~ridout@unaffiliated/ridout23) has joined
+T 1394487961 18<kerframil18>	dead: regarding the output of ip route get, eth1 doesn't have any secondary addresses whereas it did before. if the virtual server addresses have now gone, that would explain it.
+T 1394488447 23*	kkux (~kkux@93-143-154-13.adsl.net.t-com.hr23) has joined
+T 1394489199 24*	evilman_home has quit (Read error: Connection reset by peer)
+T 1394489428 24*	[arx] has quit (Changing host)
+T 1394489428 23*	[arx] (~arx@unaffiliated/llua23) has joined
+T 1394490102 24*	githogori has quit (Ping timeout: 252 seconds)
+T 1394490274 23*	mrfraggs (~mrfraggs@dslb-178-007-114-240.pools.arcor-ip.net23) has joined
+T 1394490333 23*	githogori (~githogori@c-69-181-109-63.hsd1.ca.comcast.net23) has joined
+T 1394490449 24*	FreezingCold has quit (Ping timeout: 240 seconds)
+T 1394490485 23*	Gr33kR3volV3R (~zeus@178-176-53.dynamic.cyta.gr23) has joined
+T 1394490502 24*	eeanm has quit (Ping timeout: 264 seconds)
+T 1394490551 24*	aah has quit (Quit: so very tired..)
+T 1394490585 24*	YeTr2 has quit (Remote host closed the connection)
+T 1394490599 24*	mrfraggs has quit (Ping timeout: 240 seconds)
+T 1394490680 23*	YeTr2 (~YeTr2@pool-173-78-27-138.tampfl.fios.verizon.net23) has joined
+T 1394490720 23*	[diecast] (~diecast@unaffiliated/diecast/x-482195223) has joined
+T 1394490971 24*	githogori has quit (Ping timeout: 265 seconds)
+T 1394491924 24*	smica has quit (Quit: Távozom)
+T 1394492986 24*	[diecast] has quit (Ping timeout: 264 seconds)
+T 1394493233 23*	FreezingCold (~FreezingC@135.0.41.1423) has joined
+T 1394493554 23*	ndelaespada (~portmap@unaffiliated/ndelaespada23) has joined
+T 1394493817 23*	mrfraggs (~mrfraggs@dslb-178-007-114-240.pools.arcor-ip.net23) has joined
+T 1394494142 24*	mrfraggs has quit (Ping timeout: 244 seconds)
+T 1394494885 23*	W0rmDr1nk (~WormDrink@unaffiliated/wormdrink23) has joined
+T 1394495098 24*	WormDrink has quit (Ping timeout: 240 seconds)
+T 1394495100 23*	twb (~twb@203.7.155.7223) has joined
+T 1394495541 24*	DiabloHorn has quit (Quit: Leaving)
+T 1394495583 24*	28lysodoge is now known as 18shet
+T 1394496048 24*	darkbasic_ has quit (Ping timeout: 240 seconds)
+T 1394496151 23*	darkbasic (~quassel@niko.linuxsystems.it23) has joined
+T 1394496829 24*	diegows has quit (Ping timeout: 265 seconds)
+T 1394497416 23*	mrfraggs (~mrfraggs@dslb-178-007-114-240.pools.arcor-ip.net23) has joined
+T 1394497757 24*	mrfraggs has quit (Ping timeout: 265 seconds)
+T 1394497958 23*	[diecast] (~diecast@unaffiliated/diecast/x-482195223) has joined
+T 1394498495 24*	bodom has quit (Remote host closed the connection)
+T 1394498602 24*	FreezingCold has quit (Remote host closed the connection)
+T 1394498711 23*	FreezingCold (~FreezingC@135.0.41.1423) has joined
+T 1394499504 23*	githogori (~githogori@c-69-181-109-63.hsd1.ca.comcast.net23) has joined
+T 1394499586 24*	githogori has quit (Max SendQ exceeded)
+T 1394499635 24*	byte48 has quit (Ping timeout: 252 seconds)
+T 1394501017 23*	mrfraggs (~mrfraggs@dslb-178-007-114-240.pools.arcor-ip.net23) has joined
+T 1394501382 24*	mrfraggs has quit (Ping timeout: 265 seconds)
+T 1394501553 23*	githogori (~githogori@c-69-181-109-63.hsd1.ca.comcast.net23) has joined
+T 1394501685 24*	githogori has quit (Max SendQ exceeded)
+T 1394501743 23*	githogori (~githogori@c-69-181-109-63.hsd1.ca.comcast.net23) has joined
+T 1394501900 24*	githogori has quit (Max SendQ exceeded)
+T 1394501942 23*	githogori (~githogori@c-69-181-109-63.hsd1.ca.comcast.net23) has joined
+T 1394502061 24*	githogori has quit (Max SendQ exceeded)
+T 1394502089 23*	githogori (~githogori@c-69-181-109-63.hsd1.ca.comcast.net23) has joined
+T 1394502265 24*	githogori has quit (Max SendQ exceeded)
+T 1394502309 23*	githogori (~githogori@c-69-181-109-63.hsd1.ca.comcast.net23) has joined
+T 1394502520 24*	githogori has quit (Max SendQ exceeded)
+T 1394502648 24*	[diecast] has quit ()
+T 1394503345 24*	evcz has quit (Read error: Connection reset by peer)
+T 1394503364 23*	WormDrink (~wormdrink@unaffiliated/wormdrink23) has joined
+T 1394503366 23*	meeeeeeee (~evcz@host114-110-static.12-87-b.business.telecomitalia.it23) has joined
+T 1394503367 23*	nitdega_ (nitdega@2602:306:2423:3b81:7c62:6425:18c8:931923) has joined
+T 1394503367 24*	meeeeeeee has quit (Changing host)
+T 1394503367 23*	meeeeeeee (~evcz@unaffiliated/evolutioncrazy23) has joined
+T 1394503398 23*	[diecast] (~diecast@unaffiliated/diecast/x-482195223) has joined
+T 1394503413 24*	nitdega has quit (Ping timeout: 265 seconds)
+T 1394503566 23*	githogori (~githogori@c-69-181-109-63.hsd1.ca.comcast.net23) has joined
+T 1394503690 23*	brucelee_ (~peter@107-217-185-85.lightspeed.sntcca.sbcglobal.net23) has joined
+T 1394504279 24*	githogori has quit (Ping timeout: 244 seconds)
+T 1394504497 23*	githogori (~githogori@c-69-181-109-63.hsd1.ca.comcast.net23) has joined
+T 1394504616 23*	mrfraggs (~mrfraggs@dslb-178-007-114-240.pools.arcor-ip.net23) has joined
+T 1394504685 24*	nitdega_ has quit (Quit: Leaving)
+T 1394504702 23*	nitdega (nitdega@2602:306:2423:3b81:7c62:6425:18c8:931923) has joined
+T 1394504949 24*	githogori has quit (Max SendQ exceeded)
+T 1394504974 24*	mrfraggs has quit (Ping timeout: 264 seconds)
+T 1394505078 24*	datacrusher has quit (Quit: Saindo)
+T 1394505264 24*	darkbasic has quit (Remote host closed the connection)
+T 1394505298 24*	JackWinter has quit (Read error: Operation timed out)
+T 1394505307 23*	darkbasic (~quassel@niko.linuxsystems.it23) has joined
+T 1394505322 23*	githogori (~githogori@c-69-181-109-63.hsd1.ca.comcast.net23) has joined
+T 1394505482 24*	githogori has quit (Max SendQ exceeded)
+T 1394505814 23*	githogori (~githogori@c-69-181-109-63.hsd1.ca.comcast.net23) has joined
+T 1394506036 24*	githogori has quit (Max SendQ exceeded)
+T 1394506145 23*	JackWinter (~jack@vodsl-10810.vo.lu23) has joined
+T 1394506167 23*	githogori (~githogori@c-69-181-109-63.hsd1.ca.comcast.net23) has joined
+T 1394506488 24*	githogori has quit (Ping timeout: 240 seconds)
+T 1394506666 23*	matrix_ (~matrix@117.193.41.21823) has joined
+T 1394506671 23*	githogori (~githogori@c-69-181-109-63.hsd1.ca.comcast.net23) has joined
+T 1394506857 24*	githogori has quit (Excess Flood)
+T 1394506881 23*	githogori (~githogori@c-69-181-109-63.hsd1.ca.comcast.net23) has joined
+T 1394507184 24*	githogori has quit (Ping timeout: 240 seconds)
+T 1394507206 24*	oleo has quit (Ping timeout: 264 seconds)
+T 1394507311 23*	githogori (~githogori@c-69-181-109-63.hsd1.ca.comcast.net23) has joined
+T 1394507362 24*	slobber has quit (Read error: Operation timed out)
+T 1394507514 23*	bigclouds (~bigclouds@58.56.27.13023) has joined
+T 1394507638 24*	githogori has quit (Ping timeout: 264 seconds)
+T 1394507836 23*	slobber (~linkxs@unaffiliated/linkxs23) has joined
+T 1394507889 23*	tzudot (~user@223.237.55.7023) has joined
+T 1394507953 23*	oleo (~oleo@xdsl-84-44-209-46.netcologne.de23) has joined
+T 1394508111 24*	oleo has quit (Excess Flood)
+T 1394508178 23*	oleo (~oleo@xdsl-84-44-209-46.netcologne.de23) has joined
+T 1394508219 23*	mrfraggs (~mrfraggs@dslb-178-007-114-240.pools.arcor-ip.net23) has joined
+T 1394508376 23*	githogori (~githogori@c-69-181-109-63.hsd1.ca.comcast.net23) has joined
+T 1394508528 24*	mrfraggs has quit (Ping timeout: 240 seconds)
+T 1394508580 18<bigclouds18>	hi
+T 1394508955 24*	RageRiot has quit (Ping timeout: 264 seconds)
+T 1394509281 24*	githogori has quit (Ping timeout: 252 seconds)
+T 1394509319 23*	githogori (~githogori@c-69-181-109-63.hsd1.ca.comcast.net23) has joined
+T 1394509413 24*	githogori has quit (Max SendQ exceeded)
+T 1394509456 23*	githogori (~githogori@c-69-181-109-63.hsd1.ca.comcast.net23) has joined
+T 1394509778 24*	githogori has quit (Ping timeout: 240 seconds)
+T 1394509938 23*	Xenmen (~Xenmen@108.180.141.4823) has joined
+T 1394509967 24*	[diecast] has quit ()
+T 1394510088 24*	tzudot has quit (Ping timeout: 240 seconds)
+T 1394510167 23*	eroll (~erol@190.236.230.2023) has joined
+T 1394510361 24*	matrix_ has quit (Remote host closed the connection)
+T 1394510434 23*	sth0R (~shawn@203.192.156.923) has joined
+T 1394510935 24*	takamichi has quit (Quit: Computer has gone to sleep.)
+T 1394511405 24*	kerframil has quit (Quit: Leaving)
+T 1394511817 23*	mrfraggs (~mrfraggs@dslb-178-007-114-240.pools.arcor-ip.net23) has joined
+T 1394511868 23*	githogori (~githogori@c-69-181-109-63.hsd1.ca.comcast.net23) has joined
+T 1394512138 24*	githogori has quit (Ping timeout: 240 seconds)
+T 1394512158 24*	mrfraggs has quit (Ping timeout: 240 seconds)
+T 1394512582 24*	yokel has quit (Read error: Operation timed out)
+T 1394512631 23*	yokel (~yokel@unaffiliated/contempt23) has joined
+T 1394512938 24*	yokel has quit (Ping timeout: 240 seconds)
+T 1394513045 23*	yokel (~yokel@unaffiliated/contempt23) has joined
+T 1394513398 24*	yokel has quit (Ping timeout: 264 seconds)
+T 1394513487 23*	yokel (~yokel@unaffiliated/contempt23) has joined
+T 1394513574 24*	eroll has quit (Remote host closed the connection)
+T 1394513587 23*	githogori (~githogori@c-69-181-109-63.hsd1.ca.comcast.net23) has joined
+T 1394513653 24*	githogori has quit (Max SendQ exceeded)
+T 1394513827 24*	yokel has quit (Ping timeout: 244 seconds)
+T 1394513873 23*	githogori (~githogori@c-69-181-109-63.hsd1.ca.comcast.net23) has joined
+T 1394513912 23*	yokel (~yokel@198.98.53.11823) has joined
+T 1394513912 24*	yokel has quit (Changing host)
+T 1394513912 23*	yokel (~yokel@unaffiliated/contempt23) has joined
+T 1394514172 24*	githogori has quit (Ping timeout: 265 seconds)
+T 1394514190 24*	FreezingCold has quit (Ping timeout: 264 seconds)
+T 1394514355 24*	yokel has quit (Read error: Connection reset by peer)
+T 1394514370 23*	yokel (~yokel@unaffiliated/contempt23) has joined
+T 1394514424 23*	rupesh (rupesh@nat/redhat/x-ygharcxnvjkemmcr23) has joined
+T 1394514678 24*	yokel has quit (Ping timeout: 240 seconds)
+T 1394514770 23*	yokel (~yokel@unaffiliated/contempt23) has joined
+T 1394514771 23*	githogori (~githogori@c-69-181-109-63.hsd1.ca.comcast.net23) has joined
+T 1394515124 24*	yokel has quit (Ping timeout: 252 seconds)
+T 1394515185 24*	githogori has quit (Max SendQ exceeded)
+T 1394515209 23*	githogori (~githogori@c-69-181-109-63.hsd1.ca.comcast.net23) has joined
+T 1394515238 23*	jijz (jkalliya@nat/redhat/x-xrkxqlucryiaafyp23) has joined
+T 1394515250 23*	yokel (~yokel@unaffiliated/contempt23) has joined
+T 1394515295 24*	githogori has quit (Read error: Connection reset by peer)
+T 1394515346 23*	githogori (~githogori@adsl-66-123-22-146.dsl.snfc21.pacbell.net23) has joined
+T 1394515418 23*	mrfraggs (~mrfraggs@dslb-094-216-052-241.pools.arcor-ip.net23) has joined
+T 1394515608 24*	yokel has quit (Ping timeout: 240 seconds)
+T 1394515612 23*	takamichi (~takamichi@c107-107.i07-27.onvol.net23) has joined
+T 1394515754 23*	yokel (~yokel@unaffiliated/contempt23) has joined
+T 1394515784 24*	mrfraggs has quit (Ping timeout: 252 seconds)
+T 1394516115 24*	yokel has quit (Ping timeout: 265 seconds)
+T 1394516177 23*	yokel (~yokel@unaffiliated/contempt23) has joined
+T 1394516489 24*	yokel has quit (Ping timeout: 240 seconds)
+T 1394516497 24*	caveat- has quit (Ping timeout: 245 seconds)
+T 1394516576 23*	yokel (~yokel@unaffiliated/contempt23) has joined
+T 1394516702 23*	caveat- (hoax@2a01:4f8:191:9111:30::1023) has joined
+T 1394516970 24*	yokel has quit (Read error: Connection reset by peer)
+T 1394516984 23*	yokel (~yokel@unaffiliated/contempt23) has joined
+T 1394517361 24*	yokel has quit (Ping timeout: 244 seconds)
+T 1394517415 23*	yokel (~yokel@unaffiliated/contempt23) has joined
+T 1394517719 24*	yokel has quit (Ping timeout: 240 seconds)
+T 1394517867 23*	yokel (~yokel@unaffiliated/contempt23) has joined
+T 1394517972 24*	oleo has quit (Remote host closed the connection)
+T 1394518152 24*	yokel has quit (Ping timeout: 240 seconds)
+T 1394518245 23*	yokel (~yokel@unaffiliated/contempt23) has joined
+T 1394518601 24*	Xenmen has quit (Ping timeout: 244 seconds)
+T 1394518612 23*	Xenmen (~Xenmen@108.180.141.4823) has joined
+T 1394519016 23*	mrfraggs (~mrfraggs@dslb-094-216-052-241.pools.arcor-ip.net23) has joined
+T 1394519369 24*	mrfraggs has quit (Ping timeout: 264 seconds)
+T 1394519371 24*	kkux has quit (Remote host closed the connection)
+T 1394519624 24*	brucelee_ has quit (Ping timeout: 244 seconds)
+T 1394520065 23*	mrfraggs (~mrfraggs@dslb-094-216-052-241.pools.arcor-ip.net23) has joined
+T 1394520403 23*	brucelee_ (~peter@c-67-170-235-18.hsd1.ca.comcast.net23) has joined
+T 1394520744 24*	SirRobin has quit (Ping timeout: 240 seconds)
+T 1394521169 24*	mrfraggs has quit (Remote host closed the connection)
+T 1394521864 24*	Xenmen has quit (Quit: No calling card for the unsung bard)
+T 1394522039 24*	brucelee_ has quit (Ping timeout: 240 seconds)
+T 1394522879 23*	Xenmen (~Xenmen@108.180.141.4823) has joined
+T 1394523478 24*	nn0101 has quit (Ping timeout: 264 seconds)
+T 1394523698 23*	janda (~jan@ppp-93-104-138-76.dynamic.mnet-online.de23) has joined
+T 1394523776 23*	SirRobin (~wjc@2a01:e35:2ef5:22c0:6267:20ff:fef0:4a023) has joined
+T 1394524171 23*	jrahmy (~jrahmy@50.23.115.11323) has joined
+T 1394524882 19*	Now talking on 22#Netfilter
+T 1394524882 22*	Topic for 22#Netfilter is: Netfilter, Xtables/iptables/nftables, Linux Network setup in general | READ http://inai.de/links/iptables/ http://goo.gl/wzsul http://goo.gl/zi5V | Distro Matrix http://goo.gl/SRRk5
+T 1394524882 22*	Topic for 22#Netfilter set by 26rob0 (24Wed Jan 22 14:10:03 2014)
+T 1394525049 23*	jiku (~jiku@182.71.136.24223) has joined
+T 1394525149 23*	brucelee_ (~peter@c-98-207-99-84.hsd1.ca.comcast.net23) has joined
+T 1394525372 23*	mrfraggs (~mrfraggs@h-213.61.79.222.host.de.colt.net23) has joined
+T 1394525459 24*	brucelee_ has quit (Ping timeout: 240 seconds)
+T 1394525709 23*	onlty (~oaktree@124.50.157.1323) has joined
+T 1394527105 23*	brucelee_ (~peter@c-98-207-99-84.hsd1.ca.comcast.net23) has joined
+T 1394527223 23*	smica (~smica@catv-89-135-152-129.catv.broadband.hu23) has joined
+T 1394527634 23*	vytas (~vytas@82-69-211-1.dsl.in-addr.zen.co.uk23) has joined
+T 1394527776 24*	Xenmen has quit (Ping timeout: 240 seconds)
+T 1394528158 23*	nitdega_ (nitdega@2602:306:2423:3b81:7c62:6425:18c8:931923) has joined
+T 1394528161 23*	smica_ (~smica@catv-89-135-152-129.catv.broadband.hu23) has joined
+T 1394528353 24*	smica has quit (Ping timeout: 265 seconds)
+T 1394528382 24*	nitdega has quit (Ping timeout: 265 seconds)
+T 1394528675 23*	aborrero (~aborrero@deathstar.cica.es23) has joined
+T 1394528683 18<aborrero18>	hi there!
+T 1394528898 24*	WormDrink has quit (Ping timeout: 240 seconds)
+T 1394529002 24*	jrahmy has quit (Quit: (Goodbye))
+T 1394529018 23*	David-- (none@host81-149-195-183.in-addr.btopenworld.com23) has joined
+T 1394529019 24*	David-- has quit (Changing host)
+T 1394529019 23*	David-- (none@pdpc/supporter/active/david--/x-235753923) has joined
+T 1394529547 24*	GoGi has quit (Ping timeout: 245 seconds)
+T 1394529666 23*	GoGi (~gogi@hyde.gogi.eu23) has joined
+T 1394530540 24*	brucelee_ has quit (Ping timeout: 252 seconds)
+T 1394531087 23*	sassyn (~sassyn@93-172-150-215.bb.netvision.net.il23) has joined
+T 1394531114 18<sassyn18>	hi Regit
+T 1394531124 18<sassyn18>	good morning/afternoon/night
+T 1394531129 23*	noisebleed (~quassel@lula.inescn.pt23) has joined
+T 1394531129 24*	noisebleed has quit (Changing host)
+T 1394531129 23*	noisebleed (~quassel@gentoo/contributor/noisebleed23) has joined
+T 1394531378 23*	krypto (0fdbc945@gateway/web/freenode/ip.15.219.201.6923) has joined
+T 1394531532 24*	darkbasic has quit (Quit: No Ping reply in 180 seconds.)
+T 1394531550 23*	darkbasic (~quassel@niko.linuxsystems.it23) has joined
+T 1394531551 24*	28shet is now known as 18lysobit
+T 1394531578 24*	sth0R has quit (Ping timeout: 240 seconds)
+T 1394531601 24*	sassyn has quit (Ping timeout: 265 seconds)
+T 1394531696 24*	meeeeeeee has quit (Read error: Connection reset by peer)
+T 1394531726 23*	WormDrink (~wormdrink@unaffiliated/wormdrink23) has joined
+T 1394531728 23*	evcz (~evcz@unaffiliated/evolutioncrazy23) has joined
+T 1394532229 23*	eroll (~erol@190.236.230.2023) has joined
+T 1394532302 23*	ringaring (~ringarose@cable-78.29.241.186.coditel.net23) has joined
+T 1394532751 24*	W0rmDr1nk has quit (Read error: Operation timed out)
+T 1394533175 23*	sassyn (~sassyn@bzq-82-80-180-157.static.bezeqint.net23) has joined
+T 1394533401 24*	JackWinter has quit (Ping timeout: 240 seconds)
+T 1394533497 23*	nn0101 (~nn0101@unaffiliated/nn010123) has joined
+T 1394533598 23*	JackWinter (~jack@vodsl-10810.vo.lu23) has joined
+T 1394533790 23*	HexaByte (~HexaByte@cns.isg.si23) has joined
+T 1394534204 24*	twb has quit (Ping timeout: 252 seconds)
+T 1394535052 23*	snatan (~sassyn@bzq-82-80-180-157.static.bezeqint.net23) has joined
+T 1394535078 23*	matteo (~matteo@openwrt/developer/matteo23) has joined
+T 1394535248 24*	sassyn has quit (Ping timeout: 244 seconds)
+T 1394535291 24*	mrfraggs has quit (Remote host closed the connection)
+T 1394535327 23*	mrfraggs (~mrfraggs@213.61.79.22223) has joined
+T 1394535611 24*	nitdega_ has quit (Quit: Leaving)
+T 1394535614 24*	evdo- has quit (Quit: EliteBNC - http://elitebnc.org (Auto-Removal: idle account/not being used))
+T 1394535628 23*	nitdega (nitdega@2602:306:2423:3b81:7c62:6425:18c8:931923) has joined
+T 1394535864 24*	aegis has quit (Ping timeout: 265 seconds)
+T 1394535924 23*	sassyn (~sassyn@bzq-82-80-180-157.static.bezeqint.net23) has joined
+T 1394535999 23*	nehaljwani (~nehaljwan@14.139.82.623) has joined
+T 1394536049 24*	snatan has quit (Ping timeout: 240 seconds)
+T 1394537213 23*	aegis (~aegis@184.75.223.20223) has joined
+T 1394538269 23*	diegows (~diegows@190.190.5.23823) has joined
+T 1394538657 24*	gm152 has quit (Quit: WeeChat 0.4.1)
+T 1394538742 23*	kkux (~kkux@93-143-174-236.adsl.net.t-com.hr23) has joined
+T 1394539692 24*	ircuser-1 has quit (Ping timeout: 240 seconds)
+T 1394539767 24*	krypto has quit (Ping timeout: 245 seconds)
+T 1394540746 23*	[diecast] (~diecast@unaffiliated/diecast/x-482195223) has joined
+T 1394540753 24*	[diecast] has quit (Max SendQ exceeded)
+T 1394541119 23*	JackWinter_ (~jack@vodsl-10810.vo.lu23) has joined
+T 1394541138 24*	JackWinter has quit (Ping timeout: 244 seconds)
+T 1394541329 23*	FreezingCold (~FreezingC@205.211.54.16223) has joined
+T 1394541665 24*	smica_ has quit (Quit: Távozom)
+T 1394541924 24*	David-- has quit (Quit: Going, Going, Gone...)
+T 1394542512 23*	ircuser-1 (~ircuser-1@35.222-62-69.ftth.swbr.surewest.net23) has joined
+T 1394542817 18<sassyn18>	ping Regit
+T 1394542852 18<onlty18>	ping sassyn
+T 1394542861 18<sassyn18>	HI
+T 1394542863 18<sassyn18>	what's up?
+T 1394542874 18<onlty18>	wlan0 UP BROADCAST RUNNING MULTICASE
+T 1394542877 18<onlty18>	*T
+T 1394542887 18<sassyn18>	hope u are good,
+T 1394542897 18<onlty18>	oh sorry
+T 1394542898 18<onlty18>	D:
+T 1394542907 18<sassyn18>	do u have any idea when ulog 2.0.4 will be otu
+T 1394542909 18<sassyn18>	out/8
+T 1394542910 18<sassyn18>	out*
+T 1394542919 24*	SirRobin has quit (Quit: Konversation terminated!)
+T 1394542932 18<sassyn18>	would like ot try the json output
+T 1394542939 18<onlty18>	I think I'm so crazy that I understand 'what's up' as 'what interface is up?'
+T 1394542945 18<onlty18>	DD:
+T 1394542952 18<Regit18>	sassyn: hi
+T 1394542953 18<sassyn18>	:-)
+T 1394542955 18<Regit18>	soon
+T 1394542964 18<sassyn18>	Hi Regit :-)
+T 1394542971 18<sassyn18>	Can I help?
+T 1394542980 18<Regit18>	maybe this week
+T 1394542992 18<sassyn18>	i just clone the git code and build the debian/ubuntu pkg
+T 1394542996 18<Regit18>	for sure next one
+T 1394543010 18<sassyn18>	to include the latest verion
+T 1394543029 18<sassyn18>	It is amazing code ! i must say
+T 1394543035 18<sassyn18>	and the implemetation is great!
+T 1394543052 18<nehaljwani18>	Suppose I want all the packets generated on my machine with source port 22 to go through IP X instead of default routes, what rule should I write in iptables?
+T 1394543085 18<sassyn18>	Regit, let me know if I can help somehow
+T 1394543164 18<Regit18>	sassyn: I would love some stress tests of lastest git
+T 1394543168 18<Regit18>	to check that it is ok
+T 1394543180 18<sassyn18>	I run it in the last 2 week
+T 1394543183 18<sassyn18>	works like a charm!
+T 1394543198 18<Regit18>	sassyn: same here
+T 1394543205 18<sassyn18>	there was some fixes done 4 days ago
+T 1394543220 18<Regit18>	did you run with latest change : https://home.regit.org/2014/03/suricata-ulogd-splunk-logstash/
+T 1394543223 18<sassyn18>	that why I build a pbuilder to make the all process go without go manaual
+T 1394543233 18<sassyn18>	not yet
+T 1394543238 18<sassyn18>	but I saw that
+T 1394543262 18<sassyn18>	and u are a magician
+T 1394543262 18<Regit18>	that's great if yhou have deb package
+T 1394543272 18<Regit18>	sassyn: not really but thanks
+T 1394543274 18<sassyn18>	yep, I also make it work from verion 10.04
+T 1394543319 18<Regit18>	did you publish them somewhere ?
+T 1394543814 24*	HexaByte has quit (Quit: HexaByte)
+T 1394544271 23*	FinboySlick (~shark@74.117.40.1023) has joined
+T 1394544704 24*	nehaljwani (~nehaljwan@14.139.82.624) has left ("Leaving")
+T 1394544908 23*	Repox (~Dan@89.221.173.15423) has joined
+T 1394545135 18<Repox18>	Hello. I just want to make sure that I'm not messing this up: http://pastie.org/8907317 - What I'm trying to achieve is to allow IP 123.123.123.123 to connect to port 9200 which then gets forwarded to an LXC with the ip 10.0.3.70 on port 9200. Everyone else is now allowed to connect.
+T 1394545155 18<Repox18>	I'd be happy if someone could confirm that this is what is going to happen.
+T 1394545229 24*	jiku has quit (Ping timeout: 240 seconds)
+T 1394545522 24*	darkbasic has quit (Ping timeout: 245 seconds)
+T 1394545626 23*	darkbasic (~quassel@niko.linuxsystems.it23) has joined
+T 1394545745 24*	ValicekB has quit ()
+T 1394545788 24*	Gr33kR3volV3R has quit (Quit: leaving)
+T 1394546127 23*	arjun_ (~arjun@122.165.225.8523) has joined
+T 1394546133 24*	onlty has quit (Quit: Quit)
+T 1394546142 23*	kerframil (~kerframil@gentoo/user/kerframil23) has joined
+T 1394546284 19*	Now talking on 22#Netfilter
+T 1394546284 22*	Topic for 22#Netfilter is: Netfilter, Xtables/iptables/nftables, Linux Network setup in general | READ http://inai.de/links/iptables/ http://goo.gl/wzsul http://goo.gl/zi5V | Distro Matrix http://goo.gl/SRRk5
+T 1394546284 22*	Topic for 22#Netfilter set by 26rob0 (24Wed Jan 22 14:10:03 2014)
+T 1394546293 18<masscrx18>	could anybody reccomend some packet generator for linux? Feauters which i need are: set src address, how many packets per second, and how long to send packets
+T 1394546337 18<masscrx18>	I'm so tired googling, i test hping3, scapy, nemesis and anothers, and none hasnt all this options
+T 1394546777 24*	jijz has quit (Quit: Leaving)

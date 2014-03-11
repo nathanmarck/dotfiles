@@ -1,0 +1,12 @@
+T 1393777818 19*	Now talking on 22##c#
+T 1393777818 22*	26morgan.freenode.net sets mode 24+n on 22##c#
+T 1393777818 22*	26morgan.freenode.net sets mode 24+s on 22##c#
+T 1393777818 22*	26services. removes channel operator status from 18Thonneve
+T 1393777818 29*	*** Notice -- TS for ##c# changed from 1393777726 to 1344007659
+T 1393777818 22*	26services. sets mode 24+c on 22##c#
+T 1393777818 22*	26services. sets mode 24+t on 22##c#
+T 1393777818 22*	26services. sets mode 24-s on 22##c#
+T 1393777818 23*	ChanServ (ChanServ@services.23) has joined
+T 1393777818 22*	26services. gives channel operator status to 18ChanServ
+T 1393777818 22*	Channel 22##c# modes: 24+cnt
+T 1393777818 22*	Channel 22##c# created on 24Sun Mar  2 16:28:46 2014
